@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133329" id="root" date="1996-10-22" xml:lang="en">
+<title>COLOMBIA: Bogota Metro work to start in 1998, Samper says.</title>
+<headline>Bogota Metro work to start in 1998, Samper says.</headline>
+<dateline>BOGOTA 1996-10-22</dateline>
+<text>
+<p>Colombian President Ernesto Samper, who is on an official visit to China, was quoted Tuesday as saying that work on the construction of a $2 billion Metro system would begin in Bogota in 1998.</p>
+<p>The RCN radio network said Samper told reporters traveling with him that a $135 million investment by Beijing would help get the project off the ground.</p>
+<p>Samper said the first stretch of the metropolitan train network would be a line from the town of Soacha, a short distance southwest of Bogota, followed by another heading west to the town of Facatativa and a third serving the capital's northern suburbs, RCN radio said.</p>
+<p>Colombia's first Metro opened last November in the northwestern industrial city of Medellin. The 12-mile (30 km) network, consisting of two above-ground lines, took 12 years to build at a cost of $1.8 billion, twice the original estimate.</p>
+<p>Transport experts say a Metro in Bogota would help relieve the capital's chronic traffic problems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I5020028">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I72101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

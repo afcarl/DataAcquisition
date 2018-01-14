@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133394" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: Ekco nine-month net profit vs loss.</title>
+<headline>Ekco nine-month net profit vs loss.</headline>
+<dateline>MEXICO CITY 1996-10-22</dateline>
+<text>
+<p>1996			  1995</p>
+<p>	Oper Income	14.34 million	loss  5.80 million</p>
+<p>	Net		  10.33 million	loss  19.62 million</p>
+<p>	Revs		 139.41 million	     137.79 million</p>
+<p>	  NOTE: All figures in Mexican pesos.</p>
+<p>	  Full company name is Ekco SA de CV</p>
+<p>--Mexico City newsroom, (525) 728-9507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

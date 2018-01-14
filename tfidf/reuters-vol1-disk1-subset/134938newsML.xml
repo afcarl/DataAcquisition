@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134938" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRIA: Austria cenbank sees no need for rate changes.</title>
+<headline>Austria cenbank sees no need for rate changes.</headline>
+<dateline>VIENNA 1996-10-22</dateline>
+<text>
+<p>Austrian central bank director Adolf Wala said on Tuesday there was no need for changes in key interest rates after the release of higher-than-expected inflation data on Monday.</p>
+<p>&quot;There is no need for action,&quot; Wala was quoted by Austrian news agency APA.  </p>
+<p>Austria's year-on-year inflation rose to a one-year peak of two percent in September, up from 1.8 percent in August.</p>
+<p>The release prompted Wifo, the leading economic research institute, to raise its full-year inflation forecast to between 1.8 and 1.9 percent, from an original estimate of 1.7 percent.</p>
+<p>Austria's statistics office blamed the increase in inflation on the recent rise in oil prices, as well as higher rent and fruit prices.</p>
+<p>Austria's discount rate stands at 2.5 percent, while its securities repurchase rate is at three percent. The Lombard emergency borrowing rate is at 4.75 percent, and the Gomex money market rate at 3.4 percent. -- Knut Engelmann, Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

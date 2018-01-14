@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28519" id="root" date="1996-09-03" xml:lang="en">
+<title>ITALY: Olivetti confirms De Benedetti resigning.</title>
+<headline>Olivetti confirms De Benedetti resigning.</headline>
+<dateline>MILAN 1996-09-03</dateline>
+<text>
+<p>Italian information technology group Olivetti confirmed on Tuesday that Carlo De Benedetti was stepping down as group chairman and board member.</p>
+<p>Olivetti said in a statement the board had nominated board member Antoni Tesone as chairman and proposed the nomination of an executive committee to include Tesone, managing director Francesco Caio and board members Rodolfo De Benedetti and Franco Girard.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

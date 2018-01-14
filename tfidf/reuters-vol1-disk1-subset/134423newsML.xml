@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134423" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Medaphis to restate 1995 loss larger.</title>
+<headline>Medaphis to restate 1995 loss larger.</headline>
+<dateline>ATLANTA 1996-10-22</dateline>
+<text>
+<p>Medaphis Corp said Tuesday it plans to restate its results for the year and three months ended December 21, 1995, leading to a net loss for the year of $8.5 million compared with the previously reported net loss of $3.4 million.</p>
+<p>Restated results for the quarter ended December 31, 1995, will reflect a net loss of $1.1 million, as compared with previously reported net income of $4.0 million, the company said.  </p>
+<p>The company said it was restating the results largely because of a license agreement entered into by Imonics in December 1995, and unauthorized correspondence discovered in connection with the Imonics reorganization which created a contingency upon license fees payable under the agreement.</p>
+<p>&quot;The reorganization of Imonics has been difficult, especially the discovery of the unauthorized correspondence which led us to the conclusion to restate our 1995 results,&quot; company Chief Executive Randolph Brown said in a statement.</p>
+<p>The company did not immediately return a telephone call.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33024" id="root" date="1996-09-04" xml:lang="en">
+<title>TUNISIA: Tunisia-Emirates Bank first half net.</title>
+<headline>Tunisia-Emirates Bank first half net.</headline>
+<dateline>TUNIS 1996-09-04</dateline>
+<text>
+<p>Tunisian-Emirates Investment Bank on Wednesday said it made a 1.48 million dinars net profit during the first half of 1996.</p>
+<p>Figures for the same period last year were not available for comparison.</p>
+<p>BTEI's net profits in 1995 amounted to 2.55 million dinars down from 4.59 million dinars in 1994.</p>
+<p>The bank's capital was raised last year through a public offering, to 90 million dinars from 50 million, and BTEI has since been listed on the Tunis Stock Exchange.</p>
+<p>The Tunis-based BTEI is a joint venture between United Arab Emirates public funds and the Tunisian state.  ($=0.96 dinar)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

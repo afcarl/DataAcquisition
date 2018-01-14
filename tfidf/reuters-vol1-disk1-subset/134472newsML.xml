@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134472" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Apple's Claris unit Q4 revs $56.6 mln.</title>
+<headline>Apple's Claris unit Q4 revs $56.6 mln.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-22</dateline>
+<text>
+<p>Apple Computer Inc's software subsidiary Claris Corp said on Tuesday its fiscal fourth quarter revenues were $56.6 million, and revenues for the full year rose to $236.2 million from $166.6 million in fiscal 1995.</p>
+<p>Claris cited strong sales of Apple-brand software for the rise in annual revenues.</p>
+<p>It said other products, such as Claris Home Page, software for creating World Wide Web pages, first shipped in August and had strong fourth quarter sales.  </p>
+<p>New Japanese versions of ClarisWorks and ClarisImpact graphics software shipped in the fourth quarter and also added to sales, it said.</p>
+<p>Claris did not provide a figure for 1995 fourth quarter revenues.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

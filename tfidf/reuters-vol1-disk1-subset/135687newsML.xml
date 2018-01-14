@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135687" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: ATHLETICS-GUNNELL MAY CONTINUE FOR TWO MORE YEARS.</title>
+<headline>ATHLETICS-GUNNELL MAY CONTINUE FOR TWO MORE YEARS.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>Former Olympic 400 metres hurdles champion Sally Gunnell said on Wednesday she may keep competing until 1998, taking her up to the Commonwealth Games in Kuala Lumpur.</p>
+<p>The 30-year-old Briton, who almost quit the sport after limping out of the Atlanta Olympics with an ankle injury, said she would definitely make a bid to regain the world title in Athens next August.</p>
+<p>&quot;The next few months will tell me how things are progressing,&quot; she said. &quot;If I get to the new year and I'm fit and hurdling, then I'll gear up for another summer on the track.</p>
+<p>&quot;And if that goes well, who knows? I might go on for another year after that.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

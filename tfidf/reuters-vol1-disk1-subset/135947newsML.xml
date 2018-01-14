@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135947" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Robert Mondavi Q1 net rises.</title>
+<headline>Robert Mondavi Q1 net rises.</headline>
+<dateline>OAKVILLE, Calif. 1996-10-23</dateline>
+<text>
+<p>September 30, 1996</p>
+<p>			 (In Thousands Except Per Share)</p>
+<p>							 Three Months Ended</p>
+<p>							  September 30,</p>
+<p>							   1996	  1995</p>
+<p> Net revenues				     $58,984     $45,561</p>
+<p> Cost of goods sold				33,368	23,468</p>
+<p> Gross profit					25,616	22,093</p>
+<p> Operating expenses				16,366	14,296</p>
+<p> Operating income				   9,250	 7,797</p>
+<p>Other income (expense):</p>
+<p>   Interest					 (2,366)     (2,041)</p>
+<p>   Other						1,841	 1,791</p>
+<p> Income before income taxes		     8,725	 7,547</p>
+<p> Provision for income taxes		     3,402	 2,990</p>
+<p> Net income					   5,323	 4,557</p>
+<p> Earnings per share				  0.34	  0.31</p>
+<p>Weighted average number of shares</p>
+<p>  outstanding					15,515	14,518</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKVILLE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

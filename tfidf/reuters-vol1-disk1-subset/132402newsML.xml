@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132402" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Reliability Inc Q3 shr $0.31 vs $0.45.</title>
+<headline>Reliability Inc Q3 shr $0.31 vs $0.45.</headline>
+<dateline>HOUSTON 1996-10-22</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				Nine Months	    Three Months</p>
+<p>				   ended		    ended</p>
+<p>			   9/30/96    9/30/95    9/30/96    9/30/95</p>
+<p>REVENUES		 $24,971    $21,146    $ 8,804    $11,286</p>
+<p>NET INCOME	     $ 3,324    $ 1,971    $ 1,348    $ 1,916</p>
+<p>NET INCOME PER SHARE $ 0 .78    $ 0 .46    $ 0 .31    $ 0 .45</p>
+<p>Average number of shares</p>
+<p> outstanding (000's)   4,243	4,243	4,243	4,243</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

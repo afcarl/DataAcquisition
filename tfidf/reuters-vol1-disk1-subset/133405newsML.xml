@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133405" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: La Moderna nine-month net rises.</title>
+<headline>La Moderna nine-month net rises.</headline>
+<dateline>MEXICO CITY 1996-10-22</dateline>
+<text>
+<p>1996			  1995</p>
+<p>	Shr			  n.a.		     n.a.</p>
+<p>	Oper Income	1.2944 bln		1.111 bln</p>
+<p>	Net		  878.52 million	     642.55 million</p>
+<p>	Revs		 10.449 bln		8.586 bln</p>
+<p>	  NOTE: All figures in Mexican pesos.</p>
+<p>	  Full company name is Empresas La Moderna SA.</p>
+<p>-- Mexico City newsroom +525 728-9565</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

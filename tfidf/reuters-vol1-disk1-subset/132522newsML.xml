@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132522" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Aflac to repurchase up to 7 mln shares.</title>
+<headline>Aflac to repurchase up to 7 mln shares.</headline>
+<dateline>COLUMBUS, Ohio 1996-10-22</dateline>
+<text>
+<p>AFLAC Inc said Tuesday that its board has authorized the repurchase of up to seven million shares of its common stock.</p>
+<p>This repurchases will be in addition to 2.3 million shares remaining under a previous buyback authorization and bring the total number of shares available for purchase to 9.3 million, the company said.</p>
+<p>Aflac said it will repurchase the shares from time to time in the open market or in negotiated transactions, depending on market conditions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

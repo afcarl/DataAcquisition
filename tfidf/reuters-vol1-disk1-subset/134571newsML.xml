@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134571" id="root" date="1996-10-22" xml:lang="en">
+<title>GREECE: ERGOBANK CHIEF MEETS U.S. INSTITUTIONAL INVESTORS IN BOSTON.</title>
+<headline>ERGOBANK CHIEF MEETS U.S. INSTITUTIONAL INVESTORS IN BOSTON.</headline>
+<dateline>ATHENS 1996-10-22</dateline>
+<text>
+<p>Ergobank president Xenophon Nikitas met with institutional investors in New York and Boston on the occasion of presentations by the Athens stock exchange, Ergobank said in a statement.</p>
+<p>&quot;Mr. Nikitas updated shareholders on the bank's planned rights issue and its prospects in the coming years. Shareholders expressed their interest to participate in the capital increase,&quot; it said.</p>
+<p>Among other companies presented to U.S. fund managers, Ergobank impressed with statistics that place it among the world's top 15 banks in terms of return on equity and first among Greek commercial banks, it said. --George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

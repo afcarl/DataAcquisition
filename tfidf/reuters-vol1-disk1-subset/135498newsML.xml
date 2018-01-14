@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135498" id="root" date="1996-10-22" xml:lang="en">
+<title>LEBANON: New Lebanese parliament meets to elect speaker.</title>
+<headline>New Lebanese parliament meets to elect speaker.</headline>
+<dateline>BEIRUT 1996-10-22</dateline>
+<text>
+<p>Lebanon's newly-elected parliament met on Tuesday for the first time to elect a speaker and begin the procedure for the appointment of a new prime minister and the formation of a new government.</p>
+<p>The 128 deputies, divided 50-50 between Moslems and Christians, were expected to reappoint outgoing Speaker Nabih Berri, to a second four-year term.</p>
+<p>Billionaire Prime Minister Rafik al-Hariri, who resigned on October 15 to make way for the appointment of a new prime minister and cabinet, was also expected to be reappointed.</p>
+<p>President Elias Hrawi will begin consultations with the deputies on their choice of a new prime minister after the speaker and other parliamentary officials are chosen.</p>
+<p>Once the prime minister is named, he begins negotiations on the formation of a new cabinet, which political sources expect to be in place by the end of the month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

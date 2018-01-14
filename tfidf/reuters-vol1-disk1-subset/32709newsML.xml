@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32709" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Cirrus Logic offers Dolby audio chip.</title>
+<headline>Cirrus Logic offers Dolby audio chip.</headline>
+<dateline>AUSTIN, Tex. 1996-09-04</dateline>
+<text>
+<p>Crystal Semiconductor said Wednesday it has developed an audio chip to support Dolby Digital Surround and Dolby Pro Logic applications.</p>
+<p>The Cirrus Logic Inc subsidiary said the CS4226 chip can replace as many as nine discrete, integrated circuits in an AC-3 home theater application, reducing the cost of these systems.</p>
+<p>It said the chip priced at $32.00 in quantities of 1,000. Samples are available now with production quantities planned for the fourth quarter of 1996.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUSTIN, Tex."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

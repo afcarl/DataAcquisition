@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132714" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Patrick Industries Inc Q3 net rises.</title>
+<headline>Patrick Industries Inc Q3 net rises.</headline>
+<dateline>ELKHART, Ind. 1996-10-22</dateline>
+<text>
+<p>THREE MONTHS	    NINE MONTHS</p>
+<p>			1996	  1995	   1996	   1995</p>
+<p>Net sales $105,686,000$ 94,126,000 $3O6,849,000 $273,716,000 Cost of goods</p>
+<p>   sold	91,206,000  80,913,000  266,172,000  236,037,000</p>
+<p>Income before</p>
+<p>  income taxes 5,406,000  4,659,000   13,874,000   12,821,000</p>
+<p> Income taxes  2,122,000  1,817,000    5,441,000    5,000,000</p>
+<p> Net Income    3,284,000  2,842,000    8,433,000    7,821,000</p>
+<p>Earnings per</p>
+<p>  common share     0.55	  0.48	   1.41	   1.32</p>
+<p>Weighted average shares</p>
+<p>   outstanding 5,973,212   5,947,598    5,968,790    5,943,991</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ELKHART, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

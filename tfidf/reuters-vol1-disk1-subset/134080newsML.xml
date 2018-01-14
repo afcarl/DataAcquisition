@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134080" id="root" date="1996-10-22" xml:lang="en">
+<title>REPUBLIC OF IRELAND: New bill would outlaw discrimination in employment.</title>
+<headline>New bill would outlaw discrimination in employment.</headline>
+<dateline>DUBLIN 1996-10-22</dateline>
+<text>
+<p>Ireland's equality minister Mervyn Taylor introduced a bill to parliament on Tuesday that would outlaw discrimination in employment on the grounds of gender, marital status, sexual orientation, religion, age, disability, race or membership of the travelling community.</p>
+<p>&quot;The scope of the bill is comprehensive and deals with all employment areas, from training to access to employment and to employment conditions generally,&quot; Taylor said.</p>
+<p>He pointed out that discrimination in the labour market is widespread.</p>
+<p>&quot;Take discrimination on the grounds of age. A scan of the daily newspapers provides ample evidence of outright discrimination. Labour force surveys show that older workers, once unemployed, are likely to remain out of work, longer than younger people,&quot; he said.</p>
+<p>-- Dublin Newsroom +353 1 660 3377</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

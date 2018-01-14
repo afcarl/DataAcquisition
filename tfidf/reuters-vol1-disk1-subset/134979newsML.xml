@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134979" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Wall St stocks seen opening lower.</title>
+<headline>Wall St stocks seen opening lower.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>More profit-taking is expected to take Wall Street stocks lower at the opening on Tuesday as the market digests the rally of the last three months.</p>
+<p>Analysts said that investors would be keeping an eye on Microsoft Corp which reported earnings per share of $0.95 a share after Monday close. The net was $0.05 per share above the First Call estimate.</p>
+<p>&quot;I think we are in for another profit-taking day,&quot; said Larry Wachtel, analyst at Prudential Securities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

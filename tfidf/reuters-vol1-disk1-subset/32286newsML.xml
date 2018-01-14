@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32286" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Bonneville not offering power for Thurs peak hours.</title>
+<headline>Bonneville not offering power for Thurs peak hours.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>The Bonneville Power Administration today declined to offer next-day power during peak demand hours and is limiting off-peak sales to 600 megawatts.</p>
+<p>A trade source at the Portland, Ore.-based agency attributed the shift to a balance between its own load demand and generation.</p>
+<p>Bonneville said earlier the end-August expiration of extra dam flows needed for fish migration has trimmed its hydroelectric operations.</p>
+<p>The federal power marketing agency's price for both firm and non-firm power during hours 0100 to 0600 on Thursday is unchanged from Wednesday at $13.00 per megawatt hour.</p>
+<p>On Tuesday, Bonneville also offered pre-scheduled power for Wednesday at $20.00 during peak-demand hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

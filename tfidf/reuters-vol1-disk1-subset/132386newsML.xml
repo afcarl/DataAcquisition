@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132386" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Full House comments on Iacocca stake.</title>
+<headline>Full House comments on Iacocca stake.</headline>
+<dateline>DEADWOOD, S.D. 1996-10-22</dateline>
+<text>
+<p>Full House Resorts Inc said Tuesday that Lee Iacocca has transferred his 1,056,471 shares in the company, representing a 10.2 percent stake, to LKL Family Limited Partnership.</p>
+<p>The general partner of this partnership is a corporation solely owned by Iacocca, who is the former chairman of Chrysler Corp. Iacocca also owns individually all of the limited partnership interests of the partnership.</p>
+<p>Full House said it issued the statement on Iacocca's shares in response to reports that he has sold or no longer owns shares in the company.</p>
+<p>Full House develops destination resorts and entertainment, gaming and commercial centers.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEADWOOD, S.D."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

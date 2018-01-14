@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32131" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Galileo to take 3-D pictures of Jupiter's moon.</title>
+<headline>Galileo to take 3-D pictures of Jupiter's moon.</headline>
+<dateline>PASADENA, Calif. 1996-09-04</dateline>
+<text>
+<p>The space probe Galileo will have its closest encounter with many of Jupiter's moons this week when it swings within 165 miles (260 km) of Ganymede to take three-dimensional pictures of its icy surface, scientists said on Wednesday.</p>
+<p>Scientists at the Jet Propulsion Laboratory here said the unmanned spacecraft was scheduled to fly over Ganymede's north pole at 3 p.m. EDT (1900 GMT) on Friday. It will be Galileo's second flyby of Ganymede -- the largest moon in the solar system -- since arriving in the Jovian atmosphere in December.</p>
+<p>Galileo will collect new pictures of two regions on the moon's surface, Uruk Sulcus and Galileo Regio, that it took images of in June. This will allow scientists to create a three-dimensional view of Ganymede's surface.</p>
+<p>&quot;The areas on Ganymede that we saw during the first flyby have huge contrasts of light and dark that fool the eye,&quot; Galileo project scientist Torrence Johnson said in a statement.</p>
+<p>&quot;What your eye interprets as a slope may not really be one. These 3-D views will give us a better idea of what is 'paint' on Ganymede's surface, so to speak, versus what is real topography,&quot; he said.</p>
+<p>Johnson said National Aeronautics and Space Administration scientists were keen to better understand the patterns of the fissures and cracks that riddle the moon's surface. They also hope Friday's flyby will settle a controversy over whether Ganymede has an internally generated magnetic field.</p>
+<p>Data from June's flyby showed the moon is interacting with Jupiter's enormous magnetic field, but scientists do not agree on whether this means the moon has its own magnetic field.</p>
+<p>During Galileo's approach this week, it will also make observations of another Jupiter moon, Europa, and will take pictures of a heavily-cratered third moon, Callisto, and monitor volcanic activity on a fourth, Io.</p>
+<p>It will also take pictures of Amalthea, one of Jupiter's handful of smaller moons.</p>
+<p>Data from the latest flyby will be stored onboard Galileo and transmitted to Earth from Sept. 8 to Nov. 2.</p>
+<p>Galileo was launched aboard the space shuttle Atlantis on Oct. 18, 1989, and was almost half way through its two-year mission in the Jovian atmosphere.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

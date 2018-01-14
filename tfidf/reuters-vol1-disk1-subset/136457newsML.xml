@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136457" id="root" date="1996-10-23" xml:lang="en">
+<title>CZECH REPUBLIC: Czech government extends mortgage subsidy plan.</title>
+<headline>Czech government extends mortgage subsidy plan.</headline>
+<dateline>PRAGUE 1996-10-23</dateline>
+<text>
+<p>The Czech government on Wednesday delayed for a year a reduction in the state subsidy paid to reduce the cost of qualified home mortgage loans, Prime Minister Vaclav Klaus said.</p>
+<p>Speaking at a news conferecne following a regular cabinet meeting, Klaus said the state would continue subsidising four percentage points of interest payments on qualified mortgage loans which are granted over the next year.</p>
+<p>The decision changes the previous plan which would have cut the subsidy to three percentage points as of next week.</p>
+<p>&quot;The government extended this (four-percentage point) one-year bonus by another year,&quot; Klaus said.</p>
+<p>Interest rates on Czech commercial mortgage credits range around 12 to 13 percent without the subsidy, but local media have widely reported that few citizens have been able to take advantage of the government's programme.</p>
+<p>The government, in an effort to spur new housing, agreed last year to begin subsidising qualifying interest rates for the life of the loan.</p>
+<p>The central bank (CNB) decided late on Tuesday to exclude proceeds from mortgage and other bonds with maturity over five years issued by the country's banks from the base for calculation of minimum reserve requirements.</p>
+<p>The minimum reserve rule requires banks to have 11.5 percent of their primary sources deposited at the CNB, subject to a regular control.</p>
+<p>-- Jan Lopatka, Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

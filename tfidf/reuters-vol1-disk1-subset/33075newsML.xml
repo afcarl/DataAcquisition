@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33075" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Appalachian Power files for $75 mln in notes.</title>
+<headline>Appalachian Power files for $75 mln in notes.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>Appalachian Power filed Wednesday with the Securities and Exchange Commission for up to $75 million in junior subordinated deferred interest debentures, Series A, due 2026.</p>
+<p>The unit of American Electric Power, said net proceeds will be used to refund cumulative preferred stock.</p>
+<p>The Roanake, Va.,-based company said the offering will be made through Merrill Lynch &amp; Co, Dean Witter Reynolds Inc, Lehman Brothers, PaineWebber Inc and Prudential Securities.</p>
+<p>The notes mature September 30, 2026, the filing said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135339" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Shochiku -96/97 parent forecast.</title>
+<headline>Shochiku -96/97 parent forecast.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Year to February 28, 1997</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    ACTUAL</p>
+<p> (Parent)	     FORECAST	  YEAR-AGO</p>
+<p> Sales		 54.40		52.04</p>
+<p> Current		1.00		 1.01</p>
+<p> Net		  400    million	 414    million</p>
+<p> EPS		    4.33 yen	   5.14 yen</p>
+<p> Ord div		5.00 yen	   5.00 yen</p>
+<p> -Special div	    -		 0.50 yen</p>
+<p>NOTE - Shochiku Co Ltd is a movie distributing firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

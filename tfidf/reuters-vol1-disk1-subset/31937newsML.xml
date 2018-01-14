@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31937" id="root" date="1996-09-04" xml:lang="en">
+<title>VIETNAM: Vietnam singles out Oxbow Int for power plant.</title>
+<headline>Vietnam singles out Oxbow Int for power plant.</headline>
+<dateline>HANOI 1996-09-04</dateline>
+<text>
+<p>Vietnam's state power monopoly has singled out U.S. firm Oxbow International Power Corp for talks on a roughly $300 million coal-fired generating plant in the northern province of Quang Ninh, industry sources said on Wednesday.</p>
+<p>The sources, who declined to be named, said there would have to be several months of contract negotiations before a project licence could be granted by the ministry of planning and investment.</p>
+<p>Several other contenders, including U.S. firm AES Transpower Private, had been in the running for the plant, Vietnam's first build-operate-transfer (BOT) power project.</p>
+<p>The 300 MW plant, which will use low-grade coal from local mines, is expected to go into operation by 1999 and be transferred back to Electricity of Vietnam (EVN) 20 years later.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

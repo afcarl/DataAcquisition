@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32788" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Saratoga to spin off part of its business.</title>
+<headline>Saratoga to spin off part of its business.</headline>
+<dateline>LAKEWOOD, N.J. 1996-09-04</dateline>
+<text>
+<p>Saratoga Brands Inc said on Wednesday that its board has approved a reorganization of its business into two separate public companies through a spin-off of its mobile-catering and food-distribution business.  </p>
+<p>The mobile-catering business will be spun off to shareholders in the form of a dividend, thereby creating a new public company in a transaction that is expected to be tax-free, Saratoga said.</p>
+<p>The company said that, through its Cucina Classics Italiana Inc subsidiary and future acquisition of Sant Ambroeus, it will remain in the cheese and restaurant business.</p>
+<p>It will continue to qualify for and remain listed on the Nasdaq Small Cap market system, the company said, and added that the mobile-catering business is also expected to immediately qualify for Nasdaq Small Cap listing.</p>
+<p>However, Saratoga said it has not yet been determined on which exchange or market the company will seek listing.</p>
+<p>The company said it expects to announce further details within the next 14 days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAKEWOOD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

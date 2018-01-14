@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135630" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: German stocks open bourse lower, consolidating.</title>
+<headline>German stocks open bourse lower, consolidating.</headline>
+<dateline>FRANKFURT 1996-10-22</dateline>
+<text>
+<p>German shares opened bourse trade lower on Tuesday, weighed down by a weaker dollar and losses on Wall Street overnight and Japan's Nikkei.</p>
+<p>The DAX index of 30 leading shares was down 11.98 points, or 0.44 percent, at 2,717.05. Dealers said they expected the index to consolidate for the rest of the week and said it was well-supported above the 2,700 point level.</p>
+<p>&quot;We expect a little consolidation over the next few days and there's support around 2,700,&quot; said one trader.</p>
+<p>In the absence of any significant data, dealers said the focus for the rest of the week would come from specific company news.</p>
+<p>Utility firm RWE reported a 10 percent increase in group net profits, excluding minority interests, to 1.2 billion marks in the year ending June 1996.</p>
+<p>But RWE shares fell 60 pfennigs in early bourse trade to stand at 63.35.</p>
+<p>Results are also expected later on Tuesday from business software firm SAP AG.</p>
+<p>Meanwhile, shares in Dresdner Bank raced ahead, adding over two percent, or 95 pfennigs, to 40.90 marks, after investment bank Goldman Sachs raised its recommendation on the firm to &quot;market outpeformer.&quot;</p>
+<p>The rest of the banking sector was also buoyed by Dresdner's gains.</p>
+<p>Meanwhile, newly-floated dialysis group Fresenius Medical Care lost ten marks to 328 marks after the firm said it would issue $710 million in new preference shares and debt to pay back bank debt.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

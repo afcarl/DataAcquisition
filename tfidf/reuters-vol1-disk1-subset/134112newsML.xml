@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134112" id="root" date="1996-10-22" xml:lang="en">
+<title>BELGIUM: Belgian Sabena orders 9 UK Avro RJ100 aircraft.</title>
+<headline>Belgian Sabena orders 9 UK Avro RJ100 aircraft.</headline>
+<dateline>BRUSSELS 1996-10-22</dateline>
+<text>
+<p>Belgian airline Sabena will order nine 100-seat British Avro RJ100 aircraft instead of the nine 85-seat Avro RJ85 aircraft it originally intended to buy, Sabena said on Tuesday. Avro is a regional jet manufacturer owned by British Aerospace.</p>
+<p>The company said in a statement the bigger aircraft would allow it to meet growing demand on regional routes.</p>
+<p>The aircraft will be delivered between now and 1999.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

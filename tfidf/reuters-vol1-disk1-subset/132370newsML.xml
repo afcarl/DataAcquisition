@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132370" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: ENSERCH Q3 shr loss widens with charges.</title>
+<headline>ENSERCH Q3 shr loss widens with charges.</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	   loss    $   0.29     loss	$ 0.24</p>
+<p> Net	   loss	17,377     loss	13,771</p>
+<p> Revs		     386,637		  414,547</p>
+<p> Avg shrs		  69,413		   68,271</p>
+<p>	  NINE MONTHS</p>
+<p> Shr	   loss	$ 0.04     loss	$ 0.09</p>
+<p> Net	 profit	 5,699   profit	 2,413</p>
+<p> Revs		   1,480,435		1,423,348</p>
+<p> Avg shrs		  68,900		   68,193</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: ENSERCH Corp said the third-quarter 1996 results include a $2.1 million, or $0.03 a share, after-tax extraordinary charge from early extinguishment of debt and other merger-related expenses of $1.7 million, or $0.02 a share. For the first nine months of 1996, the after-tax earnings detraction for merger-related charges and expenses was $5.8 million, or $0.08 a share.</p>
+<p>-- New York newsdesk, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

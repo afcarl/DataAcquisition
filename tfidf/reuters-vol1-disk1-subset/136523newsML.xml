@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136523" id="root" date="1996-10-23" xml:lang="en">
+<title>ALBANIA: Albania upholds jail terms on four communists.</title>
+<headline>Albania upholds jail terms on four communists.</headline>
+<dateline>TIRANA 1996-10-23</dateline>
+<text>
+<p>Albania's appeal court on Wednesday upheld jail sentences on four Albanians who formed a communist party, breaching the constitution of the Balkan state, once a bastion of hardline communism.</p>
+<p>The four men, aged between 45 and 73 years, were jailed for between one and two and half years. They pleaded guilty to charges of forming a communist party but appealed against the length of the sentences on grounds of old age and alleged irregularities during the investigation.</p>
+<p>&quot;The court decided to uphold the verdict of the Tirana (district) court,&quot; appeals judge Lefter Jahja said, reading out the brief verdict.</p>
+<p>The court had ruled that the men aimed to take power in Albania and overthrow the nation's constitutional order.</p>
+<p>After the demise of Albania's communist dictatorship in 1990, the country introduced a series of laws to punish former leaders and prevent a resurgence of communism. Parliament outlawed all communist organisations in July 1992.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

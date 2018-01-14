@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134084" id="root" date="1996-10-22" xml:lang="en">
+<title>SPAIN: Peseta debt/interbank market closing report.</title>
+<headline>Peseta debt/interbank market closing report.</headline>
+<dateline>MADRID 1996-10-22</dateline>
+<text>
+<p>Spanish government bonds closed higher in line with other European markets, in particular boosted by Italian Btps after better-than-expected October inflation data, dealers said.</p>
+<p>&quot;It's astonishing how strong the market is in Italy. Now they expect another interest rate cut. In Spain we are just following them,&quot; said a Madrid dealer.</p>
+<p>Even dealers who are more cautious on Spain see the 10-year future contract possibly defying resistance at 107.75/80. But none of the market expects any change in the key money market rate at tomorrow's Bank of Spain repo.  </p>
+<p>&quot;The mood of the market is really positive because of the other markets' trend,&quot; a dealer in Madrid said. &quot;But really I do not see any big news coming out in Spain&quot;.</p>
+<p>Earlier this afternoon saw the start of the parliamentary debate on the 1997 budget. Prime Minister Jose Maria Aznar's conservative government is guaranteed to win the vote thanks to support from its Catalan allies.</p>
+<p>The 10-year spread over German Bunds declined to 179 basis points from 182 at yesterday's close, while little movement was seen at the shorter end of the curve, dealers said.</p>
+<p>-- Madrid Newsroom, + 341 585.2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

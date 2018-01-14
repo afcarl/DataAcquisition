@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32521" id="root" date="1996-09-04" xml:lang="en">
+<title>BANGLADESH: Bangladesh's forex market shut for public holiday.</title>
+<headline>Bangladesh's forex market shut for public holiday.</headline>
+<dateline>DHAKA 1996-09-04</dateline>
+<text>
+<p>Bangladesh's foreign exchange market was closed on Wednesday due to public a holiday marking a Hindu religious festival.</p>
+<p>The Bangladesh currency taka was quoted at 42.2400/42.2450 against the dollar in interbank trading at the close on Tuesday. The market will reopen on Thursday.</p>
+<p>-- Dhaka Newsroom 880-2-506363</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

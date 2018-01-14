@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133597" id="root" date="1996-10-22" xml:lang="en">
+<title>DUBAI: Iran Air starts service to Uganda and Kenya.</title>
+<headline>Iran Air starts service to Uganda and Kenya.</headline>
+<dateline>DUBAI 1996-10-22</dateline>
+<text>
+<p>The Iranian flag carrier Iran Air has launched a once-weekly flight to Uganda and Kenya via Dubai, an airline spokeswoman said on Tuesday.</p>
+<p>The passenger and cargo Tehran-Dubai-Entebbe-Nairobi service started last Thursday using a Boeing 707, Fahimeh Sarmadi told Reuters. The return flight is on Saturdays.</p>
+<p>&quot;We are getting a lot of cargo business from Dubai to Uganda and Kenya right now,&quot; Sarmadi added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UGANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31971" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: TIBS unit forms two investment companies.</title>
+<headline>TIBS unit forms two investment companies.</headline>
+<dateline>SINGAPORE 1996-09-04</dateline>
+<text>
+<p>Trans-Island Bus Services Ltd said on Wednesday it had set up two new investment companies through its wholly-owned subsidiary, TIBS Investment Pte Ltd.</p>
+<p>The two companies, TIBS Capital and TIBS Leasing, would act as investment companies for possible ventures into the motor vehicle leasing and hiring business, it said in a statement to the Stock Exchange of Singapore.</p>
+<p>Both subsidiaries had authorised share capitals of Singapore $1 million divided into 1 million ordinary shares at S$1.00 each. The shares are held by TIBS Investment, it said.</p>
+<p>-- Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

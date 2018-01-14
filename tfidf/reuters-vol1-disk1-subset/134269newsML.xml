@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134269" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Stocks, bonds, dollar fall.</title>
+<headline>Stocks, bonds, dollar fall.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Stocks fell on corporate earnings jitters Tuesday and bond prices lost ground after the Treasury sold $18 billion of new notes. The dollar also fell.</p>
+<p>Gasoline prices jumped on a refinery outage in Venezuela but crude oil ended lower.</p>
+<p>The Dow Jones industrial average fell 29.07 points to close at 6,061.80 as investors sold technology companies after Digital Equipment Corp. reported a bigger-than-expected loss.</p>
+<p>The Nasdaq composite index, heavily weighted with technology issues, lost 16.41 points to 1,220.00, a much bigger percentage loss than the 30-share Dow industrials.</p>
+<p>In the broader market, declining issues led advances 1,513 to 909 on active volume of 410 million shares on the New York Stock Exchange.</p>
+<p>&quot;The market has run out of steam,&quot; said Hildegard Zagorski, an analyst at Prudential Securities. &quot;Yesterday was the tip-off when IBM had good earnings and the stock rocketed up and then fell apart. Then we had Microsoft. Not helping today was Digital with its big loss.&quot;</p>
+<p>Digital reported a loss of $66 million in its fiscal first quarter, which disappointed Wall Street. Microsoft Corp.'s earnings of $614 million, while solid, were not as high as expected.</p>
+<p>&quot;A lot of technology earnings have met expectations and in some cases were better than expected,&quot; said Peter Cardillo, director of research of Westfalia Investments. &quot;But that's already in the price. Profit-taking will continue for the next week or so right into the U.S. elections,&quot; he added.</p>
+<p>Digital slumped $5.375 to $29 on the NYSE, and Microsoft lost $1.50 to $132.50 on Nasdaq.</p>
+<p>&quot;A lot of damage was done in Nasdaq today,&quot; said Ralph Bloch, chief technical analyst at Raymond James.</p>
+<p>But the market was ripe for a correction after a swift rebound from the decline from May into July, he said. &quot;The market has used up an incredible amount of firepower from the mid-July low.&quot;</p>
+<p>The Nasdaq index has jumped 15.8 percent since bottoming in July, and the Dow index is up 13 percent.</p>
+<p>In the bond market, the 30-year Treasury fell 20/32, or $6.25 on a $1,000 bond, to yield 6.86 percent compared with 6.81 percent on Monday.</p>
+<p>The Treasury's sale of $18.28 billion in two-year notes produced encouraging results, but dealers said there was little buying in the auction's aftermath.</p>
+<p>The dollar ended lower against major currencies as late selling wiped out modest early gains.</p>
+<p>The dollar fell to 112.27 Japanese yen from 112.72 late on Monday. Against the German mark, the dollar fell nearly a pfennig to 1.5248 from 1.5343 late on Monday.</p>
+<p>In commodity markets, gasoline surged after a big Venezuelan refinery suffered a partial outage.</p>
+<p>Gasoline for November delivery rose 1.20 cents to 69.12 cents a gallon on the New York Mercantile Exchange.</p>
+<p>November crude oil fell 17 cents to $25.75 a barrel.</p>
+<p>Overseas, London's FTSE 100 index fell 15.9 points to 4,057.2. Tokyo's Nikkei 225 closed at 21,123.68, down 179.27 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

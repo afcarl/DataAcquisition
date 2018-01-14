@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32785" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Walgreen August same-store sales up.</title>
+<headline>Walgreen August same-store sales up.</headline>
+<dateline>DEERFIELD, Ill. 1996-09-04</dateline>
+<text>
+<p>Walgreen Co said same-store sales for August were up 9.7 percent.</p>
+<p>Total sales for the month were $1 billion, compared to year-ago sales of $877.7 million, the retailer said.</p>
+<p>Pharmacy sales, which account for 43 percent of overall sales, increased 16.5 percent. Same-store pharmacy sales were up 11 percent.</p>
+<p>Calendar year-to-date sales were $7.82 billion, up 14.1 percent from $6.85 billion in 1995, Walgreen said.</p>
+<p>Fiscal year-to-date sales for 1996 finished at $11.78 billion, up 13.3 percent from $10.39 billion. Same-store sales for the fiscal year were up 8.5 percent.</p>
+<p>As of August 31, Walgreen operated 2,193 drugstores in 35 states and Puerto Rico, compared to 2,085 a year ago.</p>
+<p>Same-store figures compare sales for stores open at least a year, the company said.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEERFIELD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

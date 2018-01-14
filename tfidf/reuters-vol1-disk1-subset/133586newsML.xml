@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133586" id="root" date="1996-10-22" xml:lang="en">
+<title>YEMEN: Yemen slashes budget deficit.</title>
+<headline>Yemen slashes budget deficit.</headline>
+<dateline>SANAA 1996-10-22</dateline>
+<text>
+<p>Yemen slashed its budget deficit between January and September thanks to economic reforms agreed with the International Monetary Fund (IMF), a Central Bank official said on Tuesday.</p>
+<p>The official, who requested anonymity, said the deficit in the first nine months stood at 7.08 billion rial ($70 million), compared with 21.85 billion rial during the same period in 1995.</p>
+<p>The 181.41 billion rial budget for 1996, endorsed by parliament during a stormy session in March, had a projected deficit of 25.53 billion rials.</p>
+<p>&quot;The economic reforms programme and the Central Bank's activation of monetary policy tools helped reduce the deficit,&quot; said the official. &quot;It was covered by non-inflationary sources through issuing treasury bills&quot;.</p>
+<p>The net bill value between January and September stood at 8.01 billion rials, he added.</p>
+<p>In January, impoverished Yemen, a recent member of the elite club of Arab oil exporters, started implementing the second phase of wide-ranging reforms agreed upon by the World Bank and the International Monetary Fund.</p>
+<p>Foreign exchange reserves are currently standing at $900 million, up on $450 million in May.</p>
+<p>Yemen first introduced treasury bills in December.</p>
+<p>A Central Bank official said last week Sanaa plans to issue treasury bills weekly, instead of monthly, to &quot;benefit the government in financing emergencies in government spending&quot;.</p>
+<p>It currently issues 91- and 182-day bills every month.</p>
+<p>($1 = 100 rials)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

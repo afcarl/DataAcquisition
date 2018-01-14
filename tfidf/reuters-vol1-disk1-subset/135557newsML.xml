@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135557" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: Ciba details 9-mth sales data.</title>
+<headline>Ciba details 9-mth sales data.</headline>
+<dateline>BASLE, Switzerland 1996-10-22</dateline>
+<text>
+<p>Nine months to September 30, 1996</p>
+<p>				    (million Sfr unless stated)</p>
+<p> Pharmaceuticals		4,399	     up two pct</p>
+<p> Self-medication		809		 up three pct</p>
+<p> Ciba Vision		    889		 up six pct</p>
+<p>    Total Healthcare	  6,097	     up three pct</p>
+<p>--</p>
+<p> Crop protection		3,482	     up eight pct</p>
+<p> Animal health		  580		 up two pct</p>
+<p> Seeds			    213		 up 22 pct</p>
+<p>    Total Agriculture	 4,275	     up eight pct</p>
+<p>--</p>
+<p> Textile dyes		   868		 up five pct</p>
+<p> Chemicals			815		 up five pct</p>
+<p> Additives			1,551	     dn four pct</p>
+<p> Pigments			 802		 up one pct</p>
+<p> Polymers			 987		 up six pct</p>
+<p>Total Industry</p>
+<p>(without composites, Mettler</p>
+<p>Toledo, leather business)   4,934	     up one pct</p>
+<p>--</p>
+<p> Composites		     105		 dn 65 pct</p>
+<p> Mettler Toledo		 762		 up three pct</p>
+<p>    Total Industry	    5,890	     dn two pct</p>
+<p>--</p>
+<p>    Total group		 16,262	    up two pct</p>
+<p>Note - Chemical segment growth rate shown excludes figures of group's leather businesss. The corresponding sales figures amounts to 726 million Swiss francs.</p>
+<p>Composite sector sales in most countries deconsolidated due to combination of composites business with Hexcel Corp.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASLE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

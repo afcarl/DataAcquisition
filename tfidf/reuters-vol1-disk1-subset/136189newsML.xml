@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136189" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: U S West Q3 revs driven by local service.</title>
+<headline>U S West Q3 revs driven by local service.</headline>
+<dateline>ENGLEWOOD, Colo. 1996-10-23</dateline>
+<text>
+<p>U S West Communications Group's overall third-quarter revenues were driven higher by a 9.3 percent jump in local service revenue, the company said Wednesday.</p>
+<p>It said growth in access lines also accelerated, up 5.1 percent in the past 12 months. Excluding the sale of selected rural telephone exchanges, the number of access lines in service grew to 15.4 million from 14.6 million in the prior year's third quarter.  </p>
+<p>Operating revenues grew to $2.52 billion from $2.39 billion in the same period the prior year. Revenues from local service grew to $1.21 billion compared to $1.11 billion in the same period the prior year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ENGLEWOOD, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

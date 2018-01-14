@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132758" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Central Newspapers Inc Q3 Sept 29 net up.</title>
+<headline>Central Newspapers Inc Q3 Sept 29 net up.</headline>
+<dateline>INDIANAPOLIS, Ind. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.57		    $0.42</p>
+<p> Net			 15,066		   11,134</p>
+<p> Revs		     149,018		  135,504</p>
+<p> Avg shrs		  26,571		   26,652</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: 1995 Q3 earnings include special charges. Before special charges, earnings were $11.7 million or $0.44/shr.</p>
+<p>1995 period ended September 24.  </p>
+<p>		  9 MONTHS</p>
+<p> Shr			 $ 1.42		   $ 1.39</p>
+<p> Net			 37,871		   36,928</p>
+<p> Revs		     449,631		  414,858</p>
+<p> Avg shrs		  26,673		   26,645</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Nine-month results for both years include special charges for workforce reductions, asset impairments. Nine-month results before the charges were $41.1 million or $1.54/shr vs $38.5 million or $1.44/shr.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

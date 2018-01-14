@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133760" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Standard Motor sees no inventory drop soon.</title>
+<headline>Standard Motor sees no inventory drop soon.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Standard Motor Products Inc said Tuesday that while it is taking actions to reduce inventory, no significant reductions are expected for the rest of the year.</p>
+<p>A statement from Standard Motor Products said it remains dissatisfied with its performance in asset management, primarily in the area of inventories, which at the end of the quarter were $9 million higher than a year ago, excluding inventories from acquisitions, the company said.</p>
+<p>This increase, coupled with higher receivables and the finding of its acquisitions drove debt and interest expense higher for the quarter, the company said.</p>
+<p>Interest expense increased by $1.2 million for the quarter, compared with a year ago, the company said.</p>
+<p>&quot;This area remains a key focus for management and specific actions are being implemented to reduce inventory, but we do not expect significant reductions the remainder of this year,&quot; the company statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

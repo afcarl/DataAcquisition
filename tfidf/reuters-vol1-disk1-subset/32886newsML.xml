@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32886" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Supreme Intl Q2 shr $0.16 on more shrs.</title>
+<headline>Supreme Intl Q2 shr $0.16 on more shrs.</headline>
+<dateline>MIAMI 1996-09-04</dateline>
+<text>
+<p>Three Months Ended   Six Months Ended</p>
+<p>			    Jul 31,    Jul 31,    Jul 31,   Jul 31,</p>
+<p>				 1996	1995	 1996	1995</p>
+<p> NET SALES		$31,012    $25,168    $68,366   $60,211</p>
+<p> COST OF GOODS SOLD    24,405     18,763     53,568    45,150</p>
+<p> GROSS PROFIT	     6,606	6,405     14,798    15,061</p>
+<p> OPERATING EXPENSES     5,245	3,995     10,621     9,427</p>
+<p> OPERATING INCOME	 1,361	2,411	4,177     5,635</p>
+<p> INTEREST EXPENSE	   240	  751	  453     1,402</p>
+<p>INCOME BEFORE INCOME TAXES</p>
+<p>				1,121	1,660	3,724     4,233</p>
+<p> INCOME TAXES		 432	  636	1,420     1,614</p>
+<p> NET INCOME		   689	1,024	2,304     2,619</p>
+<p> NET INCOME PER SHARE    0.16	 0.29	 0.52	0.74</p>
+<p> NUMBER OF SHARES   4,407,800  3,562,011  4,391,942 3,543,007</p>
+<p>Note: Full company name is Supreme International Corp.</p>
+<p>(000's omitted except share information)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

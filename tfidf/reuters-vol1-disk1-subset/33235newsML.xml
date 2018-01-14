@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33235" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Pan-German July industry orders up 0.6 pct on June.</title>
+<headline>Pan-German July industry orders up 0.6 pct on June.</headline>
+<dateline>BONN 1996-09-04</dateline>
+<text>
+<p>The economics ministry reported the following economic indicator:</p>
+<p> PAN-GERMAN INDUSTRY ORDERS  Jul 96     Jun 96     Jul 95</p>
+<p> Month-on-month change	  +0.6	 +1.9	 +2.7</p>
+<p> Year-on-year		     -0.1	 +2.0	 +2.8</p>
+<p> Index (base 1991)		98.9	 98.3	 99.0</p>
+<p>NOTE - Figures are seasonally adjusted and provisional and expressed in volume terms. Year-on-year changes are calculated by Reuters from Bundesbank data. </p>
+<p>The ministry gave the following month-on-month details:</p>
+<p>				     Jul 96     Jun 96    Jul 96 index</p>
+<p> Total domestic orders	  -2.9	 +5.2	  91.7</p>
+<p> Total foreign orders	   +7.2	 -4.0	 113.6</p>
+<p> Intermediate goods	     +1.0	 +0.4	  99.4</p>
+<p> Of which: domestic	     +0.6	 +1.6	  94.4</p>
+<p>	     foreign		+2.0	 -1.9	 111.2</p>
+<p> Capital goods		    -0.7	 +5.4	 102.1</p>
+<p> Of which: domestic	     -9.4	+15.2	  92.0</p>
+<p>	     foreign	     +13.3	 -7.2	 119.0</p>
+<p> Consumer goods, durables     +2.4	 -1.9	  92.0</p>
+<p> Of which: domestic	     +0.4	 -2.0	  84.6</p>
+<p>	     foreign		+5.9	 -1.6	 107.5 </p>
+<p>Two-month comparison Jun/Jul 96 with Apr/May 96:</p>
+<p> Industrial orders		     +1.5</p>
+<p> Domestic orders			 +2.5</p>
+<p> Foreign orders			  +0.5</p>
+<p> Intermediate goods		    +1.5</p>
+<p> Capital goods			   +3.5</p>
+<p> Consumer goods, durables	    -0.5 </p>
+<p>Two month comparison Jun/Jul 96 with Jun/Jul 95:</p>
+<p> Industrial orders		     +2.4</p>
+<p> Intermediate goods		    +1.8</p>
+<p> Capital goods			   +2.6</p>
+<p> Consumer goods,durables	     +3.9</p>
+<p> Domestic orders			 +0.4</p>
+<p> Foreign orders			  +5.8</p>
+<p>-- Bonn newsroom, 49-228-26097-50</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

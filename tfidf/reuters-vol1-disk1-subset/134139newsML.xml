@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134139" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: Reynolds VP sceptical on Russia aluminium restarts.</title>
+<headline>Reynolds VP sceptical on Russia aluminium restarts.</headline>
+<dateline>HAMBURG 1996-10-22</dateline>
+<text>
+<p>William Gray Reynolds, a senior vice president at U.S. producer and fabricator Reynolds Metals Co, said he was sceptical about reports Russian aluminium producers might restrain production.</p>
+<p>&quot;I don't see any change...the Russians see that (producing aluminium) as a way to earn hard currency, this will continue,&quot; Reynolds said in response to questions at a business luncheon on Tuesday.</p>
+<p>He also said there were no alternatives uses for the hydroelectric power generated in Russia's aluminium producing regions.</p>
+<p>Russia's producers' association Kontsern Alyuminiy said last week smelters had agreed not to raise production from current levels, but would not cut them back.</p>
+<p>This was in response to a diplomat report Russian and Canadian officials had met to discuss curbing Russian output.</p>
+<p>It also rekindled memories of the two-year Memorandum of Understanding (MOU) between major world producers to cut output and boost prices, which ended this spring.</p>
+<p>Reynolds is among the companies with large idled capacity as a late result of the MOU, as aluminium prices have been too unattractive to warrant restarts.</p>
+<p>Asked if his company planned any such restarts, Reynolds said, &quot;I don't know of any plan.&quot;</p>
+<p>-- Vera Eckert, Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

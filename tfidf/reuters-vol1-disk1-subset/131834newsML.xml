@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131834" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia bonds look for good inflation data.</title>
+<headline>RTRS-Australia bonds look for good inflation data.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>----------(Snapshot at 4.35 P.M./0635 GMT)------------------</p>
+<p>FUTURES					  CASH YIELD</p>
+<p>90-DAY BILLS  (DEC) 93.41  (+ 0.08)    6.79    (- 0.03)</p>
+<p>3-YR T-BONDS  (DEC) 93.10  (+ 0.08)    6.86    (- 0.08)</p>
+<p>10-YR T-BONDS (DEC) 92.470 (+0.055)    7.54    (- 0.06)</p>
+<p>AUD/USD  0.7969 (PREV 0.7943) US 30-YR  6.79   (6.80 NY)</p>
+<p>---------------------(Oct 21)-------------------------------</p>
+<p>*The Australian 10-year bond futures contract hit its highest intra-dayside high in 30 months as the market anticipated a friendly quarterly inflation report on Wednesday.</p>
+<p>*Market still slightly wary of Thursday's wages numbers.  </p>
+<p>The Australian 10-year bond futures contract hit its highest intra-dayside high in 30 months as the market anticipated a friendly quarterly inflation report on Wednesday, outperforming U.S. Treasuries.</p>
+<p>The December 10-year bond contract touched a high of 92.505, which briefly took the cash bond yield below 7.50 percent and a steep rebound after flirting with 7.75 percent a few days ago.</p>
+<p>Traders said the market firmed after some two-way physical offshore interest initially, although the move was largely futures-driven and overall turnover was relatively light given the size of the rally.  </p>
+<p>&quot;It's the first time in three days that we have been led up by the short end, but from here on it looks like a long haul for the long end unless we get some strength from the U.S.,&quot; one trader said.</p>
+<p>The 10-year bond futures contract peaked at 92.560 during the afterhours session on October 4, which is seen being the cap for the market this side of the inflation report.</p>
+<p>December bill futures started to build in the possibilty of a 50-basis-point easing by the contract's expiry, ending at 93.41 and indicating a cash rate of 6.59 percent compared with current 7.0 percent official interest rates.  </p>
+<p>December bills had slumped from a high 93.56 to 93.27 following last week's Reserve Bank quarterly Bulletin, which went some way to quelling expectations of an early monetary policy easing as the bank expressed concerns over wages growth.</p>
+<p>However, a Reuters survey of 32 economists last Friday gave a near 50 percent probability of a rate cut by end-November.</p>
+<p>&quot;I suspect that possibility will be back to 80, 90 percent if inflation and wages go the right way,&quot; one trader added.</p>
+<p>August quarter average weekly ordinary time earnings (AWOTE) are due on Thursday, and given the emphasis put on wages in the Bulletin, they are seen as the key indicator of the week.  </p>
+<p>------------------------(SPREADS)-------------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 84 (- 07)   104 (- 04) * FUTURES   63   (+ 03)</p>
+<p> CAD	195 (- 12)   101 (- 03) * CASH	67   (+ 02)</p>
+<p> NZD	-55 (+ 02)   +09 (UNCH) *</p>
+<p>----------------------------------------------------------------</p>
+<p>The local advance saw the Australian/U.S. 10-year bond yield spread heading back to 100 basis points, a level it briefly broke prior to the RBA Bulletin. However, the market was relatively stable against New Zealand debt, which continued last week's steep post-election rally on a strong N.Z. dollar.  </p>
+<p>----------------------(TECHNICALS)---------------------------</p>
+<p>FUTURES	*DAY'S HILO  *SUP/RES     *RSI    *MA-10 *MA-20</p>
+<p>10-YEAR (DEC)*92.50-92.43 *92.46-92.50 *64 PCT *92.39 *92.32</p>
+<p>3-YEAR  (DEC)*93.11-93.03 *93.07-93.16 *62 PCT *93.08 *93.02</p>
+<p>90-DAY  (DEC)*93.42-93.34 *93.40-93.45 *53 PCT *93.45 *93.42</p>
+<p>-------------------------------------------------------------</p>
+<p>-- Colin Brinsden 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135792" id="root" date="1996-10-23" xml:lang="en">
+<title>SLOVAKIA: SLOVAK FINMIN 4-WK T-BILL YIELD 9.21 PCT (9.09PCT).</title>
+<headline>SLOVAK FINMIN 4-WK T-BILL YIELD 9.21 PCT (9.09PCT).</headline>
+<dateline>BRATISLAVA 1996-10-23</dateline>
+<text>
+<p>Average yield at a Slovak</p>
+<p>Finance Ministry four-week treasury bill auction hit 9.21</p>
+<p>percent, up from 9.09 percent in the last auction of</p>
+<p>similar bills, the National Bank of Slovakia (NBS) said on</p>
+<p>Wednesday.</p>
+<p>					   Oct 23	    Oct 16</p>
+<p> Bids (billion crowns)	     6.124	     2.198</p>
+<p> Bids accepted			 7.014	     1.998</p>
+<p> Minimum yield (pct)		 8.960	     8.800</p>
+<p> Average yield (pct)		 9.206	     9.088</p>
+<p> Maximum yield (pct)		 9.250	     9.200</p>
+<p> Maturity date			 Nov 14	    Nov 7</p>
+<p>Note. The NBS said it took one billion crowns worth of</p>
+<p>T-bills into its portfolio at the auction.</p>
+<p>-- Bratislava Newsroom, 42-7-563-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

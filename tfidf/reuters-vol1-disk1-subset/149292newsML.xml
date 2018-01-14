@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149292" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Innkeepers USA Trust Q3 net, FFO shr up.  [CORRECTED]</title>
+<headline>Innkeepers USA Trust Q3 net, FFO shr up.  [CORRECTED]</headline>
+<dateline>PALM BEACH, Fla. 1996-10-29</dateline>
+<text>
+<p>Q3 ended Sept 30.</p>
+<p>Nine months ended Sept 30 (Company corrects date from  June 30.</p>
+<p>				1996			1995</p>
+<p> Net share		 $ 0.20		    $0.12</p>
+<p> FFO/share		   0.35		     0.25</p>
+<p> Net			  2,197			586</p>
+<p> Revs			 6,999		    2,418</p>
+<p> Avg shrs		  11,569		    5,377</p>
+<p>	   9 MONTHS</p>
+<p> Net share		 $ 0.59		    $0.47</p>
+<p> FFO/share		   1.00		     0.81</p>
+<p> Net			  6,382		    2,216</p>
+<p> Revs			19,296		    7,019</p>
+<p> Avg shrs		  11,569		    5,377</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALM BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

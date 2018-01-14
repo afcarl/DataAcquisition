@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32825" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Washington Homes Q4 shr $0.26 vs $0.30.</title>
+<headline>Washington Homes Q4 shr $0.26 vs $0.30.</headline>
+<dateline>LANDOVER, Md. 1996-09-04</dateline>
+<text>
+<p>Three Months Ended    Twelve Months Ended</p>
+<p>					 July 31,	   July 31,</p>
+<p>			     1996    1995		1996     1995</p>
+<p>Revenues</p>
+<p>  Homebuilding sales$ 59,337$ 63,925	 $ 167,821$ 176,609</p>
+<p>  Land sales	     3,071     173	     5,145    5,398</p>
+<p>  Other income	     503     551	     2,059    1,478</p>
+<p>  Total Revenues	62,911  64,649	   175,025  183,485</p>
+<p>Expenses</p>
+<p>Cost of sales -</p>
+<p>   homebuilding	 47,600  51,182	   134,274  141,656</p>
+<p>Cost of sales - land</p>
+<p>			     3,013     156	     4,863    3,923</p>
+<p>Selling, general</p>
+<p>   and administrative  7,358   7,337	    23,885   23,475</p>
+<p>Amortization</p>
+<p>   and depreciation	199     323		 763	912</p>
+<p>  Total		   58,170  58,998	   163,785  169,966</p>
+<p> Operating income	4,741   5,651	    11,240   13,519</p>
+<p>Interest and</p>
+<p>   financing expenses  1,319   1,644	     4,771    4,921</p>
+<p>Earnings before</p>
+<p>  income taxes	   3,422   4,007	     6,469    8,598</p>
+<p>  Income tax expense   1,384   1,613	     2,722    3,553</p>
+<p> Net earnings	    2,038   2,394	     3,747    5,045</p>
+<p>Earnings per common share, 7,942,763</p>
+<p>  shares outstanding    0.26    0.30		0.47     0.64</p>
+<p>Note: Full company name is Washington Homes Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANDOVER, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

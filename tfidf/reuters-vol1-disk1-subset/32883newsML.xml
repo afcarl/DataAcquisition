@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32883" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Autologic Q3 shr loss narrows to $0.12.</title>
+<headline>Autologic Q3 shr loss narrows to $0.12.</headline>
+<dateline>THOUSAND OAKS, Calif. 1996-09-04</dateline>
+<text>
+<p>AUTOLOGIC INFORMATION INTERNATIONAL, INC. AND SUBSIDIARIES</p>
+<p>			  SUMMARY OF RESULTS OF OPERATIONS</p>
+<p>		 (Dollars in thousands, except per share amounts)</p>
+<p>			 For the 3 Mos Ended    For the 9 Mos Ended</p>
+<p>			     Aug 2,  Jul 28,	   Aug 2, Jul 28,</p>
+<p>				 1996     1995	    1996     1995</p>
+<p> Revenues		 $21,569  $16,666	  $64,060 $49,369</p>
+<p>Loss before income</p>
+<p>   taxes		  (1,093)  (1,172)	  (3,659) (3,232)</p>
+<p>Income tax</p>
+<p>   provision		(415)	263	     (74)     733</p>
+<p> Net loss		   (678)  (1,435)	  (3,585) (3,965)</p>
+<p>					     PER SHARE DATA</p>
+<p> Net loss		  (0.l2)   (0.43)	   (0.71)  (1.19)</p>
+<p>Numbers of shares used</p>
+<p>   in computation	 5,788    3,337	    5,032   3,337</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THOUSAND OAKS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

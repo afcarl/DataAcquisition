@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132754" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: US CFTC says copper market probe continues.</title>
+<headline>US CFTC says copper market probe continues.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>U.S. Commodity Futures Trading Commission declined to comment on the arrest of Sumitomo Corp's former top copper trader Yasuo Hamanaka, but said its investigation of world copper markets continues.</p>
+<p>&quot;We're still cooperating with Japanese authorities and the (Securities and Investments Board),&quot; commission spokesman John Phillips said Tuesday. &quot;We are communicating and working together. The investigation is ongoing.&quot;</p>
+<p>Earlier Tuesday, Tokyo prosecutors arrested Hamanaka, alleged to have run up $2.6 billion in losses at Sumitomo.  </p>
+<p>Prosecutors charged that Hamanaka forged two documents authorizing transactions with units of Merrill Lynch &amp; Co . Merrill said it conducted all business with Sumitomo properly and &quot;in good faith.&quot;</p>
+<p>At a news conference in Tokyo, Sumitomo officials said they would also file a complaint against Hamanaka for breach of trust.</p>
+<p>CFTC has been actively investigating the copper market since last year, prompted by unusual market conditions that may have been caused by Hamanaka's activities.</p>
+<p>--Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

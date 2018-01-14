@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135929" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Disney shuffles executives at TV unit.</title>
+<headline>Disney shuffles executives at TV unit.</headline>
+<dateline>LOS ANGELES 1996-10-23</dateline>
+<text>
+<p>Walt Disney Co Wednesday named Walter Liss chairman of Buena Vista Television, replacing Randy Reiss, who resigned.</p>
+<p>In a statement, Disney said Liss, who had been president and general manager of WABC-TV, the ABC-owned station in New York, would report to ABC Inc President Robert Iger. Liss will oversee Buena Vista Television and the Pay Television unit.</p>
+<p>Disney acquired Capital Cities/ABC last year for $19 billion.  </p>
+<p>Reiss, who had been in charge of television units as executive vice president for Walt Disney Television &amp; Telecommunications, said he was resigning because of Disney's decision to restructure ABC's international television and broadcast divisions.</p>
+<p>&quot;After many months of earnest conversations, the new opportunities were not sufficiently challenging for me to remain at the company,&quot; Reiss said.</p>
+<p>Buena Vista Television distributes programs directly to the syndicated television market, including &quot;Live with Regis and Kathie Lee,&quot; &quot;Siskel &amp; Ebert&quot; and &quot;Bill Nye, the Science Guy,&quot; as well as Disney-produced movies and off-network series, such as &quot;Home Improvement&quot; and &quot;Ellen.&quot;</p>
+<p>The Pay Television unit licenses rights to the studio's feature films to pay cable television services and to pay-per-view providers.</p>
+<p>Liss, who was named to head WABC-TV in 1987, joined Capital Cities Communications in 1971.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

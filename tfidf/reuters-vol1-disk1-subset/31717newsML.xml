@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31717" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Chemical sector tops Czech H1 direct investment.</title>
+<headline>Chemical sector tops Czech H1 direct investment.</headline>
+<dateline>PRAGUE 1996-09-04</dateline>
+<text>
+<p>Almost half of $458 million of foreign direct investment (FDI) which came to the Czech Republic during the first six months of this year went into the chemical industry, the Czech National Bank (CNB) said.</p>
+<p>In a breakdown of overall FDI figures released last week, the CNB said on Wednesday that 46.9 percent went into the chemical sector, followed by 15.6 percent to the service sector and 12.3 percent to the energy sector.</p>
+<p>The CNB said that investments from the United States accounted for 26.2 percent of the overall figure in the first half. Germany was next with 24.6 percent, and the Netherlands was the third with 12.9 percent.</p>
+<p>The total foreign direct investment rose 17.1 percent year-on-year in the first half.</p>
+<p>Since 1990, the FDI has reached $6 billion, with Germany leading investors in the country (29.6 percent of total), followed by the United States (14.5) and Switzerland (13.7).</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132670" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: AppleTree continued listing request denied.</title>
+<headline>AppleTree continued listing request denied.</headline>
+<dateline>NORFOLK, Va. 1996-10-22</dateline>
+<text>
+<p>AppleTree Cos Inc said that the Nasdaq Listing Qualification Panel has declined the company's request for continued listing on the Nasdaq Small Cap Market pursuant to an exception to the capital and surplus requirement.</p>
+<p>The company said it will request that the Nasdaq Listing and Hearing Review Committee reconsider the decision.</p>
+<p>AppleTree's securities will immediately be eligible to trade on the OTC Bulletin Board, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORFOLK, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132780" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Oasis Tx. gas maintenance to cut 200 mmcfd in Nov.</title>
+<headline>Oasis Tx. gas maintenance to cut 200 mmcfd in Nov.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Scheduled maintenance at Oasis Pipe Line Co's Prairie Lea Compressor Station in Caldwell County, Texas, will curtail about 200 million cubic feet per day (mmcfd) in November, the company said Tuesday.</p>
+<p>During the first three weeks of next month, only two of the station's three compressor units will be operational at any one time, the company said in a statement.</p>
+<p>The outage is expected to end by Nov 21.</p>
+<p>Oasis, an intrastate Texas pipeline, is jointly owned by Dow Chemical Co, Tenneco's Channel Gas Supply Co and Aquila Southwest Pipeline.</p>
+<p>--H McCulloch, New York Power Desk 212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

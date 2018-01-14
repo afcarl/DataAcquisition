@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135764" id="root" date="1996-10-23" xml:lang="en">
+<title>SOUTH AFRICA: AUKLAND TO MERGE WITH HOSPITAL GROUP.</title>
+<headline>AUKLAND TO MERGE WITH HOSPITAL GROUP.</headline>
+<dateline>JOHANNESBURG 1996-10-23</dateline>
+<text>
+<p>Control of Aukland Investments Ltd would pass to HospiPlan (Pty) Ltd following Aukland's acquisition of the entire share capital of and loan accounts against the private hospital group for 64 million rand.</p>
+<p>The company said in a statement some 16 million shares Aukland shares would be issued at 400 cents to pay for the purchase of HospiPlan's assets, which included equity interests in various private hospitals.</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

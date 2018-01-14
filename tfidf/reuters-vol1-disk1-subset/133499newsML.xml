@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133499" id="root" date="1996-10-22" xml:lang="en">
+<title>CHINA: China Jan-Sept manganese exports fall 15.5 percent.</title>
+<headline>China Jan-Sept manganese exports fall 15.5 percent.</headline>
+<dateline>BEIJING 1996-10-22</dateline>
+<text>
+<p>China's exports of unwrought manganese dropped to 31,458 tonnes in the first nine months of 1996, down 15.5 percent compared with the year-ago period, customs figures showed on Tuesday.</p>
+<p>Manganese exports were 5,336 tonnes in September alone.</p>
+<p>No comparisons were given for the month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

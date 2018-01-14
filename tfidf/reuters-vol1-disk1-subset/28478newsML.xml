@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28478" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: U.S. leading index up slightly in July.</title>
+<headline>U.S. leading index up slightly in July.</headline>
+<byline>Glenn Somerville</byline>
+<dateline>WASHINGTON 1996-09-03</dateline>
+<text>
+<p>A key gauge of economic activity posted a slight gain in July, the Conference Board said Tuesday, adding to signs the economy had considerable momentum as the second half began.</p>
+<p>The Index of Leading Indicators, which is supposed to forecast economic trends six to nine months ahead, rose by 0.2 percent after a 0.5 percent increase in June.</p>
+<p>It was a sixth consecutive monthly increase in the broad-based gauge of national activity and fit with other recent reports showing the economy was slowing only gradually after the strongest second-quarter expansion in two years.</p>
+<p>The index measures a basket of economic indicators, from unemployment benefit claims to building permits. Six of its 11 components were stronger in July, while five weakened from June.</p>
+<p>The signals of rising activity during July were led by higher commodity prices, fewer new claims for unemployment benefits and more consumer goods orders.</p>
+<p>In addition, contracts and orders for plant and equipment increased from June, there were more applications for building permits and stronger consumer expectations for the future.</p>
+<p>The five negative indicators included a shorter average workweek, lower stock prices and faster vendor deliveries. In addition, order backlogs were smaller than in June and the money supply was lower, the Conference Board said.</p>
+<p>Growth in the national economy surged at a 4.8 percent annual rate in the second quarter -- the strongest performance since the second quarter of 1994, when it expanded at a 4.9 percent rate.</p>
+<p>Though most analysts say the rate of expansion is decelerating, they say it remains an open question whether it is losing steam rapidly enough to head off interest-rate rises by the Federal Reserve later this year in a bid to keep inflation pressures under control.</p>
+<p>The Fed's policy-setting Federal Open Market Committee next meets on Sept. 24 to set interest-rate strategy after opting to keep rates steady at its last meeting in August.</p>
+<p>There are indications the economy continues to expand briskly. Last week, the Commerce Department reported a strong 1.8 percent increase in factory orders during July and a 7.9 percent jump in July new-home sales, as strong job growth fuelled consumer confidence about the economy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

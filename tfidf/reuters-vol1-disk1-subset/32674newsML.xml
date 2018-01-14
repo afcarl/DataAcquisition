@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32674" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: US stock index futures end higher after late rally.</title>
+<headline>US stock index futures end higher after late rally.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>U.S. stock index futures ended higher after a late rally driven by locals pushed September Standard &amp; Poor 500s above their overnight highs, traders said.</p>
+<p>September S&amp;Ps rose above the GLOBEX high of 656.75 late, but failed to close above that level, on local short-covering, they said.</p>
+<p>&quot;There are attempts to make one last move to the upside,&quot; one trader said, referring to the market's bounce from last week's sell-off. He pegged resistance at the 660.00 level and at the 100-day moving average at 662.35.  </p>
+<p>The spread between September and December S&amp;Ps widened to 6.00 points, indicating that longer term the market was more optimistic that prices would rally later in the year, one analyst said.</p>
+<p>Earlier in the day the spread had narrowed to 5.85, which signalled that the market was growing more cautious about a correction later in the year. The analyst said the lack of aggressive roll-overs ahead of the expiration of September on September 19 also underlined market concerns that S&amp;Ps would correct another five percent by the end of the year.  </p>
+<p>Spreading in Nikkei futures continued to remain active, as September Nikkeis expire a week before September S&amp;Ps. Nikkeis failed to find local short-covering and remained on the defensive.</p>
+<p>Traders also said the firmer tone in the Nasdaq may have contributed to the late run-up in S&amp;Ps, which had been hamstrung for most of the day by hedge fund selling and a weaker bond market.</p>
+<p>&quot;S&amp;Ps seem to be playing catch up with Nasdaq,&quot; one floor trader said.  </p>
+<p>At the end of pit trade, September S&amp;Ps were up 0.75 at 656.60, New Composites were up 0.40 at 352.80, KBT Value Lines were up 1.85 at 619.15, December Nikkeis were off 65.0 at 20,165, Midcap 400s were up 0.65 at 232.00 and Nasdaq 100s fell 1.10 at 668.50.</p>
+<p>Derivatives Desk 312-408-8750;E-mail derivatives@reuter.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

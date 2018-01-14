@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32270" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Dole campaign airs new ad pushing tax cuts.</title>
+<headline>Dole campaign airs new ad pushing tax cuts.</headline>
+<dateline>DES MOINES, Iowa 1996-09-04</dateline>
+<text>
+<p>Republican presidential candidate Bob Dole's campaign Wednesday unveiled a new television ad pushing his tax-cut plan, saying Americans &quot;shouldn't have to apologize&quot; for wanting to keep their money.</p>
+<p>The advertisement, which will be broadcast in 17 states, also takes aim at President Clinton's record, claiming he passed the biggest tax hike in history.</p>
+<p>The spot opens with an announcer's voice criticizing the Clinton administration, saying: &quot;Stagnant wages. The largest tax increase in history. Two incomes needed to make ends meet. Americans deserve better.&quot;</p>
+<p>The announcer then turns to Dole's tax plan, built around a 15 percent across-the-board cut, saying: &quot;Cut wasteful spending. Balance the budget. A tax cut of $1,600 for the typical family.&quot;</p>
+<p>Dole himself appears, saying, &quot;You shouldn't have to apologize for wanting to keep what you earn. It's your money.&quot;</p>
+<p>The Republican candidate, who lags Clinton by double-digits in opinion polls, has used that line in a series of campaign appearances in the central and western parts of the country this week.</p>
+<p>On Wednesday, he visited a day-care center in Des Moines, Iowa, and was presented with a three-year-old's drawing of the number 15 -- which he held up as proof that even children are thinking about his tax cut plan.</p>
+<p>Dole flies later in the day to Wisconsin, Michigan and Ohio before returning to Washington Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131948" id="root" date="1996-10-21" xml:lang="en">
+<title>INDONESIA: Indonesian rupiah stable in slow late trading.</title>
+<headline>Indonesian rupiah stable in slow late trading.</headline>
+<dateline>JAKARTA 1996-10-21</dateline>
+<text>
+<p>The Indonesian rupiah was stable against the dollar in slow late trading on Monday as a raise in the central bank fixing failed to have much impact on the market, dealers said.</p>
+<p>&quot;The new fixing briefly pushed the dollar up, but it fell back again to earlier levels due to a lack of fresh factors,&quot; one European bank dealer said.</p>
+<p>The central bank, Bank Indonesia, raised its intervention rate by one point to 2,324.00/2,516.00 and the conversion rate to 2,324.00/2,372.  </p>
+<p>Dealers said the market had been slow since the opening in anticipation of the move.</p>
+<p>They said the central bank usually did not raise the fixing on Mondays, but surprising rises last week had prompted speculation of a one point rise in the afternoon.</p>
+<p>Dealers said foreign operators were generally staying on the sidelines due to a lack of fresh factors.</p>
+<p>Dealers said spot rupiah was last quoted at 2,323.90/24.00 against an opening of 2,323.50/24.50.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

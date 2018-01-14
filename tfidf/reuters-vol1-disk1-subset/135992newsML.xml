@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135992" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Cannon Express Q1 net falls.</title>
+<headline>Cannon Express Q1 net falls.</headline>
+<dateline>SPRINGDALE, Ark. 1996-10-23</dateline>
+<text>
+<p>CANNON EXPRESS INC.</p>
+<p>					  Quarter ended Sept. 30,</p>
+<p>					  1997		   1996</p>
+<p> Operating revenue	 $27,562,855	   $21,627,585</p>
+<p> Operating income	    1,696,477	     2,238,172</p>
+<p> Net Income			514,531		 889,196</p>
+<p> Operating ratio		   93.8%		   89.7%</p>
+<p> Total miles		  24,217,874	    19,431,384</p>
+<p> Empty mile %			13.5%		   14.7%</p>
+<p> Revenue per mile		  1.059		   1.081</p>
+<p> Revenue per loaded mile	 1.224		   1.270</p>
+<p> Average tractors		    902		     736</p>
+<p> Miles per tractor		26,849		  26,401</p>
+<p>Miles per tractor per</p>
+<p>  week				 2,065		   2,031</p>
+<p>Revenue per tractor</p>
+<p>  per week			   2,188		   2,197</p>
+<p> Loads per week		    2,125		   1,522</p>
+<p> Miles per trip			876		     982</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRINGDALE, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32249" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Wit Capital buys Global Trade software.</title>
+<headline>Wit Capital buys Global Trade software.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Private  Wit Capital Corp said it bought electronic trading software from  Global Trade Inc.</p>
+<p>The software seeks to enable direct electronic matching of buy and sell orders through the Internet.</p>
+<p>Wit said that Chris Keith, who owns Global Trade, will join Wit. Keith previously served as chief of technology at the New York Stock Exchange.</p>
+<p>Wit was started by Andrew Klein, who owns  Spring Street Brewing Co, a microbrewery that was brought public via the Internet last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

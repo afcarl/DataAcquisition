@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13202" id="root" date="1996-08-25" xml:lang="en">
+<title>PHILIPPINES: Filipino nuns offer prayers for Mother Teresa.</title>
+<headline>Filipino nuns offer prayers for Mother Teresa.</headline>
+<dateline>MANILA 1996-08-25</dateline>
+<text>
+<p>Filipino Roman Catholic nuns offered a day of prayers on Sunday for the recovery of Mother Teresa, the Nobel peace laureate now fighting for her life in a Calcutta hospital.</p>
+<p>&quot;We have asked all the houses of our congregation across the country to pray for her,&quot; said Sister Stephanos of the Philippine branch of the Missionaries of Charity, the religous order Mother Teresa founded 47 years ago to help the poor.</p>
+<p>The Philippine branch has about 150 nuns scattered in different parts of this predominantly Catholic country.</p>
+<p>Special prayers for Mother Teresa were also offered in masses around the capital Manila, said Sister Stephanos, who runs a charity house for the dying.</p>
+<p>Patients at the charity home, including those terminally ill with cancer, joined the nuns in praying for Mother Teresa at a Sunday morning mass, she said.</p>
+<p>Mother Teresa, 85, was admitted to a Calcutta hospital on Tuesday with malarial fever and severe vomiting. She is conscious but in grave condition, a hospital official said on Sunday. A problem with her heart is under control but the heart remains vulnerable, he said.</p>
+<p>The 85-year-old nun remained on a respirator in intensive care and was still being fed intravenously.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26155" id="root" date="1996-09-01" xml:lang="en">
+<title>SWITZERLAND: MOTOCROSS-WORLD 250CC CHAMPIONSHIP FINAL RESULTS/STANDINGS.</title>
+<headline>MOTOCROSS-WORLD 250CC CHAMPIONSHIP FINAL RESULTS/STANDINGS.</headline>
+<dateline>ROGGENBURG, Switzerland 1996-09-01</dateline>
+<text>
+<p>Results of the</p>
+<p>final round of the world 250cc motocross championships on</p>
+<p>Sunday:    First race</p>
+<p>1. Stefan Everts (Belgium) Honda</p>
+<p>2. Marnicq Bervoets (Belgium) Suzuki</p>
+<p>3. Frederic Bolley (France) Kawasaki</p>
+<p>4. Pit Beirer (Germany) Honda</p>
+<p>5. Tallon Vohland (U.S.) Kawasaki</p>
+<p>6. Yves Demaria (France) Yamaha</p>
+<p>Second race</p>
+<p>1. Bolley</p>
+<p>2. Bervoets</p>
+<p>3. Everts</p>
+<p>4. Demaria</p>
+<p>5. Beirer</p>
+<p>6. Werner Dewit (Belgium) Suzuki</p>
+<p>Overall on day:</p>
+<p> 1. Bolley	     35 points</p>
+<p> 2. Everts	     35</p>
+<p> 3. Bervoets	   34</p>
+<p> 4. Beirer	     24</p>
+<p> 5. Demaria	    23</p>
+<p> 6. Dewit		19</p>
+<p>Final provisional standings (after 13 rounds):</p>
+<p> 1. Everts				  390 points</p>
+<p> 2. Bervoets				381</p>
+<p> 3. Vohland				 346</p>
+<p> 4. Demaria				 253</p>
+<p> 5. Bolley				  240</p>
+<p> 6. Andrea Bartolini (Italy) Yamaha 230</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROGGENBURG, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

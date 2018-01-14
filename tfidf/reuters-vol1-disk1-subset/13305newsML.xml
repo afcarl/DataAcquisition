@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13305" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Gore says U.S. headed for balanced budget.</title>
+<headline>Gore says U.S. headed for balanced budget.</headline>
+<dateline>CHICAGO 1996-08-25</dateline>
+<text>
+<p>The United States is headed toward a balanced budget following four consecutive years of declining deficits during the administration of President Bill Clinton, Vice President Al Gore said Sunday.</p>
+<p>Speaking on ABC's &quot;This Week With David Brinkley&quot; show from Chicago, where the Democratic national convention starts Monday, Gore hailed the Clinton economic record.</p>
+<p>&quot;We have had faster growth in the private sector of our economy than under (former President) Ronald Reagan. We have had much lower inflation. The deficits have come down four years in a row for the first time since before the Civil War in a president's term. The debt, which was just ballooning out of control under the previous two administrations, has now been cut by 60 pct. We are on our way to a balanced budget,&quot; Gore said.</p>
+<p>The U.S. budget deficit is forecast by both the White House and Congressional Budget Office to fall to only about $116 billion in fiscal 1996, down from about $144 billion forecast in May and half the deficit level of four years ago.</p>
+<p>The U.S. economy grew at a rate of 4.2 percent in the second quarter although most economists expect that to slow later in the year. Inflation is moderate at less than four percent.</p>
+<p>Clinton has promised to balance the federal budget by 2002 but has been unable to reach agreement with the Republican majority in Congress on how to do it.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

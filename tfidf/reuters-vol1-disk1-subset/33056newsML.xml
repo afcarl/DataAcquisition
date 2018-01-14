@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33056" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: New issues on municipal calendar - updated 9/4/96.</title>
+<headline>New issues on municipal calendar - updated 9/4/96.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The following new issues were added to the municipal sales calendar:</p>
+<p>   AMOUNT	  ISSUER					 SECURITY     SALE DATE</p>
+<p>(,000 omitted)</p>
+<p> $2.000    Yalobusha Cty, Miss.				 GO	     9/9/96</p>
+<p> $97.910   Clark Cty, Nev.					GO	     9/10/96</p>
+<p> $5.000    Florence Cty SD 5, S.C.			    GO	     9/10/96</p>
+<p> $2.700    St. John the Baptist Parsh STD, La.	    GO	     9/10/96</p>
+<p> $1.800    Knightstown, Ind.				    REV	    9/10/96</p>
+<p> $1.700    Laurene-Marathon CSD, Iowa			 GO	     9/10/96</p>
+<p> $1.280    Cottonwood Cty, Minn.,  Taxable		  GO	     9/10/96</p>
+<p> $1.000    Florence Cty SD 5, S.C.			    GO	     9/10/96</p>
+<p> $1.675    Franklin, La.					  REV	    9/17/96</p>
+<p> $2.200    St. Mary Parish, La.				 GO	     9/25/96</p>
+<p> $1.460    Crittenden, Ky.					GO	     10/3/96</p>
+<p> $110.000  Portland Ore.					  GO	     10/8/96</p>
+<p> $6.000    Salem, Ore.					    GO	     10/9/96</p>
+<p>AMOUNT	   ISSUER				    SR. MANAGER     PRICING/AWARD</p>
+<p>(,000 omitted)</p>
+<p>    $12.500    Camden Cty Imp Auth, N.J.		E.A. Moos	    wk 9/3</p>
+<p>Competitive Note Sales</p>
+<p>AMOUNT	  ISSUER/TYPE						  SALE DATE</p>
+<p>(,000 omitted)</p>
+<p>NONE</p>
+<p>Negotiated Note Sales</p>
+<p>AMOUNT	  ISSUER					 SR.MANAGER  PRICING/AWARD</p>
+<p>(,000 omitted)</p>
+<p>--U.S. Municipal Information Group, 212-859-1826</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

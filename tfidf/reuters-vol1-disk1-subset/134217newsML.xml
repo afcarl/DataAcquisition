@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134217" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: India's ICICI 1st half 96/97 net lower. [CORRECTED 11:15 GMT]</title>
+<headline>India's ICICI 1st half 96/97 net lower. [CORRECTED 11:15 GMT]</headline>
+<dateline>BOMBAY 1996-10-22</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p>	     (in million rupees unless stated)</p>
+<p>    Net profit	    *2,663.0  vs   2,647.0</p>
+<p>(Corrects 1995 profit figure from 4,362.0.)</p>
+<p>    Total income	  17,730.0  vs  14,570.0</p>
+<p>    Total disbursals    45,440.0  vs  32,660.0</p>
+<p>Note: Industrial Credit and Investment Corporation of India Ltd said profit after tax for the six months to September 30, 1996 was net of extraordinary income and not comparable with the year ago. ICICI officials told Reuters the firm had changed its accounting practice in line with central bank requirements.</p>
+<p>Other figures were not immediately available.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

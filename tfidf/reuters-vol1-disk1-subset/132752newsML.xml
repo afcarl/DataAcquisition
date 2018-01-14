@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132752" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Genta to split into two companies.</title>
+<headline>Genta to split into two companies.</headline>
+<dateline>SAN DIEGO, Calif. 1996-10-22</dateline>
+<text>
+<p>Genta Inc said on Tuesday it plans to split into a focused drug delivery company and a separately funded company to develop a treatment to inhibit tumor growth in cancer patients.</p>
+<p>Genta said it is working with Forward Ventures, a San Diego-based venture capital firm, to seek funding for the new cancer company, which will work with Genta's proprietary Anticode technology.</p>
+<p>Genta said it plans to have significant ownership interest in the cancer company.  </p>
+<p>Genta said nine employees have been fired, effective October 16, but it intends to offer all nine employment in the new cancer company when it is formed.</p>
+<p>Genta said it will downsize its European operation, and its dermatology business will be sold. It also plans to sell its JBL unit.</p>
+<p>Genta said it is in negotiations with a potential buyer of JBL. Proceeds from any sale will be used for Genta's restructuring.</p>
+<p>The restructuring has included a reduction in general and administrative functions, Genta said, and its chief financial officer has resigned.</p>
+<p>Genta said it is seeking additional capital to strengthen its balance sheet and to cover certain expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

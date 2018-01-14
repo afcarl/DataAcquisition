@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133061" id="root" date="1996-10-22" xml:lang="en">
+<title>GABON: Cocoa producers agree output cut targets - minister.</title>
+<headline>Cocoa producers agree output cut targets - minister.</headline>
+<dateline>LIBREVILLE 1996-10-22</dateline>
+<text>
+<p>Cocoa ministers finalised agreement on Tuesday on output targets designed to cut world production by 90,000 tonnes over the next three years, Ivory Coast's commodities minister said.</p>
+<p>&quot;Member countries have each set a range of objectives with an average figure meeting the targets,&quot; Guy-Alain Gauze told Reuters at a two-day ministerial review in Gabon of the 1993 International Cocoa Agreement.  </p>
+<p>&quot;The figures match World Bank and IMF (International Monetary Fund) recommendations and are realistic,&quot; he said on Tuesday.</p>
+<p>The plan envisages cutting total output by 15,000 tonnes in 1996/97, by 30,000 in 1997/98 and by 45,000 in 1998/99.</p>
+<p>The 90,000-tonne cut was initiallly agreed at meetings in September of the International Cocoa Organization (ICCO), which groups producers and consumers.</p>
+<p>Some producers -- Malaysia, Ghana and Brazil -- had objected over differences between their own output projections and Cocoa Producers' Alliance (CPA) projections.</p>
+<p>Gauze said the deal, which aims to balance world supply and demand and protect producer economies, would be signed by Tuesday night.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GABON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ICST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100144">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIBREVILLE"/>
+<dc element="dc.creator.location.country.name" value="GABON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32212" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Pacific NW grain vessel weekly clearances.</title>
+<headline>Pacific NW grain vessel weekly clearances.</headline>
+<dateline>PORTLAND 1996-09-04</dateline>
+<text>
+<p>Exports by destinations for week ending August 29 in 000's bushels. -- USDA</p>
+<p>  Destination  White     HRW	  HRS	 Corn   Soybeans</p>
+<p>		   Wheat     Wheat	Wheat</p>
+<p> Japan	    959	1514	-----     ----    ----</p>
+<p> South Korea   1967	----	  356     ----    ----</p>
+<p> Philippines    318	----	 1594     ----    ----</p>
+<p> Peru	    ----	1758	-----     ----    ----</p>
+<p> Indonesia     2083	----	-----     ----    ----</p>
+<p>  Destination  White     HRW	  HRS	 Corn   Soybeans</p>
+<p>		   Wheat     Wheat	Wheat</p>
+<p>Singapore	----     -----	-----    -----    ----</p>
+<p>Tanzania	 ----     -----	-----    -----    ----</p>
+<p>Thailand	  243	 485	-----     2603     694</p>
+<p>Pakistan	 3479     -----	-----    -----    ----</p>
+<p>TOTALS</p>
+<p>This week	0949	3757	 1950     2603     694</p>
+<p>Week ago	 9118	1064	 2565	828	 0</p>
+<p> Year Ago	4308	2342	 2778    12305    3055</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

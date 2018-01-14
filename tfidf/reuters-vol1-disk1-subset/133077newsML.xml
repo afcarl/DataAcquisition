@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133077" id="root" date="1996-10-22" xml:lang="en">
+<title>MAURITIUS: Mauritius T-bills yield still rising in September.</title>
+<headline>Mauritius T-bills yield still rising in September.</headline>
+<dateline>PORT LOUIS 1996-10-22</dateline>
+<text>
+<p>Average yields from Mauritius treasury bill auctions continued on a general upward trend for the third consecutive month in September, the central Bank of Mauritius said on Tuesday.</p>
+<p>The overall weighted yield of treasury bills auctions climbed to 9.40 percent last September from 9.31 percent in August and from 9.13 percent in July, it said in a report.</p>
+<p>Economic analysts said the rise in treasury bills yield was in line with the rise in the country's inflation rate. Inflation for the financial year ending 30 June 1996 was posted at 5.8 percent while the ministry of economic planning recently made a 6.5-7.0 percent forecast for the calendar year 1996.</p>
+<p>In September, 2.68 billion rupees ($1 billion) of treasury bills were put on tender by the bank. It received 2.70 billion rupees of bids and accepted 2.05 billion rupees.</p>
+<p>With 1.66 billion rupees of bills maturing in September, net issue of bills amounted to 392 million rupees in that month.</p>
+<p>The central bank report said market preference switched from 182 day bills in August to 364 day bills in September.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT LOUIS"/>
+<dc element="dc.creator.location.country.name" value="MAURITIUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

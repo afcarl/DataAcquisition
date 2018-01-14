@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132158" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Tobishima ask-only despite restructuring plans.</title>
+<headline>Tobishima ask-only despite restructuring plans.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Shares of Tobishima Corp were ask-only in Monday morning trade, as investors were turning back after gains following last Friday's news that the firm had drawn up a restructuring plan, traders said.</p>
+<p>The share price of the general construction firm was ask-only at 421 yen at 0126 GMT, against its Friday close of 446 yen.</p>
+<p>Tobishima shares jumped on Friday, encouraged by a plan to restructure to try to solve its financial difficulties.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

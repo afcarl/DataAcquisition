@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136291" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: Australian sugar output may hit 6.0 m tns by 2001.</title>
+<headline>Australian sugar output may hit 6.0 m tns by 2001.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>Australian sugar production could rise to as much as 6.0 million tonnes in the next five years, the general manager of the Australian Sugar Milling Council said on Wednesday.</p>
+<p>&quot;There are increasing constraints, such as distance....but these are individual not government decisions,&quot; said John Desmarchelier at a seminar hosted by the International sugar Organization (ISO).</p>
+<p>&quot;I would think that the industry would progress towards production of six million tonnes,&quot; he said.</p>
+<p>Earlier, Desmarchelier said he expected Australian sugar output to rise to 5.30 million tonnes in the 1996 calendar year from 4.99 million in 1995.</p>
+<p>Asked how the Australian sugar industry, concentrated in Queensland, would fare with the expected increase in production if world market prices fell, he said: &quot;I'd think we're survive for a couple of years if the price fell to nine or eight cents a pound,&quot; referring to the New York No.11 futures contract.</p>
+<p>But if the price stayed under 10 cents a pound for too long, &quot;the industry would start to feel uncomfortable&quot;, he added. Nearby raw sugar prices are currently hovering around 10.60 cents a pound on the New York market.</p>
+<p>-- Jeremy Smith, London Newsroom +44 171 542 8064</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

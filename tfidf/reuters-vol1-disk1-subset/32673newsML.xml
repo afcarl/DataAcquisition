@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32673" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: API says U.S. crude stocks fell in week.</title>
+<headline>API says U.S. crude stocks fell in week.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>U.S. crude oil stocks held in primary storage fell 5.68 million barrels in the week ended Aug 30 to 313.15 million barrels from 318.82 million in the prior week, the American Petroleum Institute (API) said Wednesday.</p>
+<p>API said gasoline stocks fell 3.71 million barrels in the week to 192.82 million barrels from 196.53 million barrels. Distillate stocks rose 3.24 million barrels to 108.90 million from 105.65 million.</p>
+<p>It said reformulated gasoline stocks (RFG) rose 310,000 barrels to 37.89 million barrels from 37.58 million barrels in the previous week.  </p>
+<p>API said crude runs to processing units rose to 14.40 million barrels from 14.30 million barrels. Percent of capacity rose to 94.4 percent in the week from 93.8 percent.</p>
+<p>Residual fuel stocks in the latest week rose to 35.72 million barrels from 35.28 million in the previous week, and crude oil imports fell to 6.73 million barrels per day from 8.38 million, API said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133588" id="root" date="1996-10-22" xml:lang="en">
+<title>CYPRUS: Gulf Air drops New York route through Cyprus.</title>
+<headline>Gulf Air drops New York route through Cyprus.</headline>
+<dateline>NICOSIA 1996-10-22</dateline>
+<text>
+<p>Gulf Air will stop flying to New York via Cyprus with Cyprus Airways on October 25, a spokesman for the Cypriot national carrier said on Tuesday.</p>
+<p>The spokesman declined to say why the twice-a-week flights were cancelled.</p>
+<p>&quot;It is up to Gulf Air to say...for Cyprus Airways this route was successful and popular with tourists and the Cypriot community living in the United States,&quot; he said.</p>
+<p>Under terms of the deal, Airbus seats belonging to Gulf Air were sold by Cyprus Airways to its customers.</p>
+<p>&quot;Gulf Air said they will undertake a survey to see if the route can resume in future with smaller aircraft,&quot; the spokesman said, adding that Cyprus Airways was in touch with other airlines to negotiate a similar deal.</p>
+<p>-- Nicosia newsroom 357 2 365089</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

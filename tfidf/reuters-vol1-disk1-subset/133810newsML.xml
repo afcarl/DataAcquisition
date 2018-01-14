@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133810" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Sun lowers U.S. posted crude prices 25 cts/bbl.</title>
+<headline>Sun lowers U.S. posted crude prices 25 cts/bbl.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Sun Co said it lowered the price it will pay for U.S. crude oil by 25 cents a barrel, effective today.</p>
+<p>The decrease brings the new price for U.S. benchmark grade West Texas Intermediate to $24.00 a barrel, and West Texas Sour to $21.50 a barrel.</p>
+<p>Light Louisiana Sweet crude is now $24.00 a barrel, and Oklahoma Sweet is $24.00.</p>
+<p>-- New York Energy Desk, 212 859-1632</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

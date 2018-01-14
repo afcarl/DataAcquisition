@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135423" id="root" date="1996-10-22" xml:lang="en">
+<title>CHINA: China reiterates ban on loans for stock trading.</title>
+<headline>China reiterates ban on loans for stock trading.</headline>
+<dateline>SHANGHAI 1996-10-22</dateline>
+<text>
+<p>The China Securities Regulatory Commission has reaffirmed its ban on stock trading on credit, the China Securities Newspaper said on Tuesday.</p>
+<p>The newspaper said the regulator had discovered that some securities companies were still providing credit for their clients for stock trading, which is banned.</p>
+<p>It gave no details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

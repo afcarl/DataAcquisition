@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133382" id="root" date="1996-10-22" xml:lang="en">
+<title>COLOMBIA: Two Colombian brokerages suspended from trading.</title>
+<headline>Two Colombian brokerages suspended from trading.</headline>
+<dateline>BOGOTA 1996-10-22</dateline>
+<text>
+<p>Two Colombian brokerages have been suspended for possible illegal trading practices, according to a statement from the Bogota Stock Exchange.</p>
+<p>It identified the firms as Gabriel Ferrero &amp; Cia S.A. and Acciones y Valores S.A. and said their suspension had been ordered by stock regulators as part of a bid to &quot;preserve market stability and integrity.&quot;</p>
+<p>Brokers at both firms are suspected of involvement in unauthorized and irregular trading in government securities, the statement said. -- Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

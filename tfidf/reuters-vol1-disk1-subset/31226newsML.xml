@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31226" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: UK's Labour says no plans to up top rate of tax.</title>
+<headline>UK's Labour says no plans to up top rate of tax.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>The opposition Labour Party has not formulated plans to raise the top rate of income tax, party leader Tony Blair said on Wednesday.</p>
+<p>&quot;We have no proposals to raise the top rate of tax,&quot; Blair told BBC radio. &quot;When the government publishes their tax figures in the budget, we will make a considered response to that.&quot;  </p>
+<p>Blair said he wanted to see what state public finances were in at November's budget before making pledges on tax, adding that the size of the public sector deficit meant there were tough and difficult decisions to face.</p>
+<p>&quot;But what people will know is that when they go into the general election we will be absolutely clear with people what we're saying about the issue of tax.&quot;</p>
+<p>He was speaking before a Labour Party forum with UK business leaders, to be held in London on Wednesday.</p>
+<p>&quot;Today, we will be setting out proposals as to how we can assist business in the areas of skills and education, reforming our welfare system, better use and access to new technology, better transport infrastructure, how we help small businesses and how we play a more constructive role in Europe,&quot; Blair said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

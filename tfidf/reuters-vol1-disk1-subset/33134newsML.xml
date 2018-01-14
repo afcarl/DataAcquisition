@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33134" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Weekend U.S. Box Office Chart - Aug 30-Sept 2.</title>
+<headline>Weekend U.S. Box Office Chart - Aug 30-Sept 2.</headline>
+<dateline>LOS ANGELES 1996-09-03</dateline>
+<text>
+<p>Following are final data for the top 10 movies at the August 30-September 2 holiday weekend box office, according to Exhibitor Relations Co. Inc.</p>
+<p>    Film			   Four-Day Gross     Cumulative Gross</p>
+<p> 1. The Crow: City of Angels   $ 9,785,111	 $   ----</p>
+<p> 2. Tin Cup			  $ 8,978,243	 $ 35,915,817</p>
+<p> 3. First Kid			$ 8,434,651	 $   ----</p>
+<p> 4. A Time To Kill		 $ 7,088,005	 $ 91,956,706</p>
+<p> 5. The Island of Dr. Moreau   $ 6,460,769	 $ 18,610,650</p>
+<p> 6. Jack			     $ 5,868,624	 $ 45,791,569</p>
+<p> 7. Independence Day	     $ 5,537,238	 $281,937,276</p>
+<p> 8. A Very Brady Sequel	  $ 4,912,023	 $ 14,805,571  9. Emma			     $ 3,055,198	 $ 13,465,360</p>
+<p> 10 The Fan			  $ 2,506,322	 $ 16,647,427</p>
+<p>NOTE: &quot;The Crow: City of Angels&quot; and &quot;Emma&quot; are released by Miramax Films, a unit of Walt Disney Co..  &quot;Tin Cup&quot; and &quot;A Time To Kill&quot; are released by Time Warner Inc.'s Warner Bros. &quot;First Kid&quot; and &quot;Jack&quot; are released by Disney. &quot;The Island Of Dr. Moreau&quot; is released by New Line Cinema, a unit of Turner Broadcasting System Inc.. &quot;Independence Day&quot; is released by News Corp.'s  20th Century Fox. &quot;A Very Brady Sequel&quot; is released by Viacom Inc.'s Paramount Pictures. &quot;The Fan&quot; is released by Sony Corp..</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

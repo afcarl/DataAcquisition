@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134456" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Washington Water Power Q3 shr $0.30.</title>
+<headline>Washington Water Power Q3 shr $0.30.</headline>
+<dateline>SPOKANE, Wash. 1996-10-22</dateline>
+<text>
+<p>THE WASHINGTON WATER POWER COMPANY</p>
+<p>CONSOLIDATED COMPARATIVE STATEMENTS OF INCOME (UNAUDITED)</p>
+<p>		(Dollars in Thousands except Per Share Amounts)</p>
+<p>						    For the Twelve Months</p>
+<p>					3rd Quarter  Ended September 30</p>
+<p>				   1996     1995	1996	1995</p>
+<p> OPERATING REVENUES    $219,751  $157,869  $903,894  $705,131</p>
+<p>OPERATING EXPENSES:</p>
+<p>Operations and maintenance</p>
+<p>				135,804    84,856   502,523   353,876</p>
+<p>Administrative and</p>
+<p>  general (Note 1)	 19,322    14,844    71,877    64,481</p>
+<p>Depreciation and</p>
+<p>  amortization	     18,070    15,591    74,193    61,600</p>
+<p>Taxes other than income</p>
+<p>  taxes			10,928    11,013    47,642    48,251</p>
+<p>Total operating expenses</p>
+<p>				184,124   126,304   696,235   528,208</p>
+<p> INCOME FROM OPERATIONS  35,627    31,565   207,659   176,923</p>
+<p>OTHER INCOME (EXPENSE):</p>
+<p> Interest expense	(16,895)  (14,501)  (62,323)  (56,955)</p>
+<p>Net gain on subsidiary</p>
+<p>  transactions		6,850	   0    31,600    13,471</p>
+<p>Merger-related</p>
+<p>  expenses (Note 1)	 (303)	   0  (15,848)	   0</p>
+<p> Other -- net		    57	 944     (702)   (4,794)</p>
+<p>Total other income</p>
+<p>  (expense) -- net	10,291)</p>
+<p> NET INCOME		  18,364    10,885   101,860    81,208</p>
+<p>DEDUCT -- Preferred stock</p>
+<p>   dividend requirements  1,792     2,267     8,459     9,113</p>
+<p>INCOME AVAILABLE FOR</p>
+<p>   COMMON STOCK	    16,572     8,618    93,401    72,095</p>
+<p>Average common shares</p>
+<p>outstanding (thousands)</p>
+<p>				 55,960    55,363    55,906    54,773</p>
+<p>EARNINGS PER COMMON SHARE:</p>
+<p>				   0.30	0.16	1.67	1.32</p>
+<p>DIVIDENDS PER SHARE OF</p>
+<p>   COMMON STOCK		0.31	0.31	1.24	1.24</p>
+<p>SUPPLEMENTAL INFORMATION</p>
+<p>INCOME FROM OPERATIONS:</p>
+<p> Utility operations	12,284     8,194    75,775    66,863</p>
+<p> Non-utility operations   6,080     2,691    26,085    14,345</p>
+<p>Note 1:  During the third quarter of 1996, merger-related expenses were reclassified from operating expenses to non-operating expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPOKANE, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

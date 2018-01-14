@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20787" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Oil prices rally as hurricanes hit nervous market.</title>
+<headline>Oil prices rally as hurricanes hit nervous market.</headline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>World oil prices rallied strongly on Thursday on intensified concern about low inventories of heating oil and the hurricanes sweeping across the Atlantic.</p>
+<p>Brent crude oil futures for October delivery gained 47 cents to $20.74 per barrel by 1645 GMT, just 20 cents below a four-month peak touched earlier in August, and 28 percent higher than this time last year.</p>
+<p>Heating oil futures were the strongest of all the energy futures, hitting a four-month high of $198.50 per tonne in London for September delivery.</p>
+<p>&quot;The market is in short supply and inventories are below normal. While that is true it is valid to worry about supply side disruptions like hurricanes, and there is no reason why prices should not rise,&quot; said Geoff Pyne, oil analyst at investment bank UBS.</p>
+<p>Hurricanes Edouard and Fran were marching across the Atlantic on Thursday afternoon, prompting forecasters to issue warnings for the Leeward Islands of the Caribbean.</p>
+<p>Traders said they could affect the operation of Amerada Hess's huge oil refinery in St Croix, Virgin Islands.</p>
+<p>Edouard, packing maximum sustained winds of 125 mph, could also pose a risk to the U.S. Atlantic coast, although forecasters expected it to fade into the ocean before reaching the mainland.</p>
+<p>Oil company inventories of heating oil in the United States are 15 percent below last year, and dealers say consumer stocks in Germany, the key European heating fuel market, were around 10 percent below normal.</p>
+<p>But Pyne was not wholly convinced that the rally would last, noting that increased crude oil production in the North Sea and Iraq would, in the end, bring the market back down.</p>
+<p>Iraq is expected to begin exports of crude oil next month under a deal with the U.N. to pay for humanitarian aid. This could briong an extra 700,000 barrels per day onto the market -- the equivalent of the daily consumption of Australia.</p>
+<p>&quot;If you want to be pessimistic, you have to believe the supply demand forecasts. It's a bit like the boy that cried wolf, we have been expecting this extra supply but it has not yet happened.</p>
+<p>&quot;But all the signs are that it will happen, it's just a question of when.&quot;</p>
+<p>Crude oil prices in dollars per barrel,</p>
+<p>						    Aug 29	 Aug 27</p>
+<p>						    (1645 GMT)   (close)</p>
+<p>    Dated Brent				 $21.10	 $20.67</p>
+<p>    IPE London Brent futures (Oct)	$20.74	 $20.28</p>
+<p>    NYMEX light crude futures (Oct)     $22.23	 $21.71</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

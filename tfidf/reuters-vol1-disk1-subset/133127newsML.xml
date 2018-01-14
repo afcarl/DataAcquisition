@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133127" id="root" date="1996-10-22" xml:lang="en">
+<title>ROMANIA: RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</title>
+<headline>RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</headline>
+<dateline>BUCHAREST 1996-10-22</dateline>
+<text>
+<p>Radio Romania news headlines:</p>
+<p>* The government met for its weekly session to discuss Romania's efforts to obtain quick NATO admission and preparations ahead of November 3 general elections.</p>
+<p>* U.S. President Bill Clinton is expected to make an address in Detroit to announce the deadline he considers best suited for NATO to extend eastward. Officials said the date was likely to be 1999, when the Western defence alliance celebrates 50 years since its foundation.</p>
+<p>* The number of polling stations in the November elections exceeds by far that of observers accredited so far, representatives of Central Electoral Bureau said.</p>
+<p>* Romania needs to spend more on promoting its products on the U.S. markets, an official of the Romanian-American Chamber of Commerce said. -- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

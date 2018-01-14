@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133190" id="root" date="1996-10-22" xml:lang="en">
+<title>HUNGARY: Hungary Jan-Aug C/A deficit $1.066 bln.</title>
+<headline>Hungary Jan-Aug C/A deficit $1.066 bln.</headline>
+<dateline>BUDAPEST 1996-10-22</dateline>
+<text>
+<p>Hungary's accumulated current account deficit fell to $1.066 billion in the January-August period of 1996 from $2.284 billion in the same eight months of 1995, the National Bank of Hungary (NBH) said on Tuesday.  </p>
+<p>Hungary's accumulated trade deficit shrank to $1.762 billion in January-August 1996 from $1.934 billion in the same period of 1995, the NBH said in its monthly report.</p>
+<p>The central bank's reserves amounted to $9.7 billion at the end of August, up from $9.4 billion at the end of July, it said.</p>
+<p>Hungary's net foreign debt declined to $13.8 billion at the end of August from $14.4 billion at the end of July, the NBH said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18146" id="root" date="1996-08-28" xml:lang="en">
+<title>SINGAPORE: Singapore shares wobble in early trade.</title>
+<headline>Singapore shares wobble in early trade.</headline>
+<dateline>SINGAPORE 1996-08-28</dateline>
+<text>
+<p>Singapore shares wobbled in early trade on Wednesday. A fall in industrial output and poor IPC results pulled them down at the opening, but then interest in second liners pushed the key index back up, dealers said.</p>
+<p>The Economic Development Board attributed the fall in industrial output to a slowdown in the electronics sector, which grew by 2.2 percent in June compared to a 20.7 percent average expansion for the first five months in 1995.</p>
+<p>The key Straits Times Industrials Index bounced back from an early form to rise 4.28 points to 2175.73 at 0225 GMT.</p>
+<p>First half net profits at computer and electronics firm IPC fell 85 percent to Singapore $5.32 million. IPC was actively traded with 3.03 million shares, down S$0.035 at S$0.495.</p>
+<p>Clipsal and Elec &amp; Eltek International fell in sympathy, dropping S$0.04 and S$0.03 respectively.</p>
+<p>Causeway Investment was up again on takeover rumours, gaining S$0.06 to S$1.51 on a heavy 2.45 million shares.</p>
+<p>Market volume was a thin 17.31 million with advances leading the decliners by 61 to 51.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

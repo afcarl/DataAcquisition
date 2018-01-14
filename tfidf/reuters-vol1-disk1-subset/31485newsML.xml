@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31485" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Triple Crown hires adviser to mull options.</title>
+<headline>Triple Crown hires adviser to mull options.</headline>
+<dateline>MISSISSAUGA, Ontario 1996-09-04</dateline>
+<text>
+<p>Triple Crown Electronics Inc said on Wednesday it engaged a financial adviser to evaluate alternatives including the sale of a business division, a strategic acquisition, parnership or merger for the company to increase shareholder value.</p>
+<p>Triple Crown said First Marathon Securities Ltd was engaged to identify and evaluate alternatives to increase shareholder value and present to the Triple Crown board of directors one or more alternatives for consideration.</p>
+<p>-- Reuters Toronto Bureau  (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MISSISSAUGA, Ontario"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32947" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: Late bond market prices.</title>
+<headline>Late bond market prices.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>This is how major world bond markets were trading in late European business on Wednesday.</p>
+<p>GERMANY - Bund futures were little changed in dull trade as traders readied for a slew of German and U.S. data coming later this week. The September Bund future on the London International Financial Futures and Options Exchange (LIFFE) was trading at 97.15, down 0.05 from Tuesday's settlement price.</p>
+<p>BRITAIN - Gilt futures closed softer but still holding above support levels as players waited for the outcome of today's monthly monetary meeting, which was not expected to produce any change in official interest rates. The September long gilt future on LIFFE was trading at 106-28/32, down 2/32 from Tuesday's settlement price.</p>
+<p>FRANCE - Bond and PIBOR futures ended higher after a calm day of low trading volume in which market focus turned to Friday's U.S. August jobs report. The franc weakened after government figures showed that France gross domestic product shrank 0.4 percent in the second quarter. The September notional bond future on the MATIF in Paris settled at 123.28, up 0.12 from Tuesday's settlement price.</p>
+<p>ITALY - Bond and futures markets wallowed in negative territory at the end of an uninspired day's trading, with activity dying once the September LIFFE future expired earlier. The December bond future on LIFFE was trading at 114.72, down 0.19 from Tuesday's settlement price.</p>
+<p>UNITED STATES - U.S. Treasuries were lower in thin, lackluster midday trade as investors were mostly sitting on their hands, awaiting the release on Friday of a key payroll report for August. The September Treasury bond future on the Chicago Board of Trade was trading at 107-11/32, down 18/32 from Tuesday's settlement price. The long bond was quoted to yield 7.12 percent.</p>
+<p>JAPAN - The key December Japanese Government Bond futures contract ended higher in Tokyo, after briefly entering negative territory earlier on news of a second U.S. cruise missile attack on Iraq. In after hours trading the December future on LIFFE was trading at 120.66, up 0.07 from Tuesday's settlement price on the Tokyo Stock Exchange.</p>
+<p>EUROBONDS - Borrowers flocked to the new issues market, paying scant heed to the second U.S. missile attack on Iraq overnight. Kansai Electric Power led the way with a long expected $500 million 10-year offering at a 32 basis points spread over U.S. Treasuries, final pricing was due late via Banque Paribas and Merrill Lynch.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

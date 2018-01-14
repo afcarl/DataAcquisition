@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133711" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Avon Products profits up 13 percent.</title>
+<headline>Avon Products profits up 13 percent.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Avon Products Inc. said Tuesday its profits jumped 13 percent in the third quarter, thanks to double-digit cosmetic sales gains in the United States and overseas.</p>
+<p>The company said it earned $62.5 million, equal to 47 cents a share, vs. earnings of $55.2 million, or 41 cents a share, in last year's third quarter.</p>
+<p>Sales rose 10 percent to $1.18 billion from $1.07 billion.</p>
+<p>Following the results, Avon's stock gained $1.125 to $51.375 on the New York Stock Exchange.</p>
+<p>U.S. sales were up 10 percent and pretax profits climbed 13 percent in the quarter, while overseas sales rose 10 percent. Excluding currency translation, international sales increased 22 percent, and pretax profits rose 5 percent.</p>
+<p>&quot;We are particularly pleased with the strong performance of the U.S. and Latin America in the quarter, as well as with the rapid growth in the emerging markets of Asia Pacific and Russia,&quot; said James Preston, chairman and chief executive officer &quot;We're well on the way to our eighth consecutive year of increased sales and earnings.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

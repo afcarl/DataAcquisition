@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20857" id="root" date="1996-08-29" xml:lang="en">
+<title>JAPAN: Tokyo stocks end lower on concerns over economy.</title>
+<headline>Tokyo stocks end lower on concerns over economy.</headline>
+<dateline>TOKYO 1996-08-29</dateline>
+<text>
+<p>Tokyo stocks closed lower on Thursday, as concern about Japan's economic recovery lingered in the market following Wednesday's weak &quot;tankan&quot; data. Most buyers retreated to the sidelines, and the sluggish trade is expected to continue until September, brokers said.</p>
+<p>The key 225-share Nikkei average shed 156.65 points or 0.76 percent to end at 20,553.16, after drifting between 20,503.62 and 20,706.99. Its September futures lost 130 points to finish at 20,590.</p>
+<p>&quot;People are gauging where the bottom of the market is,&quot; said Kenzo Doi, senior analyst at Kokusai Securities Co Ltd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

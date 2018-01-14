@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132784" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: ProSource sets IPO terms.</title>
+<headline>ProSource sets IPO terms.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>ProSource Inc's initial public offering will comprise 3.4 million shares offered at $14 to $16 each, according to a company filing with the Securities and Exchange Commission.</p>
+<p>The Coral Gables, Fla., company is an independent foodservice distributor to chain restaurants including Burger King, Arby's, Wendy's, Red Loberster and TGI Friday. It has proposed to trade on the Nasdaq under the symbol &quot;PSDS.&quot;</p>
+<p>Lead underwriter Morgan Stanley said the offering is tentatively scheduled for the week of November 11.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

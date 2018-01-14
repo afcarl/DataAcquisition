@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134867" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Milan AEM power utility prepares for privatisation.</title>
+<headline>Milan AEM power utility prepares for privatisation.</headline>
+<dateline>MILAN 1996-10-22</dateline>
+<text>
+<p>Milan gas and electricity utility AEM on Tuesday formally becomes a joint stock company, or SpA, ahead of its privatisation and bourse listing due later this year.</p>
+<p>The utility, Azienda Energetica Municipale, has been valued at 1.9 trillion lire, a company source said.</p>
+<p>An advisor for the future share placing is expected to be named soon. The city aims to float some 49 percent of the company.</p>
+<p>AEM made a net profit of 70.1 billion lire in 1995 on a turnover of 1.02 trillion lire.</p>
+<p>Genoa's water and gas utility AMGA made its debut on the Milan bourse this week, the first Italian municipal utility to be floated.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

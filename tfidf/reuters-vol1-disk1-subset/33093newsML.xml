@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33093" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CBOT ammonia/DAP deliveries - Sept 4.</title>
+<headline>CBOT ammonia/DAP deliveries - Sept 4.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Delivery notices against September futures for September 4 (in contracts) --</p>
+<p>Anhydrous Ammonia - 1. Oldest long - August 26, 1996.</p>
+<p>Delivered - cargill investor services/c 1.</p>
+<p>Received - 1st option/c 1.</p>
+<p>Delivery locations - 1 at Sterlington, Louisiana (2010).</p>
+<p>Diammonium Phosphate - 2. Oldest long - August 29, 1996.</p>
+<p>Delivered - merrill lynch/c 2.</p>
+<p>Received - refco/c 2.</p>
+<p>Delivery locations - 2 at Port Manite, Florida (2080).</p>
+<p>Source: Chicago Board of Trade Clearing Corp.</p>
+<p>H=House account. C=Customer Account.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

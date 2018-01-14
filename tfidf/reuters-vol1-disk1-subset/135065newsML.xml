@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135065" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian/U.S. 10-yr spread hovers above 100.</title>
+<headline>RTRS-Australian/U.S. 10-yr spread hovers above 100.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>---------------------------------------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 83 (- 01)   102 (- 02) * FUTURES   61.5 (- 01.5)</p>
+<p> CAD	204 (+ 09)   108 (+ 07) * CASH	67   (UNCH)</p>
+<p> NZD	-36 (+ 19)    24 (+ 15) *</p>
+<p>---------------------------------------------------------</p>
+<p>Australian bonds kept to a fairly narrow range, although the underlying tone was fairly bullish, with the 10-year yield continually finding resistance at 7.50 percent and its spread to the U.S. pegged at 100 basis points.</p>
+<p>However, traders said both levels could be breached on Wednesday if the September quarter inflation report proves as benign as the market expects, although any sustained move is likely to hinge on the August quarter average weekly ordinary time earnings data on Thursday.  </p>
+<p>U.S. Treasuries were fairly subdued ahead of this week's supply of US$18.25 billion of two-year notes later today and US$12.5 billion of five-year notes on Wednesday, and in a virtually data-free week.</p>
+<p>Meanwhile, the local market was outpaced by both the Canadian and New Zealand debt markets.</p>
+<p>Canadian bonds finished strong on Monday after a weak retail sales report, which triggered speculation that the Bank of Canada could undertake a further 25 basis point easing in policy, particularly if its September quarter CPI proves low.  </p>
+<p>New Zealand bond yields fell yet again as the New Zealand dollar continued to power ahead, touching an eight-year high at one stage.</p>
+<p>--Colin Brinsden 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

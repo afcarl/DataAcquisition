@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32860" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Salomon hires two for Canadian expansion.</title>
+<headline>Salomon hires two for Canadian expansion.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Salomon Brothers announced two hirings for what it said was an expanded commitment to its Canadian business.</p>
+<p>Salomon Brothers, a unit of Salomon Inc, said it hired Jigme Shingsar who will be a vice president in the international capital markets group based in New York. Shingsar, who was hired from Nesbitt Burns Inc in Toronto, will assist with coverage of Canadian government clients and international agencies.</p>
+<p>Salomon also said it hired Terry McLaughlin, formerly with Citibank Canada, McLaughlin will be a vice president in fixed income sales assigned to the Toronto office. He will work with Canadian acocunts as well as accounts in the U.S. and overseas.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

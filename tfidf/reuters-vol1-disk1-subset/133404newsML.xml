@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133404" id="root" date="1996-10-22" xml:lang="en">
+<title>VENEZUELA: Venezuelan jail fire kills about 40.</title>
+<headline>Venezuelan jail fire kills about 40.</headline>
+<dateline>CARACAS 1996-10-22</dateline>
+<text>
+<p>About 40 prisoners were burnt alive early on Tuesday when a fire apparently caused by prison guards broke out in a Venezuelan jail, officials and human rights activists said.</p>
+<p>&quot;The version that the prisoners are telling me is that about 40 were burnt to death,&quot; activist Olimpia Hung told reporters outside La Planta jail on the southwestern outskirts of Caracas.  </p>
+<p>Justice Minister Henrique Meier agreed the number of deaths could be as high as 40. Asked in a telephone interview if the death toll could be that high, he told Reuters: &quot;Yes, it could be.&quot;</p>
+<p>The fire started when National Guardsmen closed off a wing of the prison and threw in tear gas canisters, Meier said.</p>
+<p>He said it was unclear why the guards had locked up the prisoners and an investigation would be launched into the cause of the fire.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

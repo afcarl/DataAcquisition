@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33102" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. says second Iraq attack successful.</title>
+<headline>U.S. says second Iraq attack successful.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>The second U.S. attack on Iraqi targets appears to have been a success, a White House official said on Wednesday.</p>
+<p>&quot;It appears to have been successful,&quot; deputy national security adviser Sandy Berger said on NBC Television's &quot;Today Show.&quot; He said that the Pentagon was still doing an overall assessment but &quot;the initial indications are positive.&quot;</p>
+<p>He was commenting on a second wave of American missile attacks on targets in southern Iraq aimed at knocking out Iraqi's air defense operations. He did not rule out further attacks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33125" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post page one - Sept 4.</title>
+<headline>PRESS DIGEST - Washington Post page one - Sept 4.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>The Washington Post carried the following stories on its front page on September 4:</p>
+<p>---</p>
+<p>WASHINGTON - The United States moved to further weaken Iraqi President Saddam Hussein's control of his own airspace, significantly enlarging the southern no-fly zone after firing 27 cruise missiles at Iraq's air defences.</p>
+<p>---</p>
+<p>WASHINGTON - The Clinton Administration issued surprisingly vague justifications for its cruise missile attack on Iraq.</p>
+<p>---</p>
+<p>WASHINGTON - Maryland Governor Parris Glendening fires back at critics, saying business executives had organised a meeting to discuss his job performance out of pique over his refusal to to grant them millions of dollars in state favours.</p>
+<p>---</p>
+<p>WASHINGTON - D.C.'s first day of school is orderly but stressful with classes starting late at some alternative sites.</p>
+<p>---</p>
+<p>MIAMI - The managers who monitor the health of the Everglades have reported some good news - the water is cleaner.</p>
+<p>---</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

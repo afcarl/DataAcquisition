@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135446" id="root" date="1996-10-22" xml:lang="en">
+<title>CHINA: Shanghai Cereals &amp; Oils Exchange to move to Pudong.</title>
+<headline>Shanghai Cereals &amp; Oils Exchange to move to Pudong.</headline>
+<dateline>SHANGHAI 1996-10-22</dateline>
+<text>
+<p>The Shanghai Cereals &amp; Oils Exchange will move to a new building in the Pudong development zone before the end of the year, the Shanghai Securities News said on Tuesday.</p>
+<p>The exchange's new home will occupy nine floors of the building and will include a trading floor with 250 seats and an advanced computer system, the newspaper said.</p>
+<p>The exchange, set up in the early 1990s, is presently situated in a building in central Shanghai.</p>
+<p>The Shanghai city government wants all financial institutions to move across the Huangpu River to the Pudong business district. The Shanghai Stock Exchange will begin to move its functions to Pudong from the middle of 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

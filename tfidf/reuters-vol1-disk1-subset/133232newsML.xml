@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133232" id="root" date="1996-10-22" xml:lang="en">
+<title>ARMENIA: Armenian GDP rises 4.2 pct in Jan-Aug.</title>
+<headline>Armenian GDP rises 4.2 pct in Jan-Aug.</headline>
+<dateline>YEREVAN 1996-10-22</dateline>
+<text>
+<p>Armenian gross domestic product in the first eight months of this year was 4.2 percent higher than a year earlier in inflation-adjusted terms, the National Statistics Committee said.</p>
+<p>GDP in January-July was 3.4 percent higher than a year earlier.</p>
+<p>    ARMENIA GDP			  JAN-AUG 96     JAN-JUL 96</p>
+<p>    year-on-year pct change	   +4.2	     +3.4</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARMEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YEREVAN"/>
+<dc element="dc.creator.location.country.name" value="ARMENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135537" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: French industrial output leaps in July/August.</title>
+<headline>French industrial output leaps in July/August.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>French industrial production rose strongly in July and August, helped by a surge in car output as people rushed to cash in on a government car sales incentive which expired at the end of September.</p>
+<p>National statistics institute INSEE said industrial output excluding energy, agri-food business and construction rose 2.9 percent in the two-month period from June after rising 0.3 percent in June compared to May. INSEE considers this figure the best gauge of manufacturing output in France.</p>
+<p>Manufacturing output was down 0.3 percent year-on-year.</p>
+<p>Industrial production, including energy and agri-food, but excluding construction, rose 1.9 percent from June and was unchnanged year-on-year.</p>
+<p>INSEE said most of the rise was due to a leap in car production, which rose 8.1 percent in July/August after a 4.4 percent rise in June.</p>
+<p>Sean Shepley, international economist at CS First Boston, said he was sceptical about whether the industrial production figures were indicative of any underlying strength.</p>
+<p>&quot;They will be helpful for the government in trying to persuade people things are getting better,&quot; he said.</p>
+<p>&quot;It shows there was a bit more activity, but it's only one figure. I'd prefer to see a trend,&quot; a futures trader at a French bank said.</p>
+<p>Consumer goods production rose a sharp 3.3 percent in the period, while semi-finished goods production rose 2.5 percent, helped by an increase in output in car-related metals and electronics.</p>
+<p>INSEE revised June industial production figures to show a drop excluding construction of 0.4 percent and a manufacturing ouput rise of 0.3 percent.</p>
+<p>INSEE had originally reported in July that June industrial output excluding construction fell 0.2 percent from May while manufacturing output was reported up 0.5 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

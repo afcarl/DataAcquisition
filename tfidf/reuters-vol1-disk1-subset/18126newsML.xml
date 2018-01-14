@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18126" id="root" date="1996-08-28" xml:lang="en">
+<title>CZECH REPUBLIC: Prague bourse steady as major shares quiet.</title>
+<headline>Prague bourse steady as major shares quiet.</headline>
+<dateline>PRAGUE 1996-08-28</dateline>
+<text>
+<p>Czech shares were mixed on the Prague Stock Exchange on Wednesday as the PX50 index closed unchanged at its year-high of 571.6.</p>
+<p>Banking stocks Komercni Banka and Ceska Sporitelna both dipped 10 crowns, but the losses were offset by strong gains to several broader issues.</p>
+<p>Overall on the market, advancers led decliners by 186 to 141, with 73 issues holding steady. Total volume was heavy at 1.1 million shares on turnover of 583.97.</p>
+<p>Glass fibre maker Vertex and Elektrarny Opatovice both gained more than 200 crowns, while fat processor Setuza firmed 97 crowns to 2,044.</p>
+<p>For Vertex, it was the second consecutive gain of 200 crowns or more, after experiencing a major correction over the past two weeks.</p>
+<p>Vertex has gained some 5,000 crowns in July, the result of a takeover battle between two investment funds, to peak at 7,204 before the correction which saw it fall below 5,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

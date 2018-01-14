@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32803" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Mellon names CEO for Maryland unit.</title>
+<headline>Mellon names CEO for Maryland unit.</headline>
+<dateline>PITTSBURGH 1996-09-04</dateline>
+<text>
+<p>Mellon Bank Corp said Wednesday Frederick Beard has been named chairman, president and chief executive of Mellon Bank (MD), Mellon's banking subsidiary headquartered in Rockville, Md.</p>
+<p>The company said he succeeds Kenneth Dubuque, who has been named to lead international business expansion efforts of Mellon Trust. The changes are effective October 1.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

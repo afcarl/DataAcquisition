@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136081" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Pride Petroleum Q3 diluted shr up.</title>
+<headline>Pride Petroleum Q3 diluted shr up.</headline>
+<dateline>HOUSTON 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary     $0.23		    $0.18</p>
+<p> Shr diluted     0.22		     0.18</p>
+<p> Net		 6,879		    4,633</p>
+<p> Revs		115,369		  67,144</p>
+<p> Avg shrs primary29,850		   25,708</p>
+<p> Avg shrs diluted36,429		   25,890</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary     $0.52		    $0.44</p>
+<p> Shr diluted     0.50		     0.44</p>
+<p> Net		 14,454		   11,227</p>
+<p> Revs		283,593		  198,512</p>
+<p> Avg shrs primary27,539		   25,280</p>
+<p> Avg shrs diluted33,518		   25,720</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

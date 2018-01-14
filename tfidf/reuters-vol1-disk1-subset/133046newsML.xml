@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133046" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: S.AFRICA'S MAKRO TO OPEN 60 MILLION RAND STORE.</title>
+<headline>S.AFRICA'S MAKRO TO OPEN 60 MILLION RAND STORE.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>Liquor, food and general merchandising store Makro will open a 60 million rand store in Port Elizabeth on Wednesday bringing its stores in South Africa to 11, the company said on Tuesday.</p>
+<p>Makro managing director Joe Owens said the store occupied 11,000 square meters and the 60 million rand included opening stock.</p>
+<p>&quot;Land, buildings, equipment, and opening stock will top 60 million rand to give Port Elizabeth citizens and adjacent areas the best in modern efficient and secure shopping,&quot; he said in a statement.</p>
+<p>Makro is celebrating 25 years in South Africa this month and contributes over 2.5 billion rand to Wooltru Ltd's Massmart Holdings' annual turnover.</p>
+<p>It has a workforce of 2,500.</p>
+<p>-- Johannesburg newsroom, +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

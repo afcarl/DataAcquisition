@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131707" id="root" date="1996-10-21" xml:lang="en">
+<title>FINLAND: Nokia wins $10 mln Indian order.</title>
+<headline>Nokia wins $10 mln Indian order.</headline>
+<dateline>HELSINKI 1996-10-21</dateline>
+<text>
+<p>Finnish telecoms group Nokia Oy said in a statement on Monday it had won an order for GSM Mobile Switching System worth about $10 million from India's Evergrowth Telecom Ltd for the state of Punjab.</p>
+<p>&quot;Nokia will deliver to India its DX 200 mobile switching centre, home location register, operation and maintenance centre and a short message service centre,&quot; Nokia said.</p>
+<p>-- Helsinki newsroom +35 89 6805 0247</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

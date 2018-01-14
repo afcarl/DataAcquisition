@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134121" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: German police launch raid against PKK suspects.</title>
+<headline>German police launch raid against PKK suspects.</headline>
+<dateline>STUTTGART, Germany 1996-10-22</dateline>
+<text>
+<p>German police launched a series of raids against suspected activists of the outlawed Kurdistan Workers' Party (PKK) on Tuesday, searching about 90 offices and houses across southern Germany.</p>
+<p>A state prosecutor in Stuttgart said two men were detained and numerous documents were confiscated in the sweep.</p>
+<p>Three suspected PKK leaders went on trial in Munich last week charged with a long list of crimes including murder.</p>
+<p>Investigators believe the PKK has been primarily responsible for a series of firebomb attacks over the last few years on Turkish shops and offices across Germany.</p>
+<p>The PKK, which has fought for 12 years for Kurdish independence or autonomy in southeastern Turkey, is banned in Germany. Ankara has called on Germany to deport Kurdish militants it says are responsible for the attacks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STUTTGART, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

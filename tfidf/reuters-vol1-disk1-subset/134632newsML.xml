@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134632" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: UK cable industry welcomes C&amp;W-led merger.</title>
+<headline>UK cable industry welcomes C&amp;W-led merger.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>The formation of a major new UK cable player from a group led by Cable &amp; Wireless was welcomed on Tuesday by British industry body the Cable Communications Association.</p>
+<p>The deal brings together C&amp;W's Mercury, British cable company Videotron, Bell Cablemedia and NYNEX CableComms and aims to provide integrated telecoms, information and entertainment services via a new company, Cable &amp; Wireless Communications.</p>
+<p>&quot;This is clear evidence of confidence in the future of the UK cable industry,&quot; a spokesman for the CCA told Reuters.</p>
+<p>&quot;The broadband fibre optic network being laid across the UK is the most advanced in the world for delivery to individual homes,&quot; he added.</p>
+<p>He said some six billion stg had already been invested in building the network and a further six billion stg of investment was planned.</p>
+<p>&quot;It works out at six million stg per day investment in building the national network,&quot; he said.</p>
+<p>He added that fibre optic technology had significant advantages over existing technology, traditionally copper technology used for telephony.  </p>
+<p>&quot;Cable telephony is making significant inroads into BT's business,&quot; he said.</p>
+<p>He said that &quot;60,000 subscribers are moving from BT to cable for telephone services&quot;, adding that on average it is 30 percent cheaper for customers to use cable.</p>
+<p>&quot;With digital broadcasting little more than a year away...the fibre optic network will be the most cost-efficient means of delivering a range of services to the home,&quot; he said.</p>
+<p>--London Newsroom +44 71 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

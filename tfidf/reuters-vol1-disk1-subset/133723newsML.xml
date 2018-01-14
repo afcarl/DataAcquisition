@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133723" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: NAFTA seen increasing U.S, Canada, Mexico ag trade.</title>
+<headline>NAFTA seen increasing U.S, Canada, Mexico ag trade.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>Trade between the United States, Canada and Mexico will continue to grow significantly over the next decade, due in large part to the North American Free Trade Agreement, the Agriculture Department said Tuesday in a report on the impacts of NAFTA on agricultural trade.</p>
+<p>USDA said that by 2005, intra-NAFTA trade between the United States, Mexico and Canada in agricultural products could reach $30 billion, up from about $19 billion in 1995.</p>
+<p>US purchases of Canadian wheat will likely rise as Canada focuses on its nearest market because of rising domestic transportation costs from growing areas to export ports.  </p>
+<p>USDA estimates that by 2005, the United States could import about 15 percent of Canada's wheat exports.</p>
+<p>Mexican coarse grain imports will increase very rapidly, to 10 million tonnes in 2005, to fill Mexico's growing demand for animal feeds. Corn, almost all from the United States, will supply over half the Mexican demand for coarse grains, with sorghum supplying the rest.</p>
+<p>One of the most important stories for intra-NAFTA trade is Mexico's rising animal feed needs, and its increasing demand for meat and poultry, said USDA.</p>
+<p>Mexican poultry and beef imports will both rise to over 200,000 tonnes by 2005, while pork imports willl total about 150,000 tonnes. The United States will supply nearly all of Mexico's meat imports, said USDA.</p>
+<p>The United States will emerge as a major meat exporter in the world, particularly in poultry and beef. By 2005, USDA estimates that the United States is expected to be competing with Australia as the largest beef exporter in the world, to have surpassed the EU as the largest pork exporter, and be exporting nearly four times more poultry than any other country.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

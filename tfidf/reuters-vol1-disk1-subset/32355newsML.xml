@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32355" id="root" date="1996-09-04" xml:lang="en">
+<title>PORTUGAL: Portuguese eight-month car sales up 5.3 pct.</title>
+<headline>Portuguese eight-month car sales up 5.3 pct.</headline>
+<dateline>LISBON 1996-09-04</dateline>
+<text>
+<p>The Portuguese Auto-Dealers Association (ACAP) announced the following new car registrations:</p>
+<p>    August  1996   13,505 vs 14,329 (down 5.8 pct)</p>
+<p>Jan/Aug 1996  153,112 vs 145,442 (up 5.3 pct</p>
+<p>First eight months by manufacturers's market share (percentage in brackets). Comparative figures refer to same period 1995):</p>
+<p>    Fiat	  22,470 (14.68) vs 22,930 (15.77)</p>
+<p>    Opel	  22,457 (14.67) vs 23,596 (16.22)</p>
+<p>    Renault     19,881 (12.98) vs 19,391 (13.33)</p>
+<p>    Ford	  15,386 (10.05) vs 12,870 ( 8.85)</p>
+<p>    Volkawagen  12,635 ( 8.25) vs 10,549 ( 7.25)</p>
+<p>    Peugeot	9,985 ( 6.52) vs 10,869 ( 7.47)</p>
+<p>    Citroen	8,844 ( 5.78) vs  7,460 ( 5.13)</p>
+<p>    Rover	  5,879 ( 3.84) vs  3,883 ( 2.67)</p>
+<p>    Honda	  5,294 ( 3.46) vs  5,089 ( 3.50)</p>
+<p>    Seat	   5,045 ( 3.29) vs  6,384 ( 4.39)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

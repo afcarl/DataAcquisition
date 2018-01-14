@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132764" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Datron Systems Q2 shr $0.06 vs $0.12.</title>
+<headline>Datron Systems Q2 shr $0.06 vs $0.12.</headline>
+<dateline>ESCONDIDO, Calif. 1996-10-22</dateline>
+<text>
+<p>Datron Systems Incorporated</p>
+<p>	     Consolidated Statements of Operations (Unaudited)</p>
+<p>		    (in thousands, except per-share amounts)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>				    September 30,     September 30,</p>
+<p>				1996	  1995     1996	  1995</p>
+<p> Net sales	     $14,620     $15,660  $27,077     $30,016</p>
+<p> Cost of sales	  10,711	10,730   19,712	19,726</p>
+<p> Gross profit	    3,909	 4,930    7,365	10,290</p>
+<p>Selling, general</p>
+<p>  and admin.	     2,991	 3,709    5,722	 7,403</p>
+<p>Research and</p>
+<p>  development		482	   704    1,040	 1,699</p>
+<p> Operating income	  436	   517	603	 1,188</p>
+<p>Interest expense - net</p>
+<p>			     (177)	  (15)    (294)	  (17)</p>
+<p> Income before taxes     259	   502	309	 1,171</p>
+<p> Income taxes		104	   175	125	   429</p>
+<p> Net income		  155	   327	184	   742</p>
+<p> Net income per share   0.06	  0.12     0.07	  0.28</p>
+<p>Average shares</p>
+<p>  outstanding	    2,681	 2,663    2,687	 2,656</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESCONDIDO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

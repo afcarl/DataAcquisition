@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33309" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRALIA: RTRS - Optus service reaches 96 pct of Australia.</title>
+<headline>RTRS - Optus service reaches 96 pct of Australia.</headline>
+<dateline>SYDNEY 1996-09-04</dateline>
+<text>
+<p>Australia's second largest telecommunications carrier, Optus Communications Pty Ltd, said on Wednesday its long distance service was now available to about 96 percent of the Australian population.</p>
+<p>The remaining four percent were unable to use Optus as they were still connected to rival Telstra Corp's older exchanges. These should be upgraded by mid-1997, Optus said in a statement.</p>
+<p>It said the introduction of its long distance service would be completed on Thursday when parts of regional Victoria and Tasmania gained access to the service.</p>
+<p>-- Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

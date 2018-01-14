@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32827" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Getty Petroleum Q2 shr $0.57 vs $0.20.</title>
+<headline>Getty Petroleum Q2 shr $0.57 vs $0.20.</headline>
+<dateline>JERICHO, N.Y. 1996-09-04</dateline>
+<text>
+<p>Condensed Consolidated Summary of Operations</p>
+<p>			    (Unaudited)</p>
+<p>			(In Thousands Except Per Share Data)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>					     July 31,	July 31,</p>
+<p>				     1996	1995     1996     1995</p>
+<p>  Revenues		    $230,065 $194,788 $436,575 $399,860</p>
+<p>Earnings before interest,</p>
+<p>taxes, depreciation  </p>
+<p>   and amortization	   19,274   12,154   18,486   22,898</p>
+<p>Earnings before income taxes</p>
+<p>and cumulative effect of</p>
+<p>   accounting change	  11,773    4,127    3,461    6,867</p>
+<p>Provision for income taxes</p>
+<p>				     4,604    1,616    1,457    2,700</p>
+<p>Earnings before cumulative</p>
+<p>effect of accounting change</p>
+<p>				     7,169    2,511    2,004    4,167</p>
+<p>Cumulative effect of accounting</p>
+<p>   change			     --	 --	 --    (794)</p>
+<p>Net earnings		   7,169    2,511    2,004    3,373</p>
+<p>Per share data: Earnings before cumulative effect</p>
+<p>   of accounting change	  .57	.20	.16	.33</p>
+<p>Cumulative effect of</p>
+<p>   accounting change		--	 --	 --    (.06)</p>
+<p> Net earnings per share	  .57	.20	.16	.27</p>
+<p>Weighted average shares   outstanding		   12,676   12,645   12,672   12,645</p>
+<p>NOTE: Full company name is Getty Petroleum Corp.</p>
+<p>Six-month figures for earnings before interest, taxes, depreciation and amortization include $7.5 million charge incurred during the first fiscal quarter following court ruling against Slattery Associates Inc, a construction subsidiary sold in 1989.</p>
+<p>Six-month profit margin figures include $2.3 million LIFO charge from higher product costs.</p>
+<p>1995 six-month net earnings restated to retroactively reflect $800,000 or $0.06 per share charge to earnings.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERICHO, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

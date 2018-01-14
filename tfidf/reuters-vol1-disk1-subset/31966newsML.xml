@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31966" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: Sembawang raises Pacific Internet stake.</title>
+<headline>Sembawang raises Pacific Internet stake.</headline>
+<dateline>SINGAPORE 1996-09-04</dateline>
+<text>
+<p>Sembawang Corp said on Wednesday it had raised its stake in Pacific Internet Pte Ltd (PI) through its subsidiary, Sembawang Media Pte Ltd.</p>
+<p>Sembawang Media purchased 1.5 million PI shares from ST Computer Systems and Services Ltd for a sum of Singapore $1.6 million.</p>
+<p>The purchase increased Sembawang Media's holding in PI from 50.01 percent to 74.99 percent and PI ceased to be an associate company of ST Computer.</p>
+<p>Sembawang Corp is a diversified marine-based conglomerate. Pacific Internet is an internet service provider.</p>
+<p>-- Singapore newsroom (65 8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

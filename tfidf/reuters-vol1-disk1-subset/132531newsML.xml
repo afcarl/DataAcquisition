@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132531" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Uniphase Corp Q1 net rises.</title>
+<headline>Uniphase Corp Q1 net rises.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-22</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>							 Three months ended</p>
+<p>							    September 30,</p>
+<p>							   1996	  1995</p>
+<p> Net sales					   $23,462    $12,793</p>
+<p> Cost of sales					12,208	6,974</p>
+<p> Gross profit					 11,254	5,819</p>
+<p>Operating expenses</p>
+<p>    Research and development		     1,627	  911</p>
+<p>    Royalty and license				409	  363</p>
+<p>    Selling, general, and administrative     4,450	2,632</p>
+<p> Total operating expenses			  6,486	3,906</p>
+<p> Income from operations			    4,768	1,913</p>
+<p> Interest and other income, net		    946	   48</p>
+<p> Income before income taxes			5,714	1,961</p>
+<p> Income tax expense				  2,114	  745</p>
+<p> Net income					    3,600	1,216</p>
+<p> Net income per share				 0.21	 0.12</p>
+<p>Number of weighted avg. shares used in per</p>
+<p> share amounts					17,493     10,664</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34350">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

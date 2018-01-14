@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133882" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: SoCal Edison fire-related outages minimal.</title>
+<headline>SoCal Edison fire-related outages minimal.</headline>
+<dateline>LOS ANGELES 1996-10-22</dateline>
+<text>
+<p>Fewer than 200 customers of Edison International's Southern California Edison Co were without power early Tuesday, compared with nearly 7,000 late Monday, a utility spokeswoman said.</p>
+<p>Strong desert winds and fire continued to buffet Southern California, but crews were working to clean smoke-contaminated power lines and replace downed poles and conductors, said spokeswoman Millie Paul.</p>
+<p>Edison said a total of 108,000 customers have been affected by outages ranging from a momentary blink of the lights to several hours.</p>
+<p>Fires have destroyed homes in the Lemon Heights area near Tustin, in Orange County, and burned hundreds of acres in the Calabasas and Malibu areas. Edison said it is cooperating with fire officials investigating these blazes.</p>
+<p>Paul noted that no major power lines have been affected by the fires</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

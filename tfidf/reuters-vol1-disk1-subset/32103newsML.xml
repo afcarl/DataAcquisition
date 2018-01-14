@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32103" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Clinton has benign cyst removed from neck.</title>
+<headline>Clinton has benign cyst removed from neck.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>U.S. President Bill Clinton underwent minor surgery on Wednesday to remove a small, benign cyst on the left side of his neck, a White House spokesman said.</p>
+<p>The surgery was performed under local anaesthetic at the White House by a dermatologist from the Bethesda Naval Hospital, Press Secretary Mike McCurry said.</p>
+<p>The 12-minute procedure will not affect Clinton's campaign trip to Florida on Thursday or other activities, McCurry said.</p>
+<p>Clinton had long been aware that the cyst needed to be removed, and he decided to have it done as soon as possible when it began to get bigger and bothered him when he shaved, his personal physician, Connie Mariano, told reporters.</p>
+<p>Dermatologist David Corbett, who performed the procedure, said the incision required two sutures, which would be removed in one week.</p>
+<p>Earlier this year Clinton's chief of staff Leon Panetta had said Clinton would probably have the cyst removed after the election. But McCurry said on Wednesday that it was removed now because it was more convenient.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

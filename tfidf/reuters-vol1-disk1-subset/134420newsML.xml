@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134420" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Standard Products Co Q1 profit vs loss.</title>
+<headline>Standard Products Co Q1 profit vs loss.</headline>
+<dateline>DEARBORN, Mich. 1996-10-22</dateline>
+<text>
+<p>Three Months</p>
+<p> Periods Ended Sept. 30				1996	1995</p>
+<p> Net sales					   $ 265,611  238,760</p>
+<p>Costs and expenses:</p>
+<p>   Cost of goods sold				240,319  229,355</p>
+<p>   Selling, general, administrative expenses  17,303   17,143</p>
+<p>   Net interest expense				3,247    3,733</p>
+<p>   Other (income) expense, net		     (701)	316</p>
+<p> Income (loss) before taxes on income	    5,443 (11,787)</p>
+<p> Provision for taxes on income		     4,046  (2,003)</p>
+<p> Net income (loss)				     1,397  (9,784)</p>
+<p> Earnings (loss) per common share		    .08    (.58)</p>
+<p> Average shares outstanding			 16,792   16,746</p>
+<p>Consolidated Earnings Summary (Unaudited) (000 omitted)</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

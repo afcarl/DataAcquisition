@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133293" id="root" date="1996-10-22" xml:lang="en">
+<title>CROATIA: Croatian stocks slightly lower in OTC trade.</title>
+<headline>Croatian stocks slightly lower in OTC trade.</headline>
+<dateline>ZAGREB 1996-10-22</dateline>
+<text>
+<p>Following is the closing report for Croatia's over-the-counter market in Varazdin, including its output for Osijek, for Monday, October 21.</p>
+<p>* Of twelve active stocks, two rose, seven fell and three were flat.</p>
+<p>* Volume higher at 4,588 units, turnover also up at 297,153 German marks.</p>
+<p>* Top loser was hotelier Suncani Hvar, falling 11.11 percent to 24 marks, with 714 shares traded.</p>
+<p>* Croatia Banka was the biggest of the only two gainers, up 5.26 percent to 40 marks, selling 558 shares.</p>
+<p>* The most actively traded was hotelier Arenaturist on volume of 847 shares, down 5.80 percent to 65 marks.</p>
+<p>-- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

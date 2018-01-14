@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31165" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: British beet test shows 84.9 grams/sugar per root.</title>
+<headline>British beet test shows 84.9 grams/sugar per root.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Following are details of the fifth British sugar beet test, carried out on Monday September 2 and issued by British Sugar Plc.</p>
+<p>			 5TH TEST 96     5TH TEST 95	 5-YR AVG</p>
+<p>SUGAR GRAMS/ROOT	84.9		 84.7		  94.8</p>
+<p>SUGAR CONTENT (PCT)   15.44		18.84		 17.51</p>
+<p>ROOT WEIGHT (GRAMS)  550.00	     450.00		542.00</p>
+<p>&quot;The crop has maintained an average growth rate and continues to be on course for an average result, helped by recent rainfall,&quot; British Sugar said in a release.</p>
+<p>--London newsroom, +4471 542 79 28</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

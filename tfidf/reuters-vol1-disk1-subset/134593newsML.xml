@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134593" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: OPTIONS-C&amp;W merger sparks flurry in options.</title>
+<headline>OPTIONS-C&amp;W merger sparks flurry in options.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>A surprise announcement from Cable &amp; Wireless detailing the company's plans to create a cable giant through a merger sparked a flurry of activity in C&amp;W options on Tuesday, dealers said.</p>
+<p>C&amp;W said it will merge its UK operations with those of Nynex CableComms and Bell Cablemedia to create a new company called Cable &amp; Wireless Communications in which C&amp;W will hold a controlling 52.6 percent stake.</p>
+<p>Most of the trading volume in C&amp;W options was in the January 460 calls, the January 500 puts and the January 500 calls.  </p>
+<p>With the shares surging, some options trades effectively created synthetic long positions through the sale of puts against the purchase of calls at the same strikes, dealers said.</p>
+<p>Volatility in the January 460 and January 500 calls rose to about 21 and 24 percent, respectively from 50-day historical volatility of about 16 percent, one dealer said.</p>
+<p>At 1418 GMT, C&amp;W shares were up 26p to 467p after having climbed as high as 476-1/2p earlier.</p>
+<p>Elsewhere, dealers noted another session of relatively heavy two-way business in options on B.A.T Industries.  </p>
+<p>Most of the trading volume was in the January 420 puts, where more than 800 lots traded. Dealers noted a single seller of 700 January 420 puts at 16p.</p>
+<p>Shares in B.A.T were up 1p to 423-1/2p, recovering after yesterday's 8-1/2p decline.</p>
+<p>-- Debra Sherman, London Newsroom +44 171 542 4026</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

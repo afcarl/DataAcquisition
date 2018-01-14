@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134791" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: FEATURE - Keeping track of mileage points.</title>
+<headline>FEATURE - Keeping track of mileage points.</headline>
+<byline>Michael Conlon</byline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>The Internet is crackling with new ways for business travelers to make airline reservations and buy tickets online, but there is evidence most people who dial up are only window shopping.</p>
+<p>&quot;Typically the industry standard is that only 8 to 12 percent of people who look actually book a flight,&quot; said Harris Turner, Indianapolis-based publisher of The Flyer's Edge. &quot;It's growing but it's just creeping up,&quot; he said.</p>
+<p>Turner is the developer of a World Wide Web site designed to help travelers keep track of points awarded in airline and hotel frequent traveller programmes. Eventually it may become a force in the online reservation world as well.</p>
+<p>Since its introduction nearly a year ago, about 27,000 travelers have registered to use the site, and about 1,000 more are joining each week, Turner said. The service is now owned by Biztravel.com Inc. but is operated by Turner.</p>
+<p>The site -- http://www.status.com -- allows a person to register with a password and user identifcation name of his or her choice and then list the code numbers of the programmes on which the site will collect information.</p>
+<p>The site began only with United's Mileage Plus and Marriott's Honoured Guest programmes. It has since expanded to include American, Northwest, Continental and Hilton with Delta and ITT Sheraton expected to join later this year and Westin close to coming aboard, Turner said.</p>
+<p>He said he hopes to have &quot;every major airline&quot; included in a matter of months. When the accounts listed total 300,000, which Turner thinks will happen in about a year, the system could become a force in online ticket sales, he said.</p>
+<p>The 100,000 accounts currently registered have a total value of about $150 million, Turner estimates, based on two cents per airline mile and one cent for each hotel point.</p>
+<p>Registering programmes on the site is free &quot;and we don't anticipate any fees,&quot; he said.</p>
+<p>Some of the mileage or point programmes are updated weekly, allowing the traveller to check for credit earlier than waiting for periodic statements mailed out by the airlines and hotels.</p>
+<p>The site makes it easier for travelers to make certain credit does not fall between the cracks. By one estimate, 30 percent of frequent flier miles never get credited because of the proliferating ways to earn credit.</p>
+<p>Those registered on the site receive e-mail on late-breaking airline ticket prices and promotions and other information. The various programmes also provide links to home pages operated by some of the airlines and hotels.</p>
+<p>-----</p>
+<p>Business travelers: Question, complaint or pet peeve? Send them to Away on Business, c/o Reuters, Room 1170, 311 S. Wacker Dr., Chicago 60606. Or via Internet E-mail Mike.Conlon(at)Reuters.com using the &quot;at&quot; sign on computer keyboards. We cannot promise personal replies but will try to address letters as space permits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

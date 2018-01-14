@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133224" id="root" date="1996-10-22" xml:lang="en">
+<title>CROATIA: Croatian average lending rate eases to 9.9 percent.</title>
+<headline>Croatian average lending rate eases to 9.9 percent.</headline>
+<dateline>ZAGREB 1996-10-22</dateline>
+<text>
+<p>Croatian average lending rate eased 20 basis points to 9.9 percent on Tuesday on meagre demand for kuna funds.</p>
+<p>Total settlements at 17.4 million kuna were far outstripped by 60 million kuna demand.</p>
+<p>Dealers said short term interbank loans ranged between 10 and 15 percent, while insurers' money remained flat at eight percent.</p>
+<p>The National Bank of Croatia's kuna midrate for Wednesady was slightly firmer at 5.4566 to the dollar and 3.5589 to the mark. -- Metka Jelenc, Zagreb Newsroom, 385-14557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132578" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: GM Canada strike may cost 100,000 units.</title>
+<headline>GM Canada strike may cost 100,000 units.</headline>
+<dateline>DETROIT 1996-10-22</dateline>
+<text>
+<p>The 19-day strike by Canadian automakers at General Motors Corp could cost the automaker about 100,000 units of straight-time production in North America, an analyst estimated on Tuesday.</p>
+<p>The calculation, by CSM Forecasting in Farmington Hills, Mich., assumes that all of GM's plants are operating by October 28 and does not include over-time production.</p>
+<p>&quot;There's going to be some ebb and flow,&quot; said Michael Robinet, managing director of CSM, an industry consulting firm. GM and the Canadian Auto Workers union said Tuesday they reached a tentative settlement on a new contract.  </p>
+<p>GM is expected to lose production of about 51,000 units in Canada, and 45,000 to 46,000 units in the United States, Robinet said.</p>
+<p>Of the 51,000 units in Canada, about 40 percent are GM's popular full-size C/K pickup trucks, which are made at GM's assembly complex in Oshawa, Ontario, he said.</p>
+<p>CAW President Buzz Hargrove told reporters during a press conference after the new pact was reached that GM could restart the Oshawa truck plant as soon as Wednesday night, after the deal is ratified.  </p>
+<p>Although inventories of the pickups were low, Robinet said GM may be able to recover sales quickly because demand for the vehicle has been starting to level off.</p>
+<p>GM car inventories were sufficient and the strike is not expected to hurt sales, he said.</p>
+<p>But new product launches could be hurt. Production of the new Buick Century had been scheduled to start at the Oshawa car plant on November 4. But the strike could push that back until the middle or end of November.  </p>
+<p>Production of the new Oldsmobile Cutlass and Chevrolet Malibu cars at GM's Oklahoma City, Okla. assembly plant will also be delayed another two to three weeks because of a parts shortage due to the strike.</p>
+<p>In addition to the 26,000 CAW workers on strike, GM has idled 19,931 workers at dozens of assembly and parts plants in the U.S. and Mexico.</p>
+<p>Had the strike been settled on Monday, Burnham Securities Inc analyst David Healy estimated the automaker would lose $150 million in after-tax profits. A strike at two Dayton, Ohio, brake plants in March cost $900 million.</p>
+<p>&quot;It's not a major disaster,&quot; Healy said. &quot;It's not of the magnitude of Dayton.&quot;</p>
+<p>The strike is also taking a bite out of suppliers to the auto industry. Lear Corp, a Southfield, Mich.-based maker of interior systems, estimates it has lost about $21 million in revenues, or $0.04 a share, said Jack Kirnan, an analyst at Salomon Brothers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

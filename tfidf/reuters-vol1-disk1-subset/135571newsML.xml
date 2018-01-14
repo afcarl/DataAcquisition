@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135571" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: Swiss unveil 1997 budget with 5.5 bln franc gap.</title>
+<headline>Swiss unveil 1997 budget with 5.5 bln franc gap.</headline>
+<dateline>BERNE 1996-10-22</dateline>
+<text>
+<p>Switzerland unveiled a 1997 federal budget on Tuesday that foresees a deficit of 5.5 billion Swiss francs despite cost-cutting measures that keep spending practically unchanged from 1996 levels.</p>
+<p>The budget draft, which must still be approved by parliament, assumes real economic growth of 1.5 percent and inflation of 1.5 percent, Finance Minister Kaspar Villiger said in an announcement, the text of which was released ahead of delivery later on Tuesday.</p>
+<p>The government proposed holding 500 million francs in reserve to be able to release these funds to spur growth if the economy does not rebound as expected, he said.</p>
+<p>He said Swiss overal level of indebtness will increase next year.</p>
+<p>&quot;Debts will surpass 90 billion francs and the debt ratio will climb to 25 percent (of GDP),&quot; Villiger said. No comparative figures were immediately available.</p>
+<p>The 1997 budget forecasts spending at 44.00 billion and revenues at 38.47 billion, producing a a shortfall of 5.53 billion. This compared with a 1996 deficit originally projected at 4.3 billion.</p>
+<p>It sees the deficit rising to 5.95 billion in 1998 and then narrowinging to 4.83 billion by 2000.</p>
+<p>Villiger said the 1997 draft budget walked the middle road of trying to reform state finances while taking the difficult economic environment into consideration.</p>
+<p>&quot;Given the unsatisfactory financial perspectives, a more restrictive budget course would have been warranted,&quot; he said. &quot;(But) the federal council decided to forego further spending cuts because it is aware of its responsibility for the business cycle.&quot;    -- Zurich newsroom +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

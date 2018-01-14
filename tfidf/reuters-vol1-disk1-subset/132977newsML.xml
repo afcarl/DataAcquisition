@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132977" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: British explorer to join Antarctic solo race.</title>
+<headline>British explorer to join Antarctic solo race.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>British explorer Sir Ranulph Fiennes set off from Britain on Tuesday to join a race to become the first man to cross the Antarctic on foot alone and without any material backup.</p>
+<p>Fiennes, 53, who aims to raise three million pounds ($4.5 milion) in aid of cancer research, will compete against four others, including Poland's Marek Kaminski.</p>
+<p>In 1995, Kaminski became the first person ever to walk to both the North and South poles in a single year.</p>
+<p>Two Norwegians and a Swiss will also join in the race across 1,800 miles (3,000 kilometre) of frozen wilderness, which starts on November 1 from Berkner Island, a part of Antarctica which lies off the southern coast of Chile.</p>
+<p>Fiennes, a former member of the Special Air Service elite commando unit, will have to drag 500 lb (227 kg) of supplies and equipment on a sledge in temperatures as low as -20C (-4F).</p>
+<p>&quot;I can only liken it to towing a legless bathtub filled with three large men over 1,800 miles of sand dunes,&quot; Fiennes said.</p>
+<p>The journey is expected to take nearly three months.</p>
+<p>Fiennes and a companion made a similar trek across Antartica in 1993, during which he lost a third of his bodyweight and nearly lost some toes due to frostbite.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AARCT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

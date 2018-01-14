@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135931" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Trenwick Group Inc Q3 net rises.</title>
+<headline>Trenwick Group Inc Q3 net rises.</headline>
+<dateline>STAMFORD, Conn. 1996-10-23</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>				    September 30,     September 30,</p>
+<p>				     1996     1995     1996	1995</p>
+<p>				 (in thousands except per share data)</p>
+<p> Net premiums written	$55,112 $50,455 $174,266  $150,378</p>
+<p> Net premiums earned	  55,008  43,200  156,075   131,362</p>
+<p> Net investment income	10,332   9,354   30,386    27,091</p>
+<p>Net realized investment</p>
+<p> gains				(21)     131	 18	 281</p>
+<p> Total revenues		 65,319  52,685  186,479   158,734</p>
+<p>Interest expense</p>
+<p> Total expenses		 54,191  42,652  153,743   131,195</p>
+<p> Net income			8,520   7,956   25,029    21,800</p>
+<p> Primary earnings per share   1.24    1.18     3.66	3.26</p>
+<p>Weighted average shares</p>
+<p> outstanding		     6,860   6,739    6,832     6,691</p>
+<p>Fully diluted earnings per share</p>
+<p>(assuming conversion of</p>
+<p>dilutive convertible</p>
+<p>  debentures):		    1.06    1.01     3.14	2.80</p>
+<p>Weighted average shares</p>
+<p> outstanding		     8,994   8,941    8,971     8,921</p>
+<p>NOTE: Trenwick's GAAP combined loss and expense ratios for the third quarter and for the nine months ended September 30, 1996, were 95.6 percent and 95.3 percent, respectively, compared with 95 percent and 96.1 percent for the same periods in 1995.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

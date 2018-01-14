@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132228" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRIA: Austria to issue new 15 bln ATS bond on Tuesday.</title>
+<headline>Austria to issue new 15 bln ATS bond on Tuesday.</headline>
+<dateline>VIENNA 1996-10-21</dateline>
+<text>
+<p>The following issue was announced by Austria's Kontrollbank (OKB) on Monday.</p>
+<p>ISSUER: Austrian Federal Financing Agency</p>
+<p>AMOUNT: 15 billion ATS</p>
+<p>MATURITY: July 15, 2006</p>
+<p>AUCTION DATE: October 22, 1996</p>
+<p>-- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

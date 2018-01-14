@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33191" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Creditors to get $165 million from Schneider.</title>
+<headline>Creditors to get $165 million from Schneider.</headline>
+<dateline>FRANKFURT 1996-09-04</dateline>
+<text>
+<p>Creditors of disgraced German real estate tycoon Juergen Schneider have moved closer to recovering a portion of funds owed them, Christoph Rueckel, Schneider's attorney said on Wednesday.</p>
+<p>Rueckel said that 245 million marks ($165 million) seized from Schneider in Switzerland should shortly be handed over to a trustee who is charged with repaying funds to creditors of the real estate investor when he went bankrupt and fled Germany in 1994.</p>
+<p>A Swiss judge involved in the fund seizure confirmed the attorney's statement, adding that transfer of the funds to a trustee will not take place until the middle of next week at the earliest to allow for an objection period to expire.</p>
+<p>Rueckel said Schneider and his wife Claudia had nothing against the fund transfer and hoped the creditors would get the money soon.</p>
+<p>&quot;Dr. Schneider will not use any means of legal address to block this positive decision for his creditors in Germany,&quot; the attorney said in a statement.</p>
+<p>Job Tilmann, spokesman for the Frankfurt public prosecutors office, said he would not obstruct a transfer of funds to the creditors.</p>
+<p>Schneider and his wife owe funds to about 50 banks, with the largest share owed to Deutsche Bank.</p>
+<p>The couple fled Germany in 1994 after their real estate empire collapsed, leaving behind around five billion marks in debt. After a global man hunt, Schneider and his wife were found in Miami in 1995 and were returned to Germany in February this year.</p>
+<p>Schneider is now in jail, awaiting his trial which should start around the end of the year. ($1=1.4846 Mark)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

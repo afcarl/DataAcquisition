@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133233" id="root" date="1996-10-22" xml:lang="en">
+<title>CZECH REPUBLIC: Survey shows Czech Social Dems with tiny lead-STEM.</title>
+<headline>Survey shows Czech Social Dems with tiny lead-STEM.</headline>
+<dateline>PRAGUE 1996-10-22</dateline>
+<text>
+<p>The Czech opposition Social Democrats (CSSD) have widened their thin lead over their conservative rival the Civic Democratic Party (ODS) ahead of November Senate elections, a poll released on Tuesday showed.</p>
+<p>The early October survey by the private STEM polling agency said 27.3 percent of the 1,556 Czechs polled suport the centre-left CSSD, up from 26.3 percent last month when the party first edged ahead of the ODS by 0.1 percentage point.</p>
+<p>The ODS, the senior party in the ruling coalition led by Prime Minister Vaclav Klaus, had 26.8 percent support, up from 26.2 percent last month.</p>
+<p>Voters will elect 81 members for the newly-established upper house of parliament, the Senate, in two rounds of voting starting on November 15, but will choose among individual candidates in a first-past-the-post system, not by party.</p>
+<p>A different poll released by the state-run Institute for Public Opinion Research (IVVM) released on Monday showed that the ODS led CSSD with 27 percent support and increasing their margin in that poll to two points from one point last month.</p>
+<p>Klaus' three-party coalition lost its large majority in parliament in June lower house elections, falling two seats short after a stronger-than-expected second place showing by the CSSD in a the proportionally-based vote.</p>
+<p>In the STEM survey, the little-reformed Communists (KSCM) polled third with 10.7 percent, followed by the junior coalition partners, the Christian Democrats (KDU-CSL) and Civic Democratic Alliance (ODA) with 8.2 and 7.9 percent respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

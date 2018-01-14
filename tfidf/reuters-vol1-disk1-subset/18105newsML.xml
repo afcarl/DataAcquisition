@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18105" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: IBM stock jumps; Salomon sees shares at $145.</title>
+<headline>IBM stock jumps; Salomon sees shares at $145.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The stock of International Business Machines Corp. jumped Wednesday after Salomon Brothers raised its recommendation on the world's biggest computer maker, setting a 12-month target price of $145 for the shares.</p>
+<p>In early trading, IBM was up $3.75 to $115.50 on active trading of more than 1.4 million shares on the New York Stock Exchange. Its current 52-week high is $128.875.</p>
+<p>John Jones, an analyst at Salomon, said he upgraded IBM to strong buy from buy, citing rising near-term confidence in the computer maker's fundamentals.</p>
+<p>He said his rising confidence in IBM's near-term prospects was tied in part to a series of announcements the company has scheduled for Sept. 10, which include a new version of the microprocessors used to power its core mainframe computer products. These chips are known as CMOS, or Complementary Metal Oxide Semiconductors.</p>
+<p>&quot;As of Sept. 10, they will have refreshed all of their major product lines during the last nine months,&quot; Jones said.</p>
+<p>IBM's strong gain helped boost the Dow Jones industrial average, which climbed as much as 16 points to 5,727 in early trading. The Dow was up 10 points at 5,722 at mid-morning, supported by IBM and shares of Philip Morris, which announced a hike in its quarterly dividend to $1.20 from $1.</p>
+<p>Philip Morris added 62.5 cents to $92.50 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

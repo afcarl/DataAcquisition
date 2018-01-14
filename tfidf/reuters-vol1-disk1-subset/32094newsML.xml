@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32094" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Kansas feedlot cattle market slow - USDA.</title>
+<headline>Kansas feedlot cattle market slow - USDA.</headline>
+<dateline>DODGE CITY 1996-09-04</dateline>
+<text>
+<p>Trade was very slow, with not enough slaughter steers or heifers confirmed for an adequate market test, USDA said. Inquiry and demand rather light. Sales confirmed on 600 slaughter steers and 100 mixed slaughter steers and heifers early Wednesday.</p>
+<p>Week to date 4,400 head confirmed mostly previously contracted or formulated cattle. Sales FOB feedlot net weights after 4 percent shrink.</p>
+<p>Slaughter steers - Dressed basis - Select and Choice 2-3 1200-1350 lbs 110.00, hot weights and delivered.</p>
+<p>Confirmed - 700 head.</p>
+<p>	  (Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DODGE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

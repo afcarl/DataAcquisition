@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32602" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Klamath to buy back five pct of shares.</title>
+<headline>Klamath to buy back five pct of shares.</headline>
+<dateline>KLAMATH FALLS, Ore. 1996-09-04</dateline>
+<text>
+<p>Klamath First Bancorp Inc said Wednesday its board of directors has approved the repurchase of up to 611,655 shares, five percent of the company's outstanding common stock.</p>
+<p>The stock repurchase has been approved by the Office of Thrift Supervision.</p>
+<p>The repurchase is expected to begin after Septemebr 9 and end October 5. The shares will be bought at market prices.</p>
+<p>Shares of Klamath closed at 14 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KLAMATH FALLS, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

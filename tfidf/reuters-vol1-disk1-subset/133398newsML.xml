@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133398" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: Brazil civil service reform votes delayed.</title>
+<headline>Brazil civil service reform votes delayed.</headline>
+<dateline>BRASILIA 1996-10-22</dateline>
+<text>
+<p>Leaders of government-allied parties in the Brazilian Congress on Tuesday agreed to put off a lower house panel vote on amendments to a bill reforming the civil service, chief whip Benito Gama said.</p>
+<p>Gama told reporters the vote on the 21 amendments had been delayed until Wednesday due to a lack of time.</p>
+<p>He also said government parties had agreed to withdraw any amendments proposed by their deputies, totalling seven.</p>
+<p>The panel last week approved the civil service bill, one of the key planks of the government's fiscal reforms, but left the voting on proposed amendments to later.</p>
+<p>The bill sets a $10,800 a month salary ceiling for public servants and allow states to sack staff if their payroll exceeds 60 percent of net annual receipts.</p>
+<p>It still has to pass through the Chamber floor twice before going to the Senate for two rounds of voting.</p>
+<p>-- Michael Christie, Brasilia newsroom 55-61-2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135974" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Multiple Zones Intl Inc Q3 net rises.</title>
+<headline>Multiple Zones Intl Inc Q3 net rises.</headline>
+<dateline>RENTON, Wash. 1996-10-23</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>			  For the nine months  For the three months</p>
+<p>			   ended September 30,  ended September 30,</p>
+<p>				  1995	 1996	1995	1996</p>
+<p> Net sales		 $155,720  $321,734  $ 58,677  $109,396</p>
+<p> Cost of sales	    135,126   276,819    50,904    93,875</p>
+<p>   Gross profit	    20,594    44,915     7,773    15,521</p>
+<p>Selling, general and administrative expenses</p>
+<p>				 17,304    31,558     6,326    10,436</p>
+<p>Income from operations</p>
+<p>				  3,290    13,357     1,447     5,085</p>
+<p> Other expense		  729     1,142	 276	 157</p>
+<p>Income before income</p>
+<p>  taxes			 2,561    12,215     1,171     4,928</p>
+<p>Provision for income taxes</p>
+<p>				    970     4,398	 444     1,726</p>
+<p>   Net income		 1,591     7,817	 727     3,202</p>
+<p>Fully diluted</p>
+<p>    earnings per share     0.16	0.67	0.07	0.24</p>
+<p>Shares used in</p>
+<p>computation of earnings</p>
+<p>  per share		  10,141    11,707    10,150    13,543</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RENTON, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132432" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Bancfirst Ohio Q3 net falls, with charge.</title>
+<headline>Bancfirst Ohio Q3 net falls, with charge.</headline>
+<dateline>ZANESVILLE, Ohio 1996-10-22</dateline>
+<text>
+<p>BANCFIRST OHIO CORP.</p>
+<p>				   FINANCIAL HIGHLIGHTS</p>
+<p>		(amounts in thousands, except for per share data)</p>
+<p>				     Quarter ended  Nine months ended</p>
+<p>					     September 30  September 30</p>
+<p>					   1996    1995    1996    1995</p>
+<p>Operating Summary</p>
+<p>   Net interest income	   $6,612  $4,490 $15,862 $12,906</p>
+<p>   Loan loss provision		316     206     926     608</p>
+<p>   Non-interest income	    1,584   1,515   4,586   3,852</p>
+<p>   Non-interest expense	   7,963   3,124  14,843   9,578</p>
+<p>   Income taxes (benefit)	 (129)     837   1,226   1,999</p>
+<p>    Net income			   46   1,838   3,453   4,573</p>
+<p> Income per share		    0.01    0.62    1.10    1.54</p>
+<p> Average shares outstanding     3,487   2,975   3,146   2,973</p>
+<p>NOTE - Third quarter earnings include after tax charges of $1.5 million for the one-time special assessment to recapitalize the Savings Association Insurance Fund (SAIF) and $200,000 for restructuring charges anticipated in connection with the consolidation of overlapping operations of the Company's banking and thrift subsidiaries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZANESVILLE, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

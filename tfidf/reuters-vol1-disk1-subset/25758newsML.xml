@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25758" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE RESULTS.</headline>
+<dateline>LONDON 1996-08-31</dateline>
+<text>
+<p>Results of English soccer matches</p>
+<p>on Saturday:</p>
+<p>Division one</p>
+<p> Bradford		1    Tranmere		 0</p>
+<p> Grimsby		 0    Portsmouth	     1</p>
+<p> Huddersfield	  1    Crystal Palace	 1</p>
+<p> Norwich		 1    Wolverhampton	  0</p>
+<p> Oldham		  3    Ipswich		  3</p>
+<p> Port Vale	     2    Oxford		   0</p>
+<p> Reading		 2    Stoke		    2</p>
+<p> Southend		1    Swindon		  3</p>
+<p>Postponed: Birmingham v Barnsley, Manchester City v Charlton</p>
+<p>Playing Sunday: Queens Park Rangers v Bolton </p>
+<p>Division two</p>
+<p> Blackpool	     0    Wycombe		  0</p>
+<p> Bournemouth	   1    Peterborough	   2</p>
+<p> Bristol Rovers	1    Stockport		1</p>
+<p> Bury		    4    Bristol City	   0</p>
+<p> Crewe		   0    Watford		  2</p>
+<p> Gillingham	    0    Chesterfield	   1</p>
+<p> Luton		   1    Rotherham		0</p>
+<p> Millwall		2    Burnley		  1</p>
+<p> Notts County	  0    York		     1</p>
+<p> Shrewsbury	    0    Brentford3</p>
+<p>Postponed: Walsall v Wrexham</p>
+<p>Division three</p>
+<p> Brighton		1    Scunthorpe	     1</p>
+<p> Cambridge United    0    Cardiff		  2</p>
+<p> Colchester	    1    Hereford		 1</p>
+<p> Doncaster	     3    Darlington	     2</p>
+<p> Fulham		  1    Carlisle		 0</p>
+<p> Hull		    0    Barnet		   0</p>
+<p> Leyton Orient	 2    Hartlepool	     0</p>
+<p> Mansfield	     0    Rochdale		 0</p>
+<p> Scarborough	   1    Northampton	    1</p>
+<p> Torquay		 2    Exeter		   0</p>
+<p> Wigan		   4    Chester		  2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

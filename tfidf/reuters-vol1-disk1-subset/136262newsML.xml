@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136262" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: Nws fixtures in sugar freight, but trend unclear.</title>
+<headline>Nws fixtures in sugar freight, but trend unclear.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>A string of cargoes were fixed in the sugar freight market but all were on subjects and business was scattered with no clear direction, shipbrokers said on Wednesday.</p>
+<p>Czarnikow Rionda fixed 14,000-17,000 tonnes bulk sugar from Rosario to USGulf or Atlantic for end October or early November.</p>
+<p>Lorico fixed 10,000 tonnes bagged sugar from Rio to the Egyptian Med for early November and Jean Lion had 5,000-6,000 bagged sugar Continent to Algeria for prompt loading.</p>
+<p>Jean Lion was also open to repeat 4,000 tonnes bagged prompt loading from the Continent to Algeria, brokers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

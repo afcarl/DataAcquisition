@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32658" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Mitchell sets Louisiana Chalk pipeline.</title>
+<headline>Mitchell sets Louisiana Chalk pipeline.</headline>
+<dateline>THE WOODLANDS, Texas 1996-09-04</dateline>
+<text>
+<p>Mitchell Energy &amp; Development Corp said it and Chesapeake Energy Corp plan to build a natural gas pipeline and gathering system in south-central Louisiana to move natural gas from Chesapeake's Austin Chalk Trend wells to Enron Corp's Eunice Plant in Acadia Parish.</p>
+<p>Mitchell said it and Chesapeake agreed in principle to form a joint venture to build a 40-mile, 20-inch pipeline and a 40-mile gathering system capable of handling up to 250 million cubic feet of natural gas daily.  </p>
+<p>In a separate action, Chesapeake and Enron have reached an agreement whereby Enron will expand its Eunice natural gas processing facility to handle Chesapeake's gas.</p>
+<p>Mitchell said construction of the pipeline is expected to be completed in the spring of 1997, with the first operational section completed by the end of this year.</p>
+<p>It said the expected cost of the first phase pipeline and gathering facilities is $25 million and has been named the Louisiana Chalk Gathering System.</p>
+<p>The completed pipeline will have sufficient capacity to move natural gas from wells drilled by Chesapeake and other third-party producers in Rapides, Allen, Evangeline, Avoyelles and St. Landry parishes to the Eunice area.</p>
+<p>&quot;Based upon our agreement with Chesapeake, we will immediately proceed to de-bottleneck Enron's Eunice Gas Processing Plant and Fractionator to accommodate the large increase in NGL volumes to be recovered from Chesapeake's gas,&quot; said Enron Liquid Services Corp.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE WOODLANDS, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

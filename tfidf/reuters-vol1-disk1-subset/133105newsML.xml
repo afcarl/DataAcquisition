@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133105" id="root" date="1996-10-22" xml:lang="en">
+<title>ZIMBABWE: PRESS DIGEST - Zimbabwe - Oct 22.</title>
+<headline>PRESS DIGEST - Zimbabwe - Oct 22.</headline>
+<dateline>HARARE 1996-10-22</dateline>
+<text>
+<p>These are the leading stories in Zimbabwe's state-owned Herald newspaper on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>- Junior doctors and nurses in the Zimbabwe capital Harare's health institutions on Monday went on strike, charging that the government had failed to meet several of their demands and was postponing negotiations for better working conditions.</p>
+<p>- The state-owned Post Office Savings Bank (POSB) has cut interest rates on savings and tax-free shares by up to 2.5 percent, a move that should see cheaper mortgages for homeowners and lower interest bills for the government's debt.</p>
+<p>- Zimbabwe's cellular mobile telephone service contract between the Posts and Telecommunications Corporation and Siemens International of Germany is expected to be signed in Harare on Tuesday.</p>
+<p>-- Harare Newsroom: +263-4 72 52 27/8/9</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

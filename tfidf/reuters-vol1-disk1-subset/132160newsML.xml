@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132160" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: New Zealander killed in Malaysia helicopter crash.</title>
+<headline>New Zealander killed in Malaysia helicopter crash.</headline>
+<dateline>KUALA LUMPUR 1996-10-21</dateline>
+<text>
+<p>A New Zealander was killed when a helicopter used to transport logs crashed in the remote interior of Malaysia's Borneo state of Sarawak, the national news agency Bernama reported on Monday.</p>
+<p>Chris Podjursky, 42, co-pilot of the Russian-made helicopter, was pronounced dead at Kapit Hospital in Sarawak after the crash on Sunday, Bernama quoted hospital sources as saying.</p>
+<p>The pilot, an unidentified Russian in his 30s, suffered head injuries and a fracture of the lower back spine. He was admitted to a hospital in the coastal town of Sibu, where he was reported to be in stable condition.</p>
+<p>The cause of the crash had yet to be ascertained, Bernama said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

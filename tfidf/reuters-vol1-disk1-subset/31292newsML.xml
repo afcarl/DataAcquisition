@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31292" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: US stocks seen confused, awaiting data,oil outlook.</title>
+<headline>US stocks seen confused, awaiting data,oil outlook.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>U.S. stocks were in for a directionless open on Wednesday, as Wall Street awaits a key jobs report due Friday and more information on the future of oil prices.</p>
+<p>Construction data, due at 1000 EDT/1400 GMT, could also move stocks and bonds.</p>
+<p>&quot;A follow through of yesterday's gains is really a matter of question,&quot; said Alan Ackerman, market strategist at Fahnestock and Co. &quot;The new element in the economic story is the prospect of rising oil prices.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

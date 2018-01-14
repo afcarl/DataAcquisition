@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134872" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: FORECAST-Italy seen issuing 44.25 trln lire BOTs.</title>
+<headline>FORECAST-Italy seen issuing 44.25 trln lire BOTs.</headline>
+<dateline>MILAN 1996-10-22</dateline>
+<text>
+<p>The Italian Treasury is expected to issue some 44.25 trillion lire of short-term bills (BOTs) and some 2.5 trillion lire of zero coupon certificates (CTZ) at its end-month auction, compared with 45.5 trillion lire of bills maturing, a Reuter poll showed.</p>
+<p>&quot;The Treasury is likely to continue its policy of issuing less six month paper&quot;, one analyst said.</p>
+<p>&quot;I see a shortfall of some 2.0 trillion lire compared with the paper that is due. We could start feeling the pinch of the budget and in October the cost of debt interest charges should have fallen by some 3.0 trillion lire,&quot; one analyst said.</p>
+<p>The Treasury will give details of the auction on Wednesday and will offer the paper on Monday October 28.</p>
+<p>Following are the analysts' forecasts (in trillion of lire):</p>
+<p>			    3-Mo Bot  6-Mo Bot  1-Yr   Tot BOT   CTZ</p>
+<p>    Maturing	     13.0	15.5     17.0   45.0	 =</p>
+<p>------------------------------------------------------------</p>
+<p>    Bank of America    12.50     15.0     16.5   44.00     2.5</p>
+<p>    Banca di Roma	12.50     15.0     16.0   43.50     2.0</p>
+<p>    Chase Manhattan    12.50     15.0     17.0   44.50     2.5</p>
+<p>    BCI		    12.75     15.0     17.0   44.75     2.5</p>
+<p>    Credito Italiano   13.00     15.0     16.5   44.50     2.5</p>
+<p>    Indosuez	     12.50     15.0     17.0   44.50     2.0</p>
+<p>    JP Morgan	    12.50     15.5     16.5   44.50     2.5</p>
+<p>    Prometeia	    12.00     15.0     17.5   44.50     2.0</p>
+<p>----------------------------------------------------------</p>
+<p>    Consensus	    12.50     15.0     16.75  44.25     2.5</p>
+<p>----------------------------------------------------------</p>
+<p>-- Milan newsroom ++392 66101412</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31806" id="root" date="1996-09-04" xml:lang="en">
+<title>COLOMBIA: Top Colombian judicial official urges extradition.</title>
+<headline>Top Colombian judicial official urges extradition.</headline>
+<dateline>BOGOTA, Colombia 1996-09-04</dateline>
+<text>
+<p>A top judicial official has said Colombia's constitutional ban on extradition should be lifted with retroactive effect so jailed drug lords can be sent to the United States.</p>
+<p>&quot;Needless to say, we favour the radical application of extradition,&quot; Deputy Prosecutor-General Adolfo Salamanca said in a speech late on Tuesday, arguing that a 1979 U.S.-Colombia extradition treaty remained in effect and took precedence over the ban Colombia's constituent assembly approved in 1991.</p>
+<p>&quot;It hasn't been overturned or annulled,&quot; Salamanca said, adding that there were no legal grounds to prevent jailed drug lords wanted in the United States from being put aboard U.S.-bound flights and locked up in American prisons.</p>
+<p>U.S. Attorney General Janet Reno made the same argument in June when she demanded the extradition of four leading drug lords including brothers Gilberto and Miguel Rodriguez Orejuela, the billionaire chieftains of the Cali drug cartel.</p>
+<p>But government officials say precedence should still be given to the constitutional ban, passed after drug lords fighting extradition mounted a bloody assassination campaign targeting politicians, police and journalists in in the late 1980s and early 1990s.</p>
+<p>Although a bill was presented in Congress on Monday formally calling for a lifting of the extradition ban, it was expected to fail without government support. President Ernesto Samper, who has been accused of financing his 1994 election campaign with millions of dollars in drug money, has not taken a public stance on the extradition issue.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA, Colombia"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

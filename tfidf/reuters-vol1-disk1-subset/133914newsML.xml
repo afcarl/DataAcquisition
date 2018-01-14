@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133914" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. may speed Bosnia troop withdrawal.</title>
+<headline>U.S. may speed Bosnia troop withdrawal.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>The United States may speed the withdrawal of 15,000 U.S. peacekeeping troops from Bosnia this year because of a delay in municipal elections there until next year, the Defense Department said on Tuesday.</p>
+<p>&quot;It is possible that there could be some acceleration in the redeployment,&quot; Pentagon spokesman Ken Bacon told reporters. But he stressed that current plans to have most of those troops out early next year remained in effect for now.  </p>
+<p>The statement was issued shortly after the head of the international mission organising Bosnia's postwar elections announced that municipal voting set for November would be postponed until next year because of &quot;continuing political problems.&quot;</p>
+<p>Bacon said he did not know yet exactly how the move would affect the international peacekeeping implementation force (IFOR) of more than 50,000 in Bosnia, which was originally scheduled to be removed by December 20. That deadline has already slipped into next year.</p>
+<p>The spokesman said that the election delay would be a factor considered by Washington and its allies in deciding whether to send a &quot;follow-on&quot; peacekeeping force into Bosnia next year, but no decision had been made.</p>
+<p>&quot;I'm saying that as of right now...our plans are unchanged and the IFOR forces are coming out. I anticipate they will come out on schedule, possibly ahead of schedule,&quot; Bacon said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32414" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: France decides it's time to stop changing clocks.</title>
+<headline>France decides it's time to stop changing clocks.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>France is to stop changing its clocks twice a year, Prime Minister Alain Juppe's office announced on Wednesday.</p>
+<p>&quot;The biennial change in the time is less and less understood by our fellow citizens and is of no economic interest,&quot; Juppe wrote to a member of parliament who serves on a commission studying the matter.</p>
+<p>The letter was made public by the prime minister's office.</p>
+<p>France must now decide when present practice will end and whether it will in future be consistently one hour ahead of Greenwich Mean Time, as it now is in winter, or two hours ahead, as in summer, Juppe aides said.</p>
+<p>The prime minister asked deputy Francois-Michel Gonnot to prepare recommendations on the matter within six months and to explain France's new position to the European Union.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

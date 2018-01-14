@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32861" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: NYMEX to raise crude oil futures margins.</title>
+<headline>NYMEX to raise crude oil futures margins.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>New York Mercantile Exchange said it will increase the margins on its light, sweet crude oil futures contract at the close of business Wednesday.</p>
+<p>Margins will be raised to $1,700 from $1,500 for clearing members, to $1,870 from $1,650 for members and to $2,295 from $2,025 for customers.</p>
+<p>Volatility in crude futures surged to above 40 percent from just over 20 percent two weeks ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

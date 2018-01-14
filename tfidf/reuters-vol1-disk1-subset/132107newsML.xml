@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132107" id="root" date="1996-10-21" xml:lang="en">
+<title>CHINA: Shanghai newspaper calls for private banks.</title>
+<headline>Shanghai newspaper calls for private banks.</headline>
+<dateline>SHANGHAI 1996-10-21</dateline>
+<text>
+<p>The official Business Newspaper called on Monday for the development of private banks and financial institutions to help China's private economy grow faster.</p>
+<p>China's fast-developing private firms still have difficulty getting loans from the state-owned banks which dominate the banking industry, the newspaper quoted an economist as saying.</p>
+<p>There are currently no private banks in China, although there are many small-scale private credit associations which have the right to take in deposits and make loans on a limited scale.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

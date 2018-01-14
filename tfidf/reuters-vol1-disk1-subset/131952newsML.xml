@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131952" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Japan NEC says computer chip price slide has ended.</title>
+<headline>Japan NEC says computer chip price slide has ended.</headline>
+<byline>Yuko Inoue</byline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Japan's NEC Corp said on Monday that a slide in computer memory chip prices had finally come to a halt, but too late to prevent it suffering sharply lower profits from the chip business this year.</p>
+<p>&quot;Prices of 16-megabit dynamic random access memory (DRAM) chips have stabilised,&quot; Hajime Sasaki, senior executive vice president of the top chip maker, told a news conference.</p>
+<p>&quot;We anticipate the price of 16-megabit DRAMs for volume users will stay above $10 in the second half of the current business year as demand for memories will continue to be strong,&quot; Sasaki said.</p>
+<p>Amid a supply glut following a worldwide slowdown in personal computer sales, prices of 16-megabit DRAM chips -- the current mainstay products used in PCs -- have nosedived more than 70 percent over the past ten months.</p>
+<p>Most chip makers, worried by lower profits as well as charges that they are dumping chips at below market prices, began to curtail production after prices hit $8 in some sections of the spot market.</p>
+<p>Sasaki said increased demand for PCs ahead of the Christmas season had provided the market with some relief, and there was now a supply shortage for some 16-megabit DRAM products.</p>
+<p>He said a large fall in prices was unlikely in the January-March quarter, despite analysts' predictions that the market could fall once again after the holiday season.</p>
+<p>He cited the Internet boom and increasing use of the memory-hungry Windows NT operating software as encouraging factors to boost demand for computer memories early next year.</p>
+<p>&quot;Last year, it was the Windows wave (that boosted demand for memories). I'm counting on the Internet wave this year,&quot; Sasaki said.</p>
+<p>However, NEC's semiconductor production is expected to fall six percent to 1.1 trillion yen ($9.7 billion) in the 1996/97 business year to the end of next March, due to a market downturn early in the year, he said.</p>
+<p>&quot;We will see a considerable decline in profit in the chip business,&quot; Sasaki said, but declining to give a specific profit forecast.</p>
+<p>In the April to September period, NEC suffered a four percent decline in the value of chip production against the year-earlier period, he said.</p>
+<p>NEC will revise downward its planned capital investment in the microchip business for the year to end-March 1997 to 190 billion yen ($1.68 billion) from the 210 billion yen ($1.85 billion) it originally estimated, Sasaki said. ($1=113 yen)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

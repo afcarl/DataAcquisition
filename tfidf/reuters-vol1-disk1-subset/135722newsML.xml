@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135722" id="root" date="1996-10-23" xml:lang="en">
+<title>SPAIN: SOCCER-SPANISH FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-SPANISH FIRST DIVISION SUMMARIES.</headline>
+<dateline>MADRID 1996-10-23</dateline>
+<text>
+<p>Summaries of games played in the Spanish first division on Wednesday.</p>
+<p>Real Sociedad 1 (Francisco de Pedro 26th pen) Celta Vigo 2</p>
+<p>(Loren Garcia 66th, own goal, Alexander Mostovoi 71st). 1-0. Attendance 17,000.</p>
+<p>Racing Santander 1 (Correa 78th) Deportivo Coruna 1 (Mickael Madar 51st). 0-0. 13,000.</p>
+<p>Oviedo 1 (Manel 13th) Real Betis 1 (Wojciech Kowalczyk 28th). 1-1. 16,000.</p>
+<p>Espanyol 2 (Nenad Pralija 51st, Javi Garcia 64th) Hercules 1 (Manuel Alfaro 79th, pen). 0-0. 16,000.</p>
+<p>Sevilla 0 Barcelona 1 (Luis Figo 78th). 0-0. 64,000.</p>
+<p>Atletico Madrid 1 (Juan Carlos Gomez 89th) Rayo Vallecano 3 (Guilherme 17th, Stjepan Andrijasevic 46th, Jesus Cota 71st).</p>
+<p>0-1. 30,000.</p>
+<p>Logrones 0 Valladolid 1 (Alen Peternac 14th). 0-1. 12,000.</p>
+<p>Compostela 1 (Lyuboslav Penev 48th) Athletic Bilbao 1 (Julen Guerrero 71st). 0-0. 7,000.</p>
+<p>Valencia 2 (Gabriel Moya 24th, Valery Karpin 66th) Sporting Gijon 1 (Ricardo Bango 37th). 1-1. 33,000.</p>
+<p>Tenerife 2 (Antonio Robaina 7th, Aurelio Vidmar 79th) Extremadura 1 (Antonio Lopez 41st). 1-1. 13,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

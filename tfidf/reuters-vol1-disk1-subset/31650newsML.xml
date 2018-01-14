@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31650" id="root" date="1996-09-04" xml:lang="en">
+<title>ALBANIA: Albania sees foreign interest in local minerals.</title>
+<headline>Albania sees foreign interest in local minerals.</headline>
+<dateline>TIRANA 1996-09-04</dateline>
+<text>
+<p>Albanian Energy and Mining Minister Abdyl Xhaja said on Wednesday increasing numbers of foreign companies were interested in investing in mineral exploration in Albania.</p>
+<p>&quot;There is a growing number of firms wishing to discover new geological resources in unexplored areas and they are also applying new technology in areas under exploration,&quot; Xhaja told a news conference. &quot;Geology is a new and most promising field.&quot;</p>
+<p>Xhaja, whose eight-month-old ministry covers the mining, oil and electricity sectors, also hailed a discovery by Canada's Nebex Resources of several minerals in Albania which could be exploited industrially.</p>
+<p>&quot;(Nebex) has invested $1.8 million so far,&quot; Xhaja said.</p>
+<p>He added Nebex had discovered nickel resources in the northern towns of Surroj and Nojen and was looking for gold in Kacinar, in the north, and Radomire, in the northeast.</p>
+<p>Xhaja said Albania had signed two contracts in July with other Canadian companies, which planned to invest $16 million in improved technology over a four-year period.</p>
+<p>He said other companies were evaluating nickel silicate and iron-nickel resources in the eastern Albanian areas of Korce and Pogradec.</p>
+<p>&quot;Initial results are encouraging and next year things might get to the second stage where technological tests could be carried out in a pilot scheme with a production capacity of 500-8,000 tonnes a year of nickel,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

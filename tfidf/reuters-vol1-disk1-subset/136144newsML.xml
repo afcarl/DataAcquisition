@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136144" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Unimed Pharmaceuticals Inc Q3 net higher.</title>
+<headline>Unimed Pharmaceuticals Inc Q3 net higher.</headline>
+<dateline>BUFFALO GROVE, Ill. 1996-10-23</dateline>
+<text>
+<p>Third Quarter		 Nine Months</p>
+<p>					     %			 %</p>
+<p>			    1996   1995  Change  1996  1995  Change</p>
+<p> Marinol sales	    2,089  1,599  31%   5,337  4,243  26%</p>
+<p> Other product sales	 --    322   --	--    990   --</p>
+<p> R&amp;D revenue		  310     82   --     555     82   --</p>
+<p>   Total revenue:	 2,399  2,003  20%   5,892  5,315  11%</p>
+<p> Cost of sales		856    887   --   2,354  2,301   --</p>
+<p>   Gross profit:	  1,543  1,116   --   3,538  3,014   --</p>
+<p> Admin/sales expenses     951    780   --   2,545  2,418   --</p>
+<p> R &amp; D			  488    291  68%   1,264    535  136%</p>
+<p>   Total oper expenses: 1,439  1,071  34%   3,809  2,953  29%</p>
+<p>Income/(loss) from operations</p>
+<p>				  104     45   --   (271)     61   --</p>
+<p> Interest income	   296    101  193%    756    321  136%</p>
+<p> Gain on trademark sale   --     --   --     200     --   --</p>
+<p>Gain on product rights sublicense</p>
+<p>				   --     --   --     311     --   --</p>
+<p> Other expenses	     (8)     --   --    (29)     --   --</p>
+<p> Income before taxes	392    146  168%    967    382  153%</p>
+<p> Income taxes		  --     --   --	 4    (8)   --</p>
+<p>   Net income:	     392    146  168%    963    390  147%</p>
+<p> Earnings per share     0.04   0.02  100%   0.11   0.06  83%</p>
+<p> Average shares	  9,242  7,170   --   8,764  7,005   --</p>
+<p>			    ($000s except per share data)</p>
+<p>	 Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUFFALO GROVE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

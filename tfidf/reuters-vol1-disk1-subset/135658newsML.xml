@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135658" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: CBOT official sees TOPS launch with CME in Q1 1997. [CORRECTED 24/10]</title>
+<headline>CBOT official sees TOPS launch with CME in Q1 1997. [CORRECTED 24/10]</headline>
+<dateline>CHICAGO 1996-10-23</dateline>
+<text>
+<p>(In October 23 CHICAGO item headlined &quot;CBOT official sees TOPS launch with CME in Q1 1997&quot; please read in first paragraph ... Trade Order Processing System ... instead of ... Total Order Processing System. Please read also that launch is of a &quot;common switch,&quot; not entire TOPS system, and that TOPS was developed by the CME, not by the exchanges jointly.)  </p>
+<p>The Chicago Board of Trade and Chicago Mercantile Exchange will implement a &quot;common switch&quot; for their Trade Order Processing System (TOPS) in the first quarter of 1997, Donald Karmizan, CBOT senior vice president of technology, said.</p>
+<p>The common switch will allow orders to be routed to floors of both exchanges from a variety of trading systems.</p>
+<p>&quot;Our plan is to create a user-friendly TOPS route interface,&quot; Karmizan told the Futures Industry Association annual conference here on Wednesday. &quot;We are targeting the first quarter of 1997 to deliver that capability.&quot;  </p>
+<p>He said TOPS would be flexible enough to meet future demands in both the open outcry and electronic trading environments. A CME spokeswoman said TOPS was developed by the CME and licensed to the CBOT in 1993.</p>
+<p>Karmizan said that while CBOT's Project A and CME's GLOBEX electronic trading systems were fairly successful, both exchanges were looking at alternative trading systems as well.</p>
+<p>&quot;The (CBOT and CME) are looking at different systems potentially in the future that will give them greater electronic trading capabilities to meet the demands of the marketplace,&quot; Karmizan said without elaborating.  </p>
+<p>He also said electronic order routing to the CBOT's trading floor would be used in conjunction with the hand-held audit trade recording device to meet the 90 percent accuracy standard mandated by Congress.</p>
+<p>&quot;Eventually, we see the hand-held device being expanded to deal with order delivery capabilities on the floor,&quot; Karmizan said.</p>
+<p>Both the CBOT and CME are still testing hand-held audit trail devices.</p>
+<p>Donald Serpico, CME executive vice president of operations, said the CME was looking at various off-the-shelf technologies for use in the devices.</p>
+<p>&quot;Basically, we (CME) are doing this (testing audit devices) for operational efficiency, and if it helps with the accuracy, fantastic,&quot; Serpico added. -Derivatives desk 312-408-8750;E-mail derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

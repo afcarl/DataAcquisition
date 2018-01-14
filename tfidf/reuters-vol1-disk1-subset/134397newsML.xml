@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134397" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Department 56 Inc Q3 shr $0.57 vs $0.84.</title>
+<headline>Department 56 Inc Q3 shr $0.57 vs $0.84.</headline>
+<dateline>MINNEAPOLIS, Minn 1996-10-22</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>			     Quarter Ended		39</p>
+<p>Weeks Ended</p>
+<p>		     Sept 28    Sept. 30	 Sept. 28   Sept. 30</p>
+<p>			 1996	 1995		1996	1995</p>
+<p>NET SALES	 $ 60,210   $ 77,033	 $194,483   $204,836</p>
+<p>COST OF SALES     25,408     33,461	   81,559     89,183</p>
+<p>Gross profit	 34,802     43,572	  112,924    115,653</p>
+<p>Selling, general, and</p>
+<p>administrative expenses  11,679     11,842   36,184     33,979</p>
+<p>Goodwill and trademark</p>
+<p>  amortization	    1,144	1,144	3,432	3,433</p>
+<p>Recovery of import duties,</p>
+<p> net			  (218)    (2,819)	(453)    (2,819)</p>
+<p>OPERATING INCOME	  22,197    33,405	73,761    81,060</p>
+<p>Interest expense	  1,744	2,761	4,590	7,244</p>
+<p>Other income, net	  (41)	 (11)	(372)	(245)</p>
+<p>INCOME BEFORE INCOME TAXES</p>
+<p>  AND EXTRAORDINARY ITEM    20,494     30,655   69,543  74,061</p>
+<p>INCOME TAXES		     8,198     12,415   27,817 29,995</p>
+<p>INCOME BEFORE EXTRAORDINARY</p>
+<p>  ITEM			    12,296     18,240   41,726 44,066</p>
+<p>EXTRAORDINARY CHARGE DUE TO</p>
+<p>  REFINANCING OF DEBT	    -	   -	  -    1,312</p>
+<p>NET INCOME (1)		$ 12,296   $ 18,240 $ 41,726 $42,754</p>
+<p>INCOME BEFORE EXTRAORDINARY</p>
+<p>  ITEM PER SHARE(1)	     $.57	 $.84    $l.92  $2.03</p>
+<p>NET INCOME PER SHARE(1)	 $.57	 $.84    $1.92  $1.97</p>
+<p>OPERATING CASH FLOW(2)    $ 23,826   $ 34,964  $78,838$ 85,938</p>
+<p>- (1)  Net income for the quarter ended Sept. 28, 1996, excluding the effect of $218 pretax recovery of import duties, was $12,166 or $0.56 per share.  Net income for the 39 weeks ended Sept. 28, 1996, excluding the effect of $453 pretax recovery of import duties, was $41,454, or $1.91 per share. (2)  Earnings before interest, income taxes, depreciation andamortization expenses</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS, Minn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

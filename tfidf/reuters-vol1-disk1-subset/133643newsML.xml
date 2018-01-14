@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133643" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: IMM currency futures finish near the daily highs.</title>
+<headline>IMM currency futures finish near the daily highs.</headline>
+<text>
+<p>Oct 22 - IMM currency futures finished near the daily highs. A late short-covering rally lifted most contracts to fresh session highs. Retail accounts were extremely short and were forced to cover positions when dollar hit sell stops. Dlr/mark hit sell stops at 1.5280 spot, or $0.6567 in Dec marks. -Derivatives Desk(312)408-8750/E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

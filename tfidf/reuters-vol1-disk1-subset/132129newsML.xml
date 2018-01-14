@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132129" id="root" date="1996-10-21" xml:lang="en">
+<title>THAILAND: Phatra Thanakit to issue Euroyen notes.</title>
+<headline>Phatra Thanakit to issue Euroyen notes.</headline>
+<dateline>BANGKOK 1996-10-21</dateline>
+<text>
+<p>Thailand's Phatra Thanakit Plc said on Monday it plans to issue five-year Euroyen Floating Rate notes worth 10 billion yen to foreign institutional investors.</p>
+<p>The notes are expected to be issued by March 31, 1997, Phatra Thankit said in a filing to the Stock Exchange of Thailand. It said it will seek an approval from relevant agencies.</p>
+<p>Phatra Thanakit is a leading finance and securities company.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

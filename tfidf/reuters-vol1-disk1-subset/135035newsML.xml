@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135035" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: LME - warehouse stock movements.</title>
+<headline>LME - warehouse stock movements.</headline>
+<text>
+<p>LONDON, Oct 22 - Latest LME warehouse stock changes are:</p>
+<p>copper down 13075, tin up 230, lead up 300, zinc down 1750, aluminium down 2875, nickel up 120, aluminium alloy down 320</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

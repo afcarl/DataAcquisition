@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26736" id="root" date="1996-09-02" xml:lang="en">
+<title>CANADA: MOTOR RACING-INDYCAR POINTS LEADERS AFTER VANCOUVER RACE.</title>
+<headline>MOTOR RACING-INDYCAR POINTS LEADERS AFTER VANCOUVER RACE.</headline>
+<dateline>VANCOUVER 1996-09-01</dateline>
+<text>
+<p>Top 10 IndyCar points leaders</p>
+<p>after the Vancouver grand prix on Sunday and with one race</p>
+<p>left in the series in Laguna Seca, California, on September 8:</p>
+<p> 1. Jimmy Vasser (U.S.)	     142 points</p>
+<p> 2. Michael Andretti (U.S.)	 128</p>
+<p> 3. Al Unser Jr (U.S.)		125</p>
+<p> 4. Alex Zanardi (Italy)	    110</p>
+<p>5. Christian Fittipaldi (Brazil) 107</p>
+<p> 6. Gil de Ferran (Brazil)	  104</p>
+<p> 7. Bobby Rahal (U.S.)		 96</p>
+<p> 8. Andre Ribeiro (Brazil)	   76</p>
+<p> 9. Greg Moore (Canada)		76</p>
+<p>10. Bryan Herta (U.S.)		 70</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

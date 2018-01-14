@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32426" id="root" date="1996-09-04" xml:lang="en">
+<title>SWITZERLAND: Top Swiss executives see pay rise in 1996.</title>
+<headline>Top Swiss executives see pay rise in 1996.</headline>
+<dateline>ZURICH 1996-09-04</dateline>
+<text>
+<p>Swiss managers had to make do without big pay rises in 1996 with the exception of a small circle of top executives at major companies whose compensation rose smartly, according to a study released on Wednesday.</p>
+<p>Top managers with overall responsibility for their companies saw their annual gross pay rise 15,000 Swiss francs on average to 220,000 francs, the study of 4,475 executives and specialists at 238 companies in Switzerland and Liechtenstein found.</p>
+<p>But the increase, which followed an average decline of 5,000 francs last year, was triggered primarily by fatter pay checks for the very top managers, the study found.</p>
+<p>It was conducted by Atag Ernst &amp; Young Consulting, the IHA Institute for Market Analysis, the GfM market research organisation, St Gallen University and the HandelsZeitung daily.</p>
+<p>Other managers saw their pay rise marginally if at all. Directors made an average 5,000 francs more at 155,000. Division heads also added 5,000 francs to 120,000, but department bosses saw their pay stagnate at 95,000 francs.</p>
+<p>Senior service-sector managers were best off, with their pay rising to 139,000 francs from 130,000. Executives at commercial firms earned an average 130,000, barely changed from 129,000, but manufacturers saw pay slump to 116,000 francs from 117,000.</p>
+<p>Company cars remained far and away the most popular fringe benefit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIECHT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

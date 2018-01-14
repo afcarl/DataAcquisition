@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132427" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Atria Communities Q3 pro forma EPS flat.</title>
+<headline>Atria Communities Q3 pro forma EPS flat.</headline>
+<dateline>LOUISVILLE, Ky. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Pro forma EPS     $     0.10		   $ 0.10</p>
+<p> Net			  1,212			972</p>
+<p> Revs			13,038		   12,178</p>
+<p> Avg shrs		  12,595		   10,095</p>
+<p>	   9 MONTHS</p>
+<p> Pro Forma EPS	    $0.32		   $ 0.26</p>
+<p> Net			  3,576		    2,603</p>
+<p> Revs			38,486		   35,442</p>
+<p> Avg shrs		  11,008		   10,095</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Net income excludes the effect of non-recurring charges related to the writedown of assets and refinancing of debt which reduced last year's reported Q3 net income by $506,000, or $0.05 per share.</p>
+<p>The full company name is Atria Communities Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOUISVILLE, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

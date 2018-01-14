@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132709" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Long Island Bancorp Q4 includes charges.</title>
+<headline>Long Island Bancorp Q4 includes charges.</headline>
+<dateline>MELVILLE, N.Y. 1996-10-22</dateline>
+<text>
+<p>Long Island Bancorp Inc said Tuesday that results for the fourth quarter of fiscal 1996 include the effect of a one-time SAIF insurance assessment of $18.7 million and the one-time costs related to the president's retirement of $0.05 per share.  </p>
+<p>In a release Tuesday the company said that excluding the effect of the charges, net income for the fourth quarter of 1996 would have been $10.1 million and primary and fully diluted earnings per share would have been $0.43.</p>
+<p>The company reported a net loss of $1.9 million and primary and fully diluted loss per share of $0.08 for the fourth quarter of 1996.</p>
+<p>For the 1995 fourth quarter, the company reported net income of $11.9 million and primary and fully diluted earnings per share of $0.47.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

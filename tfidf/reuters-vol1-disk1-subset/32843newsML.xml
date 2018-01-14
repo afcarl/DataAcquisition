@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32843" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CollaGenex submits Periostat application.</title>
+<headline>CollaGenex submits Periostat application.</headline>
+<dateline>NEWTOWN, Pa. 1996-09-04</dateline>
+<text>
+<p>CollaGenex Pharmaceuticals Inc said Wednesday it has submitted a New Drug Application to the U.S. Food and Drug Administration for Periostat, the first orally administered, systemically delivered drug for the treatment of periodontitis.  </p>
+<p>The company said the submission included clinically and statistically significant results of three Phase III clinical trials which demonstrated that administration of Periostat can reduce and reverse the progression of this chronic disease. The disease is characterized by the progressive loss of attachment between the gums and the teeth, ultimately resulting in tooth loss.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWTOWN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31811" id="root" date="1996-09-04" xml:lang="en">
+<title>PERU: Former U.N. head condemns U.S. attacks on Iraq.</title>
+<headline>Former U.N. head condemns U.S. attacks on Iraq.</headline>
+<dateline>LIMA, Peru 1996-09-04</dateline>
+<text>
+<p>Former U.N. Secretary General Javier Perez de Cuellar condemned on Wednesday the United States' attacks on Iraq as unjustifiable and likely to provoke a serious reaction.</p>
+<p>He said the relevant 1991 U.N. resolution only gave the United States a mandate to protect the Kurds in Iraq, not to carry out reprisal attacks.</p>
+<p>&quot;I can't seen any justification in this because the resolution does not mention at any point armed intervention,&quot; said Perez de Cuellar, a Peruvian, in a local radio interview.</p>
+<p>&quot;I speak with total frankness because this situation worries me, because it is going to have a pretty serious repercussion in the region now that the Arab countries have come out against it.&quot;</p>
+<p>Perez de Cuellar, who headed the United Nations between 1981 and 1991 and led an unsuccessful mission to Baghdad to try and avert the 1991 Gulf War, added that Iraqi leader Saddam Hussein remained a danger to regional stability.</p>
+<p>&quot;He is an extremely warlike man, amiable but totally sure he's in the right. In the case of Kuwait, he even got out maps to prove to me Iraq's rights,&quot; he said. &quot;He's a man who knows what he wants and gives the impression of wanting to impose that.&quot;</p>
+<p>Perez de Cuellar, 76, currently lives in Lima and leads the main opposition party Union For Peru.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA, Peru"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

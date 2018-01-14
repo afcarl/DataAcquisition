@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32105" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Groups urge IAEA to reject plutonium shipment rule.</title>
+<headline>Groups urge IAEA to reject plutonium shipment rule.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>Anti-nuclear groups on Wednesday urged the International Atomic Energy Agency to reject or defer new rules for transporting plutonium by air in casks the groups said might not survive a crash.</p>
+<p>The IAEA, a United Nations agency, was expected to approve new standards next week tightening existing rules for carrying radioactive material on airplanes.</p>
+<p>Greenpeace and the Washington-based Nuclear Control Institute complained about an exemption to the new standard that would allow plutonium in the form of mixed-oxide fuel to be moved in weaker casks that are used for land transport.</p>
+<p>The exemption was based on the view that plutonium mixed with uranium in pellets put into fuel rods, would not disperse as far in an accident as plutonium would in other forms.</p>
+<p>&quot;That's a totally unproved notion,&quot; said Nuclear Control Institute president Paul Leventhal. &quot;It's never been tested to the impacts and temperatures that would be encountered in a crash.&quot;</p>
+<p>The &quot;proposed air-shipment standards are built on a technical foundation of such low quality that their adoption would leave observers with no choice other than to call into question the basic competence and integrity of the IAEA,&quot; the Nuclear Control Institute said in letters last week to the 35 members of the IAEA board of governors in Vienna.</p>
+<p>The United States has a higher standard for shipping plutonium by air and has said it would ban IAEA-approved casks from its airspace but would not block the new rule.</p>
+<p>Britain flies plutonium mixed-oxide fuel to Switzerland and out of Belgium, and Japan was considering using flights under the new rule.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I15000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

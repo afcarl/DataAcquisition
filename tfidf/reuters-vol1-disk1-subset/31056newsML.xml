@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31056" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: Hong Kong stocks little changed in London.</title>
+<headline>Hong Kong stocks little changed in London.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Hong Kong stocks were little changed in London in featureless trading.</p>
+<p>The Hang Seng London Reference Index was off 1.85 points at 11,075.10 at 1346 GMT.</p>
+<p>&quot;There's no business. No one wants to go chasing stocks now,&quot; said one trader, noting that futures settled at a discount to the spot market in Hong Kong. The Hang Seng Index closed 119.77 points higher at 11,076.95.</p>
+<p>The lack of direction in the U.S. stock and bond market also tempered interest in Hong Kong stocks here, the trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

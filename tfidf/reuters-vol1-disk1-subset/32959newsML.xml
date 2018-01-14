@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32959" id="root" date="1996-09-04" xml:lang="en">
+<title>ISRAEL: Palestinians, Israelis to meet on franchising.</title>
+<headline>Palestinians, Israelis to meet on franchising.</headline>
+<dateline>TEL AVIV 1996-09-04</dateline>
+<text>
+<p>Israelis and Palestinians will meet in a few weeks to try to settle a dispute on franchises in Gaza and the West Bank, the Federation of Israeli Chambers of Commerce said.</p>
+<p>Dan Gillerman, president of the federation, will head the Israeli delegation. The Palestinian delegation will be led by Minister of Economy and Trade Maher Al-Masri.</p>
+<p>The meeting will address a dispute over a Palestinian arrangement to stop Israeli franchises of international companies from selling products in the West Bank and Gaza in order to encourage Palestinian companies to replace them.</p>
+<p>The new arrangement will take effect on October 1, the Palestinians said. The Palestinian Authority has already informed Tempo Beer Industries, the Israeli franchise of Pepsi Cola, and some other companies of the decision.</p>
+<p>Israel says the move would violate the 1994 economic accord which established a free trade area between Israel and the Palestinian self-rule areas.</p>
+<p>Mandi Barak, head of relations with Arab countries at the Israeli federation, said he had recently met Al-Masri to finalise the meeting and discuss solutions to the problem.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

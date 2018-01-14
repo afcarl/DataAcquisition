@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135418" id="root" date="1996-10-22" xml:lang="en">
+<title>TAIWAN: Taiwan TI-Acer in T$5.1 bln IC testing venture.</title>
+<headline>Taiwan TI-Acer in T$5.1 bln IC testing venture.</headline>
+<dateline>TAIPEI 1996-10-22</dateline>
+<text>
+<p>Taiwan semiconductor joint venture TI-Acer Inc said on Tuesday it would launch a T$5.1 billion venture to build an integrated circuits testing plant on the island to cope with rising memory chip demand in 1997.</p>
+<p>&quot;To cope with the rising demand for dynamic random access memory (DRAM) chips in 1997, our board meeting just decided to join in the venture,&quot; spokeswoman Ruth Pao told Reuters.</p>
+<p>Major partners include TI-Acer with 19 percent, Acer Inc 15 percent, Chiao Tung Bank 10 percent, China Development 10 percent, and the remainder by individual shareholders, Pao said.  </p>
+<p>TI-Acer is a venture between Texas Instruments and Taiwan computer giant Acer. Acer has a 48 percent stake, TI 33.34 percent and the rest is held by other investors.</p>
+<p>The integrated circuit venture, located in Taiwan's nothern town of Lungtan, would focus on memory chip testing, especially DRAMs, Pao said.</p>
+<p>&quot;Construction has already started, with completion seen in the third quarter of 1997,&quot; she said.</p>
+<p>By 1998, the plant's monthly testing capacity would be 10 million chips, she said.  </p>
+<p>TI-Acer, one of Taiwan's leading DRAM chipmakers, said in June that it was halting production of four-megabit DRAM chips because months of price-slashing had made it virtually unprofitable. It said it would focusing on production of 16-megabit chips instead.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

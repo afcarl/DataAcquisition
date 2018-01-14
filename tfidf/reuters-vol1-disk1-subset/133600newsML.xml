@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133600" id="root" date="1996-10-22" xml:lang="en">
+<title>JORDAN: Jordan overnight rates in 3.75-4.25 pct range.</title>
+<headline>Jordan overnight rates in 3.75-4.25 pct range.</headline>
+<dateline>AMMAN 1996-10-22</dateline>
+<text>
+<p>Overnight rates on the Jordanian dinar hovered in a narrow 3.75-4.25 percent range on Tuesday, up from 3.00 to 4.00 percent on Monday with excess liquidity still dampening overall demand, traders said.</p>
+<p>&quot;The market is still very liquid but banks are waiting for next Saturday after the new CD issue, which is expected to drain excess funds,&quot; said one dealer.</p>
+<p>Dealers say maturing CDs (certificates of deposit), a number of CD repos by banks and injection of dinar funds into the banking system had recently depressed rates.</p>
+<p>$1 = 0.7080 dinar</p>
+<p>-- Amman newsroom +962 6 623 776</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

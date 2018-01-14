@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31818" id="root" date="1996-09-04" xml:lang="en">
+<title>PERU: Peru posts Jan-July economic growth of 2.0 pct.</title>
+<headline>Peru posts Jan-July economic growth of 2.0 pct.</headline>
+<dateline>LIMA 1996-09-04</dateline>
+<text>
+<p>The Peruvian economy grew 2.0 percent between January and July, compared to 8.7 percent in the same period of 1995, the National Institute of Statistics and Information (INEI) said Wednesday.</p>
+<p>The INEI added that year-on-year Gross Domestic Product (GDP) growth was 5.1 percent in July, compared with 7.4 percent year-on-year growth in the same month last year.  </p>
+<p>The government is predicting annual growth of between three and four percent in 1996, down from initial projections of five to six percent due to an economic slowdown.</p>
+<p>In 1995, the economy expanded 7.0 percent, Latin America's second-highest growth rate, down from 13.1 percent in 1994, according to revised central bank figures.  </p>
+<p>The accumulated growth between January and July was led by the agriculture sector, up 4.7 percent, followed by 3.4 percent growth for mining and 3.0 percent in the trade sector.</p>
+<p>The construction sector contracted 6.4 percent in the same period, while fishing was off 6.3 percent, the INEI said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

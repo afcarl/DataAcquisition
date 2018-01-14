@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135411" id="root" date="1996-10-22" xml:lang="en">
+<title>TAIWAN: Taiwan Microtek up in late trade.</title>
+<headline>Taiwan Microtek up in late trade.</headline>
+<dateline>TAIPEI 1996-10-22</dateline>
+<text>
+<p>Taiwan's Microtek International rose sharply in late session on Tuesday as sound sales expectations for the firm encouraged investors to place large buying orders, brokers said.</p>
+<p>With 55 minutes left, Microtek was up 3.17 percent or T$1.30 to T$42.30. Trade volume was a heavy 21.84 million shares.</p>
+<p>Microtek is Taiwan's leading computer image scanner maker.</p>
+<p>Brokers said investors expected sales for Taiwan's electronic firms to rise in the fourth quarter in 1996.  </p>
+<p>&quot;Many blue-chip electronic firms have been taking turns rising recently because of the sound outlook for the sector, and today major investors decided to target Microtek,&quot; said Oliver Fang of National Securities.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

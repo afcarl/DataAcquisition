@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25722" id="root" date="1996-08-31" xml:lang="en">
+<title>SPAIN: SOCCER-REAL SCRAPE 1-1 DRAW IN SCRAPPY OPENING MATCH.</title>
+<headline>SOCCER-REAL SCRAPE 1-1 DRAW IN SCRAPPY OPENING MATCH.</headline>
+<dateline>LA CORUNA, Spain 1996-08-31</dateline>
+<text>
+<p>A late goal by newly-signed defender Roberto Carlos saved the blushes of Real Madrid coach Fabio Capello and his multi-billion peseta line-up in the opening game of the Spanish championship on Saturday.</p>
+<p>The Brazilian's 79th-minute effort was enough to earn Real a point from a scrappy 1-1 draw at fellow title contenders Deportivo Coruna.</p>
+<p>Deportivo started strongly, taking the lead midway through the first half when former Auxerre playmaker Corentine Martins headed home a corner after a flick-on by Brazilian-born Spanish international midfielder Donato.</p>
+<p>Real looked to be in deep trouble shortly after the break when Luis Milla was sent off for committing two bookable offences in as many minutes.</p>
+<p>But Deportivo were unable to capitalise on their numerical advantage, and were themselves reduced to ten men when Armando Alvarez was sent off 15 minutes from time.</p>
+<p>Shortly afterwards Roberto Carlos found space in the home defence and equalised for Real with a shot that was deflected past despairing Deportivo 'keeper Jacques Songo'o.</p>
+<p>In a frantic final five minutes there were chances at both ends, and Donato, who had earlier been booked, was sent off for protesting about the incursion of Real players at a free kick.</p>
+<p>Before the match Deportivo chairman Augusto Lendoiro said he would ignore a FIFA decision banning Brazilian midfielder Mauro Silva from playing in the match for failing to join his national side's tour of Europe.</p>
+<p>In the event, coach John Toshack decided not to use Silva, who had claimed he did not join the Brazil squad because he had lost his passport.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA CORUNA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

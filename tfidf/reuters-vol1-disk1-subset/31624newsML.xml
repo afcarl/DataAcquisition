@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31624" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Czech CNB-120 index rises 9.5 points to 928.3.</title>
+<headline>Czech CNB-120 index rises 9.5 points to 928.3.</headline>
+<dateline>PRAGUE 1996-09-04</dateline>
+<text>
+<p>The CNB-120 index, a broad daily measure of Czech equities, rose 9.5 points on Wednesday to 928.3, the Czech National Bank (CNB) said.</p>
+<p>Five of the ten sectoral indices rose, with the machinery index rising the most, up 21.5 points to 1,229.8.</p>
+<p>Five indices lost, with the food index losing most, down 15.9 points to 1,328.1.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

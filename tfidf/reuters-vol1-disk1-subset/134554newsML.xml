@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134554" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Amresco Inc Q3 diluted shr rises to $0.29.</title>
+<headline>Amresco Inc Q3 diluted shr rises to $0.29.</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary     $0.31		    $0.21</p>
+<p> Shr diluted	0.29		     0.21</p>
+<p> Net		  8,556		    5,196</p>
+<p> Revs		45,486		   25,296</p>
+<p> Avg shrs	  28,005		   24,678</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary     $0.75		    $0.61</p>
+<p> Shr diluted	0.71		     0.61</p>
+<p> Net		  20,699		  14,855</p>
+<p> Revs		129,195		  72,077</p>
+<p> Avg shrs	   27,648		  24,430</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Full company name is Amresco Inc.</p>
+<p>Third-quarter earnings include $0.04 per share in gains on the securitization and sale of residential mortgage warehouse loans.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

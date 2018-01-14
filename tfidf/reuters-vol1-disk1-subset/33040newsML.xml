@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33040" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PRESALE- Sevier Co., Tenn..</title>
+<headline>PRESALE- Sevier Co., Tenn..</headline>
+<text>
+<p>AMT: 10,000,000     DATE: 09/10/96	NYC Time: 1030	CUSIP: 818189</p>
+<p>ISSUER: Sevier Co							 ST: TN</p>
+<p>ISSUE: School, series 1996					   TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: A/A/NA							    BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 09/01/96							     SURE BID: N</p>
+<p>DUE: 4/1/00-16						SR MGR:</p>
+<p>1ST CPN: 04/01/97</p>
+<p>CALL: 4/1/02 @ 101, dtp 4/1/03			  TIC</p>
+<p>DELIVERY: 45 days					   ORDERS:</p>
+<p>PAYING AGENT: Home Federal Bank of Tennessee, Knoxville</p>
+<p>L.O.: Robertson, Ingram &amp; Overby, Knoxville</p>
+<p>F.A.: Cumberland Securities Co., Knoxville</p>
+<p>LAST SALE: $2,200,000 5/9/94 @ 5.6354% TIC; 9yrs 3mos avg; BBI- 6.18%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2000		     50,000</p>
+<p>2001		     50,000</p>
+<p>2002		     50,000</p>
+<p>2003		    125,000</p>
+<p>2004		    160,000</p>
+<p>2005		    610,000</p>
+<p>2006		    640,000</p>
+<p>2007		    780,000</p>
+<p>2008		    820,000</p>
+<p>2009		    530,000</p>
+<p>2010		    615,000</p>
+<p>2011		    775,000</p>
+<p>2012		    820,000</p>
+<p>2013		    935,000</p>
+<p>2014		    985,000</p>
+<p>2015		  1,020,000</p>
+<p>2016		  1,035,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

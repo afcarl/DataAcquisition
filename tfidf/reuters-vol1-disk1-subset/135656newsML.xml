@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135656" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: Australian stocks open lower, News Corp dips.</title>
+<headline>Australian stocks open lower, News Corp dips.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Australian shares opened just lower on Tuesday in a mixed showing with few definitive signals from overseas markets.</p>
+<p>Shares in media giant News Corp followed its ADRs down after a reported downgrade by a U.S. stockbroker and weighed on the industrials sector and overall market.</p>
+<p>At 10.25 a.m. (0025 GMT), the All Ordinaries index was two points lower at 2,361.2.</p>
+<p>The December share price index futures contract was one point lower at 2377, a 15.8-point premium to the underlying index.</p>
+<p>&quot;It doesn't know what it's doing and is stuck in a tight range. BHP is up and that is keeping it close to square,&quot; said dealer Brett O'Donovan of brokerage Lance Jones.</p>
+<p>O'Donovan said he expected only light activity during the day with little guidance from foreign markets and with third-quarter inflation figures due on Wednesday.</p>
+<p>&quot;There is no real lead from overseas and it has been very quiet so far. I'm expecting a flat day as people await the results tomorrow,&quot; he said.</p>
+<p>Rises outnumbered falls by a ratio of about 11 to 10, while about 41 percent of stocks traded remained steady.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

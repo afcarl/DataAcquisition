@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133209" id="root" date="1996-10-22" xml:lang="en">
+<title>BOSNIA: Bosnia presidency meets after Serbs end boycott.</title>
+<headline>Bosnia presidency meets after Serbs end boycott.</headline>
+<dateline>SARAJEVO 1996-10-22</dateline>
+<text>
+<p>The three-man presidency of Bosnia met for the first time in Sarajevo on Tuesday after Bosnian Serbs ended their three-week boycott of the country's governing bodies.</p>
+<p>&quot;The  meeting has begun. At the beginning of the meeting international community officials were with them but now they are on their own,&quot; Duncan Bulivant, spokesman for Bosnia's envoy Carl Bildt, told reporters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

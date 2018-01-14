@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33168" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Preussag sales declined in quarter.</title>
+<headline>Preussag sales declined in quarter.</headline>
+<dateline>HANOVER, Germany 1996-09-04</dateline>
+<text>
+<p>Diversified German industrial group Preussag AG said on Wednesday its external sales declined slightly to 6.348 billion marks ($4.3 billion) in the quarter to June 30 from 6.354 billion in the year-earlier quarter.</p>
+<p>Sales fell to 17.921 billion marks in the first nine months of the company's business year, which ends on September 30, from 18.350 billion in the year-earlier period.</p>
+<p>Incoming orders in the quarter rose 27 percent to 8.1 billion marks, fuelled mainly by trade and a large ship order. Nine-month orders were 20.8 billion marks, a shade above the 20.7 billion marks a year earlier.</p>
+<p>Orders on hand were 14.3 billion marks, up 11 percent.</p>
+<p>&quot;Preussag turned in a satisfactory performance in the third quarter of 1995/96, given that the business environment, particularly in steel, remained difficult,&quot; the company said in a statement.</p>
+<p>Total sales rose slightly to 7.2 billion marks in the quarter from 7.1 billion marks a year earlier.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49 228 26097150 ($ = 1.483 German Marks)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOVER, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

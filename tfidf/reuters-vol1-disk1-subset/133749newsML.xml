@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133749" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: FNMA sees earnings gain through innovation.</title>
+<headline>FNMA sees earnings gain through innovation.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>The Federal National Mortgage Association (FNMA or Fannie Mae) plans to reap increased profitability from the ongoing overhaul of some of its operations, the agency's chairman said.</p>
+<p>Technology development and a reformed credit-loss management program have helped solidify Fannie Mae's market share and profits, James Johnson, the agency's chairman and chief executive officer told investors and reporters on Tuesday.</p>
+<p>Last Thursday, Johnson said in Washington he expected Fannie Mae would post record earnings for 1996 and 1997.</p>
+<p>New loss-mitigation strategies have cut the agency's losses on problem loans, Johnson said Tuesday.</p>
+<p>&quot;The most successful step involves individually tailored repayment plans, which cost us virtually nothing,&quot; Johnson said. About 75 percent of problem loans that are given customized repayment plans avoid foreclosure, he said.</p>
+<p>Johnson said foreclosure is the most costly way to resolve a loan that is in default.</p>
+<p>&quot;We believe that with our credit-loss management program fully underway ... our credit losses in dollars will be lower in the year 2000 than they will be this year,&quot; he said.</p>
+<p>Johnson cited technology development as another area of Fannie Mae innovation. Development of mortgage lending and trading software has trimmed costs for mortgage lenders and borrowers, he said.</p>
+<p>The agency invested &quot;several hundred million dollars&quot; over the past six years to develop mortgage origination, administration and trading technology, Johnson said.</p>
+<p>&quot;We are now in a position to reap concrete benefits from these very substantial investments,&quot; Johnson said.</p>
+<p>Lenders using such Fannie Mae software as &quot;Desktop Administrator,&quot; &quot;Desktop Underwriter&quot; and &quot;Desktop Trader&quot; can, on average, offer a mortgage borrower a reduction of about $800 in origination costs, he said.</p>
+<p>Johnson declined to quantify his earlier projection of record earnings in 1996 and 1997.</p>
+<p>-- Scott Gerlach, 212-859-1868</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

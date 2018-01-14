@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133026" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Canada Chretien sees &quot;balanced&quot; budget by 1998/99.</title>
+<headline>Canada Chretien sees &quot;balanced&quot; budget by 1998/99.</headline>
+<dateline>MONTREAL 1996-10-22</dateline>
+<text>
+<p>Canadian Prime Minister Jean Chretien said on Tuesday the federal government would no longer be borrowing any new money in the financial markets by 1998/99, which, he asserted, would mean a balanced budget by international standards.</p>
+<p>&quot;The OECD (Organization for Economic Cooperation and Development) measures deficits on a national accounts or borrowing requirements basis. By this measurement -- the same measurement as is used in the United States, France, Germany, Great Britain, Italy -- our budget in 1998/99 will be balanced,&quot; Chretien said in a speech in Montreal.  </p>
+<p>Canadian Finance Minister Paul Martin has forecast a deficit of C$9 billion in fiscal 1998/99 (April-March), but a zero borrowing requirement for that year.</p>
+<p>In his speech, Chretien said that by getting Canada's fiscal house in order his government had created an investment climate with low interest rates and low inflation.</p>
+<p>He said that should give investors the confidence they need to create jobs and get a good return for their money.  </p>
+<p>Chretien appealed to potential investors to help Montreal, Canada's second largest city, back on its feet economically.</p>
+<p>He said Montreal has always been a symbol of Canada at home and abroad, but it is suffering economically because of a flight of businesses and investment.</p>
+<p>&quot;Today...Montreal is in trouble. There is too much unemployment, too much poverty. When Montreal is in trouble, the province of Quebec is in trouble and so is all of Canada,&quot; Chretien said.</p>
+<p>The threat of another referendum on Quebec separation soon after the next provincial election &quot;is not conducive to maintaining or attracting investment to Montreal today.&quot;</p>
+<p>Quebec's separatist government has said it intends to hold another referendum on sovereignty, but not until after the next provincial election, which could be held as late as 1998.</p>
+<p>-- Reuters Montreal Bureau 514-985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="OECD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

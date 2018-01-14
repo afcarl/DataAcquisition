@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32921" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Tacoma council repeals tax on Internet providers.</title>
+<headline>Tacoma council repeals tax on Internet providers.</headline>
+<dateline>TACOMA, Wash. 1996-09-03</dateline>
+<text>
+<p>Tacoma City Council members voted on Tuesday to exempt Internet service providers from a 6 percent telecommunications tax that had attracted nationwide attention.</p>
+<p>With only one dissenting vote, the council approved the exemption at the urging of Mayor Brian Ebersole, who said Tacoma's reputation as a good place to do business outweighed the estimated $200,000 in annual revenue the city stands to lose.</p>
+<p>The tax had been imposed on Internet companies in March by Tacoma's tax and license department as part of a broader levy that affects users of cellular telephones, pagers and other equipment who get billed at addresses within the city, about 30 miles south of Seattle.</p>
+<p>Ebersole called the decision, which affected all major online service providers including America Online and Compuserve &quot;ill-advised&quot; and argued that exempting the companies would benefit the city.</p>
+<p>&quot;I believe we will gain revenue through this measure because so much of our economic activity is determined by image -- what people think about Tacoma as a place to do business,&quot; Ebersole said.</p>
+<p>Tacoma will provide refunds to Internet service providers who already paid the tax.</p>
+<p>Tacoma is one of many cities and states who have seized on the rapid growth of the Internet as a potential for raising needed tax revenues.</p>
+<p>West Virginia, Tennessee, Texas, New York and Ohio have similar taxes in place, and California, Florida, New York and Washington state are considering them.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TACOMA, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

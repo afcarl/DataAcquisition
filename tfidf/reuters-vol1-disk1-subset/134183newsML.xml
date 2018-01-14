@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134183" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: Britain helps pay for India polio vaccinations.</title>
+<headline>Britain helps pay for India polio vaccinations.</headline>
+<dateline>NEW DELHI 1996-10-22</dateline>
+<text>
+<p>Britain pledged 47.5 million stg ($76 million) to India on Tuesday to help pay for an immunisation programme aimed at wiping out the crippling childhood disease of polio by 2000.</p>
+<p>The British high commission (embassy) said in a statement that the visiting minister at the British Foreign Office responsible for South Asia, Liam Fox, witnessed officials from both countries sign an agreement in the Indian capital.</p>
+<p>It was the largest amount that Britain's Overseas Development Administration had ever spent on an immunisation programme, the statement said.</p>
+<p>India's three-year immunisation programme which started last December will cost around 139 million stg ($222 million), it said. Last year, Britain contributed 3.9 million stg ($6.2 million) to the scheme.</p>
+<p>In 1995, 2,993 cases of polio were reported in India and 2,836 in the rest of the world, according to the World Health Organisation.</p>
+<p>More than 80 million Indian children are expected to receive polio vaccination drops during the second annual round of immunisations scheduled for December, organisers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

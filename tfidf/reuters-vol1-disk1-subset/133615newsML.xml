@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133615" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BALANCE - Deschutes County, Ore. at $4.9 mln.</title>
+<headline>BALANCE - Deschutes County, Ore. at $4.9 mln.</headline>
+<text>
+<p>DESCHUTES COUNTY, OREGON</p>
+<p>RE: $25,395,000</p>
+<p>GENERAL OBLIGATION BONDS, SERIES 1996</p>
+<p>BALANCES ARE AVAILABLE ON A FIRST COME FIRST SERVED BASIS.</p>
+<p>    MOODY'S: Aaa		   S&amp;P: NAF</p>
+<p>		 UNDERLY A1</p>
+<p>Delivery Date: 10/29/1996</p>
+<p>MBIA INSURED</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>12/01/2000	     300M    4.50	  4.40</p>
+<p>12/01/2001	     300M    6.50	  4.55</p>
+<p>12/01/2002	     135M    5.00	  4.65</p>
+<p>12/01/2003	     180M    5.00	  4.75</p>
+<p>12/01/2004	     780M    5.00	  4.85</p>
+<p>12/01/2007		35M    5.00	  5.15</p>
+<p>12/01/2008	     225M    5.125	 5.25</p>
+<p>12/01/2009	   1,425M    5.25	  5.35</p>
+<p>12/01/2010	   1,525M    5.25	  5.375</p>
+<p>  Total:	     4,905M</p>
+<p>PaineWebber Incorporated</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

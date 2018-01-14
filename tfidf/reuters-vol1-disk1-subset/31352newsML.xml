@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31352" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: SOCCER-MANAGER WILKINS LEAVES QUEEN'S PARK RANGERS.</title>
+<headline>SOCCER-MANAGER WILKINS LEAVES QUEEN'S PARK RANGERS.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Queen's Park Rangers, relegated from the English premier division last season, parted company on Wednesday with manager Ray Wilkins.</p>
+<p>QPR's new owner Chris Wright said former England midfielder Wilkins, who took over from present Tottenham Hotspur manager Gerry Francis in November 1994, had decided to leave.</p>
+<p>&quot;I was shocked and surprised at Ray's decision. It's very distressing but we have to deal with it and we will deal with it. We need to get the right man in to bring in the right players to take the club forward.</p>
+<p>&quot;Ultimately the best interests of the club is what we are concerned about and our aim remains to get back into the premiership.&quot;</p>
+<p>Wilkins, 39, steered Rangers to eighth place in his first season of management but found the goals dried up when striker Les Ferdinand transferred to Newcastle last year.</p>
+<p>&quot;I have been involved in professional football for over 20 years and I can honestly say that this is the hardest situation I have ever had to deal with,&quot; Wilkins said.</p>
+<p>&quot;As to my own future, I will be having some time out with my family before reaching a decision as to where it lies.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

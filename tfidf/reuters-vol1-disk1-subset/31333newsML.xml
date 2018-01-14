@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31333" id="root" date="1996-09-04" xml:lang="en">
+<title>SOUTH AFRICA: S.AFRICAN AUGUST NEW CAR SALES FALL 5.1 PERCENT.</title>
+<headline>S.AFRICAN AUGUST NEW CAR SALES FALL 5.1 PERCENT.</headline>
+<dateline>JOHANNESBURG 1996-09-05</dateline>
+<text>
+<p>South African new car sales</p>
+<p>fell 5.1 percent to 20,433 units in August from 21,540 units in</p>
+<p>July and eased 3.7 percent from 21,228 units sold in August</p>
+<p>1995, latest National Association of Automobile Manufacturers of</p>
+<p>South Africa figures show.</p>
+<p>    Detailed Sales data:	   Aug 96  Jul 96  Aug 95 </p>
+<p>    New passenger cars	     20,433  21,540  21,228</p>
+<p>    Light commercial vehicles    11,038  11,468  11,337</p>
+<p>    Medium commercial vehicles   544     475     370</p>
+<p>    Heavy commercial vehicles    639     776     643</p>
+<p>    TOTAL:			     32,654  34,259  33,578</p>
+<p>Individual manufacturer car sales:</p>
+<p>Toyota 7,180, Samcor 6,223, Volkswagen 5,818, Nissan 4,002,</p>
+<p>Mercedes-Benz 3,724, Delta 3,718, BMW 1,191, Land Rover SA 337,</p>
+<p>Daewoo 202, Iveco 77, Tyco 72, MAN 32, Erf 18, Dacia 17, AAD 16,</p>
+<p>Freightliner 11, Scania 11, Subaru 5.</p>
+<p>					    Jan-Aug 96    Jan-Aug 95 </p>
+<p>    New passenger cars		160,753	 155,594</p>
+<p>    Light commercial vehicles	87,831	  85,294 </p>
+<p>    Medium commercial vehicles	3,431	   2,746</p>
+<p>    Heavy commercial vehicles	 5,576	   5,051</p>
+<p>    TOTAL:				257,591	 248,685</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

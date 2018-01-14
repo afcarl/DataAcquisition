@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31949" id="root" date="1996-09-04" xml:lang="en">
+<title>HONG KONG: Macau to sign air services accord with Germany.</title>
+<headline>Macau to sign air services accord with Germany.</headline>
+<dateline>HONG KONG 1996-09-04</dateline>
+<text>
+<p>Macau and Germany will sign an air services agreement in Bonn on Thursday, the Portuguese Lusa news agency said on Wednesday, quoting the Macau government.</p>
+<p>The pact with Germany would bring to 15 the number of air services agreements that Macau has signed so far.</p>
+<p>The Portuguese-run territory reverts to Chinese rule in 1999.</p>
+<p>--HONG KONG NEWSROOM (852) 28436441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MACAO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32100" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. wheat group says 1996 wheat crop excellent.</title>
+<headline>U.S. wheat group says 1996 wheat crop excellent.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>U.S. wheat crop quality is being rated as excellent this year, helped by high test weights and low moisture in spring wheats, the private export promotion group U.S. Wheat Associates said in a market letter.</p>
+<p>Spring wheat harvest was 50 percent complete as of August 25 compared to 39 pct last year and 45 on a five-year average, it said in the update. Harvest weather has been favorable and helped the crop overcome late planting, it said.</p>
+<p>It said spring wheat test weights so far have averaged 61.3 lbs per bushel, compared to 59.6 lbs last year. Protein levels have averaged 13.9 pct against 13.8 last year.  </p>
+<p>&quot;Although discussed early on, scab damage in this year's crop is thought to be less than in previous years. Dark hard and vitreous (DHV) kernel counts are lower than last year but they are expected to increase as harvest progresses,&quot; it said.</p>
+<p>The group said as the hard red winter wheat harvest winds down the quality of this year's crop remains excellent with overall average test weight at 59.6 lbs per bushel against 59.1 last year. Protein levels have averaged 13.4 percent against 12.0 last year although moisture has averaged 12.5 percent compared to 11.2 last year. Dockage levels averaging 0.9 percent are significantly below last year's 1.4 pct.  </p>
+<p>The soft red winter wheat crop harvest was completed with preliminary average test weights at 58.5 lbs per bushel, consistent with the 58.0 lb historical average, it said. Protein levels have run slightly less than 11 percent against about 10 percent last year, the group said.</p>
+<p>The quality of the southern crop was above average while persistent wetness in northern Indiana and Ohio as well as Michigan presented problems with scab damage and vomitoxin, it said.</p>
+<p>The soft white wheat harvest was 79 percent complete and crop quality was very good, the group said.  </p>
+<p>SWW test weights have averaged about 60 lbs a bushel and proteins 9.5 percent, below last year's average 10.4 pct. But very low moisture levels were averaging 9.3 percent, a full point below last year.</p>
+<p>&quot;When SWW is valued at $191 a tonne FOB and compared to 13 percent moisture wheat, this difference in moisture is equivalent to $7.07 a tonne,&quot; the group said.</p>
+<p>It said the U.S. already has about 52 percent of its projected wheat exports for fiscal 1997 committed, which was about 14 points ahead of last year.</p>
+<p>&quot;This sales pace comes with no outstanding sales to China or Russia, markets that would once have been considered make or break for the U.S. wheat export program in the 1990s,&quot; the group said.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

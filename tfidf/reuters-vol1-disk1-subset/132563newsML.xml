@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132563" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Miller Industries rises after Forbes mention.</title>
+<headline>Miller Industries rises after Forbes mention.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Shares of Miller Industries Inc rose to a new year high after it was mentioned in Forbes magazine as one of the best 200 small companies.</p>
+<p>The stock was up 1-1/8 to 25-1/2 at midday and touched a new year high of 26 during intraday trading.</p>
+<p>In its November 4 issue, Forbes ranked the company number nine and credited chairman William Miller for the company's five-year average return on equity of 47 percent, low manufacturing costs, and higher operating margins of 9.7 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

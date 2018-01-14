@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135530" id="root" date="1996-10-22" xml:lang="en">
+<title>PORTUGAL: Yield falls sharply at Portugal 5-yr bond sale.</title>
+<headline>Yield falls sharply at Portugal 5-yr bond sale.</headline>
+<dateline>LISBON 1996-10-22</dateline>
+<text>
+<p>The yield fell sharply to 6.8413 percent, from 7.6287 percent previously, at the Portuguese Treasury's auction of five-year, fixed-rate bonds (OT).</p>
+<p>The Treasury said it placed 15 billion escudos of the 20 billion on offer.  </p>
+<p>The following is the result:</p>
+<p>    ISSUER: Republic of Portugal   MATURITY: March 2001</p>
+<p>    COUPON: 8.75 pct   AVERAGE ACCEPTED YIELD: 6.8413</p>
+<p>BID AMOUNT/COVER:  64 billion escudos</p>
+<p>HIGHEST ACCEPTED YIELD: 6.85</p>
+<p>PAYMENT FREQUENCY: Annual</p>
+<p>NOTES: The issue is fungible. The auction takes to 235 billion the total amount of the bonds issued.</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

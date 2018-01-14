@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135539" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: Ciba pharma sales growth hurt by U.S..</title>
+<headline>Ciba pharma sales growth hurt by U.S..</headline>
+<dateline>BASLE, Switzerland 1996-10-22</dateline>
+<text>
+<p>Ciba-Geigy AG said its pharmaceutical sector sales growth during the first nine months of 1996 was limited by generic competition in the U.S.</p>
+<p>Healthcare sector sales rose by three percent in both local currencies and in Swiss francs. Ciba said pharmaceutical division sales increased in Europe and Japan with the successful introduction of new products.</p>
+<p>But total sales growth was limited by the impact of generic competition in the U.S. for the anti-rheumatic drug Voltaren and the anti-hypertension medication Lopresor.</p>
+<p>&quot;Excluding the effects of this sales erosion in the U.S.A. the worldwide pharma business grew approximately in line with the market,&quot; Ciba said in its nine-month statement. -- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASLE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

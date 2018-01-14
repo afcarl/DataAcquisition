@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133349" id="root" date="1996-10-22" xml:lang="en">
+<title>HAITI: Haitian court postpones death syrup trial.</title>
+<headline>Haitian court postpones death syrup trial.</headline>
+<dateline>PORT-AU-PRINCE 1996-10-22</dateline>
+<text>
+<p>Postponement of a trial against a Haitian drug company that made contaminated medicine blamed for the deaths of 85 children angered parents who marched to the presidential palace in protest on Tuesday.</p>
+<p>Lawyers for the pharmaceuticals company, Pharval, walked out of the courtroom after the prosecutor failed to arrive, sparking an uproar among parents suing the manufacturer.</p>
+<p>It was unknown why prosecutor Florence Metheau did not turn up for the trial, her office said.</p>
+<p>The 85 children died of acute renal failure during the past year after taking fever syrups Afebril and Valodon, which had been contaminated with diethylene glycol, a chemical used to make car anti-freeze.</p>
+<p>The parents are demanding $200 million for each child, according to a health ministry spokesman.</p>
+<p>Victims' parents waved pictures of their children and yelled &quot;justice&quot; and &quot;help.&quot; One woman was carried out of the courthouse, apparently in convulsions.</p>
+<p>The parents circled the National Palace and stopped at one gate demanding to see President Rene Preval, who they said had recommended Metheau. Preval did not come out to meet them.</p>
+<p>Rudolph Boulos, the owner and head pharmacist of Pharval, was not available for comment. When the scandal broke several months ago he said his firm had never used the poisonous agent in any medicines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT-AU-PRINCE"/>
+<dc element="dc.creator.location.country.name" value="HAITI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

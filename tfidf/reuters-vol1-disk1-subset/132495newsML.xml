@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132495" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Praegitzer shr Q1 loss $0.93 after charges.</title>
+<headline>Praegitzer shr Q1 loss $0.93 after charges.</headline>
+<dateline>DALLAS, Ore. 1996-10-22</dateline>
+<text>
+<p>PRAEGITZER INDUSTRIES, INC.</p>
+<p>			 CONDENSED STATEMENT OF OPERATIONS</p>
+<p>		     (in thousands, except per share data)</p>
+<p>						     Three Months Ended</p>
+<p>							  September 30,</p>
+<p>						     1996	     1995</p>
+<p> Sales					$   29,449     $   17,951</p>
+<p> Cost of Sales				  24,363	   13,997</p>
+<p>   Gross Profit				  5,086	    3,954</p>
+<p>Selling, general &amp;</p>
+<p>  administrative expenses		    2,993	    1,414</p>
+<p>Impairment and in-process</p>
+<p>  technology expense			  11,650		 --</p>
+<p> Amortization of goodwill			289		 --</p>
+<p>   Income from operations		  (9,846)	    2,540</p>
+<p> Interest expense				  343		426</p>
+<p> Other income (expense)			  101	     (11)</p>
+<p>   Income before income taxes	   (10,088)	    2,103</p>
+<p> Income taxes				     585	  (1)  841</p>
+<p> Net Income				   (10,673)	    1,262</p>
+<p>Shares used in computing pro forma</p>
+<p>  net income per share		  11,484,938	8,823,717</p>
+<p> Net Income per share			 (0.93)	     0.14</p>
+<p>(1)  Quarter Ended September 30, 1995 income tax expense and net income per share are shown Pro Forma -- prior to April 1996 Praegitzer was an S Corporation and paid no Income Tax.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

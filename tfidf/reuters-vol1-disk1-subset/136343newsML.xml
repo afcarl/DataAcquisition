@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136343" id="root" date="1996-10-23" xml:lang="en">
+<title>CONGO: Congo's cement works resumes production.</title>
+<headline>Congo's cement works resumes production.</headline>
+<dateline>BRAZZAVILE 1996-10-23</dateline>
+<text>
+<p>Congo's only cement works resumed production this week after a break for repairs which sent the price of cement soaring.</p>
+<p>Officials said on Wednesday that the Societe Cimentiere de Congo (SOCICO) plant, part Norwegian owned, resumed operations on Monday. The plant shut in August when machinery powering it broke down. Repairs had been expected to take three months.</p>
+<p>Since August, the price of cement, mainly imported from neighbour Zaire, has risen to almost 300,000 CFA francs a tonne -- against an officially recommended 91,700 CFA francs.</p>
+<p>The government has eased SOCICO's monopoly but has promised a new law governing future cement imports, which are to come from South Africa, China and Spain.</p>
+<p>The national assembly earlier asked the government to take steps to control prices after the cost of a bag of cement reached 15,000 CFA francs compared to the official price of 4,585 CFA francs.</p>
+<p>The government holds a 50 percent stake in SOCICO, Norwegian group Scancem the remainder. The plant, at Loutete 150 km (90 miles) south west of Brazzaville, has an annual capacity of 250,000 tonnes. It has only produced 96,000 tonnes in 1996.</p>
+<p>In August, the government, seeking to privatise as part of economic liberalisation, invited Chinese investors to take a stake in the company. Officials said South Africa's Pretoria Portland Cement was also interested in a stake.</p>
+<p>($1=515 CFA francs)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CONGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRAZZAVILE"/>
+<dc element="dc.creator.location.country.name" value="CONGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

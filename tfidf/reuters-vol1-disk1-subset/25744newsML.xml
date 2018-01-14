@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25744" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: RUGBY UNION-CARLING IN FAVOUR OF EUROPEAN SUPER LEAGUE.</title>
+<headline>RUGBY UNION-CARLING IN FAVOUR OF EUROPEAN SUPER LEAGUE.</headline>
+<dateline>LONDON 1996-08-31</dateline>
+<text>
+<p>Former England captain Will Carling has called for the introduction of a European Super League to match the southern hemisphere's Super 12 tournament and solve the internal warfare in British rugby.</p>
+<p>Carling believes a 14-team Super League, incorporating four clubs from England and France and two apiece from Wales, Ireland and Scotland, would not only raise standards but generate the cash needed to fund the fledgling professional game.</p>
+<p>&quot;It is widely accepted among senior England players that we need a higher standard of competition to play in week after week in order to sharpen skills for the leap up to international rugby,&quot; said Carling, writing in the Mail on Sunday newspaper.</p>
+<p>&quot;The creation of a European Super League would seem to me to solve the game's two critical needs -- more money and elite competition -- almost immediately.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

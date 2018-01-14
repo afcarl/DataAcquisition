@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31800" id="root" date="1996-09-04" xml:lang="en">
+<title>BRAZIL: Commodities stand out in Brazil August exports.</title>
+<headline>Commodities stand out in Brazil August exports.</headline>
+<dateline>BRASILIA 1996-09-04</dateline>
+<text>
+<p>Shipments of coffee and soybean stood out among Brazilian exports during the month of August, the Ministry of Industry and Commerce said.</p>
+<p>The ministry said that despite delays in shipments, soybean sales rose 31.48 percent over August 1995, reaching $472 million in value.</p>
+<p>However, soybean sales did come in 15 percent lower than in July, when $556 million worth was shipped. The ministry did not give figures in tonnes.  </p>
+<p>The ministry said coffee exports also made gains despite a fall of about 8.0 percent in international prices over July.</p>
+<p>Coffee exports, as given in tonnes, were 94,000 tonnes compared with 71,000 tonnes in July. The value of the exports rose to $190 million compared with $155 million in July.</p>
+<p>Sugar exports also rose in August from July. The ministry said granulated sugar exports rose 18 percent to 532,000 tonnes from 450,000 tonnes.</p>
+<p>Total exports in August were $4.381 billion, with primary commodities accounting for 27.66 percent.</p>
+<p>-- Michael Christie, Brasilia newsroom 55-61-2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

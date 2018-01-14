@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31565" id="root" date="1996-09-04" xml:lang="en">
+<title>KENYA: Kenya shilling virtually unchanged on dollar.</title>
+<headline>Kenya shilling virtually unchanged on dollar.</headline>
+<dateline>NAIROBI 1996-09-04</dateline>
+<text>
+<p>The Kenyan shilling remained virtually unchanged against the dollar on Wednesday as the market waited in vain for dollar buyers, dealers said.</p>
+<p>&quot;Continuous inflows of foreign currency into the market saw the dollar bid price shift down as the market waited in vain for dollar buyers,&quot; a dealer at a leading bank told Reuters.</p>
+<p>&quot;A number of players started unwinding their long dollar positions as the market sentiment remained unclear -- though it could favour a stronger shilling in the short-term if prevailing market conditions continue,&quot; the dealer added.</p>
+<p>The Central Bank of Kenya posted a shilling mean commercial rate of 56.97 against the dollar compared to 56.99 on Tuesday.</p>
+<p>Against the pound, the central bank posted a mean commercial rate of 89.345 compared to 88.95 on Wednesday.</p>
+<p>--Nairobi Newsroom ++254-2 330-261</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

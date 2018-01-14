@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31679" id="root" date="1996-09-04" xml:lang="en">
+<title>POLAND: BRE buys stake in small energy sector bank.</title>
+<headline>BRE buys stake in small energy sector bank.</headline>
+<dateline>WARSAW 1996-09-04</dateline>
+<text>
+<p>Bank Rozwoju Exportu SA (BRE) has paid about nine million zlotys for a 26.18 percent stake of  Bank Energetyki SA (BEN), which mostly services Poland's energy sector, BRE's president said on Wednesday.</p>
+<p>&quot;I am pleased that we were picked as the strategic investor in BEN,&quot; Krzysztof Szwarc told a news conference.</p>
+<p>BEN, whose share capital rose to 52 million zlotys after BRE bought 60,000 of its shares, will also get technical assistance, training from BRE, he said.</p>
+<p>BRE will also co-operate with the smaller bank on forex, money and T-bill market operations.</p>
+<p>BEN's largest shareholders and its main clients include the Polish Power Grid (PSE), state-owned power plants and other energy sector firms.</p>
+<p>-- Wojciech Moskwa +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

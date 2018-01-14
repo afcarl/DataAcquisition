@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134915" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: Algeria seeks 75,000 tonnes of soft wheat.</title>
+<headline>Algeria seeks 75,000 tonnes of soft wheat.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>Algeria is seeking an extra 75,000 tonnes of soft wheat of French and/or Argentine origin in three lots of 25,000 tonnes each, trading sources said.</p>
+<p>The loading of the shipments is set for November and December.</p>
+<p>The tender was launched on Monday and expires on Thursday. Traders expect a result by the end of the week.</p>
+<p>Last week, Algeria bought 150,000 tonnes of soft wheat of which 100,000 tonnes was of French origin and 50,000 tonnes came from Argentina.</p>
+<p>It paid $169.00 cash per tonne for the Argentine wheat including cost and freight and $186-$188 for the French wheat with a credit from Coface.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

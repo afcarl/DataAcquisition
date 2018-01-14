@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134216" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: Nearly 300 feared dead in Indian floods.</title>
+<headline>Nearly 300 feared dead in Indian floods.</headline>
+<dateline>HYDERABAD, India 1996-10-22</dateline>
+<text>
+<p>Nearly 300 people were feared dead in floods that have ravaged wide areas of India's southern Andhra Pradesh state, local officials said on Tuesday.</p>
+<p>Seven days of floods, caused by heavy rains, destroyed thousands of homes and washed away agricultural land, forcing the evacuation of nearly 100,000 people now sheltering in 120 relief camps.</p>
+<p>State Relief Commissioner Hari Shankar Brahma told Reuters the death toll reached 138 by Tuesday and was likely to rise. He said details were still awaited from some 300 stranded villages.</p>
+<p>Other local officials said 150 people were missing and feared drowned in flooding made worse by water pouring from breaches in the Rollapadu reservoir.</p>
+<p>Army boats helped the civilian rescue operation while air force helicopters dropped food to stranded villagers in devastated areas.</p>
+<p>Andhra Pradesh's chief minister, Chandrababu Naidu, said on Monday preliminary estimates showed that crops, mainly paddy and oilseeds, worth four billion rupees ($112 million) were damaged.</p>
+<p>He said 450,000 hectares (1.13 million acres) of paddy crops and 1.15 million hectares (2.9 million acres) of oilseeds were affected.</p>
+<p>Flooding also affected neighbouring Tamil Nadu state.</p>
+<p>Officials said more than 38,000 people, mostly farmers and fishermen, had been rescued by troops from low-lying coastal areas in both states facing the Bay of Bengal.</p>
+<p>Weathermen said they believed the worst flooding was over.</p>
+<p>&quot;Rainfall has substantially decreased all over the (Andhra Pradesh) state and the forecast is scattered rainfall,&quot; C.V.V. Bhadram, director of Hyderabad's meteorological centre, said.</p>
+<p>&quot;Right now there is no low pressure or depression in the state,&quot; he said.</p>
+<p>Indian Prime Minister H.D. Deve Gowda flew over some of the worst affected areas on Monday and later ordered a grant of 500 million rupees ($14 million) for relief and rescue operations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HYDERABAD, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

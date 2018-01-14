@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133485" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Nissan to raise Mexican output.</title>
+<headline>Nissan to raise Mexican output.</headline>
+<dateline>TOKYO 1996-10-23</dateline>
+<text>
+<p>Nissan Motor Co Ltd said on Wednesday it would increase production at its Mexican unit to nearly 150,000 units over the next three years to support its U.S. sales goal of 900,000 by the year 2000.</p>
+<p>Nissan now sells roughly 770,000 vehicles in the United States annually, including nearly 300,000 units imported from Japan and 450,000 produced by its U.S. unit.</p>
+<p>Nissan, Japan's second-biggest carmaker, will shift production of the Sentra compact car (called Sunny in Japan) to its Mexico City-based Nissan Mexicana SA de CV (NISMEX).  </p>
+<p>The Sentra model is produced at both the Mexican unit and at Nissan Motor Manufacturing Corp (NMMC) in Smyrna, Tenn.</p>
+<p>NISMEX now produces 100,000 vehicles per year, supplying more than 20,000 Sentras a year to the U.S., a Nissan spokeswoman said. The Mexican unit has a production capacity for 270,000 units a year.  All Sentras for sales in the United States will be supplied by NISMEX by the year 2000.</p>
+<p>NMMC will add a new model to the production line for the replacement of Sentras.  The details of the new model to be produced at NMMC will be revealed closer to the beginning of its production.</p>
+<p>Nissan has not disclosed what kind of new model is to be added but NMMC is expected to produce recreational vehicles, industry sources said.</p>
+<p>Nissan has not decided on details such as at which Mexican plant it will increase Sentra output.  The Mexican unit has one plant each in Aguascalientes and Cuernavaca.</p>
+<p>The output increase at the Mexican unit is also expected to create new jobs but Nissan has no definite estimate on how many jobs to be made.  The Mexican unit now employs 7,500 workers in a foundry in Lerma and the plants in Aguascalientes and Cuernavaca.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

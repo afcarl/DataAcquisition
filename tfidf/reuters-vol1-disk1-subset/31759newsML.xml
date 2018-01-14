@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31759" id="root" date="1996-09-04" xml:lang="en">
+<title>ARGENTINA: Argentine pension funds shift to bonds in July.</title>
+<headline>Argentine pension funds shift to bonds in July.</headline>
+<dateline>BUENOS AIRES 1996-09-04</dateline>
+<text>
+<p>Argentina's private pension funds made a large shift towards fixed income investments in July from a month earlier, according to Mexican brokerage Interacciones.</p>
+<p>Investments in Argentine government bonds rose $104 million to $1.92 billion of the funds' portfolio allocations, while the value of equity investments fell $41 million to $476 million. The weighting of the portfolio investments in Argentine stocks represents just 12.1 percent of the total, which represents about 2.5 percent of the total market capitalisation of the Argentine stock market.  </p>
+<p>Pension funds' holdings of government bonds represent 48.6 percent of their investments. The figures were put together by Interacciones using private pension fund statistics.</p>
+<p>Investment in fixed-term bank deposits rose by $50 million to $727 million in July, while holdings of private bonds rose $47 million to $268 million.</p>
+<p>Argentina's private pension funds were introduced in 1994 and they currently manage around $4 billion in funds. In July there was an inflow of $346 million into the funds.</p>
+<p>&quot;Despite lingering recession, the pension funds are collecting strongly,&quot; said Christopher Ecclestone, the analyst at Interacciones who wrote the report. &quot;Their size in government debt markets and equities is now starting to become meaningful.</p>
+<p>&quot;We expect that soon the government's predilection for issuing non-peso denominated debt will turn towards peso debt to cater more for the voracious demand of the pension funds and assuage fears of the spiralling level of foreign- denominated debt.&quot;</p>
+<p>-- Axel Bugge, Buenos Aires Newsroom, 54 1 3180668</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8150214">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134465" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Tenneco Inc Q3 continuing opns net higher.</title>
+<headline>Tenneco Inc Q3 continuing opns net higher.</headline>
+<dateline>GREENWICH, Conn. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Oper shr		    $0.67		    $0.53</p>
+<p> Oper net		  116,000		   94,000</p>
+<p> Revs		    2,803,000		2,136,000</p>
+<p> Avg shrs		  170,400		  172,400</p>
+<p>			Nine Months</p>
+<p> Oper shr		    $2.50		    $1.96</p>
+<p> Oper net		  764,000		  544,000</p>
+<p> Revs		    8,320,000		6,497,000</p>
+<p> Avg shrs		  170,400		  174,800</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: First Call Q3 consensus estimate was $0.68/shr.</p>
+<p>1996 net from continuing operations include reserve of $31 million, or $0.11/shr, to cover estimated contract losses on construction of commercial petroleum product tankers at Newport News Shipbuilding.</p>
+<p>Net from continuing operations excludes profits from discontinuted operations of nil vs $120 million, or $0.70/shr, in Q3, and $339 million, or $1.99/shr, vs $201 million, or $1.15/shr, in nine months.</p>
+<p>1996 oper net excludes loss of $1 million, or $0.01/shr, on early retirement of debt.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENWICH, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

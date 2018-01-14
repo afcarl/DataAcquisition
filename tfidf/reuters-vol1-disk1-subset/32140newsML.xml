@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32140" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CCC seeks 23,500 tonnes U.S. wheat for Honduras.</title>
+<headline>CCC seeks 23,500 tonnes U.S. wheat for Honduras.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>The Commodity Credit Corp said it is seeking a total of 23,500 tonnes of U.S. wheat under the export donation program to Honduras.</p>
+<p>The deal includes 5,000 tonnes northern spring/dark northern spring wheat and 3,000 tonnes soft red winter wheat set for November 1-25 shipment.</p>
+<p>It also includes 9,500 NS/DNS wheat and 6,000 tonnes SRW wheat slated for December 10-30 shipment.</p>
+<p>The CCC, which is part of the U.S. Department of Agriculture, said offers are due on September 11.</p>
+<p>--Doris Frankel 312-983-7305</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

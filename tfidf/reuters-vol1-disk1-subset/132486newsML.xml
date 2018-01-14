@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132486" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Reader's Digest sees improved 2nd half of FY.</title>
+<headline>Reader's Digest sees improved 2nd half of FY.</headline>
+<dateline>PLEASANTVILLE, N.Y. 1996-10-22</dateline>
+<text>
+<p>Reader's Digest Association Inc said Tuesday it expects revenues in the second quarter to stabilize although operating revenues for that period may be down as its European operations continue to recover.</p>
+<p>The revenues should stabilize, the company said, as compared to the previous year's second quarter when it reported revenues of $918.6 million.</p>
+<p>The company said it believes cost savings from last year's downsizing as well as other steps should result in an increase in its results for the second half of the current fiscal year.  </p>
+<p>It expects the close the fiscal year with &quot;solid operating profit growth,&quot; Chairman and Chief Executive James Schadt said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131693" id="root" date="1996-10-21" xml:lang="en">
+<title>GERMANY: German president Herzog to visit China in November.</title>
+<headline>German president Herzog to visit China in November.</headline>
+<dateline>BERLIN 1996-10-21</dateline>
+<text>
+<p>German President Roman Herzog will pay a state visit to China from November 18 to 25 at the invitation of Chinese President Jiang Zemin, Herzog's office said on Monday.</p>
+<p>The visit will be one in a series of top-level contacts between China and its biggest European trading partner, which Bonn and Beijing agreed on last month in a new drive to improve bilateral relations after a row over Tibet this summer.</p>
+<p>German Foreign Minister Klaus Kinkel arrived in Beijing on Monday for a long-delayed visit aimed at putting bilateral ties back on track and partly in preparation for Herzog's visit.</p>
+<p>Kinkel had originally planned a visit in July but Beijing withdrew its invitation after the German lower house of parliament passed a resolution accusing China of trying to eradicate Tibet's cultural identity.</p>
+<p>After talks on the sidelines of the United Nations general assembly meeting in New York in September, Kinkel and his Chinese counterpart Qian Qichen said they had cleared up outstanding problems between Beijing and Bonn.</p>
+<p>They agreed to step up top level contacts. Beijing renewed Kinkel's invitation and invited president Herzog.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

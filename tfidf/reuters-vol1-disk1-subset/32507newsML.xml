@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32507" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: Indian cotton prices steady ahead of holiday.</title>
+<headline>Indian cotton prices steady ahead of holiday.</headline>
+<dateline>BOMBAY 1996-09-04</dateline>
+<text>
+<p>Indian cotton prices held steady on Wednesday in a narrow price band ahead of a local holiday, dealers said.</p>
+<p>&quot;Demand from millers as well as yarn manufacturers remained low but thin supplies kept prices intact,&quot; one dealer said.</p>
+<p>The markets are shut on Thursday for a local religious festival and will reopen on Friday. In spot deals Bengal-deshi traded at 825/850 rupees per maund (37.32 kg) while Punjab saw-ginned was unchanged at 1,675/1,690. Gujarat Kalyan (medium staple) was steady at 12,000/12,400 rupees per candy (355.56 kg) while Kala-ginned was steady at 9,600/9,700 rupees.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

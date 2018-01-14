@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31461" id="root" date="1996-09-04" xml:lang="en">
+<title>GREECE: PASOK WILL GO AHEAD WITH LONG-TERM CONTRACTS - MIN.</title>
+<headline>PASOK WILL GO AHEAD WITH LONG-TERM CONTRACTS - MIN.</headline>
+<dateline>ATHENS 1996-09-04</dateline>
+<text>
+<p>Greek Development Minister Vasso Papandreou said the socialist government will go ahead and sign long-term procurement contracts with Greek firms after the elections, Flash radio station said.</p>
+<p>Papandreou made the statement while visiting the headquarters of state telecom OTE, the radio said.</p>
+<p>She blasted former conservative National Economy Minister Stefanos Manos for favouring open international tenders for public procurements.</p>
+<p>OTE is looking into the possibility of exercising an option in its 1994 contract with Intracom and Siemens Hellas to order an additional 300,000 digital switches.</p>
+<p>Greek prosecutors have laid criminal and misdemeanor charges against unknown individuals in connection with the 1994 deal. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

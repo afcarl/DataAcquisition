@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135892" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: UNUM Corp Q3 net rises.</title>
+<headline>UNUM Corp Q3 net rises.</headline>
+<dateline>PORTLAND, Maine 1996-10-23</dateline>
+<text>
+<p>FINANCIAL HIGHLIGHTS</p>
+<p>(Dollars in millions, except per common share data)</p>
+<p>				  Three Mos Ended	Nine Mos Ended</p>
+<p>				 9/30/96    9/30/95  9/30/96  9/30/95</p>
+<p> Net Income			44.1	66.7    190.0    219.0</p>
+<p> Net income per common	 0.60	0.92     2.60     3.02</p>
+<p>share</p>
+<p> Operating income		76.7	66.7    222.4    185.4</p>
+<p> Operating EPS		   1.05	0.92     3.04     2.55</p>
+<p>Weighted avg shares</p>
+<p>   outstanding		   73.2	72.7     73.2     72.6</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

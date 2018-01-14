@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13204" id="root" date="1996-08-25" xml:lang="en">
+<title>HONG KONG: HK's inflation rate could dip further -- Tsang.</title>
+<headline>HK's inflation rate could dip further -- Tsang.</headline>
+<dateline>HONG KONG 1996-08-25</dateline>
+<text>
+<p>Hong Kong's Financial Secretary Donald Tsang on Sunday said inflation in the territory was under control and could fall lower for the rest of 1996.</p>
+<p>Previous government estimates of a 7.5 percent inflation rate for 1996 might be revised downward, government radio quoted Tsang as saying.</p>
+<p>Tsang did not say what the new estimate would be.</p>
+<p>Hong Kong's annual consumer price inflation has kept a downward trend with a rate of 6.1 percent reported for July, versus 6.4 percent for June, the government had said.</p>
+<p>--HONGKONG NEWSROOM (852) 28436441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

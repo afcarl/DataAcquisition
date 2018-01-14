@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133870" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Amex to post derivatives dictionary on Internet.</title>
+<headline>Amex to post derivatives dictionary on Internet.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>The American Stock Exchange will post an interactive dictionary of financial risk management terms on its web site, a spokesman said.</p>
+<p>The searchable dictionary, based on the forthcoming book &quot;The Dictionary of Financial Risk Management,&quot; by Gary Gastineau and Mark Kritzman, should be available on the exchange's web site in about a month, the spokesman said.</p>
+<p>The web dictionary, at http://www.amex.com, will contain thousands of entries on risk management and derivatives use.</p>
+<p>Gastineau is senior vice president of new product development at the exchange and Kritzman is managing partner of Windham Capital Management. --Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

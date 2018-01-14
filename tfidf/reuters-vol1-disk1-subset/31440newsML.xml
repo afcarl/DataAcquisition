@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31440" id="root" date="1996-09-04" xml:lang="en">
+<title>Netherlands: MULTIHOUSE H1 PROFIT 114,000 GUILDERS.</title>
+<headline>MULTIHOUSE H1 PROFIT 114,000 GUILDERS.</headline>
+<dateline>GOUDA, Netherlands 1996-09-04</dateline>
+<text>
+<p>H1 1996</p>
+<p>(in millions of guilders unless otherwise stated)</p>
+<p>    Net profit (guilders)	    114,000 vs  91,000</p>
+<p>    Turnover				32.5   vs 35.6</p>
+<p>    Operating profit (guilders)    187,000 vs 180,000</p>
+<p>Note - The firm reiterated its earlier forecast. In June,</p>
+<p>Multihouse said the result for full-year 1996 was expected to be</p>
+<p>positive.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOUDA, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

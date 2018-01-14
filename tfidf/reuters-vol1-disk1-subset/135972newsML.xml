@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135972" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Vicor sues German, Japan firms over patent.</title>
+<headline>Vicor sues German, Japan firms over patent.</headline>
+<dateline>ANDOVER, Mass. 1996-10-23</dateline>
+<text>
+<p>Vicor Corp on Wednesday said it filed a complaint on October 17 in District Court in Munich, Germany, citing Nemic Lambda KK of Japan and Lambda Electronics GmbH for infringement of Vicor's German &quot;reset&quot; patent.</p>
+<p>Vicor seeks injunctive relief and damages, the firm said.</p>
+<p>The patent protects technology, which can be used to achieve so-called &quot;Zero-Voltage Switching&quot; within a broad spectrum of power conversion topologies, thereby providing improved conversion efficiency and performance.  </p>
+<p>&quot;Having recently completed a detailed examination of products sold by Lambda in Germany and being confronted with an unresolved case of infringement, Vicor has taken this first step in enforcing its reset patent rights,&quot; the firm said in a statement.</p>
+<p>Neither defendant could be reached for comment.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANDOVER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

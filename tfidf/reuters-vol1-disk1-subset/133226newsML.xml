@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133226" id="root" date="1996-10-22" xml:lang="en">
+<title>KYRGYZSTAN: Kyrgyzstan Jan-Aug budget deficit 5.7 pct/GDP.</title>
+<headline>Kyrgyzstan Jan-Aug budget deficit 5.7 pct/GDP.</headline>
+<text>
+<p>BISHKEK, Oct 22 () - Kyrgyzstan's budget deficit narrowed to 686.5 million soms in the first eight months of this year, or 5.7 percent of gross domestic product, from about 1.16 billion soms a year ago (13.4%), the National Statistics Committee said on Tuesday.</p>
+<p>    KYRGYZ BUDGET	  JAN-AUG 96  JAN-JUL 96  JAN-AUG 95</p>
+<p>    revenue (million soms)    2,361.1     2,032.2     1,599.3</p>
+<p>    expenditure	     3,047.6     2,514.6     2,763.8</p>
+<p>    deficit		     686.5	 482.4     1,163.8</p>
+<p>    percentage of GDP	   5.7	   5.1	  13.4</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KIRGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="KYRGYZSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

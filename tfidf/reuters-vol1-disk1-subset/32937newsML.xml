@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32937" id="root" date="1996-09-04" xml:lang="en">
+<title>NETHERLANDS: Dutch brewer Grolsch profits up.</title>
+<headline>Dutch brewer Grolsch profits up.</headline>
+<dateline>ENSCHEDE, Netherlands</dateline>
+<text>
+<p>Dutch brewer Grolsch NV posted an 11 percent rise in half-year profits Wednesday and said it expects profits for the full year to be higher than in 1995.</p>
+<p>It said it earned 21.0 million guilders ($12.61 million) in the first six months, vs a 18.9 million guilders ($11.34 million).</p>
+<p>Revenues increased to 319.9 million guilders ($192 million) from a previous 260.1 million guilders ($156 million), with operating profits up to 35.5 million guilders ($21.3 million) from 29.5 million ($17.7 million).</p>
+<p>The profit figure was in line with analysts' forecasts.</p>
+<p>&quot;On balance we expect another profit rise for the full year in line with our earlier forecasts,&quot; the brewer said.</p>
+<p>Grolsch said in March it expected a further profit rise in 1996. Its net profits in 1995 rose 12 percent to 58.8 million guilders ($35.29 million).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ENSCHEDE, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

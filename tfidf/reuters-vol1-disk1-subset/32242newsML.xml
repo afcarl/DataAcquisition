@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32242" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Clinton says U.S. mission accomplished in Iraq.</title>
+<headline>Clinton says U.S. mission accomplished in Iraq.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>President Bill Clinton said on Wednesday the U.S. mission in Iraq &quot;has been achieved&quot; by cruise missile attacks and Iraq has withdrawn its forces from a northern Kurdish area at least for the time being.</p>
+<p>&quot;Our mission has been achieved,&quot; Clinton told reporters called to the Oval Office. &quot;... There has been a withdrawal of the (Iraqi) forces, a dispersal of the forces, but it's too soon to say that this is permanent or that further action will not be taken,&quot; Clinton said.  </p>
+<p>U.S. cruise missiles were fired at military targets in southern Iraq on Tuesday and Wednesday in retaliation for Iraqi President Saddam Hussein's decision to send troops into a northern area occupied by Kurds who are under allied protection.</p>
+<p>&quot;The air strikes, the missile strikes, that were conducted over the last few days have been successful,&quot; Clinton said. &quot;The targets are either destroyed or sufficiently damaged so that you can say that our mission has been achieved.&quot;</p>
+<p>The cruise missile attacks enabled the allies to expand a no-fly zone bordering Kuwait and Saudi Arabia in the southern part of Iraq.</p>
+<p>On a related issue, Clinton said U.S. forces had nothing to do with explosions and anti-aircraft fire reported in Baghdad on Wednesday. &quot;They are not the result of any action that we have taken,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

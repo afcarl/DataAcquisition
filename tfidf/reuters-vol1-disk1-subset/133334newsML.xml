@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133334" id="root" date="1996-10-22" xml:lang="en">
+<title>PERU: Peru's bank liquidity rises 3.4 percent in Sept.</title>
+<headline>Peru's bank liquidity rises 3.4 percent in Sept.</headline>
+<dateline>LIMA 1996-10-22</dateline>
+<text>
+<p>Peru's total banking system liquidity rose 3.4 percent, or 969 million soles, to 29.094 billion soles during September, the Central Reserve Bank said on Tuesday.</p>
+<p>Liquidity in the local sol currency rose 2.1 percent to 9.561 billion soles in September, according to the bank's weekly report. Foreign currency liquidity rose 2.0 percent to $7.782 billion in the same period.</p>
+<p>Total liquidity stood at 22.483 billion soles at the end of 1995.</p>
+<p>-- Saul Hudson, Lima newsroom 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

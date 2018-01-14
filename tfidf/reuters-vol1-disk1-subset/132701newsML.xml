@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132701" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: ENDOcare Inc Q3 loss.</title>
+<headline>ENDOcare Inc Q3 loss.</headline>
+<dateline>IRVINE, Calif. 1996-10-22</dateline>
+<text>
+<p>ENDOCARE, INC.</p>
+<p>			     STATEMENTS OF OPERATIONS</p>
+<p>			   (unaudited)</p>
+<p>			     Three Months Ended  Nine Months Ended</p>
+<p>				     September 30,   September 30,</p>
+<p>			   1996	 1995	   1996	 1995</p>
+<p>Revenues:</p>
+<p>Net product sales</p>
+<p>			$639,073   $161,445   $1,427,914   $749,192</p>
+<p>    Research revenues    0    107,049	  1,600    215,290</p>
+<p>   Total revenues  639,073    268,494    1,429,514    964,482</p>
+<p>Costs and expenses:</p>
+<p>    Cost of sales  288,542     73,932	764,706    260,154</p>
+<p>Research and development</p>
+<p>			 323,161    167,744	686,816    619,508</p>
+<p>Selling, general and</p>
+<p>administrative</p>
+<p>			 313,632    136,318	911,517    467,057</p>
+<p>Impairment loss on</p>
+<p>     long-lived assets   0	    0	324,878	    0</p>
+<p>Total costs and expenses</p>
+<p>			 925,335    377,994    2,687,917  1,346,719</p>
+<p>Loss before income taxes</p>
+<p>		     (286,262)  (109,500)  (1,258,403)  (382,237)</p>
+<p>Provision for income taxes</p>
+<p>				 0	    0		0	    0</p>
+<p> Net loss	  (286,262)  (109,500)  (1,258,403)  (382,237)</p>
+<p>Net loss per share of</p>
+<p>   common stock	(.05)	 ---*	  (.22)	 ---*</p>
+<p>Weighted average shares and</p>
+<p>common stock equivalents</p>
+<p>   outstanding   5,638,943	 ---*    5,633,068	 ---*</p>
+<p>* Share data not applicable since ENDOcare was a wholly owned subsidiary of Medstone International, Inc. until January 1, 1996</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

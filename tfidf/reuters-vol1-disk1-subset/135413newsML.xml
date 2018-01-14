@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135413" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Typhoon Beth damages Philippine rice crop.</title>
+<headline>Typhoon Beth damages Philippine rice crop.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>Typhoon Beth damaged 18,498 hectares of rice lands in the northern Philippines, the Department of Agriculture said on Tuesday.</p>
+<p>The total rice area affected in Cagayan and Isabela provinces was 18,498 hectares with a projected production loss of 29,323 tonnes valued at 63.173 million pesos, Agriculture Secretary Salvador Escudero said in a statement.</p>
+<p>Escudero said a total of 420 hectares planted to banana and assorted vegetables, worth 5.4 million pesos, were also damaged in the Cagayan Valley region.</p>
+<p>&quot;Also, the losses to the poultry and fisheries sub-sectors were estimated at 845,325 pesos and 40,000 pesos, respectively,&quot; Escudero added.</p>
+<p>--Manila newsroom (632) 841-89-36, fax 817-62-67</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134440" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Merrill sees 'no liability' in S'tomo loss.</title>
+<headline>Merrill sees 'no liability' in S'tomo loss.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Merrill Lynch said it acted in good faith with Sumitomo Corp and sees no liability from the copper scandal.</p>
+<p>&quot;We conducted all of our business with Sumitomo in good faith, and in an entirely proper manner,&quot; said Merrill Lynch spokesman James Wiggins. &quot;In any event, we do not believe we would have any liability in connection with transactions conducted with them.&quot;</p>
+<p>Merrill has said all its trades with Sumitomo were authorized at senior levels.</p>
+<p>Earlier Tuesday, Sumitomo's disgraced former head copper trader Yasuo Hamanaka was arrested for forgery after his Tokyo home was raided by prosecutors.</p>
+<p>Tokyo District Prosecutor's Office said he was under suspicion of forging the signature of a Sumitomo board member on two letters in 1994.</p>
+<p>The letters said he had the authority to enter into certain metal transactions and to designate recipients of funds deposited with the firms in the Merrill Lynch group.</p>
+<p>Naoki Kuroda, a managing director at Sumitomo, said on Tuesday that the company had found no evidence that would lead it to file complaints against foreign metals brokers that dealt with Hamanaka.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133516" id="root" date="1996-10-22" xml:lang="en">
+<title>THAILAND: Thai central bank staff face code of conduct.</title>
+<headline>Thai central bank staff face code of conduct.</headline>
+<dateline>BANGKOK 1996-10-22</dateline>
+<text>
+<p>Thai central bank governor Rerngchai Marakanond on Tuesday unveiled a code of conduct for his staff who buy stocks in the Thai bourse.</p>
+<p>Rerngchai told reporters central bank officials are required to report to superiors within 15 days their purchase of listed Thai stocks, saying failure to comply with the rule could entail disciplinary actions against them.</p>
+<p>The governor pledged in July when he took his job that one of his priorities was to restore credibility of the central bank.</p>
+<p>His actions followed local media criticism of Rerngchai's predecessor, Vijit Supinit, for his alleged decision to accept shares of a Thai brokerage firm at a concessional par price in the early 1990s.</p>
+<p>Vijit did not confirm or deny the charge.</p>
+<p>Rerngchai said the bank's code of conduct also stipulated that senior central bank officials with access to inside information of financial institutions should refrain from holding jobs in private financial firms for at least six months after quitting the bank.</p>
+<p>-- Bangkok newsroom (662)-2529950-3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

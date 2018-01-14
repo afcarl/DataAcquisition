@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134460" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: American Brands to up div after spinoff.</title>
+<headline>American Brands to up div after spinoff.</headline>
+<dateline>OLD GREENWICH, Conn. 1996-10-22</dateline>
+<text>
+<p>American Brands Inc said Tuesday it will pay a higher dividend to stockholders when it completes the spinoff of its United Kingdom-based Gallaher tobacco unit.</p>
+<p>The company said it is currently considering a combined initial annualized dividend of $2.00 per share, while U.S. and eligible U.K. taxpayers will receive effectively an additional $0.30 per share.</p>
+<p>The added benefit comes in the form of a refund or credit of the U.K.'s advance corporation tax that is paid by Gallaher on its dividends, it said.  </p>
+<p>The company's name is to be changed to Fortune Brands. After the transaction, the new Fortune Brands will consider repurchasing up to 10 million shares, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OLD GREENWICH, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

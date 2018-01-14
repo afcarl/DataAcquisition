@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33126" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Sept 4.</title>
+<headline>PRESS DIGEST - New York Times front page - Sept 4.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page on Wednesday:</p>
+<p>* United States prepares for further action against Iraq.</p>
+<p>* United States takes sides in Kurdish dispute.</p>
+<p>* Republican presidential candidate Bob Dole backs troops in Iraq raid.</p>
+<p>* Dole is facing a tough sell in a California suburb of voters who can turn either way.</p>
+<p>* Texas immigrants worry as cuts in welfare loom.</p>
+<p>* The biggest mall in the United States imposes curfew on people under age 16, raising legal concerns.</p>
+<p>* Choices are reshaping the U.S. school landscape.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

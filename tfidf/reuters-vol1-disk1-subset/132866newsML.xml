@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132866" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN CUP RESULTS.</title>
+<headline>SOCCER-GERMAN CUP RESULTS.</headline>
+<dateline>BONN 1996-10-22</dateline>
+<text>
+<p>Results of matches in the third</p>
+<p>round of the German Cup on Tuesday:</p>
+<p> Karlsruhe (Amateurs)  0   Bochum	  1</p>
+<p> 1860 Munich	     1   Hamburg	 2</p>
+<p> St. Pauli		 1   Unterhaching  0</p>
+<p> Freiburg		  2   Meppen	  1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

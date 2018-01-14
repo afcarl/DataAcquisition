@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181597" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Freddie Mac to redeem debenture issues. [CORRECTED 3:07 GMT 14/11]</title>
+<headline>Freddie Mac to redeem debenture issues. [CORRECTED 3:07 GMT 14/11]</headline>
+<dateline>WASHINGTON 1996-11-12</dateline>
+<text>
+<p>The Federal Home Loan Mortgage Corp said Tuesday that on November 26 it will redeem three debenture issues totaling $150 million as follows.</p>
+<p>  Principal  Interest   Maturity     Cusip</p>
+<p> $50 million    7.08    09/24/01   3134A0YN6</p>
+<p> $50 million    6.81    10/02/00   3134A0MG4 (Corrects Cusip)</p>
+<p> $50 million    7.024   10/03/01   3134A0ZE5</p>
+<p>Freddie Mac said it will redeem the issues in their entirety at a price equal to 100 percent of principal. It will pay principal plus accrued interest to the redemption date to holders of record as of the close of business on November 25.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132687" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Columbia Banking Systems Q3 full results.</title>
+<headline>Columbia Banking Systems Q3 full results.</headline>
+<dateline>TACOMA, Wash. 1996-10-22</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p>Earnings:</p>
+<p>   Net interest income     $ 5,261  $ 4,281 $ 14,756 $ 12,206</p>
+<p>   Provision for loan losses   330	320    1,090	920</p>
+<p>   SAIF special assessment     612	 --	612	 --</p>
+<p>   Net income*		     483	772    2,323    1,819</p>
+<p>Net income excluding SAIF</p>
+<p>    special assessment	 1,095	 --    2,935	 --</p>
+<p>Per share:</p>
+<p>   Net income		     0.13     0.22     0.64     0.52</p>
+<p>   Fully diluted earnings     0.13     0.22     0.64     0.52</p>
+<p>Net income excluding SAIF</p>
+<p>    special assessment	  0.30	 --     0.81	 --</p>
+<p>Averages:</p>
+<p>   Total assets		505,602  390,537  467,424  362,422</p>
+<p>   Loans			 421,009  333,423  392,590  309,160</p>
+<p>   Deposits		    428,622  325,543  394,924  303,245</p>
+<p>   Shareholders' equity     35,543   30,118   33,501   29,352</p>
+<p>Financial Ratios:</p>
+<p> Return on average assets    0.38%    0.78%    0.66%    0.67%</p>
+<p>Return on average assets</p>
+<p>excluding  SAIF</p>
+<p>  special assessment	    0.86	 --     0.84	 --</p>
+<p> Return on average equity     5.39    10.17     9.24     8.29</p>
+<p>Return on average equity</p>
+<p>excluding SAIF</p>
+<p>  special assessment	   12.22	 --    11.67	 --</p>
+<p>Average equity to</p>
+<p>  average assets		  7.03     7.71     7.17     8.10</p>
+<p>					    Sep 30,   Dec. 31,</p>
+<p>						1996	  1995</p>
+<p>Period-end:</p>
+<p>  Total assets			 $530,854   $425,206</p>
+<p>  Loans				   431,772    353,093</p>
+<p>Allowance for loan</p>
+<p>   losses				   4,348	3,748</p>
+<p>  Deposits				454,500    361,875</p>
+<p>  Shareholders' equity		 36,876     31,967</p>
+<p> Book value per share		    9.94	 9.30</p>
+<p>Nonperforming assets:</p>
+<p>   Nonaccrual loans		     1,379	  435</p>
+<p>   Restructured loans		     152	   29</p>
+<p>   Real estate owned			 --	3,304</p>
+<p>     Total nonperforming assets     1,531	3,768</p>
+<p>Nonperforming assets</p>
+<p>  to period-end assets:		 0.29%	0.89%</p>
+<p>* The Company continues to benefit from utilization of its net operating loss carry forwards for federal income tax purposes.  Therefore, the Company had no federal income tax provision for each of the periods shown.  Had earnings been fully taxed, net income for the three and nine months ending September 30, 1996, would have been approximately $319,000 and $1.5 million, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TACOMA, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

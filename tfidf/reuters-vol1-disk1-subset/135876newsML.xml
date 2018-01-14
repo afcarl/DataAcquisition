@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135876" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Armor Holdings Inc Q3 shr.</title>
+<headline>Armor Holdings Inc Q3 shr.</headline>
+<dateline>FERNANDINA BEACH, Fla. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr		 $0.03		    $0.02</p>
+<p> Net		 239			87</p>
+<p> Revs		4,452		    2,930</p>
+<p>		9  MONTHS</p>
+<p> Shr		 $0.06		    $0.07</p>
+<p> Net		 454			465</p>
+<p> Revs		11,315		   8,406</p>
+<p>(All data above 000s except per share numbers) NOTE: 1995 Q3 net before giving effect to $139,359 in non-recurring, non-operating income.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FERNANDINA BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

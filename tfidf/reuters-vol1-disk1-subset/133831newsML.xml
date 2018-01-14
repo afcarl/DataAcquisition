@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133831" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CME says 11 intend to join swaps depository.</title>
+<headline>CME says 11 intend to join swaps depository.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Eleven financial institutions have signed letters of intent to join the Chicago Mercantile Exchange's CME Depository Trust Co, which will manage collateral for swaps, the CME said.</p>
+<p>The Depository Trust Co (DTC), a subsidiary of the CME, will record and match privately negotiated derivatives transactions from participating members to reduce administrative and operational burdens on firms.  </p>
+<p>The depository, which will be jointly run by the CME, SunGard Capital Markets and the Society for Worldwide Interbank Financial Telecommunications, will also revalue and reset derivative transactions upon request, the CME said.</p>
+<p>&quot;Most of the pieces are now in place,&quot; DTC chief executive John McPartland said in a statement.</p>
+<p>A CME spokeswoman said the CME was wrapping up the final stages of development after the CME began the project two years ago. The CME Depository Trust Co was aiming for a launch date near the end of the first quarter of 1997 once the first participants are ready.  </p>
+<p>&quot;Some have indicated they should be ready to go by February or March,&quot; she said.</p>
+<p>ABN AMRO Bank NV, Bankers Trust Co, Citibank NA, First National Bank of Chicago, and the Industrial Bank of Japan Ltd have signed letters of intent.</p>
+<p>Also signing letters of intent were Merrill Lynch Capital Services Inc, Morgan Guaranty Trust of New York, NatWest Markets, Banque Paribas, Societe Generale and the Union Bank of Switzerland .</p>
+<p>The CME Depository Trust is regulated by the Illinois Commissioner of Banks and Trust Companies. -Derivatives desk 312-408-8750;E-mail derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

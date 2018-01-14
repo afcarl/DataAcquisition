@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132305" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Tokyo stocks slightly weak in morning after polls.</title>
+<headline>Tokyo stocks slightly weak in morning after polls.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Tokyo stocks were slightly easier in early Monday morning trade, as participants adjusted their positions after last week's steep gains, which were prompted by expectations the Liberal Democratic Party would win a simple majority in the Lower House election on Sunday, brokers said.</p>
+<p>At 0030 GMT, the key 225-share Nikkei average was down 23.26 points or 0.11 percent at 21,589.04. Its December futures lost 30 to 21,670. &quot;The Nikkei had risen last week ahead of the elections, but we still have to see what kind of a coalition will be created,&quot; said Kenichi Sagami, general manager at Yamaichi Securities Co Ltd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

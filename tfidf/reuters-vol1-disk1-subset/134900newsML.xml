@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134900" id="root" date="1996-10-22" xml:lang="en">
+<title>SWEDEN: Swedish repo tender drains 63 bln SKR from market.</title>
+<headline>Swedish repo tender drains 63 bln SKR from market.</headline>
+<dateline>STOCKHOLM 1996-10-22</dateline>
+<text>
+<p>Sweden's central bank Riksbank said on Tuesday it had drained 63 billion crowns from the market in Tuesday morning's reverse repurchase operation.</p>
+<p>The reverse repo was set a rate of 4.85 percent, a cut of 10 basis points from the last tender, and will run from October 23 to October 30.</p>
+<p>It replaces an operation that drained 65 billion crowns from the market.</p>
+<p>The Riksbank said 15.48 percent of the bids for the tender were allocated.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

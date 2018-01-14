@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31658" id="root" date="1996-09-04" xml:lang="en">
+<title>ALBANIA: WHO to probe puzzling polio outbreak in Albania.</title>
+<headline>WHO to probe puzzling polio outbreak in Albania.</headline>
+<dateline>TIRANA 1996-09-04</dateline>
+<text>
+<p>Three World Health Organisation (WHO) experts will arrive in Albania on Wednesday to try to control a puzzling polio outbreak which has killed five people, a doctor said.</p>
+<p>&quot;The team is coming to analyse the epidemiological situation in Albania,&quot; Kristo Pano, senior doctor at Tirana's hospital for infectious diseases, told Reuters.</p>
+<p>He said a total of 25 people had been registered at the hospital, the main medical centre in Albania treating the disease, and 13 of them had recovered.</p>
+<p>Two pregnant women, two teenage girls and a 39-year-old man -- all from different regions of the small Balkan country -- have died of polio since the sickness first cropped up in June, Pano said.</p>
+<p>Experts were unsure if the outbreak could be contained, saying the country was facing an extremely rare epidemic.</p>
+<p>They said the disease initially spread from children who had received polio vaccinations to persons with weak immune systems or who had not received adequate inoculations. The experts said the disease was spread due to poor sanitation.</p>
+<p>About 700,000 Albanian children up to the age of five received polio vaccinations in April and May.</p>
+<p>New cases of polio worldwide fell to an all-time low of 6,179 last year, 28 percent down from 1994, according to U.S. health officials.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

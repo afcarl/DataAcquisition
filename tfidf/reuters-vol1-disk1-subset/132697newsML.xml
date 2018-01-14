@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132697" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Morgan Stanley names investment group head.</title>
+<headline>Morgan Stanley names investment group head.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Morgan Stanley Group said Tuesday that David Darst has joined the firm as a managing director with responsibilities for The Investment Group, a new joint venture between Morgan Stanley Private Client Services and Morgan stanley Asset Management.</p>
+<p>The investment group develops investment and portfolio strategies, implements asset allocation recommendations and creates new products for substantial private investors worldwide, a statement from Morgan Stanley said.</p>
+<p>Darst served most recently as vice president and chief financial officer of the equities division of Goldman, Sachs &amp; Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

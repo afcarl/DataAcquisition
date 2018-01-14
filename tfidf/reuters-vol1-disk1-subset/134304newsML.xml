@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134304" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Canada wholesale trade rises 1.5 pct in August.</title>
+<headline>Canada wholesale trade rises 1.5 pct in August.</headline>
+<dateline>OTTAWA 1996-10-22</dateline>
+<text>
+<p>Canada's wholesale trade rose 1.5 percent seasonally adjusted in August to C$21.44 billion, Statistics Canada said on Tuesday.</p>
+<p>				     Aug	   Month chg    Year chg</p>
+<p>    Sales, adj	    C$21.44 bln	 +1.5 pct    +6.3 pct</p>
+<p>    Inventories, adj    C$31.55 bln	 +1.0 pct    +1.0 pct</p>
+<p>Note - dollar figures are billions. Other figures are percentage changes.</p>
+<p>A Reuter survey of economists had forecast a 0.45 percent month-on-month rise in August. Statscan also revised its figure for July sales to C$21.13 billion from C$21.12 billion.  </p>
+<p>Statistics Canada said sales rose in eight of the 11 trade groups, representing about 80 percent of total sales. The smallest increase was in sales of food products, 0.1 percent, and the largest, 7.4 percent, was in sales of computers, packaged software and other electronic machinery.</p>
+<p>Sales in the &quot;other products&quot; group rose 2.6 percent in the month.</p>
+<p>Except in Saskatchewan, where wholesale sales dropped 6.0 percent in August, wholesalers in all other provinces recorded higher sales.</p>
+<p>Inventories jumped 1.0 percent in August, the largest increase in 18 months, Statistics Canada said. The rise came mostly from strong gains, in dollar terms, in motor vehicles, parts and accessories, and &quot;other products.&quot;</p>
+<p>Despite the increase in inventories in August, the inventories-to-sales ratio fell to 1.47 from 1.48, due to a higher increase in sales than in inventories.</p>
+<p>(For more information from Statistics Canada, contact Catherine Mamay, 613-951-9683, or Gilles Berniquez, 613-951-3540, Industry Division.)</p>
+<p>-- Reuters Ottawa Bureau 613-235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

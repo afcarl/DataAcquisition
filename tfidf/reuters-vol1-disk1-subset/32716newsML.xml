@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32716" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Lean US gov't may damp Aug payroll data - Wrightson.</title>
+<headline>Lean US gov't may damp Aug payroll data - Wrightson.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>U.S. payroll creation in August -- a usually strong month for American labor markets -- is likely to have been damped by a leaner government sector, according to the research firm Wrightson Associates.</p>
+<p>Wrightson's forecast for a 200,000 payroll increase in August could be good news for a wary Treasury market, but the firm's call for a four-cent increase in August average hourly earnings may spell trouble.</p>
+<p>Wrightson economist Mike Cloherty note &quot;from 1991 through 1995, the average August (payroll) increase was 76,000 larger than the average for the first seven months of the year.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135754" id="root" date="1996-10-23" xml:lang="en">
+<title>ZAMBIA: ZCCM SAYS 26,000 TONNES LOST TO STRIKE.</title>
+<headline>ZCCM SAYS 26,000 TONNES LOST TO STRIKE.</headline>
+<dateline>LUSAKA 1996-10-23</dateline>
+<text>
+<p>Zambia Consolidated Copper Mines (ZCCM) said on Wednesday it lost 26,000 tonnes of ore output during a three-day strike at Nchanga Division that ended on Monday.</p>
+<p>A statement said the ore represented 780 tonnes of contained copper.</p>
+<p>Earlier the company said it had sacked 97 miners at Nchanga over the strike and for vandalising company property on Monday.</p>
+<p>The miners, on strike to push for bonus pay, vandalised part of a three km stretch of underground lighting, prompting management to call police to restore order at the plant.</p>
+<p>Nchanga is responsible for about 50 percent of ZCCM production. ZCCM copper production totalled 25,141 tonnes in August when cobalt output was 441 tonnes.</p>
+<p>-- Jowie Mwiinga, Lusaka newsroom, +26 01 222-689</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUSAKA"/>
+<dc element="dc.creator.location.country.name" value="ZAMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

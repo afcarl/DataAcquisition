@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31528" id="root" date="1996-09-04" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa's Rand Merchant Bank boosts year profit.</title>
+<headline>S.Africa's Rand Merchant Bank boosts year profit.</headline>
+<dateline>JOHANNESBURG 1996-09-05</dateline>
+<text>
+<p>Year ended June 30</p>
+<p>		(million rand unless stated)</p>
+<p>    Net income		    96.1	   vs  71.0</p>
+<p>    Net interest income	122.3	   vs 109.8</p>
+<p>    Other operating income   202.2	   vs 112.5</p>
+<p>    Bad/doubtful debt charge  20.7	   vs  20.9</p>
+<p>    Pre-tax			140.7	   vs 112.4</p>
+<p>    Tax			     44.0	   vs  39.4</p>
+<p>Full name: Rand Merchant Bank Ltd, a wholly-owned subsidiary of Momentum Life Assurers Ltd within the RMB Holdings Ltd group.</p>
+<p>NOTE - Managing director Paul Harris said the bank had seen strong organic growth from all divisions - corporate finance, structured finance, investment banking, treasury and special projects. The sharp rise in investment and other income signified good results from non-lending activities.</p>
+<p>The bad/doubtful charge write-off represented a conservative 1.5 percent of total advances, far higher than the average bad debt write-off of 0.7 percent over the past five years, he added.</p>
+<p>The bank said it remained well-positioned in spite of the growing local presence of international banks. &quot;It is anticipated that RMB should achieve its targeted growth in earnings in the next financial year,&quot; a statement with the results said.</p>
+<p>	 -- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

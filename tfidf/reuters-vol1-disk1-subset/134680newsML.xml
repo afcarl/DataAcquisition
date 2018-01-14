@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134680" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: UK five-year gilt auction -- full results.</title>
+<headline>UK five-year gilt auction -- full results.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>The following issue was announced by the Bank of England</p>
+<p> ISSUER: H M Treasury</p>
+<p> MATURITY: 2001</p>
+<p> COUPON: 7.0 percent</p>
+<p> AVERAGE ACCEPTED YIELD:7.10 pct</p>
+<p> BID AMOUNT/COVER:3.57</p>
+<p> LOWEST ACCEPTED PRICE:99-17</p>
+<p> PCT ALLOCATED AT LOWEST PRICE:81.5 pct</p>
+<p>NOTES: The yield tail was zero basis points. There was no price tail. The Bank of England said of the non-competitive bids alloted, 160 million stg went to GEMMS and 5.0 million stg to others.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

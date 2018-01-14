@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13307" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Clinton says Republicans aim for Hillary.</title>
+<headline>Clinton says Republicans aim for Hillary.</headline>
+<dateline>CHICAGO 1996-08-25</dateline>
+<text>
+<p>President Bill Clinton charged on Sunday that there is an organised unprecedented Republican campaign against his wife Hillary, but said she has held up well under attacks.</p>
+<p>In an interview in the Chicago Tribune, Clinton said he was not surprised by Republicans' indirect criticism at their convention.</p>
+<p>&quot;Well, it didn't surprise me; they've been doing it for five years now,&quot; Clinton said. &quot;It has been part of their political strategy for five years.&quot;</p>
+<p>&quot;There is no precedent for it,&quot; Clinton said, adding, &quot;She is pretty strong and she has held up  right well,  I think.&quot;</p>
+<p>Even Eleanor Roosevelt could not have been more personally attacked, said Clinton, saying the former first lady &quot;didn't have the kind of organised, disciplined, long-term movement that she has (had).&quot;</p>
+<p>Clinton also struck back at Republican presidential nominee Bob Dole who took a verbal swing in his acceptance speech at Mrs. Clinton over her book about children, &quot;It Takes a Village&quot; when Dole said it doesn't take a village but that it takes a family to raise children.</p>
+<p>The attacks on his wife were &quot;incongruous with the facts,&quot; said Clinton. &quot;Look at Sen. Dole, for example,&quot; he added, saying he had respect for Dole's Second World War service and fighting back from serious wounds but that &quot;a village&quot; helped him recover.</p>
+<p>&quot;How many times has he told the story about the people caring for him in the hospital and how this country invested in his healthg care?&quot; Clinton asked. How many times has he talked about how he went back home to Russell, Kansas, and everybody worked to make him whole again?&quot;</p>
+<p>Clinton said about Dole, &quot;I certainly think that the village helped him.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

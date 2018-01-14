@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131982" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Tokyo corn futures end mixed after earlier losses.</title>
+<headline>Tokyo corn futures end mixed after earlier losses.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Tokyo corn futures closed mixed on Monday after the yen's fall against the dollar pushed up some contracts, traders said.</p>
+<p>Prices ranged from 270 yen lower to 160 yen higher, with benchmark November down 150 yen at 14,700 yen per tonne. Daily volume was 57,829 lots.</p>
+<p>Bearish sentiment dominated the Tokyo market during the morning sessions as individual investors rushed to sell, traders said. &quot;Investors still remember the price plunges last week. They are quick to liquidate long positions on any bearish factor,&quot; a brokerage house trader said.  </p>
+<p>But some months recovered by late afternoon, reflecting the yen's weakening against the dollar, the traders said.</p>
+<p>The spot December contract on the CBOT Project A trading system was being traded at $2.80 per bushel at 0810 GMT, compared with $2.80-1/4 on Friday.</p>
+<p>The spot November CBOT soybean futures contract was at $6.81 at 0810 GMT, against $6.82 at Friday's close.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

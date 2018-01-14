@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132727" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Sirco International Corp Q3 shr drops.</title>
+<headline>Sirco International Corp Q3 shr drops.</headline>
+<dateline>STAMFORD, Conn. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$0.05		    $0.34</p>
+<p> Shr diluted		 0.05		     0.34</p>
+<p> Net profit		    73			410</p>
+<p> Sales			7,678		    7,920</p>
+<p> Avg shrs		   1,310		    1,210</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary prof	 $0.39     loss	 $0.85</p>
+<p> Shr diluted prof	  0.39     loss	  0.85</p>
+<p> Net profit		   517     loss	 1,031</p>
+<p> Sales		     21,894		   18,026</p>
+<p> Avg shrs		   1,310		    1,210</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE - 1996 Q3 includes a one-time writeoff of $0.11 per share from the negotiated release of a non-compete covenant from Yashiro and the corresponding payment in full at a reduced amount of the company's obligation to Yashiro.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

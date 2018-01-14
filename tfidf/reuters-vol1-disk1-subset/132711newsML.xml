@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132711" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Equitable Q3 shr loss $0.10 vs loss $0.14.</title>
+<headline>Equitable Q3 shr loss $0.10 vs loss $0.14.</headline>
+<dateline>PITTSBURGH 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		 $  0.10   profit     $  0.05</p>
+<p> Net loss		   3,687   profit	 1,684</p>
+<p> Revs		     357,011		  270,992</p>
+<p> Avg shrs		  35,267		   34,846</p>
+<p>	   9 MONTHS</p>
+<p> Shr profit	    $   1.02   profit    $   0.81</p>
+<p> Net profit		35,967   profit	28,276</p>
+<p> Revs		   1,389,056		  992,217</p>
+<p> Avg shrs		  35,143		   34,733</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTES: Company's full name is Equitable Resources Inc.</p>
+<p>Year ago Q3 includes gains of $0.19/shr, without gain net is loss $0.14/shr.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

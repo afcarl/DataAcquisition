@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132312" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Canada dollar closes firmer after see-saw trading.</title>
+<headline>Canada dollar closes firmer after see-saw trading.</headline>
+<text>
+<p>FORECAST RANGE   1.3440/1.3485	    ASIAN CLOSE     1.3470</p>
+<p>RESISTANCE 1.3400  SUPPORT 1.3520	 HI 1.3481   LO  1.3440</p>
+<p>CANADA OPEN  1.3478/83    HI 1.3478     EUROPE OPEN     1.3472</p>
+<p>PREV CLOSE   1.3464/69    LO 1.3435     HI 1.3481   LO  1.3437</p>
+<p>-----------------------MARKET COMMENT-------------------------</p>
+<p>* The Canadian dollar closed firmer at C$1.3451 (US$0.7435) from Monday's close of C$1.3464 (US$0.7428) after a see-saw day of trading that took the currency to C$1.3435 at one point this morning, traders said. * They said the currency weakened later in the day as weak economic data made a central bank rate cut appear imminent.  </p>
+<p>The numbers were on the low end of market expectations and increased the possibility of a bank rate cut, dealers said.</p>
+<p>They said poor retail sales data released Monday also heightened speculation of a rate cut.</p>
+<p>Dealers said the currency was buffeted by investors who were buying Canadian dollars to invest in Canada's strong bond market and by investors who were reluctant to lend strength to the currency for fear it would spark a rate cut.</p>
+<p>On the crosses, the Canadian dollar slipped to 1.1334 marks from 1.1391 marks on Monday and fell to 83.44 yen from Monday's close at 83.66 yen.</p>
+<p>-- Heather Scoffield, Reuters Toronto Bureau 416 941-8104</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

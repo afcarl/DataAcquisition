@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133805" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: US poultry exporters can't count on China, Russia.</title>
+<headline>US poultry exporters can't count on China, Russia.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Political instability in Russia and China means that U.S. poultry exporters of dark meat products need to find new countries to ship their products, a U.S. Department of Agriculture economist told a grain and livestock conference in Chicago.</p>
+<p>&quot;I think the industry should be actively seeking new markets for our dark meat products,&quot; said Sue Trudell, agricultural economist with USDA.</p>
+<p>Russia and China, which includes exports to Hong Kong, account for 68 percent of total U.S. poultry exports, according to USDA statistics.</p>
+<p>&quot;Because growth has been concentrated on a few key markets, disruptions can quickly have a major impact,&quot; Trudell said.</p>
+<p>Poultry exports to Russia were halted last spring when Russian health officials raised concerns about the sanitary condition of U.S. poultry imports.</p>
+<p>The issue was resolved and exports resumed, but uncertainty over the health of Russian President Boris Yeltsin and the resulting political shake-up makes &quot;it seem clear that additional disruptions could occur,&quot; Trudell said.</p>
+<p>Shaken by the Russian situation, industry watchers agree that China's recent announcement to put a ban live and poultry meat imports from the U.S. because of avian influenza concerns could also lead to a disruption in trade.</p>
+<p>Poultry products shipped to China include chicken wing tips and chicken claws, two products that have no market in the U.S., Trudell said.</p>
+<p>Russia mostly imports U.S. broilers as well as turkey thighs.</p>
+<p>- Anna Driver 1-312-783-7294</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I41230">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

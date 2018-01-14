@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31659" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Czech 4wk T-bills avg 12.3 pct.</title>
+<headline>Czech 4wk T-bills avg 12.3 pct.</headline>
+<dateline>PRAGUE 1996-09-04</dateline>
+<text>
+<p>The Czech National Bank said on Wednesday that succssful bids in an auction offering five billion crowns in four-week treasury bills averaged 12.30 percent, and accepted bids totalled 4.999 billion crowns.</p>
+<p>It said 91.5 percent of the successful bids came in at the maximum accepted level of 12.37 percent.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

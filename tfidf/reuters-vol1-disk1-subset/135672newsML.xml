@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135672" id="root" date="1996-10-23" xml:lang="en">
+<title>SPAIN: SOCCER-ROMARIO JOINS FLAMENGO ON LOAN.</title>
+<headline>SOCCER-ROMARIO JOINS FLAMENGO ON LOAN.</headline>
+<dateline>VALENCIA, Spain 1996-10-23</dateline>
+<text>
+<p>Troubled Brazilian striker Romario has joined his old club Flamengo on loan from Valencia until June 30 next year.</p>
+<p>The two sides are expected to continue discussing terms for a permanent transfer of Romario who has been dropped several times by Valencia coach Luis Aragones since signing from Flamengo in the close season.</p>
+<p>Romario returned home to Brazil last week for what was supposed to be a three-day visit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALENCIA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

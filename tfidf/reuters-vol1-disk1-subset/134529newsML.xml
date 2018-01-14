@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134529" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Ducommun names Berenato to post of CEO.</title>
+<headline>Ducommun names Berenato to post of CEO.</headline>
+<dateline>LOS ANGELES 1996-10-22</dateline>
+<text>
+<p>Ducommun Inc said the board of directors elected Joseph C. Berenato, currently president and chief operating officer, to the additional post of chief executive officer and as a member of the board of directors.</p>
+<p>Both posts are effective January 1, 1997.</p>
+<p>Berenato will replace Norman A. Barkeley, who will retain his position as chairman.</p>
+<p>Berenato joined Ducommun in 1991 as vice president, chief financial officer and treasurer.</p>
+<p>Ducommun manufactures components and assemblies for the aerospace and wireless telecommunications industries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

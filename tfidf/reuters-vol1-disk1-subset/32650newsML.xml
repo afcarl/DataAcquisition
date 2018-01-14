@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32650" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: C-Cube says Sony to use its decoder.</title>
+<headline>C-Cube says Sony to use its decoder.</headline>
+<dateline>MILPITAS, Calif. 1996-09-04</dateline>
+<text>
+<p>C-Cube Microsystems Inc said electronics giant Sony Corp has selected C-Cube's CL9100 decoder for use in Sony's digital set-top receiver for broadcast television signals.</p>
+<p>Financial details of the agreement were undisclosed, but digital set-top boxes to include C-Cube's MPEG-2 decoder are Sony's DST-500JS models, which will be used for the PerfecTV digital television system being rolled-out in Japan.</p>
+<p>PerfecTV will deliver 70 channels of TV programming and 100 radio channels, as well as a variety of video, educational and interactive services not previously available in Japan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILPITAS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32326" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Savannah officials mull hurricane evacuation.</title>
+<headline>Savannah officials mull hurricane evacuation.</headline>
+<dateline>SAVANNAH, Ga 1996-09-03</dateline>
+<text>
+<p>The Chatham County Commission was expected to decide Wednesday afternoon whether to call for a voluntary evacuation of low-lying areas because of Hurricane Fran.</p>
+<p>The Cumberland Island National Seashore in southeast Georgia was closed to visitors.</p>
+<p>Ken Davis, a spokesman for the Georgia Emergency Management Agency in Atlanta, said no evacuation orders had yet been issued in the state.</p>
+<p>&quot;We haven't heard of any go-aheads yet. A lot are being considered,&quot; Davis told Reuters.</p>
+<p>The Georgia coastline north of Brunswick was placed under a hurricane warning less than two months ago as Hurricane Bertha passed about 150 miles east of Savannah on the night of July 11. The storm displaced athletes competing in Olympic yachting events.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAVANNAH, Ga"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

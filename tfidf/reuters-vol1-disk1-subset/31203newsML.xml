@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31203" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Blue chips end slightly higher; focus on jobs numbers.</title>
+<headline>Blue chips end slightly higher; focus on jobs numbers.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Blue-chip stocks ended with small gains Wednesday as Wall Street reacted calmly to news of the second U.S. military strike against Iraqi targets, and focused on Friday's jobs data for clues to the Federal Reserve's interest rate policy.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended up 8.51 points at 5,656.90. In the broader market, advancing issues led declines 13-9 on light trading of 353 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

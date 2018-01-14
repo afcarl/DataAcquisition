@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134479" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Nynex Corp Q3 shr rises to $0.93.</title>
+<headline>Nynex Corp Q3 shr rises to $0.93.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			   $0.93		    $0.86</p>
+<p> Net			 408,400		  366,800</p>
+<p> Revs		    3,423,700		3,276,500</p>
+<p> Avg shrs		  439,000		  428,100</p>
+<p>			Nine MONTHS</p>
+<p> Shr			   $2.65		    $2.39</p>
+<p> Net		     1,158,000		1,017,800</p>
+<p> Revs		   10,192,500		9,692,300</p>
+<p> Avg shrs		  436,300		  425,900</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Results for both years adjusted for effects of the enhanced pension offer initiated in 1994. Third quarter 1996 after-tax charges were $13.9 million, or $0.03 per share. Third quarter 1995 charges were $23.7 million after taxes, or $0.06 per share.  </p>
+<p>The total number of employees leaving NYNEX under the offer through 1998 is now expected to be 19,000 to 20,000. After-tax charges in the range of $1.4 billion are to be recorded as employees accept the offer.</p>
+<p>Third quarter 1995 results are also adjusted for net gains from sale of certain NYNEX Mobile Communications assets and actuarial changes in the NYNEX-Bell Atlantic cellular partnership, a change in presentation of certain taxes other than income, and other special charges. Net after-tax effect of these gains and charges was $0.2 million, or nil per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

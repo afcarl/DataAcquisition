@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132648" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Noble Affiliates Q3 net rises.</title>
+<headline>Noble Affiliates Q3 net rises.</headline>
+<dateline>ARDMORE, Okla. 1996-10-22</dateline>
+<text>
+<p>NOBLE AFFILIATES, INC. AND SUBSIDIARIES</p>
+<p>			  Consolidated Summary Of Results</p>
+<p>			  (Unaudited)  (Thousands except per share)</p>
+<p>							Three Months Ended</p>
+<p>						     9-30-96	9-30-95</p>
+<p> Revenues					 $257,232     $110,290</p>
+<p> Net Income					 15,306	  2,729</p>
+<p> Net Income Per Share of Common Stock	  .31	    .05</p>
+<p> Average Shares Outstanding		   50,432	 50,047</p>
+<p>							Nine Months Ended</p>
+<p>						     9-30-96	9-30-95</p>
+<p> Revenues					  611,227	309,274</p>
+<p> Net Income					 54,844	  6,526</p>
+<p> Net Income Per Share of Common Stock	 1.09	    .13</p>
+<p> Average Shares Outstanding		   50,356	 50,032</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARDMORE, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

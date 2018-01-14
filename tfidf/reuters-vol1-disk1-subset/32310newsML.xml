@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32310" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: O'Charley's president McWhorter resigns.</title>
+<headline>O'Charley's president McWhorter resigns.</headline>
+<dateline>NASHVILLE, Tenn. 1996-09-04</dateline>
+<text>
+<p>Restaurant operator O'Charley's Inc. said Wednesday that Charles McWhorter had resigned as president to pursue other business interests.</p>
+<p>He had been with the company six years.</p>
+<p>McWhorter also resigned from the board, according to a statement from the company, which made no mention of replacing him. A spokesman for the company was unavailable for comment.</p>
+<p>Steve Hislop, senior vice president of operations, will continue to oversee operations, it said.</p>
+<p>Nashville, Tenn.-based Charley's operates 69 casual dining restaurants in the United States.</p>
+<p>Its stock fell 25 cents to $11 on the New York Stock Exchange at midday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

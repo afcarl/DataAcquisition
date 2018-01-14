@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32217" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Brooks Fiber, SBC sign agreement.</title>
+<headline>Brooks Fiber, SBC sign agreement.</headline>
+<dateline>ST. LOUIS 1996-09-04</dateline>
+<text>
+<p>Brooks Fiber Properties Inc said Wednesday it entered an interconnection agreement with Southwestern Bell, a unit of SBC Communications Inc.</p>
+<p>It said the agreement will pave the way for Brooks Fiber Communications of Arkansas Inc, Brooks Fiber Communications of Oklahoma Inc and Brooks Fiber Communications of Tulsa Inc -- wholly owned Brooks Fiber subsidiaries -- to begin providing local exchange services in Southwestern Bell's service areas in Oklahoma and Arkansas.</p>
+<p>This is the first such agreement between Southwesstern Bell and any competitive local exchange carrier in Oklahoma.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

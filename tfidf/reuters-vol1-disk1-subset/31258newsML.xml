@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31258" id="root" date="1996-09-04" xml:lang="en">
+<title>JAPAN: Japan calls for Iraqi withdrawal from Kurd areas.</title>
+<headline>Japan calls for Iraqi withdrawal from Kurd areas.</headline>
+<dateline>TOKYO 1996-09-04</dateline>
+<text>
+<p>Japan, the world's biggest importer of Middle East oil and a strong backer of U.S. action against Iraq, on Wednesday called for Baghdad to immediately withdraw its forces from Kurdish areas of the country.</p>
+<p>Speaking minutes after the United States announced its second missile attack on Iraq, deputy government spokesman Kazo Watanabe said the crisis could only be settled by an Iraqi withdrawal.</p>
+<p>&quot;Japan strongly hopes for Iraq to withdraw from the northern areas (of Iraq) in order to settle the situation at the earliest possible instant,&quot; Kazo told a news conference.</p>
+<p>In comments earlier on Wednesday before the second U.S. attack, Prime Minister Ryutaro Hashimoto said he was concerned at the size of forces Iraq was moving into Kurdish areas.</p>
+<p>&quot;Although I haven't actually seen everything on a satellite or anything, I am concerned that the Iraqis are moving thousands of military men and hundreds of tanks to the Kurdish area,&quot; Hashimoto said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

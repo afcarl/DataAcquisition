@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133705" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Latest U.S. cash hog markets for Oct 22 - USDA.</title>
+<headline>Latest U.S. cash hog markets for Oct 22 - USDA.</headline>
+<text>
+<p>Markets	  Change/Dlrs		    Hogs   Sows</p>
+<p>Int Illinois     lower/n.f.e.		   -----  -----</p>
+<p>Int Iowa-Minn    off 0.50			 54.00  55.00</p>
+<p>Sioux Falls					   -----  -----</p>
+<p>Int Indiana/Ohio				    -----  -----</p>
+<p>Omaha						   -----  -----</p>
+<p>Sioux City					    -----  -----</p>
+<p>St Joseph					     -----  -----</p>
+<p>Int Missouri					  -----  -----</p>
+<p>St Paul						 -----  -----</p>
+<p>N.F.E. - not fully established</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133155" id="root" date="1996-10-22" xml:lang="en">
+<title>HUNGARY: Hungary cen. bank reserves rise to $9.74bln in Aug.</title>
+<headline>Hungary cen. bank reserves rise to $9.74bln in Aug.</headline>
+<dateline>BUDAPEST 1996-10-22</dateline>
+<text>
+<p>The National Bank of Hungary reserves stood at $9.74 billion at end-August, down from $9.45 billion at end-July, the bank said in a statement on Monday.</p>
+<p> HUNGARY RESERVES ($ million)     AUG 1996	  JULY 96</p>
+<p> International reserves	 9,737.5	   9,448.2</p>
+<p>	Of which gold		  41.4		41.2</p>
+<p>	Other foreign assets    3,885.5	   3,820.2</p>
+<p>NOTE - The NBH values gold at London market prices.</p>
+<p>	    -- Budapest newsroom (36 1) 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

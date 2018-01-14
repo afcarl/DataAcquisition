@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132525" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Mine Safety Q3 shr rises to $1.26.</title>
+<headline>Mine Safety Q3 shr rises to $1.26.</headline>
+<dateline>PITTSBURGH 1996-10-22</dateline>
+<text>
+<p>MINE SAFETY APPLIANCES COMPANY</p>
+<p>(Note:  Amounts in thousands, except earnings per share</p>
+<p>				   and shares outstanding)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30  September 30</p>
+<p>				     1996     1995     1996     1995</p>
+<p> Net sales		   $121,744 $119,995 $360,994  $363,364</p>
+<p> Other income		     462    1,057    2,965     4,141</p>
+<p> Cost of products sold     74,279   74,885  227,713   223,385</p>
+<p>Selling and administrative costs</p>
+<p>				   32,561   35,035   97,375   101,459</p>
+<p>Depreciation and other costs</p>
+<p>				    5,192    4,833   17,308    17,147</p>
+<p>Income before income taxes</p>
+<p>				   10,174    6,299   21,563    25,514</p>
+<p> Taxes on income		4,058    2,463    8,552    10,349</p>
+<p> Net income		     6,116    3,836   13,011    15,165</p>
+<p> Earnings per share	    1.26	.67     2.63	2.61</p>
+<p>Average number of common</p>
+<p>   shares outstanding			   4,932,145 5,803,554</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

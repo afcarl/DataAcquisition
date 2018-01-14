@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136066" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Magna Bancorp Sept 30 Q1 $0.13, with SAIF.</title>
+<headline>Magna Bancorp Sept 30 Q1 $0.13, with SAIF.</headline>
+<dateline>HATTIESBURG, Miss. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.13		    $0.40</p>
+<p> Net			  1,751		    5,715</p>
+<p> Net interest inc	15,504		   16,005</p>
+<p> Avg shrs		  13,879		   14,134</p>
+<p> Total assets	 1,302,200		1,222,100</p>
+<p>(All data above 000s except per share numbers) Full company name is Magna Bancorp</p>
+<p>NOTE: The company said net consolidated 1996 Q1 earnings included a $5.9 million expense to recapitalize the Savings Association Insurance Fund, as mandated by U.S. legislation. It said it estimated a $1.5 million reduction in future annual assessments. Before the assessment, Magna earned $0.39 per share in the first quarter. 1996 Q1 net interest income included $732,883 provision for possible loan losses and 1995 Q1 net income included a $132,598 provision for loan losses.</p>
+<p>-- New York newdsesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HATTIESBURG, Miss."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133030" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Videotron to reduce debt to C$400 mln.</title>
+<headline>Videotron to reduce debt to C$400 mln.</headline>
+<dateline>MONTREAL 1996-10-22</dateline>
+<text>
+<p>Groupe Videotron Ltee said on Tuesday that the sale of its 56 percent interest in Videotron Holdings Plc will reduce its debt level to about C$400 million.</p>
+<p>Videotron agreed to sell its stake in Videotron Holdings, which owns its U.K. cable assets to Bell Cablemedia Plc for C$825 million ($600 million) or the equivalent of $19.75 per American Depository Share (ADS).</p>
+<p>Not including about C$600 million of Videotron Holdings debt consolidated at Groupe Videotron, the Canadian parent's debt level is currently about C$1.2 billion.  </p>
+<p>Alain Michel, Groupe Videotron's chief financial officer, told reporters at a press conference that the company has yet to decide precisely how it will use the proceeds of the sale of its U.K. operations. But, on a pro forma basis, the transaction will reduce the company's debt level to about C$400 million.</p>
+<p>That figure does not include a C$300 million debenture related to Videotron's acquisition of CFCF Inc earlier this year.</p>
+<p>Videotron's objective is to have a long-term debt level of about three times cash flow.</p>
+<p>&quot;It will be the least indebted cable company in North America,&quot; said Claude Chagnon, vice-chairman of Groupe Videotron.</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25820" id="root" date="1996-08-31" xml:lang="en">
+<title>GERMANY: SOCCER-REAL MADRID SIGN EX-GERMANY KEEPER ILLGNER.</title>
+<headline>SOCCER-REAL MADRID SIGN EX-GERMANY KEEPER ILLGNER.</headline>
+<dateline>BONN 1996-08-31</dateline>
+<text>
+<p>Real Madrid have signed former Germany goalkeeper Bodo Illgner from Cologne for more than four million marks ($2.70 million), Cologne said on Saturday.</p>
+<p>Illgner was transferred minutes before the Spanish transfer deadline at midnight on Friday -- to the shock of Cologne's coach Peter Neururer.</p>
+<p>&quot;I got a call in the middle of the night from Spain to say the deal was done. I thought it was just a joke,&quot; he said. &quot;I didn't believe it until Bodo told me himself.&quot;</p>
+<p>Illgner's contract with Cologne ran until mid-1997 but club president Klaus Hartmann said it contained a clause allowing him to go abroad for an offer over four million marks. His contract with Real Madrid runs for three years.</p>
+<p>Illgner, capped 54 times, quit the national side after the 1994 World Cup.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

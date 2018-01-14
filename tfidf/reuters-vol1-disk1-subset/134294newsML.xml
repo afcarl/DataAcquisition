@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134294" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CompuServe sees loss doubling earlier prediction.</title>
+<headline>CompuServe sees loss doubling earlier prediction.</headline>
+<dateline>COLUMBUS, Ohio 1996-10-22</dateline>
+<text>
+<p>CompuServe Corp.'s stock fell almost 10 percent Tuesday after the online service provider said it expected its loss in its current fiscal quarter to be more than twice as bad as earlier estimated.</p>
+<p>Shares of CompuServe fell $1 to $9.50 in midday trading on the Nasdaq market after the company said it anticipated reporting a loss of between 22 cents and 27 cents a share for the three months ending Oct. 31, well above the 10 cents to 15 cents a share it had previously estimated.</p>
+<p>The company said the greater-than-expected loss was tied to delays in shipping its new CompuServe 3.0 software for its core CompuServe Interactive online service and a net decrease in the number of its subscribers.</p>
+<p>CompuServe, based in Columbus, Ohio, said it expects to report its fiscal second-quarter results the week of Nov. 18.</p>
+<p>The company's new Interactive online software was originally scheduled to begin shipping in volume in September, but delivery has been delayed until October, the company said.</p>
+<p>&quot;Since we began shipping the product only this month, we will not realise the expected positive effects on subscriber retention and increased membership that we anticipated in this quarter,&quot; Chief Executive Bob Massey said in a statement.</p>
+<p>He attributed the delay primarily to efforts to assure the quality of the new version of the customer software.</p>
+<p>However, the company also said that during the first two months of the quarter, it recruited more than 350,000 new subscribers to CompuServe Interactive, but continued turnover cut net subscribers by 44,000 to 3.02 million.</p>
+<p>The company said its new CompuServe 3.0 software is aimed at addressing several of the underlying causes of subscriber turnover, or churn, by providing faster response times, greater ease-of-use and seamless access to the Internet.</p>
+<p>CompuServe said that the new interface, coupled with a targeted marketing effort, should help reduce attrition and improve profitability.</p>
+<p>Online industry analyst Peter Krasilovsky, a vice president of Arlen Communications Inc. in Bethesda, Md., said the new CompuServe 3.0 software interface could &quot;give people a reason to subscribe to CompuServe once again.&quot;</p>
+<p>The analyst said the 3.0 software eliminates the advantages other online service providers and direct Internet access providers have held in terms of their software's speed and ease-of-use compared with CompuServe's older versions.</p>
+<p>&quot;People who subscribed to CompuServe were getting an inferior service,&quot; Krasilovsky said of previous versions of CompuServe software, which tied users to a proprietary system.</p>
+<p>He said CompuServe continues to offer the richest set of online bulletin board discussion groups, attracting large numbers of sophisticated computers users from around the world.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

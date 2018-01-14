@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="145894" id="root" date="1996-10-27" xml:lang="en">
+<title>BAHRAIN: Bahraini Saudi Bank lifts Jan-Sept net. [CORRECTED 07:45 GMT 29/10]</title>
+<headline>Bahraini Saudi Bank lifts Jan-Sept net. [CORRECTED 07:45 GMT 29/10]</headline>
+<dateline>MANAMA 1996-10-27</dateline>
+<text>
+<p>Nine months to September 30.</p>
+<p>		    (million Bahraini dinars unless stated)</p>
+<p>Net profit			    2.518	vs    2.251</p>
+<p>Net interest income		 3.521	vs    3.189</p>
+<p>Provisions			    0.200	vs    none</p>
+<p>(Corrects Provisions figure from 0.300)</p>
+<p>Shareholders equity		28.241	vs   26.890</p>
+<p>Full name: The Bahraini Saudi Bank B.S.C.</p>
+<p>NOTE: The Bahrain-based bank is owned 50/50 by Bahraini and Saudi investors. The figures are unaudited.</p>
+<p>-- Dubai newsroom +9714-626990</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

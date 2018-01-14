@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31400" id="root" date="1996-09-04" xml:lang="en">
+<title>SWEDEN: OLYMPICS-SWEDES SAY NO TO 2004 GAMES AFTER ATLANTA CHAOS.</title>
+<headline>OLYMPICS-SWEDES SAY NO TO 2004 GAMES AFTER ATLANTA CHAOS.</headline>
+<dateline>STOCKHOLM 1996-09-04</dateline>
+<text>
+<p>Most Swedes do not want Stockholm to host the 2004 Olympics after witnessing the bomb blast and organisational chaos which marred the Atlanta Games.</p>
+<p>A survey of 1,100 Swedes by pollster Temo found opposition to hosting the Olympics jumped to 52 percent in late August.</p>
+<p>Before the Atlanta Games, which ended a month ago, only one in three Swedes were opposed to their capital staging the event in eight years time.</p>
+<p>&quot;It is the effects of Atlanta, all the bad press on the organisation of the games,&quot; Olof Stenhammar, head of Stockholm's 2004 bid, told Swedish newspapers.</p>
+<p>An International Olympic Committee team is due to visit Stockholm this month to assess the city's bid.</p>
+<p>The other bidders are Athens, Rome, Cape Town, Buenos Aires, Rio de Janeiro, San Juan, Seville, St Petersburg, Lille and Istanbul.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

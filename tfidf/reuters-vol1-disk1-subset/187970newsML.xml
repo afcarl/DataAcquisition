@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="187970" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: GM says work stoppages to cost $700 million.</title>
+<headline>GM says work stoppages to cost $700 million.</headline>
+<dateline>WASHINGTON 1996-11-14</dateline>
+<text>
+<p>General Motors Corp. said Thursday that recent work stoppages at its North American plants will cut fourth-quarter earnings by $700 million.</p>
+<p>In a quarterly report with the Securities and Exchange Commission, the world's largest automaker also said it will take a charge against fourth-quarter earnings of $170 million due to lump-sum payments under its recently announced labour agreement.</p>
+<p>The automaker was hit by a work stoppage in Canada last month and local strikes in Indianapolis and Wisconsin in late October that spilled over into November.</p>
+<p>GM said that $655 million will involve its North American automotive operations while $45 million will cover the Delco Electronics section of its Hughes Electronics unit.</p>
+<p>On Monday, GM said the October strikes prompted it to lower its fourth-quarter North American production forecast by 151,000 vehicles. The company now plans to build 1.169 million cars and trucks in North America during the period, down 14.8 percent from a year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

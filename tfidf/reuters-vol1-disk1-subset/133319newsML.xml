@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133319" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: State to retain 25 pct in Brazil's Banerj.</title>
+<headline>State to retain 25 pct in Brazil's Banerj.</headline>
+<dateline>RIO DE JANEIRO 1996-10-22</dateline>
+<text>
+<p>Brazil's Rio de Janeiro state plans to retain a minority stake of at least 25 percent in soon-to-be-privatized state bank Banco do Estado do Rio de Janeiro (Banerj), a state planning department spokeswoman said.</p>
+<p>The bank is due to sold off at a privatization auction on the Rio de Janeiro stock exchange December 12, and the tender document is due to be published in November or early December.</p>
+<p>The spokeswoman said the state was thinking of selling off Banerj in a closed envelope auction.</p>
+<p>-- Simona de Logu, Rio de Janeiro newsroom, 5521 507 4151</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

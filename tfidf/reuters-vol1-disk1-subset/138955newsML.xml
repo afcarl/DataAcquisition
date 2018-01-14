@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138955" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: USG says to buy rest of Canadian firm. [CORRECTED 16:35 GMT 03/12]</title>
+<headline>USG says to buy rest of Canadian firm. [CORRECTED 16:35 GMT 03/12]</headline>
+<dateline>CHICAGO 1996-10-24</dateline>
+<text>
+<p>USG Corp intends to make an C$11 per share offer to acquire the common shares of CGC Inc that USG does not already own, the companies said (corrects to Canadian dollars).</p>
+<p>USG already owns about 76 percent of the Canadian gypsum wallboard company, the companies said.</p>
+<p>The USG offer is a 60-percent premium over the C$6.90 (corrects) average  closing price of CGC common shares on the Toronto Stock Exchange over the  past 20 trading days, they said.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

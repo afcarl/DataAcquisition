@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32290" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Lilly to alter Humulin cartridge labels.</title>
+<headline>Lilly to alter Humulin cartridge labels.</headline>
+<dateline>INDIANAPOLIS 1996-09-04</dateline>
+<text>
+<p>Eli Lilly &amp; Co said it will modify the package labels on future production runs of certain human insulin products under a court order.</p>
+<p>Labeling for the drugmaker's Humulin cartridges for use in Novo Nordisk A/S insulin dispensing devices will be changed to show that Novo products described in the labels are registered trademarks, Lilly said.</p>
+<p>The drugmaker was ordered to change the labels by Judge Barbara Jones in the U.S. District Court for Southern New York in a preliminary injunction responding to a lawsuit by Novo.  </p>
+<p>Novo said it alleged Lilly's cartridge packaging &quot;confuses patients and healthcare professionals in violation of federal unfair competition law and was created in bad faith.&quot;</p>
+<p>In response, Lilly said, &quot;We think it is very unfortunate that Novo has used this trademark litigation to create concern among patients and healthcare professionals regarding the use of this important new treatment option.&quot;</p>
+<p>No recall of any products is required, Lilly said.</p>
+<p>Humulin is a form of human insulin for use by diabetics.</p>
+<p>Lilly said it introduced Humulin catridges for use with dispensing devices made by Novo and Becton Dickinson and Co on July 19.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

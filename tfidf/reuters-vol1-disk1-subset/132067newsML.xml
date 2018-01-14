@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132067" id="root" date="1996-10-21" xml:lang="en">
+<title>THAILAND: Shinawatra unit in Laos telecom deal.</title>
+<headline>Shinawatra unit in Laos telecom deal.</headline>
+<dateline>BANGKOK 1996-10-21</dateline>
+<text>
+<p>Thai telecommunication firm, Shinawatra Computer and Communication Plc, said on Monday one of its units has signed an agreement with the Lao government to operate telecommunication services in Laos.</p>
+<p>Under the agreement, Shinawatra's international investment unit, Shinawatra International Plc, will set up a joint venture, Lao Telecommunication Co Ltd, with the Laos government, the company said in a statement.</p>
+<p>The Lao government will hold a 51 percent stake in the new firm, while the remainder will be owned by Shinawatra International, it said.</p>
+<p>The joint venture will operate various services such as mobile phones, fixed-line telephones, international gateway facilities and paging services under the 25-year concession, the company said.</p>
+<p>The investment cost of the projects included under the concession is estimated at $400 million, it said.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LAOS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

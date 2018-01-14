@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132761" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Kirby expects Q4 charge for reorganization.</title>
+<headline>Kirby expects Q4 charge for reorganization.</headline>
+<dateline>HOUSTON 1996-10-22</dateline>
+<text>
+<p>Kirby Corp, a marine transportation company, said on Tuesday it plans to post a charge of between $0.02 and $0.03 per share in the fourth quarter for reorganization costs.</p>
+<p>Once the reorganization is complete, the company said, it believes it will be able to achieve annual cost savings of between $0.30 and $0.40 per share, phased in over a three-year period.</p>
+<p>In the past 18 months, the company has been seeking ways to control costs and improve operating efficiencies. It is in the midst of implementing organizational changes toward that end.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33201" id="root" date="1996-09-04" xml:lang="en">
+<title>SWITZERLAND: Sulzer breaks down outlook by division.</title>
+<headline>Sulzer breaks down outlook by division.</headline>
+<dateline>WINTERTHUR, Switzerland 1996-09-03</dateline>
+<text>
+<p>Sulzer AG said on Wednesday it expected a 1996 operating loss from its Sulzer Rueti weaving machinery division although Sulzer as a whole expects higher net and operating income this year.</p>
+<p>&quot;Sulzer Rueti is still combating adverse market conditions and the losses are expected to be higher than last year,&quot; Sulzer chief executive Fritz Fahrni said at a news conference.</p>
+<p>He said reorganisation measures and personnel reductions were still under way at the division and would be intensified. But the measures were not expected to bear fruit until 1997.</p>
+<p>Fahrni also said setbacks had occurred in the Sulzer Winterthur locomotive and turbine division and as a result the group's operating income was expected to decline slightly.</p>
+<p>Operating income increases were expected at the Sulzermedica medical products division and the Sulzer Infra plant and building services division would contribute to reducing losses, Fahrni also said.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINTERTHUR, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

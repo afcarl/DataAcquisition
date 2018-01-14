@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132509" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Metromail Corp Q3 net rises.</title>
+<headline>Metromail Corp Q3 net rises.</headline>
+<dateline>LOMBARD, Ill. 1996-10-22</dateline>
+<text>
+<p>(Thousands of dollars, except per share amounts)</p>
+<p> Statement of Operations  Quarter Ended     Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>				     1996	1995     1996     1995</p>
+<p> Total Net Sales		68,230   61,123  191,945  167,348</p>
+<p> Net Income			5,947	548    4,544    1,279</p>
+<p>  Net Income Per Share(A)	.27	.02   .20(B)	.06</p>
+<p>(A) -- Based on average number of shares outstanding (22,434,000) during the periods.</p>
+<p>(B) --  Equivalent to $0.47 per share if, on a pro-forma basis, the reduction in interest expense from the debt payoff was reflected as of January 1, 1996. On June 19, 1996, an initial public offering of 13.8 million Metromail shares was completed. A substantial portion of the net proceeds of about $267 million was used to pay all outstanding debt.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOMBARD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134887" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: European monitors find Albanian poll free, fair.</title>
+<headline>European monitors find Albanian poll free, fair.</headline>
+<dateline>STRASBOURG, France 1996-10-22</dateline>
+<text>
+<p>A Council of Europe delegation monitoring local elections in Albania has concluded they were fair despite some irregularities, the council said on Tuesday.</p>
+<p>&quot;The delegation believes that the elections were free and fair....although it regrets that there were some instances of irregularities serious enough to warrant careful examination by the Central Electoral Commission,&quot; it said in a statement.</p>
+<p>The council offered no details on the alleged irregularities in last Sunday's poll.</p>
+<p>The Democratic Party of President Sali Berisha said that, according to a preliminary tally, it won more than 61 percent of city halls, including Tirana, and 58 percent of commune seats.</p>
+<p>It said the opposition Socialists won just six percent of city halls and commune seats, down from over 50 percent in 1992.</p>
+<p>Official results were due in a few days.</p>
+<p>The Council of Europe monitors concluded that the poll &quot;reflected the will of the electorate and were also the product of thorough administrative and technical preparations that very largely complied with the requirements laid down by the (council's) parliamentary assembly in September 1996&quot;</p>
+<p>It said cooperation at pollings stations had been &quot;generally good&quot;.</p>
+<p>The Socialists, reformed heirs to the communists, charged that the elections had not been free and fair, claiming that armed bands had intimidated voters and Democrat supporters had tampered with the count.</p>
+<p>Albania's general elections in May and June had ended in controversy when most opposition parties, including the Socialists, withdrew, alleging the ballot was rigged.</p>
+<p>The Democrats took 122 seats in the 140-member parliament in the general election while the Socialists refused to take up the 10 they won.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STRASBOURG, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

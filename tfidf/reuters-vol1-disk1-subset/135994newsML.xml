@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135994" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Swank Inc Q3 net loss narrows.</title>
+<headline>Swank Inc Q3 net loss narrows.</headline>
+<dateline>ATTLEBORO, Mass. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	   loss	 $0.02     loss	 $0.09</p>
+<p> Net	   loss	   270     loss	 1,375</p>
+<p> Sales		     31,630		   35,320</p>
+<p> Avg shrs	    15,776,448	     15,957,024</p>
+<p>	  9  MONTHS</p>
+<p> Shr	   loss	 $0.12     loss	 $0.35</p>
+<p> Net	   loss	 1,901     loss	 5,608</p>
+<p> Sales		     91,587		   93,539</p>
+<p> Avg shrs	    15,688,155	     16,210,222</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>--New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATTLEBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33136" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Digital says Q1 orders weaker than expected.</title>
+<headline>Digital says Q1 orders weaker than expected.</headline>
+<dateline>NEW YORK 1996-09-03</dateline>
+<text>
+<p>Digital Equipment Corp chief financial officer Vincent Mullarkey said on Tuesday the order rate in the first quarter has been weaker than the company previously expected, but he declined to say whether or not Digital would report a loss.</p>
+<p>&quot;The order rate is weaker than I had expected,&quot; Mullarkey told a group of reporters. &quot;(But) You can't draw a conclusion from that until you close the books,&quot; he added, referring to the end of the quarter on September 30.</p>
+<p>Some Wall Street analysts are forecasting that the company will report a loss in the quarter.</p>
+<p>Mullarkey, who also met with Wall Street analysts earlier Tuesday, said that he would not yet draw any conclusions from the slower order rate.</p>
+<p>The first fiscal quarter is normally Digital's slowest quarter, because it includes the summer months, which have lighter sales of computers in Europe, and the company is also revamping its sales structure.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135900" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Virginia Beach Federal Q3 loss vs profit.</title>
+<headline>Virginia Beach Federal Q3 loss vs profit.</headline>
+<dateline>VIRGINIA BEACH, Va. 1996-10-23</dateline>
+<text>
+<p>(dollars in thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>			  09/30/96    09/30/95  09/30/96   09/30/95</p>
+<p> Net interest income    4,198	3,647    12,327     11,223</p>
+<p> Loan loss provision	 50	   75	 150	   75</p>
+<p>SAIF recapitalization</p>
+<p>   expense		  3,310	   --     3,310	   --</p>
+<p> Net income (loss)    (1,363)	  390     (191)	  765</p>
+<p>Earnings (loss) per share</p>
+<p>			     (0.27)	 0.08    (0.04)	 0.16</p>
+<p>NOTE: Total assets at current period end was $604.1 million.</p>
+<p>Full company name is Virginia Beach Federal Financial Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIRGINIA BEACH, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

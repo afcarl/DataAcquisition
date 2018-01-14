@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32732" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Capital One Financial unit issues debt.</title>
+<headline>Capital One Financial unit issues debt.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The following debt issue was priced on Wednesday via lead manager JP Morgan Securities Inc.</p>
+<p>BORROWER CAPITAL ONE BANK</p>
+<p>AMT $200 MLN		 COUPON  7.15 PCT  MATURITY 09/15/06</p>
+<p>TYPE BANK NOTES	    ISS PRICE 99.953  PAY DATE 09/09/96</p>
+<p>LAST MOODY BAA3	    REOFFER N.A.	PAY FREQ SEMI</p>
+<p>LAST S&amp;P BBB-MINUS	 YIELD  7.167 PCT  FULL FEES N.A.</p>
+<p>INDUSTRY BANK		SPREAD +60 BPS    CALLABLE NO</p>
+<p>NOTE: CAPITAL ONE FINANCIAL CORP UNIT</p>
+<p>FEATURE:THREE-YEAR PUT OPTION</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31475" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Gulf, Conoco set North Dakota oil venture.</title>
+<headline>Gulf, Conoco set North Dakota oil venture.</headline>
+<dateline>CALGARY 1996-09-04</dateline>
+<text>
+<p>Gulf Canada Resources Ltd said on Wednesday it and DuPont Co unit Conoco Inc agreed on a joint venture for multi-zone oil exploration in North Dakota.</p>
+<p>The venture includes exploration on all Gulf and Conoco lands in seven townships comprising 161,280 acres, Gulf said.</p>
+<p>Under the deal, Gulf will own 60 percent of the venture and Conoco 40 percent.  </p>
+<p>Prospects in the region include the Lodgepole, Mission Canyon, Red River and Silurian Interlake geological zones.</p>
+<p>Conoco, a major developer of North Dakota's Lodgepole exploration play, was slated to drill the first prospect and become operator of joint venture lands in that township after a 3D seidmic program in October.</p>
+<p>Gulf said operatorship in other townships would alternate between the companies.</p>
+<p>The one well to be drilled this year would cost an estimated US$500,000, it said.</p>
+<p>&quot;We both hold significant land in the area, and can benefit frn and exploitation effort,&quot; Gulf senior vice-president William Picquet said in a statement. -- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

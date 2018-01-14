@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131774" id="root" date="1996-10-21" xml:lang="en">
+<title>GREECE: INTERBANK LAUNCHES 22ND BRANCH IN LARISSA.</title>
+<headline>INTERBANK LAUNCHES 22ND BRANCH IN LARISSA.</headline>
+<dateline>ATHENS 1996-10-21</dateline>
+<text>
+<p>Interbank, a member of the Latsis international banking group, opened its 22nd branch in downtown Larissa at 79 Cyprus Street, it said in a statement.</p>
+<p>The new branch will offer Interbank's full spectrum of banking and investment services and will be headed by Evripidis Georgiadis, it said.</p>
+<p>--George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

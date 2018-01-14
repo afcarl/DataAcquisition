@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132812" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: SOCCER-MAZZONE RETURNS AS CAGLIARI COACH.</title>
+<headline>SOCCER-MAZZONE RETURNS AS CAGLIARI COACH.</headline>
+<dateline>CAGLIARI, Sardinia 1996-10-22</dateline>
+<text>
+<p>Former Cagliari coach Carlo Mazzone returned to the Italian serie A club on Tuesday, replacing sacked Uruguayan Gregorio Perez.</p>
+<p>Mazzone, dumped by Roma at the end of last season to make way for Argentine Carlos Bianchi, said he could hardly refuse the offer to return to Sardinia.</p>
+<p>&quot;I wanted to repay a debt from three years ago when president (Massimo) Cellino, despite the fact that I was under contract, allowed me to realise what was then my dream: to coach Roma, the club of my home city,&quot; he said.</p>
+<p>&quot;So when he called me to lend a hand I could not say no.&quot;</p>
+<p>Cellino dismissed Perez after Cagliari lost 2-1 away to 10-man Lazio on Sunday. He was the first coach in serie A to lose his job in a season only six matches old.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAGLIARI, Sardinia"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

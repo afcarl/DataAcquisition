@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135585" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRIA: Wiener Staedtische 9-mth premiums up.</title>
+<headline>Wiener Staedtische 9-mth premiums up.</headline>
+<dateline>VIENNA 1996-10-22</dateline>
+<text>
+<p>Austrian insurer Wiener Staedtische Allgemeine Versicherung said premium income in the first nine months rose to 13.77 billion schillings, up 13 percent from a year ago, as its life insurance business boomed.</p>
+<p>Life insurance premiums alone were up 43.5 percent at 5.118 billion schillings in the January-September period, the group said in a statement. &quot;Wiener Staedtische has made optimal use of the strong demand for private insurance products,&quot; it said.</p>
+<p>Premiums for damage and accident insurance rose one percent to 6.157 billion schillings, while health insurance premiums fell 1.4 percent to 2.495 billion schillings.</p>
+<p>Wiener Staedtische's preference shares closed unchanged at 980 schillings on the Vienna bourse on Monday.</p>
+<p>-- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

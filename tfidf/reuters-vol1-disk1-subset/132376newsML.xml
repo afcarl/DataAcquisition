@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132376" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Credit Acceptance picks Walden as reseller.</title>
+<headline>Credit Acceptance picks Walden as reseller.</headline>
+<dateline>MINNEAPOLIS 1996-10-22</dateline>
+<text>
+<p>Credit Acceptance Corp said Tuesday it entered into an agreement with Walden Fleet Services to remarket Credit Acceptance's used vehicles in four states.</p>
+<p>The agreement covers the states of Alabama, Georgia, Florida and Minnesota.</p>
+<p>Credit Acceptance provides receivables management, collections and sales training to automobile dealers selling vehicles to customers with limited access to traditional sources of consumer credit.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

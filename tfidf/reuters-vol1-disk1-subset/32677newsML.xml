@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32677" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Landec Corp Q3 shr loss narrows.</title>
+<headline>Landec Corp Q3 shr loss narrows.</headline>
+<dateline>MENLO PARK, Calif. 1996-09-04</dateline>
+<text>
+<p>LANDEC CORPORATION</p>
+<p>		     CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>			     (Unaudited)</p>
+<p>		     (In thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					     July 31,	July 31,</p>
+<p>				     1996     1995	1996     1995</p>
+<p>Revenues:</p>
+<p>   Product sales		 $260	$44	$672     $485</p>
+<p>   License fees		     0	  0	 600	650</p>
+<p>Research and</p>
+<p>    development revenues	221	131	 903	520</p>
+<p>     Total revenues	     481	175     2,175    1,655</p>
+<p>Operating costs and expenses:</p>
+<p>   Cost of product sales	233	174	 772	826</p>
+<p>   Research and development   973    1,027     2,871    2,803</p>
+<p>Selling, general and</p>
+<p>    administrative		784	586     2,008    1,631</p>
+<p>Total operating costs</p>
+<p>	and expenses	    1,990    1,787     5,651    5,260</p>
+<p> Operating loss	     (1,509)  (1,612)   (3,476)  (3,605)</p>
+<p> Interest income		  530	 59     1,036	192</p>
+<p> Interest expense		(23)     (45)	(77)    (108)</p>
+<p> Net loss		     (1,002)  (1,598)   (2,517)  (3,521)</p>
+<p> Net loss per share	  (0.09)   (1.35)    (0.38)   (2.98)</p>
+<p>Shares used in computation</p>
+<p>  of net loss per share    10,668    1,184     6,698    1,182</p>
+<p>Supplemental net loss</p>
+<p>  per share		    (O.09)   (0.22)    (0.27)   (0.50)</p>
+<p>Shares used in computation of</p>
+<p>supplemental net loss</p>
+<p>  per share		    10,668    7,205     9,362    7,108</p>
+<p>SOURCE  Landec Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

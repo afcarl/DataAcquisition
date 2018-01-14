@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134945" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: Euroairport cargo traffic up 14 percent Jan-Sept.</title>
+<headline>Euroairport cargo traffic up 14 percent Jan-Sept.</headline>
+<dateline>BASLE 1996-10-22</dateline>
+<text>
+<p>Total cargo traffic handled at Basle-Mulhouse-Freiburg airport on the French-Swiss border in the first nine months of 1996, totalled 65,239 tonnes or up 14 percent on the same period last year, airport authority figures show.</p>
+<p>January-September 1996 airfreight traffic handled at the airport, officially known as EuroAirport, totalled 36,154 tonnes, an increase of 29 percent on 1995 levels.</p>
+<p>Airfreight carried on scheduled full-freighter services increased by 45 percent to 23,490 tonnes, the airport authority added.</p>
+<p>In the past 18 months, full-freighter services have been launched from EuroAirport to Chicago, Atlanta, Delhi, Seoul and Istanbul.</p>
+<p>Last month, Swissair launched a weekly McDonnell Douglas DC10-30 freighter service between EuroAirport and Sao Paulo.</p>
+<p>Express airfreight rose by five percent on 1995 levels to 9,321 tonnes.</p>
+<p>Trucked airfreight traffic was down one percent on last year's levels at 29,085 tonnes.</p>
+<p>Postal traffic totalled 2,493 tonnes, up eight percent on the first nine months of 1995. - Air Cargo Newsroom Tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASLE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

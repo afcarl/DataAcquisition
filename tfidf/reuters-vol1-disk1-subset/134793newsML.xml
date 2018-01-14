@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134793" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post Business - Oct 22.</title>
+<headline>PRESS DIGEST - Washington Post Business - Oct 22.</headline>
+<dateline>WASHINGTON 1996-10-21</dateline>
+<text>
+<p>The Washington Post carried the following major business stories on Oct 22:</p>
+<p>---</p>
+<p>WASHINGTON - A Discovery Channel store, with products linked to the educational television channel, will be the retail anchor for the new sports arena in downtown Washington.</p>
+<p>---</p>
+<p>WASHINGTON - University of Maryland computer scientists are trying to develop clear and thoughtful ways to present information on a computer screen.</p>
+<p>---</p>
+<p>WASHINGTON - Microsoft Corp. reported better than expected earnings for the latest quarter, while IBM announced a slight decline in quarterly profit.</p>
+<p>---</p>
+<p>WASHINGTON - A two-year campaign by Washington area business leaders paid off when the region was included for the first time on Fortune magazine's annual list of the best U.S. cities in which to work and live.</p>
+<p>---</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

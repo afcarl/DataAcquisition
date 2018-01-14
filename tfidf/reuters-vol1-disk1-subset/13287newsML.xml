@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13287" id="root" date="1996-08-25" xml:lang="en">
+<title>LEBANON: Voting begins in second round of Lebanese election.</title>
+<headline>Voting begins in second round of Lebanese election.</headline>
+<dateline>TRIPOLI, Lebanon 1996-08-25</dateline>
+<text>
+<p>Voting began on Sunday in north Lebanon in the second round of parliamentary elections with 580,000 voters eligible to choose 28 members of the 128-member parliament.</p>
+<p>A thin trickle of voters began casting their ballots in this northern port city for the five rival lists of candidates as polling stations opened at 7 a.m. (0400 gmt).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRIPOLI, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

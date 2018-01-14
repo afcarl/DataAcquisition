@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18177" id="root" date="1996-08-28" xml:lang="en">
+<title>SPAIN: Madrid stocks' gains eroded by profit-taking.</title>
+<headline>Madrid stocks' gains eroded by profit-taking.</headline>
+<dateline>MADRID 1996-08-28</dateline>
+<text>
+<p>Stocks in Madrid closed below their highs for the day, as profit-taking and lower bond prices eroded earlier gains.</p>
+<p>The general index finished up 0.67 points at 358.48 and the Ibex-35 gained 8.93 points to 4,084.46.</p>
+<p>Telefonica fell five pesetas to 2,385 on profit-taking while paper firm ENCE gained, helped by a Goldman Sachs buy recommendation earlier this month, and finished up 85 pesetas at 1,915.</p>
+<p>Repsol fell ahead of first half results due later this week and expected to show a 13 percent fall in its operating margin.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

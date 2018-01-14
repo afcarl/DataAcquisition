@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133891" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.K. cable bonds rally in U.S. on news of merger.</title>
+<headline>U.K. cable bonds rally in U.S. on news of merger.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>High-yield bonds across the U.K. cable sector rallied on news of a merger of several large British cable and telecommunications companies, traders and analysts said on Tuesday.</p>
+<p>The deal, which involves the merger of the British operations of Cable &amp; Wireless Plc, NYNEX Corp of the U.S. and Bell Canada International, will create the largest cable operator in the U.K.</p>
+<p>&quot;Pricing on these bonds will hit the moon,&quot; said Alan Ginsberg, cable analyst and head of high-yield research at Smith Barney.  </p>
+<p>Zero coupon bonds of Bell Cablemedia Plc, Videotron Holdings Plc, Diamond Cable, International Cabletel and TeleWest rallied two to three points in early trade, market sources said.</p>
+<p>&quot;This merger will be a positive for bondholders because it will create a less leveraged company with a larger revenue base, more cash flow, and a better debt-to-cash flow ratio,&quot; says Ginsberg.</p>
+<p>The Smith Barney analyst also contended the larger company will be better able to compete in the telephone market with British Telecom, the dominant telephone carrier in the U.K.</p>
+<p>-- Douglas Brown, 212-859-1662</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

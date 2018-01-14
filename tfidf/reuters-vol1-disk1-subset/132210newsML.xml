@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132210" id="root" date="1996-10-21" xml:lang="en">
+<title>DUBAI: Iran oil minister scheduled for Goa conference.</title>
+<headline>Iran oil minister scheduled for Goa conference.</headline>
+<dateline>DUBAI 1996-10-21</dateline>
+<text>
+<p>Iranian Oil Minister Gholamreza Aghazadeh is expected to attend talks between oil producers and consumers in Goa, India on December 6-8, a source at the country's oil ministry said on Monday.</p>
+<p>&quot;We are supposed to join...we are scheduled to go,&quot; the ministry source, speaking from Tehran, said.</p>
+<p>The fifth international energy conference between producers and consumers will take place shortly after an OPEC ministerial meeting in late November.</p>
+<p>Oil sources in OPEC members Qatar and the United Arab Emirates (UAE) also said they expected their ministers to attend the Goa conference.</p>
+<p>&quot;Most of the OPEC ministers will attend,&quot; an oil source in Qatar said.</p>
+<p>-- Steven Swindells, Dubai Newsroom, +971 4 6071255.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

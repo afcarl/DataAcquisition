@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136115" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Advanta units price securitization.</title>
+<headline>Advanta units price securitization.</headline>
+<dateline>SPRING HOUSE, Pa. 1996-10-23</dateline>
+<text>
+<p>Advanta Corp said on Wednesday that its Advanta National Bank USA and Advanta National Bank subsidiaries, priced a $500 million credit card securitization transaction.</p>
+<p>The closing was set for November 1, Advanta said.  </p>
+<p>The Series 1996-E securitization consisted of three classes of uncapped floating-rate certificates issued by Advanta Credit Card Master Trust II, the company said.</p>
+<p>The senior class A certificates, representing $432.5 million in receivables, would have an expected average life of about five years, it said. The Class A coupon rate would be reset monthly and would equal one-month LIBOR plus 10 basis points, the company said.</p>
+<p>The $27.5 million in subordinated Class B Certificates would have an average life of about 5.1 years, carry a coupon reset monthly and equal one-month LIBOR plus 33 basis points.  </p>
+<p>The Class A certificates were priced at a discount of 99.959 percent, while the Class B certificates were priced at par, the company said. Merrill Lynch &amp; Co is the lead underwriter, it said.</p>
+<p>In addition to the publicly offered certificates, a $40 million interest in Master Trust II, which would be subordinated to and provide credit enhancement for both the Class A and Class B certificates, would be sold in a private placement, Advanta said.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRING HOUSE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26707" id="root" date="1996-09-02" xml:lang="en">
+<title>SWEDEN: Volvo says truck sales down 16 pct. [corrected 14:39 gmt 3/9]</title>
+<headline>Volvo says truck sales down 16 pct. [corrected 14:39 gmt 3/9]</headline>
+<dateline>STOCKHOLM 1996-09-02</dateline>
+<text>
+<p>Swedish vehicle maker AB Volvo's truck unit said on Monday deliveries fell 16 percent to 37,255 in the seven months to July 1996 compared to the same period in 1995. </p>
+<p>Volvo Truck spokesman Kjell Drotz told Reuters: &quot;The corresponding drop in the January to June period was a fall of 13 percent. Above all it is the North American market that is behind the decrease.&quot;</p>
+<p>Deliveries in North America in the period from January to July (corrects from June) fell 36 percent to 10,165 trucks compared with the same 1995 period. Deliveries in Europe meanwhile rose eight percent to 20,898 trucks.</p>
+<p>In South America, deliveries slid 48 percent to 2,703 trucks and elsewhere in the world they fell 11 percent to 3,489.</p>
+<p>&quot;Our forecast for the year still holds. We estimate that total sales on the European market we will 170,000 trucks,&quot; Drotz said. (Corrects to clarify that Drotz is refering to total market, not Volvo share)</p>
+<p>The investment programme to raise Volvo Truck's production capacity outside North America (corrects from Europe) would be completed by year-end. With  this, capacity would rise to 60,000 trucks per year, of which 50,000 would be in Europe.</p>
+<p>Volvo Truck said earlier this year production outside the United States was 45,000 trucks and would remain at this level. Last year the capacity was 50,000 trucks.</p>
+<p>-- Stockholm newsroom, +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

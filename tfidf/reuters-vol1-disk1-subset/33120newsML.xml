@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33120" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Shuttle heads for safety.</title>
+<headline>Shuttle heads for safety.</headline>
+<dateline>CAPE CANAVERAL, Fla 1996-09-04</dateline>
+<text>
+<p>NASA managers ordered shuttle Atlantis back to its hanger on Wednesday as Hurricane Fran approached the east coast of the United States.</p>
+<p>The shuttle was expected to reach the safety of its giant assembly building by about 9:30 a.m. EDT (1330 GMT) on Wednesday.</p>
+<p>The hurricane was expected to reach the Atlantic Coast sometime on Thursday.</p>
+<p>Atlantis, already six weeks late because of rocket problems, was due to blast off on Sept. 14 on a mission to pick up U.S. astronaut Shannon Lucid from the Russian Mir space station and drop off her replacement, John Blaha.</p>
+<p>Lucid, a 53-year-old mother of three, has been working aboard the station since March and was originally due home in August. The decision to haul Atlantis off its launch pad is likely to delay her homecoming a few more days.</p>
+<p>It is the second time in two months that weather has forced Atlantis to take shelter. The shuttle was moved back to its assembly building in July when Hurricane Bertha threatened the Florida coastline.</p>
+<p>Hurricane Fran is also likely to delay the planned Oct. 31 launch of shuttle Columbia because work to assemble its booster rockets has been held up for almost a week.</p>
+<p>Two unmanned rockets scheduled for launch from Cape Canaveral Air Station next week may also face delays, the Air Force said on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

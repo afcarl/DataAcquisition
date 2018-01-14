@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134732" id="root" date="1996-10-22" xml:lang="en">
+<title>MOROCCO: Moroccan university teachers cancel strike.</title>
+<headline>Moroccan university teachers cancel strike.</headline>
+<dateline>RABAT 1996-10-22</dateline>
+<text>
+<p>Morocco's 7,000 university teachers cancelled a four-day strike starting on Tuesday after the government agreed to consider their demand for an urgent reform of the educational system.</p>
+<p>&quot;We have found solutions which will enable us to overcome difficulties which hampered the implementation of the reform so far,&quot; a union spokesman said.</p>
+<p>Government officials and union leaders have held several meetings in the past few months to end the dispute but with no success, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

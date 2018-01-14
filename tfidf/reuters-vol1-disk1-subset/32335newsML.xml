@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32335" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Total's first-half profits jump 45 percent.</title>
+<headline>Total's first-half profits jump 45 percent.</headline>
+<dateline>PARIS</dateline>
+<text>
+<p>French energy company Total Wednesday reported a 45 percent jump in profits in the first half of the year to 2.63 billion francs ($517 million) on the back of higher crude prices and a 15 percent rise in production.</p>
+<p>The company said in a statement that oil production levels remained high at the beginning of the second half, but it declined to give a full-year profit forecast.</p>
+<p>Chairman Thierry Desmarest told a news conference the group aimed to increase production to between 950,000 and 1 million barrels per day from 766,000 currently.</p>
+<p>&quot;For the year 2005, a level of 1.25 million barrels is not unattainable,&quot; he said. He said the group expects to double production outside the Middle East over the next eight years.</p>
+<p>Growth in production and productivity in the medium term -- to the year 2000 -- should boost profitability even if oil prices slipped to around $16 a barrel, the company said.</p>
+<p>U.S. attacks on Iraq have boosted the European benchmark, Brent crude, above $23 a barrel in recent days but Desmarest said the current price was not sustainable.</p>
+<p>The &quot;situation with Brent above $20 is not representative of a long-term trend,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

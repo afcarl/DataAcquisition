@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132392" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: DCI Telecommunications explores spin-off.</title>
+<headline>DCI Telecommunications explores spin-off.</headline>
+<dateline>FAIRFIELD, Conn. 1996-10-22</dateline>
+<text>
+<p>DCI Telecommunications said Tuesday that as a result of a recently concluded agreement it reacquired all its prior interest in a joint venture with Telephonica International, thus paving the way to proceed with negotiations on a potential business combination with American Cash Card Corporation (AMCASH).</p>
+<p>Joseph Murphy, DCI President, issued a statement saying the agreement &quot;simplifies what could have been a rather complicated arrangement.&quot;</p>
+<p>Once finalized, the president of AMCASH would become the president of DCI with Murphy becoming chairman.</p>
+<p>DCI said it is continuing to work towards its announced acquisition of Muller Media and should completed it shortly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

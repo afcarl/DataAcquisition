@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133078" id="root" date="1996-10-22" xml:lang="en">
+<title>MALAWI: Malawi T-bill rate dips at fortnightly auction.</title>
+<headline>Malawi T-bill rate dips at fortnightly auction.</headline>
+<dateline>BLANTYRE 1996-10-22</dateline>
+<text>
+<p>The average discount rate for Malawi's three-month Treasury Bills fell to 15.26 per cent at the latest fortnightly tender from 15.53 per cent two weeks ago, the Reserve Bank said on Tuesday.</p>
+<p>Applications for 176.9 million kwacha of bills on offer totalled 172.9 million kwacha. The average price was 96.8836 per cent.</p>
+<p>The average rate for six-month bills was 16.39 per cent from 16.96 per cent two weeks ago. Applications for the 127.6 million kwacha of bills on offer totalled 66.0 million kwacha. The average price was 92.5455 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLANTYRE"/>
+<dc element="dc.creator.location.country.name" value="MALAWI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

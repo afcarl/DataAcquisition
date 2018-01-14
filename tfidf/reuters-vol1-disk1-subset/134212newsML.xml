@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134212" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: Indian Shipping -- Kakinada cargoes - Oct 22.</title>
+<headline>Indian Shipping -- Kakinada cargoes - Oct 22.</headline>
+<dateline>BOMBAY 1996-10-22</dateline>
+<text>
+<p>Following is the berthing schedule of major vessels loading and unloading at India's Kakinada port on October 22, 1996:</p>
+<p>  Commodity		Tons		Ship/Name     Berthing</p>
+<p>		     (LDD/ULD) (Balance)</p>
+<p>------------------------------------------------------------</p>
+<p>Fertilisers</p>
+<p> Urea		30,954(ULD)  ---	Jag Ratna	 22/10</p>
+<p>Others</p>
+<p> Cement		 800(LDD)  ---	Visalakshi	19/10</p>
+<p> Palm oil	   2,000(ULD)  ---	Sangyang	  20/10</p>
+<p> Project material   ---(ULD)  ---	Stella Prima    20/10</p>
+<p> Urea		   ---(ULD)  ---	Vishya Yash     20/10</p>
+<p>------------------------------------------------------------</p>
+<p>	    Note:</p>
+<p>	    LDD - Loading</p>
+<p>	    ULD - Unloading</p>
+<p>	    EXP - Expected</p>
+<p>(Source: J.M.Baxi &amp; Co, Kakinada)</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

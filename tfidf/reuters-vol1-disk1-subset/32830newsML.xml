@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32830" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Pre-Paid Legal posts August gains.</title>
+<headline>Pre-Paid Legal posts August gains.</headline>
+<dateline>ADA, Okla. 1996-09-04</dateline>
+<text>
+<p>Pre-Paid Legal Services Inc said Wednesday it recorded a 46 percent gain in the production of memberships in August to 16,720 from 11,491.</p>
+<p>For the cumulative eight months, new members totaled 125,638, up 95 percent from 64,348 in the same year-ago period.</p>
+<p>The company develops, underwrites and markets legal service plans nationally.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADA, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

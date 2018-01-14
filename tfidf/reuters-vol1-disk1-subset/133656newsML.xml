@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133656" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. spot natural gas prices -- Oct 22.</title>
+<headline>U.S. spot natural gas prices -- Oct 22.</headline>
+<text>
+<p>Pipeline (Oct) ($/MMBTU)	10/22	     10/21</p>
+<p>U.S. GULF OFFSHORE	    2.41/2.46	 2.30/2.35</p>
+<p>TEXAS COAST		     2.42/2.47	 2.34/2.39</p>
+<p>WESTERN TEXAS		   2.33/2.38	 2.22/2.27</p>
+<p>LOUISIANA COAST		 2.48/2.53	 2.36/2.41</p>
+<p>NORTHERN LOUISIANA	    2.50/2.55	 2.38/2.43</p>
+<p>OKLAHOMA			  2.37/2.42	 2.25/2.30</p>
+<p>APPALACHIA			2.67/2.72	 2.56/2.61</p>
+<p>CALIFORNIA BORDER (SPOT)    2.46/2.51	 2.32/2.37</p>
+<p>HENRY HUB (AVERAGE)	   2.52/2.55	 2.38/2.41</p>
+<p>WAHA HUB			  2.39/2.44	 2.27/2.32</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

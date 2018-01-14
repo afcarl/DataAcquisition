@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31297" id="root" date="1996-09-04" xml:lang="en">
+<title>SWEDEN: Merrill opens Italian door with Carnegie buy.</title>
+<headline>Merrill opens Italian door with Carnegie buy.</headline>
+<dateline>STOCKHOLM, Sweden</dateline>
+<text>
+<p>Investment banking giant Merrill Lynch on Wednesday took another step in building up its presence in the European equities markets with the purchase of an equities research and sales company in Italy.</p>
+<p>The value of the deal was not released.</p>
+<p>The U.S. powerhouse's takeover of the Milan-based Carnegie Italia SpA from Swedish stockbroker Carnegie follows a similar but larger move earlier this year in Spain when it bought FG Inversiones, the country's largest independent brokerage, for 3.7 billion pesetas ($29.5 million).</p>
+<p>Swedish stockbroker Carnegie said it had agreed to sell Merrill its Italian operations because it needed capital to expand in the Nordic region. It recently sold its operations in Spain and said it would also pull out of Portugal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM, Sweden"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

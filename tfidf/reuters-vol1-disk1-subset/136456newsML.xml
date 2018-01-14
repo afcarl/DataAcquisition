@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136456" id="root" date="1996-10-23" xml:lang="en">
+<title>KAZAKHSTAN: Kazakhs to hold tenders for gas line, refinery.</title>
+<headline>Kazakhs to hold tenders for gas line, refinery.</headline>
+<dateline>ALMATY 1996-10-23</dateline>
+<text>
+<p>Kazakhstan will hold tenders on November 1 for several oil and gas enterprises, a senior property official told a news conference on Wednesday.</p>
+<p>State Property Committee chairman Sarybai Kalmurzayev said one tender would be to manage sections of the country's gas pipeline transport system for 10-15 years.</p>
+<p>The tender covers links in western Kazakhstan and hooking into the Russian and Central Asian systems, he said, but gave no further details.</p>
+<p>Kazkommertsbank deputy chairman Askar Alshinbayev said Gaz de France, Enron Oil and Gas Co of the U.S. and Argentina's Bridas Energy Corp would probably bid.</p>
+<p>The bank is the government's financial consultant.</p>
+<p>Alshinbayev said the former Soviet republic would also hold a tender on November 1 for the Atyrau Oil Refinery (one of three Kazakh refineries), the Embaneft Oil Company and other unnamed energy enterprises.</p>
+<p>Kazakhstan has blazed ahead in selling off oil and gas enteprises to Western investors through tenders or management contracts.</p>
+<p>The oil-rich country is attracting billions of dollars for its on- and offshore hydrocarbon reserves. Oil reserves in Kazakhstan's Caspian Sea continental shelf are estimated at 10 billion tonnes (over 70 billion barrels).</p>
+<p>--Almaty Newsroom, +7 3272 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I1300002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

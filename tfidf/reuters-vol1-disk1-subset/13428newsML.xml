@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13428" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Chancellor to buy 12 radio stations.</title>
+<headline>Chancellor to buy 12 radio stations.</headline>
+<dateline>DALLAS</dateline>
+<text>
+<p>Chancellor Broadcasting Co. said Monday it signed a definitive agreement to buy 12 radio stations from privately held Colfax Communications for $365 million in cash and working capital.</p>
+<p>The eight FM and four AM radio stations are in Washington, D.C., Minneapolis-St. Paul, Phoenix and Milwaukee.</p>
+<p>The deal, which is expected to be completed by the first quarter of 1997, will leave Dallas-based Chancellor with 53 stations in 15 markets.</p>
+<p>Colfax is based in Minneapolis-St. Paul.</p>
+<p>Chancellor's stock fell 75 cents to $36.50 early on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

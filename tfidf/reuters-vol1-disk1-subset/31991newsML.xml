@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31991" id="root" date="1996-09-04" xml:lang="en">
+<title>HONG KONG: Guangzhou Investment unit sets FRN.</title>
+<headline>Guangzhou Investment unit sets FRN.</headline>
+<dateline>HONG KONG 1996-09-04</dateline>
+<text>
+<p>The following issue was announced by arranger AB Capital Markets (HK).</p>
+<p>BORROWER GUANGZHOU INVESTMENT FINANCE CAYMAN ISLANDS</p>
+<p>GUARANTOR GUANGZHOU INVESTMENT CO LTD</p>
+<p> AMT	SFR60 MLN  COUPON    6M SFRL+125 MATURITY    2 YRS</p>
+<p>	 OR US$50 MLN*	  OR 6M US$L+175</p>
+<p> TYPE     FRN	  ISS PRICE PAR	   LAUNCHED    WK SEP 2</p>
+<p> PUTS     NONE	 CALLS     NONE	  REPLIES     06.SEP.96</p>
+<p> LISTING  NONE	 REPAYMENT BULLET	DENOMS	SFR100K</p>
+<p> RATINGS  NONE	 SALE LMTS CUSTOMARY   PAY DATE    18.SEP.96</p>
+<p> NEG PLG  YES	  CRS DEF   YES	   FORCE MAJ   YES</p>
+<p> GOV LAW  ENGLISH    HOME CTRY HONG KONG**TAX PROV     STANDARD</p>
+<p> NOTES    *AT LENDERS' OPTION</p>
+<p>	    **BORROWER IS AN SPV OF THE GUARANTOR. GUANGZHOU</p>
+<p>INVESTMENT CO IS A PROPERTY DEVELOPMENT AND INVESTMENT</p>
+<p>	   COMPANY 52 PCT OWNED BY YUE XIU, AN INVESTMENT HOLDING</p>
+<p>	    COMPANY WHOLLY OWNED BY THE GUANGZHOU MUNICIPAL GOVT.</p>
+<p>MGT LEVELS AND FEES</p>
+<p>	    SENIOR MANAGERS   SFR6  MLN  170 BP ALL-IN 210</p>
+<p>	    CO-MANAGERS UP TO SFR4  MLN  135 BP ALL-IN 192.5</p>
+<p>    OR    SENOR MANAGERS    US$5  MLN   65 BP ALL-IN 207.5</p>
+<p>	    CO-MANAGERS	 US$3  MLN   30 BP ALL-IN 190</p>
+<p>ARRANGER AB CAPITAL MARKETS (HK), UBS HONG KONG</p>
+<p>-- Hong Kong Newsroom (852) 2843-6371</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CAYI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132818" id="root" date="1996-10-22" xml:lang="en">
+<title>NEW ZEALAND: RUGBY LEAGUE-N.ZEALAND MAORI SIDE BEAT BRITAIN 40-28.</title>
+<headline>RUGBY LEAGUE-N.ZEALAND MAORI SIDE BEAT BRITAIN 40-28.</headline>
+<dateline>WHANGAREI, New Zealand 1996-10-22</dateline>
+<text>
+<p>The New Zealand Maori rugby league team beat Britain 40-28 (halftime 20-18) in a tour match on Tuesday.</p>
+<p>Scorers:</p>
+<p>New Zealand Maori - Tries: David Murray 2, Jamie Stevens, Tawera Nikau, Neville Ramsay, Marlon Gardiner, Jason Walker. Penalty: Paul Howell. Conversions: Howell 5.</p>
+<p>Britain -  Tries: Bernard Dwyer, Tony Smith, Nathan McAvoy, Steve Prestcott, James Lowes. Conversions: Prescott 4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHANGAREI, New Zealand"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

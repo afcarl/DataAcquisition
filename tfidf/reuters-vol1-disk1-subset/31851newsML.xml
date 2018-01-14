@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31851" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Swearing banned in Mexican cities' markets.</title>
+<headline>Swearing banned in Mexican cities' markets.</headline>
+<dateline>GUADALAJARA, Mexico 1996-09-03</dateline>
+<text>
+<p>One dirty word and market vendors in Mexico's second city of Guadalajara could lose their jobs, according to a new city law.</p>
+<p>A new city ordinance says workers in city markets &quot;are obliged to: I. Observe high order and moral standards. II. Treat the public with due consideration. III. Use decent language.&quot;</p>
+<p>The new law forms part of applications for permits that vendors must sign in order to trade in city marketplaces. If a vendor breaks the law, he could have his operating permit revoked.</p>
+<p>Guadalajara is known for its efforts to strike a high moral ground in its laws. Earlier this year, officials told female employees of the public works department they could no longer wear mini-skirts.</p>
+<p>Francisco Beruben, a stallholder at Guadalajara's El Mirador market, told Reuters he's not sure the new law will keep everyone from biting their tongue.</p>
+<p>&quot;You speak as you are spoken to,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

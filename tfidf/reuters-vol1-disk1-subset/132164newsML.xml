@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132164" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Nissan mulls shifting some US car output to Mexico.</title>
+<headline>Nissan mulls shifting some US car output to Mexico.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Nissan Motor Co Ltd said on Monday that it is considering shifting some of its passenger car production from the United States to Mexico.</p>
+<p>However, it plans to maintain its current car output in the United States.</p>
+<p>A Nissan spokesman did not provide any more details.</p>
+<p>The Nihon Keizai Shimbun economic daily said on Saturday that Nissan would start making recreational vehicles (RVs) in the United States in 1998, targeting the North American market, but the Nissan spokesman said the report was speculation.</p>
+<p>&quot;We have nothing to say on the topic. The report is the paper's speculation,&quot; he said.</p>
+<p>The paper said Nissan would invest a little more than 10 billion yen in its existing production unit in the United States for the production of RVs.</p>
+<p>It said Nissan is targeting initial output at 50,000 units a year in the United States, rising to 100,000 units annually.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

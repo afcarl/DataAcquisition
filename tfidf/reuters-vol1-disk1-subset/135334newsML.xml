@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135334" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan 10-year JGB auction lowest price of 100.35.</title>
+<headline>Japan 10-year JGB auction lowest price of 100.35.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>The Ministry of Finance (MOF) said</p>
+<p>the results of its 2.9 percent 10-year Japanese government bond</p>
+<p>(JGB) auction on Tuesday were as follows:</p>
+<p> Lowest price	 100.35   Stop rate     2.855 pct</p>
+<p> Average price	100.40   Average yield 2.848 pct</p>
+<p> Total bids	   1.8921 trillion yen</p>
+<p> Accepted bids	590.86 billion yen</p>
+<p>Bids accepted at lowest price 21.7576 pct</p>
+<p> Issue date   Nov 20, 1996   Maturity   Dec 20, 2006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

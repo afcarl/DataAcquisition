@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32202" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: US spot jet fuel falls, sensitive to Iraqi news.</title>
+<headline>US spot jet fuel falls, sensitive to Iraqi news.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>News of Iraqi troop withdrawals pushed U.S. spot jet fuel prices lower on Wednesday, but traders said diffs in both hubs were mixed.</p>
+<p>In the Gulf Coast, aviation-quality 54-grade fuel traded at 1.25 cents above October NYMEX futures, retracing a one cent gain made Tuesday after news of the first U.S. missile strikes against Iraq.</p>
+<p>Low sulpher 55-grade weakened 0.50 cent to about 2.00 cents over heat.</p>
+<p>&quot;There is nothing fundamental supporting jet at the moment, it's all sentiment over Iraq and it's all very fickle,&quot; said one U.S. trader.</p>
+<p>Diffs in New York Harbor stayed steady at 4.50 cents to 5.00 cents over the print in very quiet activity. Prices were weaker, however, due to falling October heating oil prices, pegged down 72 cents at $62.70 a barrel by Wednesday afternoon.</p>
+<p>At a 1330 EDT/1730 GMT press conference, President Bill Clinton said Iraq had withdrawn its forces from a Kurdish area in the north.</p>
+<p>The troop movements over the weekend had provoked the U.S. missile attacks Tuesday and Wednesday and led to the suspension of a U.N. accord to allow Iraqi oil back on the market.</p>
+<p>-- New York Energy Desk +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133444" id="root" date="1996-10-22" xml:lang="en">
+<title>NEW ZEALAND: Talks can be over within six weeks - NZ's Peters.</title>
+<headline>Talks can be over within six weeks - NZ's Peters.</headline>
+<dateline>WELLINGTON 1996-10-23</dateline>
+<text>
+<p>New Zealand First leader Winston Peters said on Wednesday negotiations for forming a new government can be completed within six weeks.</p>
+<p>Peters was speaking shortly after a meeting between the negotiating teams of New Zealand First and the main opposition Labour Party.  </p>
+<p>Asked how long the talks would take, Peters replied: &quot;I said on election night six weeks. I think we can do it within that timeframe and conclude the coalition government satisfactorily. That's our expectation, that's our hope.&quot;</p>
+<p>The NZ First team met National party delegates on Monday afternoon. Peters said his party would meet with the Labour and National negotiating teams again next Tuesday for further coalition talks. --Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

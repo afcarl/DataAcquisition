@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13224" id="root" date="1996-08-25" xml:lang="en">
+<title>CHINA: One third of Shanghai state firms in red.</title>
+<headline>One third of Shanghai state firms in red.</headline>
+<dateline>SHANGHAI 1996-08-25</dateline>
+<text>
+<p>One third of Shanghai's state companies are in the red despite a rapid increase in the city's industrial output this year, the Wen Hui Bao newspaper reported on Sunday.</p>
+<p>In the first seven months of 1996, Shanghai's industrial output value grew 15.5 percent over the same 1995 period, and value of industrial product sales grew 15.4 percent, it said but gave no further figures.</p>
+<p>Industrial enterprises in Shanghai are significantly more efficient than average companies in China, but one third of the state firms are running at a loss, the newspaper said. It did not give reasons for the losses.</p>
+<p>To turn these deficits into profits, state firms must develop markets and their own products, it said.</p>
+<p>They must deepen reform and improve the level of management and the quality of their managers, it said but gave no further details.</p>
+<p>There are about 4,000 state firms in Shanghai.</p>
+<p>Like state firms elsewhere in China, Shanghai firms suffer from excess manpower, outdated equipment, a heavy burden of debts and retired workers and low efficiency.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

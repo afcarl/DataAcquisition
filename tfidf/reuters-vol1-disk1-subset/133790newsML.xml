@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133790" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: 3M to buy gynecological product.</title>
+<headline>3M to buy gynecological product.</headline>
+<dateline>ST. PAUL, Minn. 1996-10-22</dateline>
+<text>
+<p>Minnesota Mining &amp; Manufacturing Co said Tuesday it intends to buy MetroGel Vaginal, a product for intravaginal therapy, from Nevada-based Curatek Pharmaceuticals LP.</p>
+<p>Terms were not disclosed. The acquisition was approved in principle by both companies.</p>
+<p>Last year, more than one million patient prescriptions were filled for the product, which has been available in the United States since 1992.</p>
+<p>The agreement calls for the MetroGel-Vaginal sales and marketing force of about 75 persons to join 3M Pharmaceuticals once the acquisition is completed.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

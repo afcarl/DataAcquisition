@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132721" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Kimberly-Clark tissue prices hurt 1996.</title>
+<headline>Kimberly-Clark tissue prices hurt 1996.</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>Kimberly-Clark Corp said on Tuesday tissue prices would have an $200 million annualized negative impact on 1996 results and that it was hesitant to forecast 1997 North American tissue prices.  </p>
+<p>Chief Financial Officer Jack Donehower told a conference call that it would take a major move of between $150 and $200 per ton in pulp prices to affect tissue prices.</p>
+<p>&quot;I'm hesitant to forecast 1997 tissue prices,&quot; Donehower said. He said prices could firm slightly outside North American, particularly in some parts of Asia, which had deep price discounts.  </p>
+<p>In the third quarter 1996, the company said it achieved strong results despite a decrease earlier in the year in U.S. consumer and international tissue prices. Kimberly-Clark also said sales of its key U.S. bathroom tissue and paper towel products increased in each quarter of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

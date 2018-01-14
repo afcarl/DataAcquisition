@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134467" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Gulfstream Aerospace Q3 proforma rises.</title>
+<headline>Gulfstream Aerospace Q3 proforma rises.</headline>
+<dateline>SAVANNAH, Ga. 1996-10-22</dateline>
+<text>
+<p>GULFSTREAM AEROSPACE CORPORATION</p>
+<p>				  AND SUBSIDIARIES</p>
+<p>				(Unaudited)</p>
+<p>Condensed Statement of Income Information</p>
+<p>($ in millions, except per share data)</p>
+<p>					    Quarter Ended  Period Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					   1996	1995   1996   1995</p>
+<p> Net revenues			 283.8     239.4  742.5  714.3</p>
+<p> Gross profit			  61.4	44.2  165.2  141.1</p>
+<p> Income from operations	    16.8	 5.2   31.8   21.6</p>
+<p> Net income			    17.2	 2.1   32.6   10.0</p>
+<p> Pro forma earnings per share  (a)  0.22   0.03   0.42   0.13</p>
+<p>Aircraft deliveries (in units):</p>
+<p>    Green				   9	   5     20     19</p>
+<p>    Completion			    5	   8     17     15</p>
+<p>    Pre-owned aircraft		  3	   5     10     14</p>
+<p>(a)  Pro forma earnings per share is calculated assuming the initial public offering and related debt  transactions that occurred during October 1996 had occurred as of the beginning of the reporting period based on 78.5 million shares which includes the exercised overallotment.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAVANNAH, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

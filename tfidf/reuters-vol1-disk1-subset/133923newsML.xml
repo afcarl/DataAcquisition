@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133923" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CIT Group sets $200 mln in notes.</title>
+<headline>CIT Group sets $200 mln in notes.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>The following debt issue from CIT Group Holdings was priced on Tuesday, according to lead manager Smith Barney.</p>
+<p>BORROWER CIT GROUP HOLDINGS</p>
+<p>AMT $200 MLN	COUPON 6.25 PCT   MATURITY 10/25/1999</p>
+<p>TYPE NOTES	  ISS PRICE 99.935  FIRST PAY DATE 04/25/1997</p>
+<p>LAST MOODY AA3    YIELD 6.274 PCT   PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P A-PLUS   SPREAD +22 BP     CALLABLE NO</p>
+<p>UNDERLYING: THREE-YEAR U.S. TREASURY NOTE</p>
+<p>NOTE: CIT GROUP HOLDINGS IS 80 PERCENT OWNED BY DAI-ICHI KANGYO BANK LTD AND 20 PERCENT BY CHASE MANHATTAN CORP</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

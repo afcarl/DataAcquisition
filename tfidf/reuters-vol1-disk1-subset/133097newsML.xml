@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133097" id="root" date="1996-10-22" xml:lang="en">
+<title>ERITREA: Elephants return to Eritrea.</title>
+<headline>Elephants return to Eritrea.</headline>
+<dateline>ASMARA 1996-10-22</dateline>
+<text>
+<p>After decades of fighting that scared away elephants, the animals have started to return to Eritrea.</p>
+<p>Six elephants have been sighted in Eritrea since 1993, said Hagos Yohannes, head of the wildlife department at Eritrea's ministry of agriculture.</p>
+<p>Eritrea, a province of Ethiopia until 1993, fought a three-decade war of independence against Addis Ababa until Marxist ruler Mengistu Haile Mariam was ousted in 1991. The province became independent in 1993.</p>
+<p>Hagos said the elephants crossed into Eritrea over the Setit river, which marks the border with Ethiopia.</p>
+<p>&quot;We are starting a project to be able to count elephants, study their migratory and feeding habits,&quot; he said on Monday.</p>
+<p>The Eritrea elephant population is estimated at between 70 and 100.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ERTRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASMARA"/>
+<dc element="dc.creator.location.country.name" value="ERITREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

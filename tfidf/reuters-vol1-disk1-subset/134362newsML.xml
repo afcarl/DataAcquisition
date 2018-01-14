@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134362" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Parexel files to offer 1.275 mln shares.</title>
+<headline>Parexel files to offer 1.275 mln shares.</headline>
+<dateline>BOSTON 1996-10-22</dateline>
+<text>
+<p>Parexel International Corp said Tuesday that it filed to offer 1,275,000 common shares, plus an additional 15 percent to cover over-allotments.</p>
+<p>In a release Tuesday the company said it was offering 1,066,900 shares, and 208,100 are being offered by certain selling stockholders.</p>
+<p>Net proceeds to the company would be about $56.6 million, Parexel said, adding that after the offering, it would have about 9.5 million shares outstanding.</p>
+<p>Underwriters for the deal include Smith Barney Inc, William Blair &amp; Co and Lehman Brothers, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

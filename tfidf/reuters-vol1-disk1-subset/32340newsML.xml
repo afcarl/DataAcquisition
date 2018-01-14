@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32340" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Brandenburg says wants to sell airport stake.</title>
+<headline>Brandenburg says wants to sell airport stake.</headline>
+<text>
+<p>POTSDAM, Germany (Reuter) Sept 4 - The German state of Brandenburg said on Wednesday it wants to sell its stake in Schoenefeld airport to private shareholders to square up losses it has incurred as part owner of the airport's holding company, BBF.</p>
+<p>Earlier in the year the states of Berlin and Brandenburg and the federal government agreed to locate Berlin's main airport at Schoenefeld, ending years of discussion on where the new airport would be sited.</p>
+<p>Helmut Baesecke, spokesman for the Brandenburg finance ministry, said on Wednesday the state of Brandenburg had lost three-digit millions of marks so far from its involvement in the project.</p>
+<p>The state's losses relate to the purchase of 115 hectares of land beside the airport. The land purchase deal is currently being investigated by a parliamentary committee.</p>
+<p>The city state of Berlin and the state of Brandenburg each hold 37 percent of BBF, with a further 26 percent in federal hands.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

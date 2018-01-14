@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18173" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: U.S. stocks seen higher on firm dollar, bonds.</title>
+<headline>U.S. stocks seen higher on firm dollar, bonds.</headline>
+<dateline>NEW YORK 1996-08-28</dateline>
+<text>
+<p>A firm tone in U.S. Treasuries and overnight gains by the dollar should help Wall Street stocks slightly higher at Wednesday's open.</p>
+<p>With no economic data on the day's calendar and stocks increasingly sensitive to moves in the bond market, analysts said the modest gains posted by Treasuries should help stocks replicate their bond-led rise on Tuesday.</p>
+<p>&quot;We're seeing the same pattern as yesterday, with firm bonds and a weak yen and strong dollar,&quot; said Larry Wachtel, market analyst at Prudential Securities.</p>
+<p>&quot;We're seeing the same pattern as yesterday, with firm bonds and a weak yen and strong dollar,&quot; said Larry Wachtel, market analyst at Prudential Securities.</p>
+<p>&quot;So we start in a positive position for a good start,&quot; Wachtel said.</p>
+<p>With volume expected to stay at doldrum lows, individual issues should continue to dominate Wall Street activity.</p>
+<p>The Dow industrials could get a boost from Philip Morris Cos Inc, if, as expected, the company announces a stock split and dividend increase after its directors' meeting.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

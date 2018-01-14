@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136153" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Kaiser Aluminum Corp Q3 loss vs profit.</title>
+<headline>Kaiser Aluminum Corp Q3 loss vs profit.</headline>
+<dateline>HOUSTON 1996-10-23</dateline>
+<text>
+<p>In millions of dollars, except per share amounts)</p>
+<p>				     Third Quarter	 Nine Months</p>
+<p>				     1996	1995     1996     1995</p>
+<p> Net sales		   $  553.4  $  550.3 $1,652.1 $1,646.7</p>
+<p> Operating income		10.5	53.2     87.4    149.4</p>
+<p>Other income (expense):</p>
+<p>   Interest expense	  (22.6)    (23.9)   (68.3)   (71.3)</p>
+<p>   Other - net		    2.1     (7.7)	3.0    (9.8)</p>
+<p> Net income (loss)	    (6.6)	12.5     11.5     39.3</p>
+<p>Dividends on preferred stock</p>
+<p>				    (2.1)     (4.9)    (6.3)   (15.5)</p>
+<p>Earnings (loss) per share:</p>
+<p>   Primary			(.12)	 .13	.07	.40</p>
+<p>   Fully diluted				.14		   .46</p>
+<p>Average shares outstanding (000):</p>
+<p>   Primary		     71,646    60,225   71,843   59,015</p>
+<p>   Fully diluted			   71,782		71,613</p>
+<p>Shipments, in thousands of tons:</p>
+<p>   Alumina			598.6     471.5  1,506.7  1,494.6</p>
+<p>   Aluminum		     171.2     163.4    508.3    468.8</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

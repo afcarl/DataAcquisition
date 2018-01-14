@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134920" id="root" date="1996-10-22" xml:lang="en">
+<title>SPAIN: FORECAST-Santander profit seen up 12.4 pct.</title>
+<headline>FORECAST-Santander profit seen up 12.4 pct.</headline>
+<dateline>MADRID 1996-10-22</dateline>
+<text>
+<p>The following is a consensus of analyst forecasts for Grupo Santander for the first nine months to September 1996. (billions of pesetas unless stated):</p>
+<p> SANTANDER			 9-MTH 96  9-MTH 95	RANGE</p>
+<p>   Net interest income	 292.23    253.49   289.28 - 294.26</p>
+<p>   Operating margin	    140.17    117.69   133.60 - 145.09</p>
+<p>   Net attributable	     71.25     63.39    68.90 -  72.10</p>
+<p>CONTRIBUTORS: Argentaria, Benito y Monjardin, BSN, Ahorro Corporacion and ABN AMRO.</p>
+<p>NOTE: Santander will announce results on October 28.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

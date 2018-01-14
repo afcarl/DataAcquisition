@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133413" id="root" date="1996-10-22" xml:lang="en">
+<title>COLOMBIA: Colombian coffee czar says strike halts exports.</title>
+<headline>Colombian coffee czar says strike halts exports.</headline>
+<dateline>BOGOTA 1996-10-22</dateline>
+<text>
+<p>A week-old strike by Colombian truck drivers paralyzed the nation's coffee industry and forced delays in the shipment of about 250,000 60-kilo bags of coffee promised for delivery in October, the head of the National Coffee Growers Federation said.</p>
+<p>&quot;For the past five days there has been no movement of coffee on highways or from the coffee region to storage and processing centers,&quot; Jorge Cardenas told reporters.</p>
+<p>He added that coffee was also unable to leave processing centers for Colombia's ports and that the industry was &quot;completely paralyzed.&quot;  </p>
+<p>Because of the strike, which he said he hoped would be settled by November, Cardenas added that 250,000 60-kilo bags of green coffee promised for delivery to export clients in October would be delayed indefinitely.</p>
+<p>That is about 25 percent of the one million bags that the country had planned to export during the month, Cardenas said.</p>
+<p>&quot;We've been reprogramming coiffee shipments since last Friday to see how we're going to attend our clientele,&quot; he said.</p>
+<p>--Juan Guillermo Londoo, Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

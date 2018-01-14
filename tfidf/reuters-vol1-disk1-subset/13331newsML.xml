@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13331" id="root" date="1996-08-25" xml:lang="en">
+<title>GERMANY: Volksfuersorge chief tipped for top AMB post - paper.</title>
+<headline>Volksfuersorge chief tipped for top AMB post - paper.</headline>
+<dateline>FRANKFURT 1996-08-25</dateline>
+<text>
+<p>The front-runner to become the next chairman of German insurance group AMB Holding is the current head of AMB's Volksfuersorge unit Hans Jaeger, Germany's Welt am Sonntag newspaper said on Sunday.</p>
+<p>Jaeger, 56, is likely to be picked to succeed current management board chairman Wolfgang Kaske at a meeting of AMB's supervisory board on August 29, the newspaper said, without naming sources.</p>
+<p>Kaske's term ends at the end of 1997.</p>
+<p>Aachener und Muenchener Beteiligungs AG, known as AMB, declined comment on the report. A spokeswoman said only that the choice of Kaske's successor was a matter for the supervisory board.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

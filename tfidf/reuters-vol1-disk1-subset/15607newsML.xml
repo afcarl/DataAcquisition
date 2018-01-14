@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15607" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: American Stores second quarter earnings.</title>
+<headline>American Stores second quarter earnings.</headline>
+<dateline>SALT LAKE CITY</dateline>
+<text>
+<p>Food and drug retailer American Stores Company said Tuesday its profits increased 12 percent to $83.1 million from $73.9 million in the second quarter.</p>
+<p>American Stores is one of the largest food and drug retailers in the country, with 1,640 stores in 26 states.</p>
+<p>Its principal retail operations include Acme Markets, Jewel Food Stores, Lucky Northern California Division, Lucky Southern California Division, Jewel Osco Southwest, Osco Drug and Sav-on Drug.</p>
+<p>Comparable store sales increased 3 percent during the quarter and total sales were up 2.9 percent to $4.625 billion from $4.94 billion last year.</p>
+<p>The company's stock gained $1 to $40.875 in morning trading on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SALT LAKE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

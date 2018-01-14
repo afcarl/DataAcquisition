@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32761" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Franklin Ophthalmic in pact with lender.</title>
+<headline>Franklin Ophthalmic in pact with lender.</headline>
+<dateline>ROMEOVILLE, Ill. 1996-09-04</dateline>
+<text>
+<p>Franklin Ophthalmic Instruments Co Inc said Wednesday its principal lender, Silicon Valley Bank, agreed to convert about $3 million owed to it by the company under its line of credit into shares of Franklin Ophthalmic stock at $1.52 per share.</p>
+<p>It said the bank also agreed to extend the maturity date on the remaining $1.8 million under the line of credit to August 1997.</p>
+<p>The bank's agreement is conditioned on the company's receipt of at least $1 million in capital and personal guarantees (up to $200,000 in the aggregate) of officers of the company.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROMEOVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

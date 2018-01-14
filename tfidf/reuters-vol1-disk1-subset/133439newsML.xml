@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133439" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Top 20 Australian Dividend Yields - Oct 23.</title>
+<headline>RTRS-Top 20 Australian Dividend Yields - Oct 23.</headline>
+<dateline>SYDNEY 1996-10-23</dateline>
+<text>
+<p>Twenty highest dividend yields for Australian companies included in the 320-share All Ordinaries Index based on closing prices on October 22.</p>
+<p>Dividends based on rolling 12 months.</p>
+<p>Yields are not grossed up for franking credits.</p>
+<p>					   Dividend</p>
+<p>Rank Name		    Yield     Close</p>
+<p>1  Prime Credit Tr	 10.21     0.96</p>
+<p>2  Prop Income Inv	  9.96     1.02</p>
+<p>3  Indu Property	    9.89     0.92</p>
+<p>4  BT Prop Trust	    9.71     1.68</p>
+<p>5  Villa World		9.65     1.14</p>
+<p>6  McIntosh Sec	     9.47     0.95</p>
+<p>7  Central Equity	   9.38     0.96</p>
+<p>8  Colonial Mutual	  9.28     1.14</p>
+<p>9  Aust Tour		  9.04     0.83</p>
+<p>10 Centro Prop		8.94     2.18</p>
+<p>11 Armstrong Retail	 8.80     0.75</p>
+<p>12 Gandel Retail Tr	 8.48     0.92</p>
+<p>13 Equitilink		 8.47     0.59</p>
+<p>14 Gen Prop Tr		8.41     2.39</p>
+<p>15 Advance Pro CB	   8.35     1.39</p>
+<p>16 Barclays Mirvac	  8.33     1.32</p>
+<p>17 Westpac Prop Tr	  8.25     1.60</p>
+<p>18 Westfield Trust	  8.16     2.38</p>
+<p>19 Natl In Prop	     8.12     1.03</p>
+<p>20 MT Leyshon Gold	  8.01     3.12</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8500029">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

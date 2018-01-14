@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13306" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Investigator tells paper nitro found in TWA wreck.</title>
+<headline>Investigator tells paper nitro found in TWA wreck.</headline>
+<dateline>NEW YORK 1996-08-25</dateline>
+<text>
+<p>Traces of the flammable liquid nitroglycerin have been found in the wreckage of TWA Flight 800 bolstering the theory that an explosive device destroyed the plane, the New York Daily News said in its Sunday edition.</p>
+<p>The report by the Daily News comes just two days after the New York Times said traces of PETN, a chemical compound commonly found in both plastic explosives and surface-to-air missiles, was found on a piece of seat from the Boeing 747's passenger cabin.</p>
+<p>&quot;We found nitro too,&quot; an unnamed senior federal official told the tabloid Daily News.</p>
+<p>&quot;And the amazing thing about that is that nitroglycerin is water soluble. So to get a positive test result from a piece of wreckage that was under water is kind of amazing. We aren't sure what to think,&quot; the source said.</p>
+<p>The TWA jumbo jet, bound for Paris crashed off the New York coast shortly after taking off from Kennedy Airport on July 17, killing all 230 people on board.</p>
+<p>The nitroglycerin and traces of the plastic explosive PETN were found in the general area of the right wing and near the flooring over the fuel tank, the official told the tabloid.</p>
+<p>The official was quoted as saying someone could have carried PETN onto the plane. He also said &quot;there could have been so much nitro on the plane that the water couldn't wash it away.&quot;</p>
+<p>A spokesman for the Federal Bureau of Investigation would not confirm or deny the nitroglycerin report. &quot;The policy of the bureau is not to comment on evidence and it is not our practice to respond to news reports,&quot; he said.</p>
+<p>A spokeswoman for the National Transportation Safety Board also refused comment. &quot;I can't confirm it,&quot; she said.</p>
+<p>The federal official told the tabloid that the nitro finding was &quot;bizarre&quot;.</p>
+<p>While nitroglycerin can be used in the making of a bomb, it is also a drug that dilates blood vessels and is used extensively by millions of heart patients to prevent and treat angina.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

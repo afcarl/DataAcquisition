@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135968" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Diametrics Medical Inc Q3 loss.</title>
+<headline>Diametrics Medical Inc Q3 loss.</headline>
+<dateline>ST. PAUL, Minn 1996-10-23</dateline>
+<text>
+<p>Three Months Ended	     Nine Months Ended</p>
+<p>			September 30,		   September 30,</p>
+<p>		   1996	   1995	     1996	   1995</p>
+<p>Net Sales   $669,848     $377,708	$1,862,949   $1,020,651</p>
+<p>Cost of sales</p>
+<p>	     1,874,630    1,698,529	 6,156,194    4,782,276</p>
+<p>Operating expenses:</p>
+<p>R &amp; D	1,854,272    1,452,218	 5,244,218    4,557,906</p>
+<p>Sales and marketing</p>
+<p>	     1,591,027    1,515,369	 4,856,891    4,052,935</p>
+<p>Total operating expenses</p>
+<p>	     4,316,613    3,840,381	13,085,880   11,272,121</p>
+<p>Operating loss</p>
+<p>	   (5,521,395)  (5,161,202)    (17,379,125) (15,033,746)</p>
+<p>Net loss (5,484,272)  (5,096,393)    (17,096,753) (14,984,580)</p>
+<p>Net loss per common share</p>
+<p>	    $(0.36)	$(0.38)	   $(1.14)	  $(1.26)</p>
+<p>Avg shrs 15,155,812   13,515,258	15,054,734    11,890,375</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32116" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Short named Detroit deputy finance director.</title>
+<headline>Short named Detroit deputy finance director.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>- Detroit Mayor Dennis Archer announced Wednesday the appointment of Roger Short as the city's deputy finance director and chief accounting officer.</p>
+<p>Short, who has worked for the city for 15 years, will manage Detroit's financial record-keeping, as well as the city's annual audit, according to a news release from the mayor's office.</p>
+<p>&quot;I'm looking forward to working with both (Finance Director) Valerie Johnson and Mayor Archer,&quot; Short said. &quot;I bring 15 years of experience with the city of Detroit to this job. But more importantly, I bring a commitment to making the finance department more user-friendly.&quot;</p>
+<p>Short was the city's auditor general from 1985 to 1995. Before that, he was an accountant for Barrow, Aldridge &amp; Co.; the City of Detroit Building Authority; and Arthur Andersen &amp; Co.</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

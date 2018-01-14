@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32851" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Softpoint Inc settles SEC civil action.</title>
+<headline>Softpoint Inc settles SEC civil action.</headline>
+<dateline>RENO, Nev. 1996-09-04</dateline>
+<text>
+<p>SoftPoint Inc said it settled with the U.S. Securities and Exchange Commission on the SEC's civil action pending in the U.S. District Court for the Southern District of New York.</p>
+<p>Under terms of the settlement, SoftPoint said it has consented to the entry of a final judgment without admitting or denying the allegations set forth in the action.</p>
+<p>The final judgment requires Softpoint to comply with federal securities laws and requires it to take certain remedial actions, including a restatement of certain financial statements prepared by prior management, it said.  </p>
+<p>The action was filed by the SEC in April 1995, when it was being managed by persons, some of whom are named defendants in the action, who are no longer with the company.</p>
+<p>President Ezzat Jallad said &quot;Under current management, the company has cooperated fully with the SEC and will continue to do so as and when requested.  We are pleased to put this matter behind us and look forward to focusing our attention on re-building SoftPoint.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RENO, Nev."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

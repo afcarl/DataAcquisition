@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135700" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: TENNIS-QUEBEC CITY WOMEN'S RESULTS.</title>
+<headline>TENNIS-QUEBEC CITY WOMEN'S RESULTS.</headline>
+<dateline>QUEBEC CITY 1996-10-22</dateline>
+<text>
+<p>Results from the $164,250</p>
+<p>Bell Challenge women's tennis tournament on Tuesday (Prefix</p>
+<p>number denotes seeding):</p>
+<p>First round</p>
+<p>2-Elena Likhovtseva (Russia) beat Rennae Stubbs (Australia)</p>
+<p>6-3 7-5</p>
+<p>4-Kimberly Po (U.S.) beat Corina Morariu (U.S.) 6-2 6-0</p>
+<p>Jolene Watanabe (U.S.) beat 7-Nana Miyagi (Japan) 4-6 6-1 6-4</p>
+<p>Katrina Adams (U.S.) beat Jeri Ingram (U.S.) 7-6 (7-2) 6-3</p>
+<p>Tami Whitlinger-Jones (U.S.) beat Tina Krizan (Slovakia) 6-4</p>
+<p>6-4</p>
+<p>Anne Miller (U.S.) beat Paola Suarez (Argentina) 6-0 7-6</p>
+<p>(7-0)</p>
+<p>Haruka Inoue (Japan) beat Sonya Jeyaseelan (Canada) 6-4 6-2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUEBEC CITY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

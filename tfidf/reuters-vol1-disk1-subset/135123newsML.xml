@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135123" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS - Pasminco 1st qtr below year earlier.</title>
+<headline>RTRS - Pasminco 1st qtr below year earlier.</headline>
+<dateline>MELBOURNE 1996-10-22</dateline>
+<text>
+<p>Australian lead and zinc miner Pasminco Ltd said on Tuesday that its first quarter results were below results for the same period a year earlier.</p>
+<p>&quot;In the first quarter, our result - financial performance - is below last year because of the impact of the (Australian) dollar,&quot; chief executive David Stewart told reporters after the annual meeting.  </p>
+<p>For every one cent rise in the value of the Australian dollar against the greenback, Pasminco suffers a A$7.5 million fall in after-tax profit, Stewart said.</p>
+<p>The Australian dollar on average was five cents stronger in the first quarter of 1996/97 than its average for all of 1995/96, he added.</p>
+<p>Stewart declined to quantify the fall in first-quarter profit compared with last year, but said cost cutting and higher productivity had partially offset the impact of the firmer local currency during the period.</p>
+<p>&quot;We are going to have a diffcult year,&quot; he said.  </p>
+<p>Pasminco reported a net profit after abnormals of A$40.8 million for the year to June 30, up from A$12.2 million a year earlier.</p>
+<p>-- Melbourne bureau 613.9286-1421</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

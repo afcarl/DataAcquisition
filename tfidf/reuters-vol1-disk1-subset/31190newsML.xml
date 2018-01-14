@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31190" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: FORECAST - Consensus on UK company results.</title>
+<headline>FORECAST - Consensus on UK company results.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Analysts' estimates of UK company results expected in week ending September 6 include -</p>
+<p>COMPANY----------------PFT/DIV/EPS--CONSENSUS----RANGE-------PVS WEDNESDAY, September 4</p>
+<p>Cadbury	   I	   PFT	  227.0   218.0-232.0   206.0</p>
+<p>Schweppes		     DIV	    5.1     5.1-5.2	 4.9</p>
+<p>THURSDAY, September 5</p>
+<p>Vickers Plc     I	   PFT	  32.4     29.0-41.0     27.0</p>
+<p>				  DIV	   2.8	2.5-2.8	 2.4</p>
+<p>AMEC Plc	  I	   PFT	  12.1     12.0-12.5	6.1</p>
+<p>				  DIV	  1.75	1.6-1.75	1.5</p>
+<p>Royal Sun	 I   ***   PFT	  381.5   350.0-435.0   500.0</p>
+<p>Alliance			DIV	  n/a	6.25-6.5	 5.9</p>
+<p>FRIDAY, September 6</p>
+<p>Schroders Plc   I	   PFT	  115.0   106.0-125.0    85.6</p>
+<p>				  DIV	    5.0     5.0-6.0	 4.5</p>
+<p>NOTES</p>
+<p>** The Burmah Castrol estimates are for clean net income and</p>
+<p>exclude 20.0 million stg gains from sales of fuels</p>
+<p>businesses.</p>
+<p>*** The Royal Sun Alliance forecasts exclude merger costs.</p>
+<p>All profit figures are pretax, exclude exceptional items</p>
+<p>unless otherwise stated and are in millions stg. Dividends</p>
+<p>are total net and quoted as pence per share.</p>
+<p>John Sutherland, London Newsroom +44 171 542 7945</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

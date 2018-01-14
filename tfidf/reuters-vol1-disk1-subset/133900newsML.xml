@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133900" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Clinton campaign rejects request to drop Reagan ad.</title>
+<headline>Clinton campaign rejects request to drop Reagan ad.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>The Clinton campaign on Tuesday rejected a request from Nancy Reagan to stop running a television advertisement that shows the assassination attempt against her husband.</p>
+<p>&quot;Certainly you would agree, I hope, that this horrible re-enactment stretches even the minimum levels of civility on current political advertising,&quot; Mrs. Reagan said in a letter to President Bill Clinton made public on Tuesday by the Republican National Committee.</p>
+<p>She asked Clinton to stop running ads that show the scene outside a Washington hotel in 1981 when Reagan was shot by a gunman.</p>
+<p>&quot;As a matter of decency, I would request that you remove the replays of the attempt on my husband's life in the &quot;Clinton for President&quot; ads currently being shown on national television,&quot; she wrote.</p>
+<p>Former Reagan press spokesman, James Brady, was badly wounded in the assassination attempt and has endorsed Clinton because of the president's stand on gun control. He also appears in the ads.</p>
+<p>Clinton was told of the letter during a campaign stop in Michigan on Monday.</p>
+<p>Campaign spokesman Joe Lockhart told reporters that the campaign decided against withdrawing the advertisement after consulting Brady and his wife Sarah, who felt it was appropriate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32345" id="root" date="1996-09-04" xml:lang="en">
+<title>ITALY: Omnitel has 500,000 GSM users by end-Aug.</title>
+<headline>Omnitel has 500,000 GSM users by end-Aug.</headline>
+<dateline>MILAN 1996-09-04</dateline>
+<text>
+<p>Italy's information technology group Olivetti said its 41.3 percent-owned Omnitel mobile telephone consortium had increased the number of subscribers to its GSM network up to 500,000 by the end of August.</p>
+<p>The group's chief executive Francesco Caio told an analysts conference call that Omnitel had seen explosive growth in its subscriber base to 500,000 by the end of August from 300,000 at the end of June.</p>
+<p>Omnitel launched its digital GSM mobile telephone network in December 1995 in competition to state-controlled Telecom Italia Mobile (TIM).</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

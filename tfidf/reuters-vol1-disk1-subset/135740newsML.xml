@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135740" id="root" date="1996-10-23" xml:lang="en">
+<title>GERMANY: SOCCER-BECKENBAUER WORRIED ABOUT CASH IN ENGLISH GAME.</title>
+<headline>SOCCER-BECKENBAUER WORRIED ABOUT CASH IN ENGLISH GAME.</headline>
+<dateline>BONN 1996-10-23</dateline>
+<text>
+<p>Franz Beckenbauer is worried the influx of cash in the English game could destroy the international market for players.</p>
+<p>Lucrative new television deals have given English league clubs extra money to buy top players. Several -- most notably Manchester United -- have increased their spending power further by raising funds on the London stock market.</p>
+<p>In contrast, none of the big German clubs have gone public and continue to rely on fans, sponsors and television deals for their income.</p>
+<p>In an interview with the German magazine Sport Bild, Bayern Munich chairman Beckenbauer said: &quot;(The English clubs) can do more because many of the clubs can go to the stock exchange to get capital and protect themselves.</p>
+<p>&quot;This puts up the prices (for players) internationally. The players go where they can earn the most...The Italians will catch up. Spain and Germany have reached the Italian level.</p>
+<p>&quot;Everywhere you look the prices are going up. One day the whole market will collapse.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

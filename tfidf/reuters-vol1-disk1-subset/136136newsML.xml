@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136136" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: American Bankers Insurance Q3 net shr $1.00.</title>
+<headline>American Bankers Insurance Q3 net shr $1.00.</headline>
+<dateline>MIAMI 1996-10-23</dateline>
+<text>
+<p>Quarter Ended   Nine Months Ended</p>
+<p>					 Sept. 30,	   Sept. 30,</p>
+<p>					 1996    1995     1996     1995</p>
+<p>Income before realized</p>
+<p>investment gains (losses)</p>
+<p>  and income taxes	    $31,434 $24,592  $91,555  $69,842</p>
+<p>Realized investment gains</p>
+<p>  (losses)			    263     495    6,284    (707)</p>
+<p>Income before income</p>
+<p>  taxes			    31,697  25,087   97,839   69,135</p>
+<p> Income tax expense	     9,060   6,403   29,506   19,532</p>
+<p> Net income			22,637  18,684   68,333   49,603</p>
+<p>The following is a breakdown of operating income and realized investment gains (losses), net of taxes:</p>
+<p>(in thousands except per common share data)</p>
+<p>				    Quarter Ended   Nine Months Ended</p>
+<p>					 Sept. 30,	   Sept. 30,</p>
+<p> Primary			     1996    1995     1996     1995</p>
+<p> Net operating income	 $21,208 $18,362  $62,990  $50,062</p>
+<p>Net realized investment   gains (losses)		    171     322    4,085    (459)</p>
+<p> Adjusted net income	   21,379  18,684   67,075   49,603</p>
+<p>Dividends on preferred</p>
+<p>  stock			     1,258		1,258</p>
+<p> Net Income as reported	22,637  18,684   68,333   49,603</p>
+<p>Primary per share data:</p>
+<p>  Operating income		 1.02     .88     3.03     2.41</p>
+<p>Net realized investment</p>
+<p>   gains (losses)		    --     .02	.20    (.02)</p>
+<p>  Adjusted net income	    1.02     .90     3.23     2.39</p>
+<p>Weighted average shares</p>
+<p>   outstanding		   20,887  20,864   20,771   20,722</p>
+<p>Fully diluted:</p>
+<p>  Net operating income	 22,523  18,427   64,419   50,257</p>
+<p>Net realized investment</p>
+<p>   gains (losses)		   171     322    4,085    (459)</p>
+<p>Interest on convertible</p>
+<p>   debentures			(57)    (65)    (171)    (195)</p>
+<p>  Net income as reported     22,637  18,684   68,333   49,603</p>
+<p>Fully diluted per share data:</p>
+<p>  Net operating income	   1.00     .88     2.99     2.41</p>
+<p>Net realized investment</p>
+<p>   gains (losses)		    --     .02	.19    (.02)</p>
+<p>  Net Income			 1.00     .90     3.18     2.39</p>
+<p>Weighted average shares</p>
+<p>   outstanding		   22,647  20,887   21,541   20,821</p>
+<p>(in thousands)</p>
+<p>Note: Full company name is American Bankers Insurance Group Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

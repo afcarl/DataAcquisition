@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133187" id="root" date="1996-10-22" xml:lang="en">
+<title>CZECH REPUBLIC: Direct equity trades on the Czech PSE - Oct 22.</title>
+<headline>Direct equity trades on the Czech PSE - Oct 22.</headline>
+<dateline>PRAGUE 1996-10-22</dateline>
+<text>
+<p>The following is a list of direct equity trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p>				  pct	  pct	     (CZK 000's)</p>
+<p> AGB, PODILOVY FOND	555.00    555.00	8521    4729.155</p>
+<p> ATESO			 585.00    585.00	2000    1170.000</p>
+<p> BOHEMIA SEKT	     4000.00   4000.00	 188     752.000</p>
+<p> CESKA SPORITELNA	  349.00    349.00     42000   14658.000</p>
+<p> CEZ			  1014.00   1022.88     10100   10270.094</p>
+<p> CEZ 2			 840.00    858.50	6000    5086.530</p>
+<p> CKD PRAHA HOLDING	 430.00    470.00     29970   13797.829</p>
+<p> COKOLADOVNY		3380.00   3405.00     11846   40202.903</p>
+<p> DAEWOO AVIA		 247.00    247.00     11742    2900.274</p>
+<p> FAB			  3439.11   3439.11	 554    1905.267</p>
+<p> CHEMOPETROL GROUP	1194.00   1194.00	1200    1432.800</p>
+<p> IPB			   299.49    322.00     15000    4707.475</p>
+<p> IPS PRAHA		  3095.00   3095.00	4000   12380.000</p>
+<p> JIHOC. ENERGETIKA	2700.00   2700.00	 100     270.000</p>
+<p> KABLO KLADNO		905.00    910.00	1600    1452.000</p>
+<p> KAUCUK GROUP	     1134.30   1165.00     24200   27741.660</p>
+<p> KOMERCNI BANKA	   2190.00   2280.00     26500   58829.808</p>
+<p> KROMEXIM KROMERIZ	  85.00     85.00	2799     237.915</p>
+<p> LATER CHRUDIM	     215.00    215.00	2573     553.195</p>
+<p> LECIVA PRAHA	     2650.00   2650.00	1000    2650.000</p>
+<p> METROSTAV		  3102.36   3102.36     10000   31023.600</p>
+<p> MOSTECKA UH.SPOL.	 233.35    233.35	5450    1271.757</p>
+<p> NOVA HUT		    430.00    433.00	2000     863.000</p>
+<p> P.I.F.			255.04    256.00     10000    2555.200</p>
+<p> PIVOV.VRATISLAVICE     2800.00   2800.00	2000    5600.000</p>
+<p> POSTOREN. KER.ZAV.	230.00    230.00	7500    1725.000</p>
+<p> PRAZSKE PIVOVARY	 2450.00   2450.00	5000   12250.000</p>
+<p> RIF			   825.00    832.00	8459    6985.675</p>
+<p> SEPAP			1095.00   1100.00	4000    4390.000</p>
+<p> SEVEROC. DOLY	     650.00    710.00     10900    7388.300</p>
+<p> SEVEROC. PLYNAREN.     3000.00   3400.00	 400    1280.000</p>
+<p> SEVEROCES.TEPLARNY	694.00    694.00	4100    2845.400</p>
+<p> SOLNE MLYNY		 283.40    293.00	2659     771.407</p>
+<p> SPIF CESKY		  318.78    322.00	4000    1281.560</p>
+<p> SPIF VYNOSOVY	     142.60    144.53     52000    7496.260</p>
+<p> SPT TELECOM		3060.00   3175.00     60280  186466.483</p>
+<p> STREDOC. ENERGET.	1850.00   1850.00	 557    1030.450</p>
+<p> SKODA PLZEN		 957.12    957.12     30000   28713.750</p>
+<p> TRANSAKTA		   250.00    250.00	1836     459.000</p>
+<p> ZPS ZLIN		   1715.00   1773.32	6200   10866.300</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133796" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. says FBI investigating pornography e-mail.</title>
+<headline>U.S. says FBI investigating pornography e-mail.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>The Federal Bureau of Investigation said on Tuesday it is looking into an electronic mail message sent to thousands of Internet users offering child pornography for sale from a post office box in New York.</p>
+<p>&quot;Police departments and FBI offices around the country have received numerous reports relating to the e-mail message,&quot; the bureau said in a statement. &quot;The message is a hoax and the matter is being investigated.&quot;</p>
+<p>The messages appeared to come from two accounts at America Online Inc, R9ch and TipToe0001, and recipients around the world deluged the online service with complaints, the FBI said.</p>
+<p>America Online responded with a message stating that the accounts had been disconnected on Monday morning and the service's legal department was investigating.</p>
+<p>Hackers have in the past established bogus America Online accounts using stolen credit card numbers and the signup disks the service widely distributes by mail and in magazines.</p>
+<p>The e-mail message offered pictures, video and audio tapes, posters and games based on child pornography for sale with an address in the Jackson Heights section of New York City.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

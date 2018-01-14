@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133162" id="root" date="1996-10-22" xml:lang="en">
+<title>ROMANIA: Romania offers tax exemption for cars.</title>
+<headline>Romania offers tax exemption for cars.</headline>
+<dateline>BUCHAREST 1996-10-22</dateline>
+<text>
+<p>Romania has issued a quota worth $5 million to import tax-exempt cars until the end of the year, trade ministry officials said on Tuesday.</p>
+<p>&quot;We thought this would diversify the range of cars and bring more affordable automobiles to Romanians,&quot; Sorin Popescu, director of the trade ministry's licences and trade policy department said by telephone.</p>
+<p>Under the move, some 20 unspecified companies obtained licences to import catalyser-equipped petrol or diesel cars with a capacity of up to 3,000 cubic centimetres, he said.</p>
+<p>Popescu said the accord would cover some 400 cars imported free of a 30 percent import duty, or 24 percent for automobiles produced by European Union countries.</p>
+<p>The Romanian local market is split between the old-fashioned Dacia, produced by the state-owned carmaker  Automobile Dacia SA and the substantially more expensive Cielo made by South Korea's Daewoo Heavy Industries -- a big seller from 1995.</p>
+<p>The South Korean carmaker has bought a controlling stake in another Romanian state-owned carmaker Automobile Craiova and plans to make 75,000 cars a year, or half the local market.</p>
+<p>A Dacia car, an obsolete variant of the old Renault 12, costs around 17 million lei. ($=3,311 lei)</p>
+<p>-- Bucharest newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

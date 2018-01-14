@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132821" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE CUP THIRD ROUND RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE CUP THIRD ROUND RESULTS.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Results of English Football League</p>
+<p>Cup third round matches on Tuesday:</p>
+<p> Blackburn	0     Stockport	 1</p>
+<p> Bolton	   2     Chelsea	   1</p>
+<p> Gillingham     2     Coventry	  2</p>
+<p> Ipswich	  4     Crystal Palace  1</p>
+<p> Port Vale	0     Oxford	    0</p>
+<p> Wimbledon	1     Luton	     1</p>
+<p> York	     0     Leicester	 2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

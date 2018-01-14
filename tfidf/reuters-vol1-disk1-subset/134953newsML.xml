@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134953" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: UNHCR worried about worsening situation in Zaire.</title>
+<headline>UNHCR worried about worsening situation in Zaire.</headline>
+<dateline>GENEVA 1996-10-22</dateline>
+<text>
+<p>The United Nations refugee agency UNHCR expressed concern on Tuesday about the safety of tens of thousands of refugees in eastern Zaire and warned that the worsening situation could become a new humanitarian disaster.</p>
+<p>Spokesman Ron Redmond, speaking to a news briefing, also said the U.N. High Commissioner for Refugees hoped that 54 stranded foreign aid workers, including eight UNHCR staff, could be evacuated from the eastern Zairean town of Uvira.  </p>
+<p>&quot;They (the aid workers) are for the most part now confined to our office there as we try to figure out some way of getting them out. We are extremely concerned about not only their safety but the fate of tens of thousands of innocent refugees,&quot; Redmond said.</p>
+<p>Most of the 222,000 Rwandan and Burundian refugees who left the 12 camps in the Uvira region over the weekend remain in the surrounding hills. But the UNHCR has unconfirmed reports of several thousand refugees on the road heading toward Bukavu, according to Redmond.</p>
+<p>&quot;The situation has now deteriorated to such an extent that we are almost back to an emergency phase like we were facing in 1994,&quot; Redmond said, referring to the massive exodus following genocide in Rwanda.</p>
+<p>&quot;We appeal to all sides to step back from the brink of what now threatens to become a very real humanitarian disaster in a region that has already suffered enough,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20820" id="root" date="1996-08-29" xml:lang="en">
+<title>NETHERLANDS: Banking drives 21 pct rise in Fortis net profit.</title>
+<headline>Banking drives 21 pct rise in Fortis net profit.</headline>
+<dateline>UTRECHT, Netherlands 1996-08-29</dateline>
+<text>
+<p>Dutch-Belgian financial group Fortis reported a 21 percent rise in first-half net profit on Thursday which was mainly driven by a strong rise in earnings from banking.</p>
+<p>The group's overall net profit rose to 366 million European currency units (ECU) ($466 million) from 302 million.</p>
+<p>First-half operating profit for the group's banking business rose 27 percent to 258 million ECU while operating profits from insurance rose 14 percent to 348 million ECU.</p>
+<p>Fortis -- jointly owned by Fortis AMEV of the Netherlands and Fortis AG of Belgium -- said the rise in profits was mainly attributable to operations in its twin home markets.</p>
+<p>With the exception of accident and health insurance, all sectors in which Fortis operates contributed to the profit rise.</p>
+<p>Fortis said the sharp rise in banking profits was partly due to relatively low banking profits in the first half of 1995.</p>
+<p>It said that in the second half of this year it did not expect to equal the exceptionally high banking profits achieved in the same period of 1995. But it added that its insurance business would post a further increase in profits.</p>
+<p>Fortis said it expected net profit for the whole of 1996 to rise at least 10 percent while the two parent companies expect full-year earnings per share to rise at least seven percent. ($ = 0.785 European Currency Unit ECUs)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UTRECHT, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136000" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Century Aluminum Q3 loss.</title>
+<headline>Century Aluminum Q3 loss.</headline>
+<dateline>PACIFIC GROVE, Calif. 1996-10-23</dateline>
+<text>
+<p>(In Millions, Except Per Share Amounts)</p>
+<p>				(Unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					 September 30,  September 30,</p>
+<p>					   1996    1995     1996   1995</p>
+<p> NET SALES			    $156.6 $171.6   $504.0 $557.9</p>
+<p> COST OF GOODS SOLD		  154.2  156.7    469.4  478.3</p>
+<p>SELLING, GENERAL AND</p>
+<p>   ADMINISTRATIVE EXPENSES   .3.9     3.0	 11.2	9.8</p>
+<p> OPERATING INCOME (LOSS)	   (1.5)   11.9     23.4   69.8</p>
+<p> INTEREST INCOME (EXPENSE) - NET  (0.9)   (0.7)  (1.0)   (5.3)</p>
+<p> OTHER INCOME (EXPENSE)	     ----    3.3    (0.1)    3.3</p>
+<p> NET GAIN ON FORWARD CONTRACTS    ----  -----     ----    9.5</p>
+<p>INCOME (LOSS) FROM</p>
+<p>CONTINUING OPERATIONS</p>
+<p>   BEFORE INCOME TAXES	     (2.4)   14.5     22.3   77.3</p>
+<p> INCOME TAX EXPENSE (BENEFIT)    (0.9)    5.7	8.5   30.6</p>
+<p> INCOME (LOSS) FROM CONTINUING   (1.5)    8.8     13.8   46.7</p>
+<p>OPERATIONS</p>
+<p>INCOME FROM DISCONTINUED</p>
+<p>OPERATIONS -</p>
+<p>   Net of income taxes	     -----    1.5	0.3    6.1</p>
+<p> NET INCOME (LOSS)		  ( 1.5)   10.3     14.1   52.8</p>
+<p>EARNINGS (LOSS) PER COMMON</p>
+<p>SHARE:</p>
+<p>Income (Loss) from</p>
+<p>   continuing operations	 ( 0.07)   0.38     0.66   2.02</p>
+<p>Income from discontinued</p>
+<p>   operations			  -----   0.07     0.01   0.27</p>
+<p> Net Income (Loss)		 ( 0.07)   0.45     0.67   2.29</p>
+<p>WEIGHTED AVERAGE COMMON</p>
+<p>   SHARES OUTSTANDING (000s)   20,104  23,120  21,102  23,120</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PACIFIC GROVE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

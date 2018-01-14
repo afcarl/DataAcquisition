@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132825" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: RUGBY UNION-TALKS BETWEEN RFU AND ENGLISH CLUBS BREAK DOWN.</title>
+<headline>RUGBY UNION-TALKS BETWEEN RFU AND ENGLISH CLUBS BREAK DOWN.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Talks between the English Rugby Football Union (RFU) and EPRUC, the body representing senior club sides, ground to a halt on Tuesday, raising the prospect of an irreparable split.</p>
+<p>Both parties in the long-running dispute said they planned to issue statements later but an RFU spokesman acknowledged the latest round of negotiations had ended &quot;in disagreement&quot;.</p>
+<p>The failure to find common ground could result in EPRUC, which represents the 24 teams in the first and second divisions of the English league, breaking away from the union.</p>
+<p>It could also affect England international matches. EPRUC has already forced the cancellation of two recent England squad sessions by urging players not to attend.</p>
+<p>At the centre of the dispute is EPRUC's insistence on a far greater say in running competitions and also demanding an increased share of money stemming from internationals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

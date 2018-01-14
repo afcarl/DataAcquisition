@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31834" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Mexico slaps tariffs on U.S. ammonium sulphate.</title>
+<headline>Mexico slaps tariffs on U.S. ammonium sulphate.</headline>
+<dateline>MEXICO CITY 1996-09-04</dateline>
+<text>
+<p>Mexico has placed variable tariffs on imports from the United States of ammonium sulphate for alleged dumping of the product, the government's Official Gazettee published Wednesday.</p>
+<p>The gazette said the tariffs, whose levels depend on the import price, are the result of a preliminary investigation into imports of the product from the United States.</p>
+<p>The government was petitioned by Mexican fertilizer producers to look into alleged dumping of imports at prices below production cost or at prices below sales in the United States.  </p>
+<p>The gazette said the tariffs applied to ammonium sulphate imported from the U.S., irrespective of where it was originally produced.</p>
+<p>&quot;Imports of ammonium sulphate...coming from the United States, independent of where they were produced, whose prices are below the average normal price of $97.18 per tonne, will pay a compensatory tariff that is the difference between the export price of the goods and the average normal price,&quot; the gazette said.</p>
+<p>It added that export price will be considered the &quot;ex-works&quot; price of the ammonium sulphate.</p>
+<p>&quot;The amounts of the compensatory tariffs, determined by the above formula, will not be above the ceiling of 57.91 percent,&quot; the government's gazette added.  </p>
+<p>It added that U.S. imports of ammonium sulphate which are at the average normal value, or above it, will not be subject to import duties.</p>
+<p>Mexican fertilizer companies  Agrogen SA,  Fertilizantes Guadalajara SA and  Fertirey SA first requested the anti-dumping investigation in June 1995.</p>
+<p>U.S. exporters named in the dumping suit are Allied Signal Inc, BASF Corp, a U.S. subsidiary of BASF AG, DBA Chemicals Entreprises,  DSM Chemicals North America Inc and  Zipp Enterprises.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133403" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: Brazil authorizes Rio port to rent dock space.</title>
+<headline>Brazil authorizes Rio port to rent dock space.</headline>
+<dateline>BRASILIA 1996-10-22</dateline>
+<text>
+<p>Brazil's National Privatization Council authorized the Rio de Janeiro Docks Company to begin renting out around 50 areas in five ports in the state as part of an ongoing port privatization drive, a minister said.</p>
+<p>Planning Minister Antonio Kandir told reporters he expected private companies would invest around $500 million in Rio's ports to upgrade the areas they rent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

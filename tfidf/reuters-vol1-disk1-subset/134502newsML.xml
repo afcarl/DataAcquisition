@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134502" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Antec Corp Q3 net profit.</title>
+<headline>Antec Corp Q3 net profit.</headline>
+<dateline>ROLLING MEADOWS, Ill. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr profit		 $0.26     loss	 $0.52</p>
+<p> Net profit		 6,098     loss	11,928</p>
+<p> Revs		     157,956		  165,520</p>
+<p> Avg shrs		  23,432		   22,904</p>
+<p>(All Data Above 000s Except Per Share Numbers)  </p>
+<p>	   9 MONTHS</p>
+<p> Shr profit		 $0.50     loss	 $0.28</p>
+<p> Net profit		11,666     loss	 6,452</p>
+<p> Revs		     483,132		  489,699</p>
+<p> Avg shrs		  23,486		   23,018</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE:  1996 Q3 net and shr include one-time gain of $3.8 million, or $0.10/shr, on sale of Canadian distribution business. 1995 Q3 net includes one-time charge of $21.7 million on reorganization.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROLLING MEADOWS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

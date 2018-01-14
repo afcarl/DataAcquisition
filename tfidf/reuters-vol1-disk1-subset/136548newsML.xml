@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136548" id="root" date="1996-10-23" xml:lang="en">
+<title>ALBANIA: Ungrateful beggar brings old Albanian proverb to life.</title>
+<headline>Ungrateful beggar brings old Albanian proverb to life.</headline>
+<dateline>TIRANA 1996-10-23</dateline>
+<text>
+<p>An Albanian man faces trial for attacking a beggar who stoned his house after spurning the food he was given, a newspaper said on Wednesday.</p>
+<p>Hasan Hasani, an ethnic Albanian Yugoslav, was eating with his family when a man knocked on his door begging for food, Gazeta Shqiptare daily reported.</p>
+<p>Taking pity, Hasani gave the beggar half a loaf of bread and some sausage. But the beggar returned moments later and started hurling stones at Hasani's house.</p>
+<p>Hasani seized a bread knife and attacked the beggar, apparently in defence. He will appear in court in a case that exactly fits an old Albanian proverb: &quot;I give you bread and you repay me with stones.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13326" id="root" date="1996-08-25" xml:lang="en">
+<title>NORWAY: Two Britons detained in Norway in Statoil case.</title>
+<headline>Two Britons detained in Norway in Statoil case.</headline>
+<byline>Fiona Smith</byline>
+<dateline>STAVANGER, Norway 1996-08-25</dateline>
+<text>
+<p>Two Britons working in the North Sea offshore oil industry have been detained on suspicion of corruption involving Norway's state-owned company Statoil, Norwegian police said on Sunday.</p>
+<p>Police said one suspect was a Statoil construction manager and the other a manager with offshore consultancy firm Idavoll. Neither was named, in keeping with the Norwegian practice of not identifying suspects until convicted.</p>
+<p>&quot;We can confirm that on Friday morning we arrested two British citizens...on suspicion of irregularities in business dealings involving the state oil company Statoil,&quot; a police statement said.</p>
+<p>Stavanger assistant chief police Tore Soldal told reporters the Idavoll director was due to appear before magistrates in Stavanger on Monday, where he was expected to be remanded in custody while the investigation continued.</p>
+<p>The manager for Statoil, formally Den norske stats oljeselskap AS, had agreed at the weekend to be remanded in custody for up to 14 days, he said.</p>
+<p>Asked to confirm Stavanger press reports the Statoil man was suspected of accepting 750,000 Norwegian crowns ($115,000) from Idavoll, Soldal told a news conference: &quot;It is in that region&quot;.</p>
+<p>The national news agency NTB quoted Statoil spokesman John Ove Lindoe as saying Statoil had used Idavoll's services since 1988 and had awarded it contracts worth 79 million Norwegian crowns ($12 million).</p>
+<p>Norway pumps three million barrels of oil per day and is the world's second largest oil exporter after Saudi Arabia. Norway is also a major player in offshore natural gas production.</p>
+<p>Soldal, who said the probe had been going on for nearly a year, said in response to questions a bank account into which alleged bribes were paid was in the Channel Island of Guernsey.</p>
+<p>The police statement said the manager with Idavoll, a firm at Sandnes near Stavanger, Norway's oil and gas capital, was &quot;suspected of corrupt business practices&quot;.</p>
+<p>It said flats and office premises in the Stavanger area had been searched and that British police had cooperated with Stavanger police in the investigation. No details were given.</p>
+<p>It was the second such case to hit Statoil in the last few years. In 1995 a former Statoil engineer was sentenced to two years in prison by a Norwegian court after being found guilty of accepting bribes from German engineering firm Mannesmann Handel AG.</p>
+<p>($1=6.440 Norwegian Crown)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAVANGER, Norway"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

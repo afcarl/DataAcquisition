@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31375" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: TENNIS-WEDNESDAY'S RESULTS FROM THE U.S. OPEN.</title>
+<headline>TENNIS-WEDNESDAY'S RESULTS FROM THE U.S. OPEN.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Results from the U.S. Open Tennis Championships at the National Tennis Centre on Wednesday (prefix number denotes seeding):</p>
+<p>Women's singles, quarter-finals</p>
+<p>1-Steffi Graf (Germany) beat Judith Wiesner (Austria) 7-5 6-3  </p>
+<p>Men's singles, quarter-finals</p>
+<p>2-Michael Chang (U.S.) beat Javier Sanchez (Spain) 7-5 6-3 6-7 (2-7) 6-3</p>
+<p>Women's doubles, quarter-finals</p>
+<p>2-Gigi Fernandez (U.S.) and Natasha Zvereva (Belarus) beat Sonya Jeyaseelan and Rene Simpson (Canada) 6-3 6-7 (6-8) 6-2  </p>
+<p>Women's singles, quarter-finals 16-Martina Hingis (Switzerland) beat 7-Jana Novotna (Czech Republic) 7-6 (7-1) 6-4</p>
+<p>Mixed doubles, semifinals</p>
+<p>3-Lisa Raymond and Patrick Galbraith (U.S.) beat Rachel McQuillan and David Macpherson (Australia) 6-3 3-6 6-4  </p>
+<p>Men's singles, quarter-finals</p>
+<p>6-Andre Agassi (U.S.) beat 3-Thomas Muster (Austria) 6-2 7-5</p>
+<p>4-6 6-2</p>
+<p>Men's doubles, quarter-finals</p>
+<p>13-Mark Philippoussis (Australia)-Patrick Rafter (Australia)</p>
+<p>beat Henrik Jan Davids (Netherlands)-Sjeng Schalken</p>
+<p>(Netherlands) 6-3 6-4</p>
+<p>Mixed doubles, semifinals</p>
+<p>4-Manon Bollegraf (Netherlands)-Rick Leach (U.S.) beat</p>
+<p>Martina Hingis (Switzerland)-Christo Van Rensburg (South</p>
+<p>Africa) 5-7 6-4 7-5</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31732" id="root" date="1996-09-04" xml:lang="en">
+<title>HUNGARY: Hungary O/N rates up as market awaits repo cut.</title>
+<headline>Hungary O/N rates up as market awaits repo cut.</headline>
+<dateline>BUDAPEST 1996-09-04</dateline>
+<text>
+<p>Hungary's overnight rates finished higher as the market went short on expectations that the central bank will cut its reverse repo rate, traders said.</p>
+<p>&quot;Everybody is waiting for the reverse repo cut and I can imagine that everybody gave surplus money to the National bank of Hungary (in one-week or longer reverse repo deals), and this creates a little vacuum,&quot; Budapest Bank's Sandor Tolonics said.</p>
+<p>The overnight rates opened at 22.75 percent, traded on an illiquid buyer market, peaked at 23.25 percent and finished at around 23.00 percent, compared with Tuesday's close of 22.625 percent, dealers said.  </p>
+<p>They said the market's liquidity could also be low because the commercial banks usually need more cash in the first days of every month when wages are paid in Hungary.</p>
+<p>Dealers said the overnight rates may remain high if Wednesday's rise was mainly caused by expectations for the reverse repo rate cut.</p>
+<p>Traders have speculated about a probable reverse repo rate cut since the central bank reduced its base rate some two weeks ago.</p>
+<p>-- Sandor Peto, Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

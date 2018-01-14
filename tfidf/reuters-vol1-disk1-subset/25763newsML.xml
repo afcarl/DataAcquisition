@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25763" id="root" date="1996-08-31" xml:lang="en">
+<title>CANADA: SOCCER-CANADA BEAT PANAMA 3-1 IN WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-CANADA BEAT PANAMA 3-1 IN WORLD CUP QUALIFIER.</headline>
+<dateline>EDMONTON 1996-08-31</dateline>
+<text>
+<p>Canada beat Panama 3-1 (halftime 2-0) in their CONCACAF semifinal phase qualifying match for the 1998 World Cup on Friday.</p>
+<p>Scorers:</p>
+<p>Canada - Aunger (41st min, pen), Paul Peschisolido (42nd), Carlo Corrazin (87th)</p>
+<p>Panama - Jorge Luis Dely Valdes (50th)</p>
+<p>Attendance: 9,402</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDMONTON"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132551" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PG&amp;E lists four gas-fired plants to be sold.</title>
+<headline>PG&amp;E lists four gas-fired plants to be sold.</headline>
+<dateline>LOS ANGELES 1996-10-22</dateline>
+<text>
+<p>Pacific Gas and Electric Co (PG&amp;E) has decided which four power plants it will sell to meet state regulators' requirements that it divest 50 percent of its fossil-fueled generation assets, a company spokesman said Tuesday.</p>
+<p>The California natural-gas fired power plants are Hunter's Point in San Francisco, Morro Bay near San Luis Obispo, Moss Landing near Monterey and a plant in Oakland, said spokesman Tony Ledwell.</p>
+<p>The four units have a book value of $400 million.</p>
+<p>PG&amp;E would still own three fossil-fueled power plants.</p>
+<p>The divested plants represent half of PG&amp;E's total fossil-fueled generation capacity of around 6,300 MW, the company said.</p>
+<p>In addition to fossil-fueled generation, PG&amp;E owns and operates 114 hydroelectric units and 14 geothermal units with a combined capacity of nearly 5,200 MW and the Diablo Canyon nuclear plant with a capacity of just over 2,000 MW.</p>
+<p>Potential buyers for the gas-fired plants have not yet been identified, Ledwell said.</p>
+<p>PG&amp;E will file a final plan for divestiture with the California Public Utilities Commission in mid-November, he added.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

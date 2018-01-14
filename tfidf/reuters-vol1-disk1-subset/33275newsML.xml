@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33275" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: German call money eases after Buba repo injection.</title>
+<headline>German call money eases after Buba repo injection.</headline>
+<dateline>FRANKFURT 1996-09-04</dateline>
+<text>
+<p>German call money eased slightly in Wednesday trading after the Bundesbank injected additional funds into the money market at its weekly securities repurchase tender.</p>
+<p>Overnight funds were approaching three percent after trading near 3.10 percent on Tuesday, dealers said.</p>
+<p>The Bundesbank this morning injected 71.1 billion marks at a fixed three percent rate into the money market to replace a 69 billion mark repo pact expiring at a fixed 3.30 percent rate. Dealers said the Bundesbank had likely realised that there some liquidity tightness and acted accordingly.  </p>
+<p>Dealers said the step had helped money market conditions normalise again, bringing the rate closer to where it should be.</p>
+<p>Banks' holdings at the Bundesbank totalled 38.6 billion marks on Tuesday compared with 38.7 billion marks one day earlier.</p>
+<p>The monthly average eased slightly to 39.4 billion marks compared with 39.9 billion marks.</p>
+<p>Banks did not make any Lombard borrowings.</p>
+<p>The Frankfurt Interbank Overnight Average was set at 3.10433 percent compared with 3.14067 percent on Tuesday.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

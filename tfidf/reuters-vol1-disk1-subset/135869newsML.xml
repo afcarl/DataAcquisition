@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135869" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: OraVax Inc Q3 loss widens.</title>
+<headline>OraVax Inc Q3 loss widens.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-10-23</dateline>
+<text>
+<p>OraVax, Inc.</p>
+<p>	     Condensed Consolidated Statements of Operations</p>
+<p>				(unaudited)</p>
+<p>	     in thousands, except share and per share amounts</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				  September 30,     September 30,</p>
+<p>				1996     1995	 1996	  1995</p>
+<p> Research revenue     $2,005    $1,545     $5,647	$6,351</p>
+<p> Interest income	   396	 431	  960	   689</p>
+<p> Total revenue	   2,401     1,976	6,607	 7,040</p>
+<p>Research and development</p>
+<p>			     5,173     3,430     16,722	 8,889</p>
+<p>General and</p>
+<p>  administrative	   978	 722	2,797	 2,518</p>
+<p> Interest		    128	  23	  400	    65</p>
+<p> Total expense	   6,279     4,175     19,919	11,472</p>
+<p>Net loss from operations</p>
+<p>			   (3,878)   (2,199)   (13,312)     (4,432)</p>
+<p>Equity in joint venture</p>
+<p>			   (1,254)     (771)    (3,493)     (1,508)</p>
+<p> Net loss		(5,132)   (2,970)   (16,805)     (5,940)</p>
+<p>Preferred stock</p>
+<p>  accretion		  ---	 ---	  ---	 (108)</p>
+<p>Net loss to common</p>
+<p>  stockholders	 (5,132)   (2,970)   (16,805)     (6,048)</p>
+<p> Net loss per share   (0.52)    (0.39)     (2.00)	(1.77)</p>
+<p>Weighted average shares</p>
+<p>  outstanding	9,943,896 7,561,276  8,403,198   3,413,265</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135148" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian Stocks to Watch Today - Oct 22.</title>
+<headline>RTRS-Australian Stocks to Watch Today - Oct 22.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Some Australian stocks to watch this morning:</p>
+<p>* Foster's Brewing Group Ltd A$2.37 (-0.03)</p>
+<p>Fosters Brewing Group Ltd said its 40 percent owned Canadian brewer, Molson Breweries, had agreed to discuss a new licensing deal with Coors Brewing Co after a court ruling terminated their previous agreement. Foster's said it was too early to assess the financial ramifications of the ruling.</p>
+<p>*Australian National Industries A$1.22 (-0.02)</p>
+<p>Resolution of boardroom dispute at engineering group sees director Ross Palmer ousted but his ally Fred Smith retained. The dispute flared over an investigation of a subsidiary's acquisition of environmental engineering business, ABT.</p>
+<p>*Bank of Queensland A$5.48 (+0.03)</p>
+<p>The Courier Mail newspaper reported that the Queensland government would use its 44 percent stake in the bank to remove three former Suncorp directors from the bank's board.</p>
+<p>*Anaconda Nickel NL A$3.80 (+0.46)</p>
+<p>Nickel hopeful said on Monday it was conducting final negotiations with potential joint venture partners for its Murrin Murrin nickel proect in Western Australia, including negotiations with its major shareholder, Swiss metals house, Glencore AG.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

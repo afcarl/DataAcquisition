@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32608" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Fed asked to defer bank-brokerage &quot;firewall&quot; plan.</title>
+<headline>Fed asked to defer bank-brokerage &quot;firewall&quot; plan.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>A trade group representing securities firms asked the Federal Reserve Board Wednesday to defer action on proposals to ease &quot;firewalls&quot; between banks and their securities units until either the board or Congress addresses &quot;fundamental competitive issues.&quot;</p>
+<p>In a comment letter to the Fed, the Securities Industry Association said the board's proposals should be considered only if comprehensive restructuring and modernization of the nation's financial services industry were achieved.  </p>
+<p>Without such a restructuring the  proposals could give bank holding companies and their securities affiliates  &quot;substantial competitive advantages&quot; over other securities firms and and their units, it said.</p>
+<p>The adoption of the proposals could also have the unintended effect of preventing or significantly delaying the legislation or rule adoption that would comprehensively restructure the financial services industry, it added.  </p>
+<p>&quot;By providing competitive advantages to bank holding companies and their affiliates that are not available to other securities and financial services firms, the Board's actions actually could have the effect of decreasing competition,&quot; it said.  </p>
+<p>In June the House Banking Committee Chairman, James Leach, R-Iowa, abandoned efforts to repeal the Glass-Steagall Act, the Depression-era legislation that created barriers between banks and brokerage activities. But Leach recommended that the Fed raise the revenue limits on so-called Section 20 banking units.</p>
+<p>Still pending in Congress, SIA said, is an alternative legislative approach to modernize the financial services industry which is supported by an alliance of financial services companies.  </p>
+<p>The Fed proposals include one expanding the amount of securities underwriting that banks can conduct through special subsidiaries. That would be achieved by allowing a securities unit to increase revenue from underwriting and dealings in stocks and bonds to 25 percent, from 10 percent currently.</p>
+<p>Analysts believe the proposal would achieve what Congress has failed to do in aborted attempts to repeal of the Glass-Steagall Act.</p>
+<p>Another Fed proposal would ease restrictions on the employment of senior bank executives in Section 20 units and barriers in  marketing activities on behalf of such units. This proposal's net effect would encourage more banks to set up Section 20 subsidiaries, according to bankers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

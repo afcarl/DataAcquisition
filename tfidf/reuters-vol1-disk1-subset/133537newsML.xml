@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133537" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Manila SEC sets rules on backdoor listings.</title>
+<headline>Manila SEC sets rules on backdoor listings.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>The Philippine Securities and Exchange Commission (SEC) issued new rules on Tuesday to regulate the takeover of dormant listed companies through so-called &quot;backdoor listings.&quot;</p>
+<p>Several companies in recent years have simply taken over dormant firms listed on the Philippine Stock Exchange to secure a listing without going through the lengthy process of registration.</p>
+<p>The SEC said in a statement that companies which want to take over dormant or inactive corporations wiill have to make a tender offer to all stockholders of record at the same price being offered to major shareholders.</p>
+<p>A notice of the tender offer will have to published in a newspaper for two consecutive weeks.</p>
+<p>The SEC also ordered the PSE to revise its rules for companies to keep their listing on the exchange, setting such levels as a minimum number of trades or minimum corporate turnover.</p>
+<p>- Manila newsroom 63 2 841-8937 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

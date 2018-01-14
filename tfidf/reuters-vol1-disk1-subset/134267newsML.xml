@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134267" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan finance firm insolvency sparks jitters.</title>
+<headline>Japan finance firm insolvency sparks jitters.</headline>
+<dateline>TOKYO</dateline>
+<text>
+<p>A Japanese financing company filed for liquidation on Tuesday with massive debt liabilities of more than $8.8 billion, spurring worries about the health of other firms in the financial industry.</p>
+<p>The liability figure, which includes debt which Nichiei Finance has guaranteed, makes this the largest such insolvency case in Japan in the post-war period, one research firm said.</p>
+<p>Like Japan's failed housing loan firms, or &quot;jusen,&quot; Nichiei Finance has been hit by plummetting property prices since the bursting of Japan's 1980s &quot;bubble economy&quot; of inflated land and asset prices.</p>
+<p>The company, which is in the business of property-related financing and is classed in Japan as a non-bank financial institution, said it applied to a Yokohama court for creditor protection under Japan's bankruptcy laws and would try to save what it could of the business with the court's help.</p>
+<p>The news of the filing revived fears about the health of the Japanese financial industry, pushing down the stock prices of other such institutions.</p>
+<p>As of the end of September, Nichiei's outstanding borrowings totalled 170.89 billion yen ($1.52 billion) and the debts it had guaranteed totalled 820.65 billion yen ($7.32 billion), making a total of around 1 trillion yen ($8.9 billion).</p>
+<p>&quot;That makes the case the largest insolvency in the post-war era,&quot; an official at research institute Teikoku Databank Ltd, which specialises in bankruptcy data, said.</p>
+<p>The previous record was Muramoto Construction Co Ltd, which filed for court protection in November 1993 with debts of 590 billion yen ($5.26 billion), the Teikoku official said.</p>
+<p>On the stock market, shares of other non-bank institutions tumbled. &quot;Investors are afraid the Nichiei Finance liquidation will set off a chain reaction of liquidations in the non-bank sector, and no one wants to buy those shares,&quot; a trader at a second-tier brokerage said.</p>
+<p>But the Finance Ministry and one banking analyst said such fears of a ripple effect were unfounded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

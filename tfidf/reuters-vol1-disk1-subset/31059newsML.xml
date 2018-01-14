@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31059" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: BA passenger load factor falls in August.</title>
+<headline>BA passenger load factor falls in August.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>British Airways Plc said paying passenger traffic in August rose 5.7 percent, with capacity up 8.5 percent but the overall load factor was 78.4 percent -- down 2.1 percentage points on a year ago.</p>
+<p>Britain's national flag carrier said it had seen a rise in its all-important premium business and first class traffic of 9.8 percent in the month.</p>
+<p>Cargo traffic in August saw strong growth with cargo tonne kilometers up by 14 percent. The overall load factor for the month was 73.8 percent, down 0.2 percentage points on last year.  </p>
+<p>British Airways operating statistics August 1996 vs 1995</p>
+<p>Passengers carried (millions)</p>
+<p>UK/Europe - 1.946 vs 1.947 (down 0.1 pct)</p>
+<p>Intercontinental - 1.094 vs 1.032 (up 6.1 pct)</p>
+<p>Total - 3.040 vs 2.979 (up 2.0 pct)</p>
+<p>Traffic (millions Revenue Passenger Kilometres)</p>
+<p>UK/Europe - 1.746 vs 1.687 (up 3.5 pct)</p>
+<p>Intercontinental - 7.868 vs 7.405 (up 6.2 pct)</p>
+<p>Total - 9.613 vs 9.092 (up 5.7 pct)</p>
+<p>Capacity (millions Available Seat Kilometres)</p>
+<p>UK/Europe - 2,443 vs 2,298 (up 6.3 pct)</p>
+<p>Intercontinental - 9,813 vs 9,002 (up 9.0 pct)</p>
+<p>Total - 12,256 vs 11,300 (up 8.5 pct)</p>
+<p>Passenger load factor</p>
+<p>UK/Europe - 71.5 percent vs 73.4 percent</p>
+<p>Intercontinental - 80.2 percent vs 82.3 percent</p>
+<p>Total - 78.4 percent vs 80.5 percent</p>
+<p>Cargo - 305 million vs 268 million Cargo Tonne Kilometres</p>
+<p>-- London Newsroom + 44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

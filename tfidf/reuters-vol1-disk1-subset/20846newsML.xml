@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20846" id="root" date="1996-08-29" xml:lang="en">
+<title>AUSTRALIA: Aimless Australian stocks drift lower at open.</title>
+<headline>Aimless Australian stocks drift lower at open.</headline>
+<dateline>SYDNEY 1996-08-29</dateline>
+<text>
+<p>The Australian share market drifted lower at the open on Thursday, lacking any inspiration from offshore and with some mild profit-taking after Wednesday's strong close.</p>
+<p>In early trade, the All Ordinaries index slipped 6.6 points to be at 2,277.6. The September share index futures dipped two points to 2282 and was at a 4.4 point premium to the index.</p>
+<p>Brokers said they did not expect any real direction to emerge with little to inspire investors and with August series options expiring.</p>
+<p>&quot;I don't think it's going anywhere today,&quot; said a Sydney broker.</p>
+<p>&quot;We had a surprising run yesterday afternoon and now some people are taking profits.&quot;</p>
+<p>The broker suggested that among individual stocks, the leaders may see some to-ing and fro-ing as options close out.</p>
+<p>&quot;It's options expiry so you may see some of the leaders pushed around a bit later on,&quot; he said.</p>
+<p>Star performer early was gas utility AGL whose shares surged to a record high after reporting a 32 percent higher full year net profit of A$124.3 million.</p>
+<p>Falls outnumbered rises by a ratio of about five to four, while about 43 percent of stock traded remained steady.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

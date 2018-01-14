@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133048" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: JCI Ltd says Ghana exploration going well.</title>
+<headline>JCI Ltd says Ghana exploration going well.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>JCI Ltd said on Tuesday it was satisfied with exploration progress at Prestea, the gold mine it manages in Ghana.</p>
+<p>JCI gold and uranium chief executive officer John Brownrigg said at the company's September quarter results presentation that satisfactory progress was being made in a phased development programme which would see the mine fully taken over by JCI.</p>
+<p>&quot;Surface exploration is going well, we are getting very exciting results while production from underground is progressing better than expected,&quot; Brownrigg said.</p>
+<p>He declined to give exploration results, saying they would be released after JCI completed the second phase of the project development programme, which could be next year.</p>
+<p>&quot;The five-phase programme will eventually lead to a full takeover of ownership; we have management at this time,&quot; Brownrigg said.</p>
+<p>&quot;During the next few steps, we can decide whether we will take over ownership of the project,&quot; he said.</p>
+<p>Prestea, which has produced about 200 tonnes of gold since 1912, is a joint venture between JCI and Barnato Exploration Ltd (Barnex).</p>
+<p>Brownrigg said funding would be needed if a big open-cast gold-mining operation was to be developed at Prestea. &quot;If we develop a big surface operation there, it will have to be funded.&quot;</p>
+<p>-- Marius Bosch, Johannesburg newsroom, +27-11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32703" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Staples talks began 3 weeks ago - Office Depot CEO.</title>
+<headline>Staples talks began 3 weeks ago - Office Depot CEO.</headline>
+<dateline>BOSTON 1996-09-04</dateline>
+<text>
+<p>Office Depot Inc Chief Executive David Fuente said the office products company had held merger talks with rival Staples Inc for 10 years, but serious discussions began only three weeks ago.</p>
+<p>When asked if Office Depot insiders knew of the talks when they reportedly bought more than 100,000 shares of the company on July 6, Fuente said the discussions began in August at his urging at his home.</p>
+<p>&quot;There were no negotiations going on at that time,&quot; he said, referring to the date of the share purchases. &quot;I think the people that bought our stock bought post our earnings announcement and followed the procedures in place in our company.&quot;</p>
+<p>-- Michael Ellis, Boston bureau (617) 367-4176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

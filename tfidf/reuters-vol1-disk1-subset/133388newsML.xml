@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133388" id="root" date="1996-10-22" xml:lang="en">
+<title>EL SALVADOR: El Salvador sells disputed sugar to Puerto Rico.</title>
+<headline>El Salvador sells disputed sugar to Puerto Rico.</headline>
+<dateline>SAN SALVADOR 1996-10-22</dateline>
+<text>
+<p>El Salvador sold 6,000 tonnes of refined sugar to Puerto Rico Tuesday for $2.3 million, an official from the National Sugar Association told Reuters.</p>
+<p>Alfredo Ungo, deputy manager of the association, said the sugar was rerouted from Venezuela where it had originally been destined. El Salvador and other Central American and Andean nations are currently in a sugar import dispute with Caracas.  </p>
+<p>Ungo confirmed the shipment was part of the 20,000 tonnes that had been contracted by Venezuela before Caracas slapped a temporary import ban on supplies from from El Salvador, Guatemala, Nicaragua, Colombia, Ecuador and Bolivia, claiming high domestic inventories.</p>
+<p>Ungo said the sugar sold to Puerto Rico makes up part of El Salvador's fixed general quota to the United States of 22,000 tonnes.</p>
+<p>A Salvadoran delegation traveled to Venezuela last week to put pressure on Caracas to lift the ban, arguing it was a measure to protect Venezuela's domestic sugar industry. They managed to persuade the Venezuelans to allow 6,000 tonnes of sugar in port to enter the country.</p>
+<p>Salvadoran sugar sources expect the Venezuelans to lift the ban totally in the second half of 1997. Salvadoran authorities want Caracas to implement a system of import quotas to alleviate the tension.</p>
+<p>&quot;Venezuela will perhaps move to implement a quotas system before lifting the embargo, although we continue hoping that the measure will be lifted because it affects us,&quot; said Carla Alfaro, executive director of the National Commission for Sugar Development.</p>
+<p>--Alberto Barrera, San Salvador bureau (503) 223-1394.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN SALVADOR"/>
+<dc element="dc.creator.location.country.name" value="EL SALVADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

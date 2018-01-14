@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31988" id="root" date="1996-09-04" xml:lang="en">
+<title>HONG KONG: JF Asia Select interim net down 81.5 pct.</title>
+<headline>JF Asia Select interim net down 81.5 pct.</headline>
+<dateline>HONG KONG 1996-09-04</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million US$ unless stated)</p>
+<p>    Shr (U.S. cents)	   0.1   vs 0.6</p>
+<p>    Dividend (U.S. cents)    nil   vs nil</p>
+<p>    Exceptional items	  nil   vs nil</p>
+<p>    Net			    0.105 vs 0.568</p>
+<p>    Turnover		     2.098 vs 2.065</p>
+<p>    Company name		 JF Asia Select Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - JF Asia Select is an investment company managed by Jardine Fleming Investment Management Ltd.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

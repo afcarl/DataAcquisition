@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132091" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: S&amp;P gives AA/AAr forex rating to NSW dual samurais.</title>
+<headline>S&amp;P gives AA/AAr forex rating to NSW dual samurais.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Standard &amp; Poor's (S&amp;P) said on Monday it had assigned an &quot;AA&quot; foreign currency rating to New South Wales Treasury Corp's yen/Australian dollar samurai bond issue worth 10 billion yen, which matures on October 25, 1999.</p>
+<p>S&amp;P said it had assigned an &quot;AAr&quot; foreign currency rating to NSW Treasury Corp's 15 billion yen dual-currency bonds maturing on October 25, 1999.</p>
+<p>The ratings on both bonds are constrained by the &quot;AA&quot; foreign currency sovereign rating on Australia, S&amp;P said.</p>
+<p>It added that the foreign currency rating outlook was positive.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132381" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: DSP Group sees Q4 revenue boost.</title>
+<headline>DSP Group sees Q4 revenue boost.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-22</dateline>
+<text>
+<p>DSP Group Inc said Tuesday it licensed its TrueSpeech products to Rockwell International Corp and expects net income of about $4.4 million from Rockwell in its fourth quarter.</p>
+<p>Earlier DSP reported a third quarter net loss of $263,000 or $0.03 a share, compared to profits of $2.49 million or $0.26 a share in the year-ago period.</p>
+<p>In the latest quarter DSP recorded a charge of $1.529 million for acquired in-process technology related to the acquisition of Aptel Ltd.</p>
+<p>DSP develops speech processing algorithms, telephony algorithms and digital signal processors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

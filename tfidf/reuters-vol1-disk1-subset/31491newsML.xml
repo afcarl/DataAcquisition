@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31491" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Tennis- Sampras thrashes Philippoussis in U.S. Open</title>
+<headline>Tennis- Sampras thrashes Philippoussis in U.S. Open</headline>
+<dateline>NEW YORK 1996-09-03</dateline>
+<text>
+<p>World number one Pete Sampras humbled Australia's Mark Philippoussis 6-3 6-3 6-4 in the fourth round of the U.S. Open on Tuesday.</p>
+<p>Philippoussis struggled from the outset, serving six double faults in his first two service games as his expected challenge to the American world number one failed to materialise.</p>
+<p>Sampras, who lost to Philippoussis in the Australian Open in January, moves into the quarter-finals.</p>
+<p>The American was rarely tested by the Melbourne teenager, who had been Australia's last remaining singles hope at Flushing Meadow.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

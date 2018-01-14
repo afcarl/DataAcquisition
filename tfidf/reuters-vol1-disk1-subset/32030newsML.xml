@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32030" id="root" date="1996-09-04" xml:lang="en">
+<title>IRAN: Iran accuses Iraq of ceasefire violations.</title>
+<headline>Iran accuses Iraq of ceasefire violations.</headline>
+<dateline>TEHRAN 1996-09-04</dateline>
+<text>
+<p>Iran has accused Iraq of violating the ceasefire that ended their 1980-88 war 21 times between the end of May and June 27, the official Iranian news agency IRNA said on Wednesday.</p>
+<p>Iran's representative to the United Nations, Kamal Kharrazi, alleged the violations in a letter to U.N. Secretary-General Boutros Boutros Ghali, the agency said.</p>
+<p>Violations included shooting towards Iranian territory, installing mortars and constructing observation posts, it said.</p>
+<p>It said Tehran also alleged shooting on June 16 on an Iranian post at the southern end of the Iran-Iraq border by &quot;anti-revolutionary elements&quot;, an apparent reference to the Iraq-based Mujahideen Khalq armed opposition group.</p>
+<p>Iran and Iraq regularly report violations of the U.N.-sponsored ceasefire which ended their eight-year war.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

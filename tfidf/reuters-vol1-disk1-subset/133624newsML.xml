@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133624" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CSCE cocoa ends tightly mixed, early rally fizzles.</title>
+<headline>CSCE cocoa ends tightly mixed, early rally fizzles.</headline>
+<text>
+<p>Traders said initial Ivory Coast arrivals may help them to better gauge the size of the West African cocoa crop. Uncertainty about the size of this season's crop has kept the market relatively rangebound, they said.</p>
+<p>Abidjan traders said weekly arrivals ahead of the season averaged around 5,000-6,000 tonnes, with the total since the beginning of October put at around 20,000 tonnes.</p>
+<p>Estimated arrivals by this time in the 1995/96 season ranged from 22,000 to 47,000 tonnes.</p>
+<p>In other news, ministers from producing countries meeting in Gabon on Tuesday finalized an agreement designed to cut world cocoa production by 90,000 tonnes in the next three years.</p>
+<p>The plan envisages cutting output by 15,000 tonnes in 1996/97, by 30,000 in 1997/98 and by 45,0000 in 1998/99.</p>
+<p>The 90,000-tonne cut was initiallly agreed at meetings in September of the International Cocoa Organization (ICCO).</p>
+<p>-- New York Commodities Desk +1 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

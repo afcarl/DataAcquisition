@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132813" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: ALPINE SKIING-TOMBA INJURED IN TRAINING FALL.</title>
+<headline>ALPINE SKIING-TOMBA INJURED IN TRAINING FALL.</headline>
+<dateline>TRENTO, Italy 1996-10-22</dateline>
+<text>
+<p>Italian Olympic and world Alpine skiing champion Alberto Tomba injured his left knee and right wrist on Tuesday while training on a glacier in northern Italy, his publicity agents said.</p>
+<p>They said in a statement that Tomba, training at Passo del Tonale, was thrown about five metres through the air.</p>
+<p>More detailed medical details were expected later and hospital treatment was not ruled out, they said.</p>
+<p>Tomba, who has considered retiring after winning two gold medals at the world championships in Spain last February, has said he intends to race fewer World Cup events this season before the 1997 world championships in Sestriere.</p>
+<p>The triple Olympic champion, who trains apart from other Italian skiers, had already ruled out the season-opening race on the glacier in Solden, Austria, at the weekend.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRENTO, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32878" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Supreme Intl sees record sales.</title>
+<headline>Supreme Intl sees record sales.</headline>
+<dateline>MIAMI 1996-09-04</dateline>
+<text>
+<p>Supreme International Corp said Wednesday that bookings for the second half of the year are at unprecedented levels which it expects to translate into record sales for the remainder of the year.</p>
+<p>Supreme designs, imports and markets fashion-oriented moderate and better men's and boys' sportswear.</p>
+<p>At a recent MAGIC trade show in Las Vegas, the company said the response to its full line was resoundingly positive.</p>
+<p>The company plans to develop a full line of complimentary products such as sweaters and shorts under the Grand Slam name. -- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

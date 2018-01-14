@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33099" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CBOT overnight Project A ag volume 1,222 contracts.</title>
+<headline>CBOT overnight Project A ag volume 1,222 contracts.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Chicago Board of Trade's Project A overnight agricultural contracts trading volume totaled 1,222 contracts, according to the CBOT.</p>
+<p>There were 161 wheat contracts, 513 corn, 517 soybean, 7 soymeal, 10 soyoil, and 14 oats futures contracts traded, along with one wheat call, 13 soybean call and one corn put option contract.</p>
+<p>The overnight trend for corn was down 2-3/4 to four cents per bushel, soybeans down 5 to 7-1/4 cents, wheat down four to 4-3/4 cents, soymeal down 90 cents a ton, soyoil steady to down 0.13 cent a lb, and oats down two to 2-3/4 cents per bushel.</p>
+<p>(Chicago newsdesk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25822" id="root" date="1996-08-31" xml:lang="en">
+<title>HUNGARY: STOLLWERCK UNIT SEES TARGET REACHABLE - NEWSPAPER.</title>
+<headline>STOLLWERCK UNIT SEES TARGET REACHABLE - NEWSPAPER.</headline>
+<dateline>BUDAPEST 1996-08-31</dateline>
+<text>
+<p>Stollwerck Budapest Kft, the Hungarian unit of the German chocolate maker Stollwerck AG, expects to produce 18,000 tonnes of sweets in the second half of 1996 and sees the annual production target of 30,000 tonnes of chocolate reachable, newspaper Nepszava said.</p>
+<p>In the sweet industry the first half of the year usually accounts for only 40 percent of annual sales and Stollwerck Budapest's sales were in harmony with this proportion, the daily newspaper reported on Saturday.</p>
+<p>Stollwerck Budapest was not hit by the declining demand in Hungary what the report attributed to new products launched on this market and to increasing sales of semi-finished products.</p>
+<p>In addition the company doubled its exports, the newspaper said, without giving figures. </p>
+<p>But it added that Stollwerck Budapest began to export to Switzerland in May besides its traditional export areas such as Poland, Russia, the Czech Republic, Romania and the Ukraine.</p>
+<p>-- Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

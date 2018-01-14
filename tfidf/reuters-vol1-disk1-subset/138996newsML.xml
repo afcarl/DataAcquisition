@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138996" id="root" date="1996-10-24" xml:lang="en">
+<title>SPAIN: SOCCER-ROMARIO NOT REJOINING FLAMENGO.</title>
+<headline>SOCCER-ROMARIO NOT REJOINING FLAMENGO.</headline>
+<dateline>VALENCIA, Spain 1996-10-24</dateline>
+<text>
+<p>Brazilian World Cup striker Romario will not now be rejoining Flamengo on loan, making a permanent move unlikely, a source at his Spanish club Valencia said on Thursday.</p>
+<p>The source said the Rio de Janeiro side had abandoned negotiations because of Valencia's insistence on an option to buy Savio, a promising Brazilian forward.</p>
+<p>Valencia will continue to negotiate with other clubs to secure a transfer for Romario, who has been repeatedly dropped by coach Luis Aragones because of a lack of match fitness.</p>
+<p>On Wednesday, Valencia had said Romario would return on loan to his former Brazilian club until June 30 next year.</p>
+<p>Romario is currently in Brazil, where he has spent 21 of his 78 days as a Valencia player.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALENCIA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

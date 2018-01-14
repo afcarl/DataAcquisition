@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32585" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S spot products edge up after API, diffs weaken.</title>
+<headline>U.S spot products edge up after API, diffs weaken.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>U.S. spot products prices were generally firmer in late afternoon dealings after the API reported what appeared to be seasonally normal changes in U.S. inventories last week.</p>
+<p>Industry sources said distillates firmed by about 0.10 cent a gallon and that gasoline climbed by about 0.35 cent from earlier assessments after API said stocks of the former rose by 3.2 million barrels and the supplies of the latter dropped 3.7 million.</p>
+<p>The distillate build included a 1.03 million barrels build of heating oil stocks on the East Coast, and reflected a rise in both output and imports on the week.</p>
+<p>But that still left supplies some 17.8 million, or 85 percent, under year-ago levels.</p>
+<p>Gasoline stock results reflected healthy consumption of coventional gasoline in the midcontinent region. But RFG stocks were mixed, with gulf coast supplies rising 750,000 barrels, while east coast stocks eased by 307,000.</p>
+<p>Earlier in the day, gasoline and distillate prices slipped tracking NYMEX. Prices flirted with gains for most of the session, but slumped late on news that Iraqi troops had pulled out of Kurdish regions of northern Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33303" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRALIA: RTRS - North spends A$2 mln after bird deaths.</title>
+<headline>RTRS - North spends A$2 mln after bird deaths.</headline>
+<dateline>SYDNEY 1996-09-04</dateline>
+<text>
+<p>Mining and forestry group North Ltd said on Wednesday it had committed A$2 million to improve the environmental performance of its Northparkes copper and gold mine after 2,700 birds died in the mine's tailings dam last year.</p>
+<p>The deaths of the birds occurred as a result of high levels of cyanide in the tailings dam, North said in a statement.</p>
+<p>Cyanide is no longer used at the mine, the company said.</p>
+<p>North said it was addressing key issues raised in an environmental audit released on Wednesday by the New South Wales state government.  </p>
+<p>&quot;Although the report confirms that environmental management of the Northparkes mine is of a high standard and generally conforms to best practice, the audit found that procedural faults led to the bird deaths,&quot; North said.</p>
+<p>&quot;We recognise that mistakes were made and we accept responsibility for these mistakes.&quot;</p>
+<p>North said that following the bird deaths, the company had committed A$2 million to alleviate the immediate problem and to fund longer-term problems.</p>
+<p>North holds an 80 percent interest in Northparkes. The rest is owned by Sumitomo Corp.  </p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

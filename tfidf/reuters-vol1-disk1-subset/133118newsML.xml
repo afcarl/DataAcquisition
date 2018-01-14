@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133118" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Poland welcomes Clinton's NATO expansion speech.</title>
+<headline>Poland welcomes Clinton's NATO expansion speech.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>Poland enthusiastically welcomed President Bill Clinton's declaration on Tuesday that the United States wanted NATO to recruit new members from former Soviet bloc countries by 1999.</p>
+<p>&quot;I greeted with satisfaction U.S. President Bill Clinton's words regarding the timetable of NATO enlargement by the year 1999 and the pledge to take a final decision in this matter in the first half of 1997,&quot; President Aleksander Kwasniewski said.</p>
+<p>&quot;This conforms with Polish expectations, which I have repeatedly expressed to our Western partners,&quot; he said in a statement.</p>
+<p>In a speech in Detroit earlier on Tuesday, Clinton made 1999, the 50th anniversary of the alliance, a target date for admitting new members to NATO, saying the Iron Curtain must not be replaced &quot;by a veil of indifference.&quot;</p>
+<p>Speaking during a campaign trip, Clinton did not say which countries he wanted to join the alliance first, but Poland, along with the Czech Republic and Hungary, is generally acknowledged to be among them.</p>
+<p>The entry of Eastern European countries and especially of Poland to NATO is vehemently opposed by Russia, which says the movement of the pact's military facilities closer to its borders poses a threat to its national security.</p>
+<p>Kwasniewski said he fully shared Clinton's view that NATO's eastward expansion was not aimed against anyone and would strengthen security of all countries, including those that were not the pact's members.</p>
+<p>&quot;I express satisfaction with the U.S. president's determination to build lasting European integration,&quot; Kwasniewski said.</p>
+<p>He said this was a consequence of the process begun in Poland in 1989 of freeing Europe from political divisions and leaving behind a security system based on a balance of fear.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

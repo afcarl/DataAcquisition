@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32210" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Negotiated muni sales total $178 mln for Sept 5.</title>
+<headline>Negotiated muni sales total $178 mln for Sept 5.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Scheduled negotiated municipal bond sales, depending on market conditions, could total $177.7 million in three sales Thursday, according to Reuters Municipal Bond Information Group.</p>
+<p>The largest expected issue is a $167.2 million Piedmont Municipal Power Authority, S.C., issue through JP Morgan Securities Inc.</p>
+<p>Another $81.2 million Harrisburg Authority, Pa., issue, through PNC Securities, is on the possible list for Thursday and may come depending on market conditions.</p>
+<p>--U.S. Municipal Information Group, 212-859-1826</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

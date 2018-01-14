@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26759" id="root" date="1996-09-02" xml:lang="en">
+<title>USA: BASEBALL-MAJOR LEAGUE STANDINGS AFTER SUNDAY'S GAMES.</title>
+<headline>BASEBALL-MAJOR LEAGUE STANDINGS AFTER SUNDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-09-01</dateline>
+<text>
+<p>Major League Baseball</p>
+<p>standings after games played on Sunday (tabulate under won,</p>
+<p>lost, winning percentage and games behind):</p>
+<p>		AMERICAN LEAGUE</p>
+<p>		EASTERN DIVISION</p>
+<p>			 W    L   PCT  GB</p>
+<p> NEW YORK	   76   60  .559   -</p>
+<p> BALTIMORE	  72   64  .529   4</p>
+<p> BOSTON	     70   67  .511   6 1/2</p>
+<p> TORONTO	    63   74  .460  13 1/2</p>
+<p> DETROIT	    49   88  .358  27 1/2</p>
+<p>		CENTRAL DIVISION</p>
+<p> CLEVELAND	  81   55  .596   -</p>
+<p> CHICAGO	    74   64  .536   8</p>
+<p> MINNESOTA	  68   69  .496  13 1/2</p>
+<p> MILWAUKEE	  66   72  .478  16</p>
+<p> KANSAS CITY	63   75  .457  19</p>
+<p>		WESTERN DIVISION</p>
+<p> TEXAS		77   59  .566   -</p>
+<p> SEATTLE	    71   65  .522   6</p>
+<p> OAKLAND	    66   73  .475  12 1/2</p>
+<p> CALIFORNIA	 63   74  .460  14 1/2</p>
+<p>MONDAY, SEPTEMBER 2 SCHEDULE</p>
+<p>KANSAS CITY AT TORONTO	  </p>
+<p>DETROIT AT CHICAGO		</p>
+<p>CLEVELAND AT MILWAUKEE	  </p>
+<p>NEW YORK AT OAKLAND	     </p>
+<p>MINNESOTA AT TEXAS		</p>
+<p>BOSTON AT SEATTLE		 </p>
+<p>BALTIMORE AT CALIFORNIA	</p>
+<p>		NATIONAL LEAGUE</p>
+<p>		EASTERN DIVISION</p>
+<p>			 W    L   PCT  GB</p>
+<p> ATLANTA	    84   52  .618   -</p>
+<p> MONTREAL	   73   62  .541  10 1/2</p>
+<p> FLORIDA	    66   71  .482  18 1/2</p>
+<p> NEW YORK	   61   76  .445  23 1/2</p>
+<p> PHILADELPHIA     55   82  .401  29 1/2</p>
+<p>		CENTRAL DIVISION</p>
+<p> HOUSTON	    74   64  .536   -</p>
+<p> ST LOUIS	   72   65  .526   1 1/2</p>
+<p> CHICAGO	    68   67  .504   4 1/2</p>
+<p> CINCINNATI	 67   69  .493   6</p>
+<p> PITTSBURGH	 57   79  .419  16</p>
+<p>		WESTERN DIVISION</p>
+<p> SAN DIEGO	  76   62  .551   -</p>
+<p> LOS ANGELES	74   62  .544   1</p>
+<p> COLORADO	   70   68  .507   6</p>
+<p> SAN FRANCISCO    58   76  .433  16</p>
+<p>MONDAY, SEPTEMBER 2 SCHEDULE</p>
+<p>HOUSTON AT ST LOUIS	     </p>
+<p>SAN FRANCISCO AT MONTREAL     </p>
+<p>LOS ANGELES AT NEW YORK	 </p>
+<p>COLORADO AT PITTSBURGH	  </p>
+<p>CHICAGO AT FLORIDA		</p>
+<p>ATLANTA AT CINCINNATI	   </p>
+<p>SAN DIEGO AT PHILADELPHIA</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

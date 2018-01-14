@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132552" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Calif. Gov. declares emergency in San Diego County.</title>
+<headline>Calif. Gov. declares emergency in San Diego County.</headline>
+<dateline>SACRAMENTO, Calif. 1996-10-22</dateline>
+<text>
+<p>California Gov. Pete Wilson Tuesday declared a state of emergency for San Diego County after a wildfire swept through the area.</p>
+<p>&quot;I want to assure the people of San Diego County that we will bring all resources to bear to fight this fire,&quot; Wilson said in a statement. &quot;We will do everything possible to protect those homes that are in the path of the fire.&quot;  </p>
+<p>The state of emergency will make mutual aid mandatory from other cities, counties and state agencies, allow the state to reimburse local governments for fire fighting costs, and enable the state to make emergency purchases and redirect money allocated for other purposes.</p>
+<p>Earlier Tuesday, Wilson was briefed by Los Angeles County fire officials on their efforts to contain the wildfire in the Malibu area. After the briefing in Malibu, Wilson flew to Carlsbad to observe the damage.  </p>
+<p>A wildfire that raced across the Santa Monica Mountains to the sea Monday charred more than 13,000 acres and forced several thousand people out of their homes.</p>
+<p>Flames continued to pose a serious danger to Malibu and other coastal communities Tuesday.</p>
+<p>Los Angeles County Board of Supervisors declared a local emergency Tuesday and said it would ask Wilson to issue an emergency decree to free up state funds.</p>
+<p>In San Diego County, authorities said a firestorm gutted at least 70 homes overnight in Carlsbad and San Marcos. Carlsbad police Lt. Greg Fried said the damage estimate was &quot;extremely conservative&quot; and more than 80 homes may actually have been lost in the 6,000-acre blaze.  </p>
+<p>&quot;Nothing we can do will bring back their homes, but we will make their recovery efforts as easy as possible,&quot; Wilson said after touring a Carlsbad neighborhood destroyed by fire.</p>
+<p>Wilson has directed his office of emergency services to send 375 fire engines, six helicopters and six fixed wing aircraft to southern California to help battle the fires. The governor has also put on alert the National Guard mobile air fire suppression unit.</p>
+<p>Firefighters Tuesday battled wildfires that burned more than 80 homes across southern California and consumed more than 20,000 acres.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

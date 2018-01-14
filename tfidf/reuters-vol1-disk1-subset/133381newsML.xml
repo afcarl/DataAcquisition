@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133381" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: Brazil Senate approves small print of cheque tax.</title>
+<headline>Brazil Senate approves small print of cheque tax.</headline>
+<dateline>BRASILIA 1996-10-22</dateline>
+<text>
+<p>The Brazilian Senate has approved a bill regulating a new financial transactions tax which will help fund the health service, an official said.</p>
+<p>The upper house approved in a symbolic vote the bill which sets down the small print of the Provisional Contribution on Financial Movements (CPMF) due to come into effect in January.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

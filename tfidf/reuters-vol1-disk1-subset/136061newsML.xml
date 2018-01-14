@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136061" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Dow pulls off lows, Nasdaq modestly higher late.</title>
+<headline>Dow pulls off lows, Nasdaq modestly higher late.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>The Dow industrials cut stiff losses in late trading, aided by a rebound in the high-technology sector that lifted the Nasdaq Composite into positive territory.</p>
+<p>&quot;It seems we have a bit of a rally here. A lot of the bigger cap techs were up all day and now we have Nasdaq on the plus side. Techs seem to be the backbone of this little intraday rally,&quot; said Douglas Myers, a trader at Interstate/Johnson Lane.</p>
+<p>The Dow lost 34 to 6027, off a session-low of 5992.86.</p>
+<p>The Nasdaq Composite rose two to 1222, off a day low 1194.  </p>
+<p>Among technology shares trading near session highs, IBM rose one to 128, Intel rose 2-1/2 to 108, Cisco Systems inched up 1/8 to 61-3/8, and Microsoft was up 1-1/8 to 133-5/8.</p>
+<p>Stocks were supported by a firmer bond market, with the long bond up 6/32 to yield 6.84 percent.</p>
+<p>Losers led gainers 13-9 on NYSE volume of 345 million shares.</p>
+<p>-- Betty Wong, Wall Street desk 212 859 1721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

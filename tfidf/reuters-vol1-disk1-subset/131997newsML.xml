@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131997" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Japan cellular phone subscribers up in September.</title>
+<headline>Japan cellular phone subscribers up in September.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>The number of cellular phone subscribers in Japan as of the end of September rose from a month ago, an industry association said on Monday.</p>
+<p>The number of subscribers for mobile phones and car phones using the conventional system reached 15.31 million at the end of September, up from 14.44 million as of the end of August, the Telecommunications Carriers Association said in a statement.</p>
+<p>It said subscribers for cellular phones using the personal handy phone system (PHS) as of the end of September totalled 3.95 million.</p>
+<p>The Ministry of Posts and Telecommunications announced last month that PHS subscribers at the end of August totalled 3.58 million, an association official said.</p>
+<p>The association did not give its own data on the number of PHS subscribers as of end-August as it had started compiling such data in September, the official said.</p>
+<p>The PHS, which was launched in July last year, is a technology halfway between cellular and cordless phones, with lower costs than the former and more range than the latter, and the drawbacks being it cannot be used in moving vehicles.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

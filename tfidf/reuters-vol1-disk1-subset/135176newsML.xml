@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135176" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: M'bishi Heavy to build acrylic acid plant in China.</title>
+<headline>M'bishi Heavy to build acrylic acid plant in China.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Mitsubishi Heavy Industries Ltd said on Tuesday that it, Nippon Shokubai Co Ltd and Nissho Iwai Corp have jointly won an order to build an acrylic acid plant in China.</p>
+<p>The order, issued by the China National Chemical Construction Corp, is worth about four billion yen, a Mitsubishi Heavy spokesman said.</p>
+<p>The plant's construction is expected to be completed by the end of 1998. The plant's annual production capacity will be 30,000 tonnes of acrylic acid, 12,000 tonnes of high-purity acrylic acid and 30,000 tonnes of butyl acrylate, the company said in a statement.</p>
+<p>Acrylic acid is used to make such products as disposable diapers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

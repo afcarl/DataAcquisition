@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132582" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Audit says L.A. Fed branch has effective controls.</title>
+<headline>Audit says L.A. Fed branch has effective controls.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>An independent outside audit found the Federal Reserve Bank of San Francisco's Los Angeles branch maintains an &quot;effective internal control structure&quot; for financial reporting of its currency and coin holdings, the Federal Reserve Board said Tuesday.</p>
+<p>The Fed said the audit by Coopers and Lybrand confirms the results of an examination by the Board's financial auditors as well as the Reserve Bank's internal auditors.</p>
+<p>The General Accounting Office, the Congressional watchdog agency, had called into question the integrity of the L.A. branch's internal controls in a recent report, the Fed noted.</p>
+<p>The Fed said the GAO's concern was based on errors made by the branch in reports submitted to the board rather than on an in-depth review of financial controls.</p>
+<p>&quot;These reports are used only for informational purposes and are distinct from financial accounting records,&quot; it said.</p>
+<p>The report by Coopers and Lybrand said that &quot;in our opinion, management assertion that the Los Angeles Branch maintained an effective internal control structure ... is fairly stated in all material respects.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

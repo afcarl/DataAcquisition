@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133247" id="root" date="1996-10-22" xml:lang="en">
+<title>HUNGARY: Hungary to auction 3yr bonds of HUF 7bln on Oct 24.</title>
+<headline>Hungary to auction 3yr bonds of HUF 7bln on Oct 24.</headline>
+<dateline>BUDAPEST 1996-10-22</dateline>
+<text>
+<p>Hungary will auction three-year government bonds, 1999/D series, worth nominally seven billion forints on October 24, the Government Debt Management Agency (AKK) said on Tuesday in a statement.</p>
+<p>    Date of issue		 31 October, 1996</p>
+<p>    Date of maturity	    24 October, 1999</p>
+<p>    Bills on offer		7,000 million forints</p>
+<p>    Minimum net price	   97.39 pct</p>
+<p>    Maximum yield		 23.49 pct</p>
+<p>3-yr bond avr. yield</p>
+<p>     at previous auction	22.99 pct (1999/C,Sept 12)</p>
+<p>NOTE - The 1999/D bonds to be auctioned can be bought in exchange for 1996/K government bonds, which will be accepted at 111.91 percent of the face value.</p>
+<p>The 1999/D bond bears a fixed interest of annual 21 percent, to be paid twice a year.</p>
+<p>-- Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

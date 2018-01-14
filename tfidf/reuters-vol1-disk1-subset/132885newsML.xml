@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132885" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: THREE DIE IN S.AFRICAN RUSH-HOUR SHOOTING -- POLICE.</title>
+<headline>THREE DIE IN S.AFRICAN RUSH-HOUR SHOOTING -- POLICE.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>Three people were killed on Tuesday morning in a rush-hour shooting believed related to South Africa's ongoing taxi wars, a police spokesman said.</p>
+<p>Three people died and several others were hurt when gunmen opened fire on a taxi on the main highway between Soweto township and Johannesburg.</p>
+<p>&quot;It appears to be related to the taxi violence,&quot; the spokesman said, but added that no suspects had been caught.</p>
+<p>Dozens of people have been killed in years of violence between rival taxi operators over passengers and routes in Gauteng province around Johannesburg and Pretoria, as well as other parts of South Africa.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

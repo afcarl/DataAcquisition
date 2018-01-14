@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155610" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Modine completes French purchase. [CORRECTED 16:37 GMT 1/11]</title>
+<headline>Modine completes French purchase. [CORRECTED 16:37 GMT 1/11]</headline>
+<dateline>RACINE, Wis. 1996-10-31</dateline>
+<text>
+<p>Modine Manufacturing Co said it completed the cash purchase of about 45 percent of Constructions Mecaniques Mota S.A., a heat-exchanger manufacturer based near Marseilles in Provence, France.</p>
+<p>Terms were not disclosed.</p>
+<p>Constructions Mecaniques produces about $22 million (Corrects) of tube-bundle oil coolers for truck, industrial and marine engines.</p>
+<p>Modine develops and manufactures heat-transfer technology.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RACINE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

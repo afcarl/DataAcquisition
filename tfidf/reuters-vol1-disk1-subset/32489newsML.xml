@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32489" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: Indian rupee weakens on dlr demand from east India.</title>
+<headline>Indian rupee weakens on dlr demand from east India.</headline>
+<dateline>BOMBAY 1996-09-04</dateline>
+<text>
+<p>The rupee weakened on large dollar demand from a state-run bank in east India to close at 35.74/75 on Wednesday against the opening 35.71/73, dealers said.</p>
+<p>&quot;The rupee slipped from opening levels right from the morning,&quot; a dealer at a state-run bank said. &quot;A large state-run bank was buying dollars right through the day.&quot;</p>
+<p>&quot;But good supplies limited the rupee's slide,&quot; he said.</p>
+<p>Premia on forward dollars stabilised after opening down from Tuesday's levels, dealers said. Spot-March ended Wednesday at 10.15 percent annualised against Tuesday's close of 10.50 percent, dealers said.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

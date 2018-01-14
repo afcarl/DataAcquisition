@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31956" id="root" date="1996-09-04" xml:lang="en">
+<title>THAILAND: Four Thais killed in the trawler engine room blast.</title>
+<headline>Four Thais killed in the trawler engine room blast.</headline>
+<dateline>BANGKOK 1996-09-04</dateline>
+<text>
+<p>Four Thai fishermen were killed and two injured in an explosion in the engine room of a fishing trawler where they were doing repair work police said on Wednesday.</p>
+<p>The blast on Tuesday was believed to have been caused by leaking ammonia from a pipe in the engine room of the stationary trawler at Samut Sakorn province, about 80 kilometres (50 miles) south of Bangkok, police said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

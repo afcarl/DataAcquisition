@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134560" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CVB Financial Corp Q3 net rises.</title>
+<headline>CVB Financial Corp Q3 net rises.</headline>
+<dateline>ONTARIO, Calif. 1996-10-21</dateline>
+<text>
+<p>dollars in thousands</p>
+<p>except per share amounts</p>
+<p>			     Nine Months Ended   Three Months Ended</p>
+<p>				     Sept. 30,	     Sept. 30,</p>
+<p>				  1996	  1995     1996	1995</p>
+<p>Net interest income before</p>
+<p>provision for credit</p>
+<p>   losses		   39,328	35,617   14,001    11,870</p>
+<p>Provision for credit</p>
+<p>  losses		     2,158	 1,575	515	   0</p>
+<p> Net			   9,711	 8,173    3,656     2,984</p>
+<p> Shr			    1.05	  0.87     0.39	0.32</p>
+<p> Avg shrs		    9,266	 9,370    9,361     9,356</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ONTARIO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

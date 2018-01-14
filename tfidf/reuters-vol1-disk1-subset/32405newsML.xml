@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32405" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Few German retailers plan to lengthen hours.</title>
+<headline>Few German retailers plan to lengthen hours.</headline>
+<dateline>BONN 1996-09-04</dateline>
+<text>
+<p>Only eight percent of German retailers plan to lengthen their store hours in November to take advantage of a more liberal law, according to a survey by a business information agency.</p>
+<p>Of the 1,800 retailers surveyed, 37 percent plan not to extend their hours at all, while the remainder will wait and see how things develop, said Helmut Roedl, president of the Verband der Vereinte Creditreform.</p>
+<p>The change will do virtually nothing to create new jobs, Roedl said. Most retailers plan to use part-time employees to meet greater demand, rather than hire new full-timers.</p>
+<p>The German government, hoping to boost the economy, enacted a more liberal shop opening hours law in June, over objections from the industry and unions.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

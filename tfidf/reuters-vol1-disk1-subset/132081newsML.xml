@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132081" id="root" date="1996-10-21" xml:lang="en">
+<title>HONG KONG: HK Catholic cardinal to retire on July 1, 1997 - paper.</title>
+<headline>HK Catholic cardinal to retire on July 1, 1997 - paper.</headline>
+<dateline>HONG KONG 1996-10-21</dateline>
+<text>
+<p>The Catholic bishop of the Hong Kong diocese, who has often criticised the lack of religious freedom in China, will retire when the territory reverts to Chinese rule on July 1, the South China Morning Post reported on Monday.</p>
+<p>Cardinal John Baptist Wu Cheng-chung, 71, made the announcement on Sunday when he led thousands in prayer for the future of Hong Kong, the newspaper reported.</p>
+<p>The Vatican named a Shanghai-born cleric, Monsignor Joseph Zeng, 64, as Wu's successor the newspaper said.</p>
+<p>Wu, ordained in 1952, became the first Chinese cardinal in 1988 and has often spoken openly about the lack of religious freedom in China.</p>
+<p>Wu was not immediately available for comment.</p>
+<p>Hong Kong, a British colony for more than a century and a half, has 254,000 Roman Catholics and the church pledged during Sunday's gathering to continue services in the territory despite any difficulties in the future.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

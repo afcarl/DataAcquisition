@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134739" id="root" date="1996-10-22" xml:lang="en">
+<title>OMAN: Oman signs upstream contract for gas project.</title>
+<headline>Oman signs upstream contract for gas project.</headline>
+<dateline>MUSCAT 1996-10-22</dateline>
+<text>
+<p>Oman on Tuesday signed a $1.4 billion funding deal with foreign partners in its main oil company to develop gas reserves for its liquefied natural gas (LNG) project, the Ministry of National Economy said.</p>
+<p>The deal is with Petroleum Development Oman (PDO)'s foreign partners Royal Dutch Shell Group, France's Total SA and independent Partex.</p>
+<p>&quot;The funding agreement...requires that the private shareholders (Shell, Total, Partex) shall make available the funds needed for constructing the upstream project,&quot; a ministry statement said.</p>
+<p>&quot;The Government would pay the investment value to private shareholders as of 2001 through 2006 from the income earned from selling gas and condensate associated with natural gas,&quot; it added.</p>
+<p>&quot;The investment cost of the upstream project is around $1.4 billion.&quot;</p>
+<p>PDO, 60 percent owned by the Omani government, will operate the upstream part of the project for 25 years.</p>
+<p>Oman is aiming to build a $6 billion LNG project which will begin exports at the turn of the decade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1300014">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUSCAT"/>
+<dc element="dc.creator.location.country.name" value="OMAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134899" id="root" date="1996-10-22" xml:lang="en">
+<title>NORWAY: FORECAST-PGS seen improving 9-month profit.</title>
+<headline>FORECAST-PGS seen improving 9-month profit.</headline>
+<dateline>OSLO 1996-10-22</dateline>
+<text>
+<p>Norwegian seismic and offshore services company Petroleum Geo-Services ASA (PGS) is expected to book pre-tax profits for the first nine months of around 336 million crowns, according to a Reuter poll of seven Norwegian and international analysts.</p>
+<p>The company posted profits before tax of 270 million crowns in the corresponding year-ago period.</p>
+<p>The analysts forecast earnings per share of 4.46 crowns for the third quarter. Three recommended a buy on the share, three said hold and one said sell.</p>
+<p>PGS will present nine-month results on October 24. Following lists analysts' expectations.</p>
+<p>				    (millions of crowns unless stated)</p>
+<p>				   Expectations</p>
+<p>			    Average    High     Low	 9-month 1995</p>
+<p>Operating income	 1,988    2,113    1,849	    1,465</p>
+<p>Operating result	   415	448	364		298</p>
+<p>Net financials     minus  80 minus 70 minus 88	 minus 30</p>
+<p>Result before tax	  336	372	288		270</p>
+<p>Result after tax	   235	260	202		185</p>
+<p>EPS Q396 (crowns)	  4.46     5.39     3.23	     4.06</p>
+<p>--Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

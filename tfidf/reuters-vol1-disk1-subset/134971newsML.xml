@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134971" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: ZYWIEC PLUNGES ON BREWERY CLOSURE.</title>
+<headline>ZYWIEC PLUNGES ON BREWERY CLOSURE.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>Polish brewer Zywiec plunged 10 percent to 130.5 zlotys in a one-million-zloty turnover after the company said on Monday it was shutting down one of its breweries and sacking 145 of its 990 employees, traders said.</p>
+<p>Some said, however, the company's unspectacular September earnings contributed to the fall.</p>
+<p>&quot;I think the market reacted nervously to the news, which doesn't really have to have such a negative impact on its future earnings,&quot; one trader said.</p>
+<p>Zywiec said it would lay off the workers following decisions to shut down its Bielsko-Biala brewery.</p>
+<p>It recorded a net profit of about 20,000 zlotys in September, down from 2.71 million in September last year.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

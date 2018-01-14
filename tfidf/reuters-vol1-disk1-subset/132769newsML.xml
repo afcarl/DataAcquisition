@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132769" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Boyds Wheels Q3 net rises.</title>
+<headline>Boyds Wheels Q3 net rises.</headline>
+<dateline>STANTON, Calif. 1996-10-22</dateline>
+<text>
+<p>(In thousands, except share and per-share data)</p>
+<p>				 (Unaudited)</p>
+<p>			 Three months ended  Nine months ended</p>
+<p>				   Sept. 30,	     Sept. 30,</p>
+<p>				1996	1995	 1996	 1995</p>
+<p> Net sales	     $ 7,521    $ 4,594    $20,532    $12,934</p>
+<p> Cost of goods sold    5,579	3,454     15,189	9,754</p>
+<p> Gross margin	    1,942	1,140	5,343	3,180</p>
+<p>Selling, general &amp;</p>
+<p>administrative</p>
+<p>   expenses		  976	  623	2,691	1,695</p>
+<p> Income from operations  966	  517	2,652	1,485</p>
+<p>Interest and other</p>
+<p>   expenses, net	  (34)	   98	   48	  356</p>
+<p>Income before</p>
+<p>provision for income</p>
+<p>   taxes		   1,000	  419	2,604	1,129</p>
+<p>Provision for income</p>
+<p>   taxes		     386	  166	1,010	  450</p>
+<p> Net income		  614	  253	1,594	  679</p>
+<p> Earnings per share     0.16	 0.14	 0.53	 0.40</p>
+<p>Weighted average</p>
+<p>common shares and</p>
+<p>common equivalent</p>
+<p>share outstanding</p>
+<p>			 3,932,000  1,851,228  3,033,000  1,699,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

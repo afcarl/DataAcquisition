@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31430" id="root" date="1996-09-04" xml:lang="en">
+<title>POLAND: EXBUD SIGNS PLN 10.25 MLN CONTRACT.</title>
+<headline>EXBUD SIGNS PLN 10.25 MLN CONTRACT.</headline>
+<dateline>WARSAW 1996-09-04</dateline>
+<text>
+<p>Polish construction firm Exbud SA said on Wednesday it had signed a 10.25 million zloty contract with Dutch Marco Cash and Carry wholesaler and retailer to build part of a shopping centre in the eastern city of Lublin.</p>
+<p>It said in a statement that the construction must be completed by November.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

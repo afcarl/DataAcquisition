@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32415" id="root" date="1996-09-04" xml:lang="en">
+<title>SWITZERLAND: Swiss bond market closing report.</title>
+<headline>Swiss bond market closing report.</headline>
+<dateline>ZURICH 1996-09-04</dateline>
+<text>
+<p>Swiss debt prices ended mostly higher in at times hectic trade, with participants nervous before U.S. August nonfarm payroll numbers on Friday.</p>
+<p>A strong increase in the payrolls would likely heighten speculation that the Federal Reserve will raise interest rates, possibly as soon as its next Federal Open Market Committee meeting on September 24.</p>
+<p>&quot;The market is very nervous. We are seeing some underlying strength, but we don't know why,&quot; said a top dealer at a major Swiss bank. He added that the market may currently be more optimistic than conditions warrant.  </p>
+<p>He said some of the market's strength may stem from speculation that Friday's U.S. jobs numbers will be more benign than some participants had originally thought.</p>
+<p>New issues included a $150 million offering for Norwegion power company Statkraft F/S. The bond, with a four percent coupon priced at 102.65, matures in December 2002. It was quoted in early trade yielding 3.88 percent at minus 2.20/2.00</p>
+<p>One trader said the main demand came from institutionals and banks. Some retail investors may be attracted by the 4.00 percent coupon, and the roughly six-year maturity. The borrower is also state-owned.  </p>
+<p>Closing prices as follows:</p>
+<p>Sept conf bond up 28 at 113.21.</p>
+<p>Sept comi medium-term bond up 16 at 109.40.</p>
+<p>Sept Euro Swiss francs up one at 97.82. -- Cash:</p>
+<p>4-1/2 Apr 2006 bond  101.98/102.08 yld 4.228 pct</p>
+<p>(close on Tuesday 101.65/75 yld 4.27 pct)</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

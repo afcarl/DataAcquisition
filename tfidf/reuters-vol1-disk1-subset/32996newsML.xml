@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32996" id="root" date="1996-09-04" xml:lang="en">
+<title>MOROCCO: Moroccan c.bank injects 500 mln dirhams at auction.</title>
+<headline>Moroccan c.bank injects 500 mln dirhams at auction.</headline>
+<dateline>RABAT 1996-09-04</dateline>
+<text>
+<p>The Moroccan Bank al-Maghrib (central bank) injected 500 million dirhams in the money market for one week at its repurchase auction on Wednesday, a bank official said.</p>
+<p>The bank said it received bids totalling 7.108 billion dirhams and allocated 2.500 billion dirhams at seven percent interest rate for one week.</p>
+<p>The amount allocated was less than 2.000 billion dirhams leaving the market this week, it said. The bank satisfied 35.17 percent of demand. The next auction is due to be held on September 11, 1996.</p>
+<p>($1=8.6 dirhams)</p>
+<p>-- Rabat newsroom (212-7) 726518</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

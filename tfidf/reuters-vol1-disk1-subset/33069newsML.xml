@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33069" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Recount likely in Florida congressional race.</title>
+<headline>Recount likely in Florida congressional race.</headline>
+<dateline>TAMPA, Fla 1996-09-04</dateline>
+<text>
+<p>Former Tampa, Fla., Mayor Sandy Freedman won a spot in the runoff election for the Democratic nomination in the 11th Congressional District but elections officials said Wednesday a recount probably would be required to determine who her opponent will be.</p>
+<p>With 100 percent of the precincts counted, unofficial results showed state Rep. Jim Davis was the apparent second-place winner with a 71-vote lead over Hillsborough County Commissioner Phyllis Busansky.</p>
+<p>Freedman finished first with 23,501 votes, followed by Davis with 16,750, Busansky with 16,479 and former state Sen. Pat Frank with 10,578 votes.</p>
+<p>Because no one won more than 50 percent of the votes, the top two contenders will face each other in a runoff election Oct 1. The winner will face Republican Mark Sharpe in the November general election to succeed U.S. Rep. Sam Gibbons, D-Tampa.</p>
+<p>The board of elections supervisors planned to meet Wednesday afternoon to release official results and determine if a recount would be required.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

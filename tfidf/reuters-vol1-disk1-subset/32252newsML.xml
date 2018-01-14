@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32252" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. did not provoke Baghdad shooting - Pentagon.</title>
+<headline>U.S. did not provoke Baghdad shooting - Pentagon.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>U.S. forces did not provoke anti-aircraft firing in Baghdad on Wednesday, a U.S. defense official said.</p>
+<p>&quot;It's not us,&quot; the official said. &quot;It's not precipitated by anything that U.S. forces are involved in.&quot;  </p>
+<p>The U.S. official was commenting on reports by witnesses in Baghdad that large explosions were heard there on Wednesday evening, along with heavy anti-aircraft fire.</p>
+<p>Reporters in their offices said they heard about a dozen large explosions in Baghdad. The ground was shaking in some areas, a Reuters correspondent said.</p>
+<p>The defence official in Washington said no U.S. planes had come under fire. He said the planes were staying in the no-fly zone south of Baghdad.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

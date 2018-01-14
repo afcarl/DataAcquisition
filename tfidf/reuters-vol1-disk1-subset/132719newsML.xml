@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132719" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Long Island Bancorp Q4 shr loss $0.08.</title>
+<headline>Long Island Bancorp Q4 shr loss $0.08.</headline>
+<dateline>MELVILLE, N.Y. 1996-10-22</dateline>
+<text>
+<p>LONG ISLAND BANCORP INC AND SUBSIDIARY</p>
+<p>		     (In thousands, except per share data)</p>
+<p>		   For the Three Months Ended  For the Year Ended</p>
+<p>				 September 3O,    September 30,</p>
+<p>			   1996     1995		1996	 1995</p>
+<p>Total general and</p>
+<p>admin. expense</p>
+<p>			 31,778    25,875	  112,207    100,743</p>
+<p>SAIF special</p>
+<p>     assessment    18,657	  --	   18,657	   --</p>
+<p>Net loss on real</p>
+<p>    estate owned	559	 522	    2,090	1,790</p>
+<p>Total non-interest</p>
+<p>	 expense     50,994    26,397	  132,954    102,533</p>
+<p>(Loss) income before</p>
+<p>    income taxes  (2,928)    18,794	   56,035     73,413</p>
+<p>Provision for income tax</p>
+<p>(benefit) expense</p>
+<p>			(1,026)     6,868	   23,760     29,897</p>
+<p>Net (loss) income</p>
+<p>			(1,902)    11,926	   32,275     43,516</p>
+<p>Primary (loss) earning per</p>
+<p>    common share   (0.08)	0.47	     1.33	 1.73</p>
+<p>Fully diluted (loss) earning per</p>
+<p>    common share   (O.08)	0.47	     1.33	 1.71</p>
+<p>NOTE: In addition to the SAIF charge in the chart, the company reported a one-time cost related to the president's retirement of $0.05 per share.  Excluding the effect of the special charges, net income for the fourth quarter of 1996 would have been $10.1 million and primary and fully diluted earnings per share would have been $0.43.</p>
+<p>-- New York Newsdesk</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

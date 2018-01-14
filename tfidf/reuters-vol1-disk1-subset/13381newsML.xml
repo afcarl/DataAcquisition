@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13381" id="root" date="1996-08-25" xml:lang="en">
+<title>INDIA: Mother Teresa's condition unchanged--doctors.</title>
+<headline>Mother Teresa's condition unchanged--doctors.</headline>
+<dateline>CALCUTTA 1996-08-25</dateline>
+<text>
+<p>Mother Teresa's condition showed no appreciable change on Sunday, but doctors treating the Nobel Peace Laureate said anything could happen given her age.</p>
+<p>Mother Teresa's heart problem was under control, said Dr S. K. Sen, the medical director of the Woodlands Nursing Home, where the 85-year-old nun was admitted on Tuesday with malarial fever and severe vomiting.  </p>
+<p>&quot;Mother Teresa's condition shows no appreciable change,&quot; Sen told reporters. &quot;Her cardiac irregularity is under control but she still needs respiratory support. She still has a low-grade fever.&quot;</p>
+<p>Asked how long Mother Teresa would be on the respirator, Sen said: &quot;It might take days. At this age, anything could happen.&quot;</p>
+<p>Though Mother Teresa was conscious, she had not spoken to anyone, Sen said. Her doctors had forbidden visitors.</p>
+<p>The Albanian-born Catholic nun has become known as the Saint of the Gutters for devoting her life to helping the sick, the poor and the destitute.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

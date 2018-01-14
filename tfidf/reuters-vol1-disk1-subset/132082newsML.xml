@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132082" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Japan power rates to rise on crude gains, weak yen.</title>
+<headline>Japan power rates to rise on crude gains, weak yen.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Japanese electricity and gas utilities said on Monday they plan to charge higher rates from January to March, due to soaring crude oil prices and the weaker yen against the dollar.</p>
+<p>Electricity bills for the average household of four which uses about 260 to 310 kilowatt hours a month, are expected to be eight to 27 yen more expensive during the January to March quarter compared to October to December.</p>
+<p>The average household currently spends about 6,490 yen to 7,327 yen a month on electricity. It is the third consecutive quarter electricity rates have gone up.</p>
+<p>Major gas utilities Tokyo Gas Co Ltd, Osaka Gas Co Ltd and Toho Gas Co Ltd plan to increase monthly rates from January to March by about 20 yen for the average household, Japan's Gas Association said. The average household uses about 550,000 kilocalories of gas per month.</p>
+<p>The rise reflects an increase in liquefied natural gas (LNG) prices which tend to move in line with crude prices.</p>
+<p>Electricity and gas utilities review their prices on a quarterly basis, taking into account changes in fuel and raw material costs.</p>
+<p>Finalised figures will be available later this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

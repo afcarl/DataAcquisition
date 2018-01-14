@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134512" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Giddings &amp; Lewis Inc Q3 full results.</title>
+<headline>Giddings &amp; Lewis Inc Q3 full results.</headline>
+<dateline>FOND DU LAC, Wis. 1996-10-22</dateline>
+<text>
+<p>CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>(In Thousands Except Per Share and Share Data) (Unaudited)</p>
+<p>			     Three months	    Nine months</p>
+<p>				   ended		    ended</p>
+<p>			Sep 29,     Oct.1,	Sep 29,     Oct. 1,</p>
+<p>			  1996	  1995	  1996	  1995</p>
+<p> Net sales	 $185,794    $195,921    $577,860    $521,622</p>
+<p>Costs and expenses:</p>
+<p>Cost of sales</p>
+<p>			150,770     153,663     457,193     409,860</p>
+<p>Selling, general and</p>
+<p>	 administrative expenses</p>
+<p>			 18,628	18,601	59,443	48,749</p>
+<p>Depreciation and</p>
+<p>	 amortization</p>
+<p>			  5,569	 5,867	16,626	15,226</p>
+<p>Total operating expenses</p>
+<p>			174,967     178,131     533,262     473,835</p>
+<p> Operating income  10,827	17,790	44,598	47,787</p>
+<p>Interest (income)/expense,</p>
+<p>   net		  2,424	 3,399	 7,104	 6,415</p>
+<p>Other (income)/expense</p>
+<p>			   (79)	   253	 (499)	   115</p>
+<p>Income before provision</p>
+<p>for income taxes</p>
+<p>			  8,482	14,138	37,993	41,257</p>
+<p>Provision for income taxes</p>
+<p>			  2,885	 5,595	12,701	16,299</p>
+<p> Net income	   5,597	 8,543	25,292	24,958</p>
+<p>Per common share amounts:</p>
+<p>	Net income     0.17	  0.25	  0.74	  0.73</p>
+<p>Average number of common</p>
+<p>shares outstanding</p>
+<p>		   33,846,084  34,409,742  34,330,207  34,390,048</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOND DU LAC, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

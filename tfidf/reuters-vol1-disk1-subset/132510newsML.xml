@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132510" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Ontrak Systems Inc Q1 net rises.</title>
+<headline>Ontrak Systems Inc Q1 net rises.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-22</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				  (unaudited)</p>
+<p>						     Three Months Ended</p>
+<p>							   Sept. 30</p>
+<p>							  1996	 1995</p>
+<p> Net revenue				     $16,487    $10,502</p>
+<p> Cost of revenue				   7,893	5,013</p>
+<p>	Gross profit				 8,594	5,489</p>
+<p>Operating expenses:</p>
+<p>Research, development and</p>
+<p>	  engineering				4,605	2,521</p>
+<p>	Selling, general and administrative  2,682	1,885</p>
+<p>	  Total operating expenses	     7,287	4,406</p>
+<p> Income from operations			  1,307	1,083</p>
+<p> Interest and other income, net		  390	  326</p>
+<p>Income before provision</p>
+<p>	for income taxes			   1,697	1,409</p>
+<p> Provision for income taxes			559	  493</p>
+<p> Net income					  1,138	  916</p>
+<p> Net income per share			     0.14	 0.11</p>
+<p>Number of shares used in</p>
+<p>	per share calculation		    8,170	8,013</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32755">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

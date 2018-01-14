@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133618" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Report says blood pressure drug misused.</title>
+<headline>Report says blood pressure drug misused.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Doctors continue to administer an anti-high blood pressure drug in emergencies even though there is evidence it can backfire with deadly results, researchers said on Tuesday.</p>
+<p>The report from Chaim Sheba Medical Centre in Tel-Hashomer, Israel, and the Oschner Clinic in New Orleans was based on a review of scientific literature involving the use of short-term nifedipine capsules.</p>
+<p>Long-term, extended release forms of nifedipine and other long-acting forms of such drugs -- called calcium antagonists -- were not called into question by the study, published in this week's Journal of the American Medical Association.</p>
+<p>Bayer Corp., which sells nifedipine capsules under the Adalat brand, disputed the study, saying labeling for the product already warns doctors not to use it in acute situations, and &quot;far fewer&quot; prescriptions have been written for it in the last few years.</p>
+<p>The study published on Tuesday said however that short-acting nifedipine capsules continue to be a common treatment in emergency situations.</p>
+<p>&quot;Just because the practice of giving oral nifedipine capsules in hypertensive emergencies and pseudoemergencies is widespread and popular does not mean that it is safe and effective,&quot; the study said.</p>
+<p>&quot;To the contrary, serious -- even fatal -- adverse effects have been reported when the drug has been administered acutely for treatment of severe hypertension,&quot; it added.</p>
+<p>The study said the short-term form of the drug can cause unpredictable falls in blood pressure, leading to stroke, heart attack and death.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

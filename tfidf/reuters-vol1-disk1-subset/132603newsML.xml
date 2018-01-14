@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132603" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Universal sees FY97 EPS about $2.40.</title>
+<headline>Universal sees FY97 EPS about $2.40.</headline>
+<dateline>RICHMOND, Va. 1996-10-22</dateline>
+<text>
+<p>Universal Corp said on Tuesday that its management forecasts that earnings for the fiscal year ending June 30, 1997 will be generally in line with analysts' current estimates of about $2.40 a share.</p>
+<p>Universal Corp reported profits of $72.3 million, or $2.06 a share, on sales of $3.57 billion for the year ended June 1996.  </p>
+<p>Universal Corp, a company with operations in tobacco, lumber and agriculture, said quarterly comparisons in the year ended June 1997 will be difficult due to crop conditions and timings of shipments.</p>
+<p>World markets continue to reflect growing cigarette consumption and strong leaf demand, Universal Corp said.</p>
+<p>Universal said its non-tobacco businesses appear headed toward a record year.</p>
+<p>In the company's first quarter, Universal said its domestic tobacco revenues and earnings were lower because of a delay in the harvest.</p>
+<p>Foreign tobacco results improved dramatically in the quarter with major territories reporting operating gains, Universal said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133158" id="root" date="1996-10-22" xml:lang="en">
+<title>ESTONIA: Estonian shares in fair activity, index up.</title>
+<headline>Estonian shares in fair activity, index up.</headline>
+<dateline>TALLINN 1996-10-22</dateline>
+<text>
+<p>Estonian shares showed healthy trade on Tuesday with volumes fair on both the official and over-the-counter market and the stock market index rising, dealers said.</p>
+<p>Trade on the official was 7.3 million kroons and 3.8 million kroons on the over-the-counter free market. The Tallinn stock exchange index added 0.22 percent and closed at 105.14.</p>
+<p>Leading bank Hansapank ended slightly higher at 105.60 kroons and turned over 2.2 million kroons.</p>
+<p>Tallinna Pank was next most-traded on two million kroon volume and closing at 41 kroons after 40.85.</p>
+<p>Exhibition organiser Estonian Fairs, trading on the free market for only the second day, slumped to 44 kroons from 52 kroons amid volume of 750,000 kroons.</p>
+<p>-- Vilnius Newsroom +370 2 223 518</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

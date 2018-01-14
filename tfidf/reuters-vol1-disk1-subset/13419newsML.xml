@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13419" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Micron shares off with chip prices falling.</title>
+<headline>Micron shares off with chip prices falling.</headline>
+<dateline>SAN FRANCISCO</dateline>
+<text>
+<p>Micron Technology Inc. shares fell in heavy trading Monday on signs of a further decline in prices of memory chips, its main product.</p>
+<p>Micron slid $1.25 to $22.375 on the New York Stock Exchange, where it was among the most active issues in early afternoon trading.</p>
+<p>Semiconductor analyst Charles Boucher of UBS Securities said prices of four-megabyte dynamic random access memory chips, the most commonly used memory chip in personal computers, have fallen in recent days to $1.90 in several Asian markets from about $2.50 just two weeks ago. In Japan they are selling for $2.00, he said.</p>
+<p>Analysts had previously said DRAM prices of $2.50 were close to being less than the variable cost of making them.</p>
+<p>Boucher said it was not clear if the decline in DRAM prices was the reason Micron's stock was lower.</p>
+<p>Prices for memory chips have fallen since the winter and Micron's shares have dropped in tandem with them, from a 52-week high of $94.50 to as low as $16.625.</p>
+<p>Micron and other memory chip makers have been converting their production lines to manufacture 16-megabyte DRAMs, which are being installed in newer personal computers.</p>
+<p>However, prices for 16-megabyte DRAMS have also fallen to about $9 to $10 currently from about $11 to $12 two weeks ago. They had dropped to as low as $8 on the spot market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

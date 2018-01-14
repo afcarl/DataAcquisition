@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132473" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: California Culinary Q1 profit vs loss.</title>
+<headline>California Culinary Q1 profit vs loss.</headline>
+<dateline>SAN FRANCISCO 1996-10-22</dateline>
+<text>
+<p>California Culinary Academy Inc.</p>
+<p>					Financial Table</p>
+<p>		(in thousands, except earnings per share amounts)</p>
+<p>					(unaudited)</p>
+<p>						    Three Months Ended</p>
+<p>						   Sep 30,	  Sep 30,</p>
+<p>							1996	     1995</p>
+<p>Revenues:</p>
+<p>   Culinary Arts Education	     $   2,995	$   2,876</p>
+<p>   Restaurants &amp; Catering			379		429</p>
+<p>   Retail, Media &amp; Other			 155		145</p>
+<p>	Total Revenue			    3,529	    3,450</p>
+<p>Cost of Sales:</p>
+<p>   Food &amp; Beverage				 371		418</p>
+<p>   Program Supplies				176		133</p>
+<p>   Scholarships &amp; Grants			  46		 38</p>
+<p>   Merchandise &amp; Other			   109		139</p>
+<p>	Total Cost of Sales			702		728</p>
+<p> Gross Margin				    2,827	    2,722</p>
+<p>Fixed Costs:</p>
+<p>   Occupancy					 445		438</p>
+<p>   Repairs &amp; Maintenance			  95		133</p>
+<p>   Telephone, Security &amp; Other		  97		108</p>
+<p>   Depreciation &amp; Amortization		 266		256</p>
+<p>	Total Fixed Costs			  903		935</p>
+<p>Operating Expenses:</p>
+<p>    Compensation &amp; Benefits		  1,331	    1,572</p>
+<p>    Outside Services			     122		254</p>
+<p>    Advertising &amp; Promotion		    265		401</p>
+<p>    Legal &amp; Other				  124		195</p>
+<p>	Total Fixed Costs			1,842	    2,422</p>
+<p>Non-Operating Expenses:</p>
+<p>    Interest Expense (Income)		    6		(8)</p>
+<p>    Income Taxes				    31	    (202)</p>
+<p>	 Total Non-Operating Expenses	   37	    (210)</p>
+<p> Net income (Loss)				  46	    (424)</p>
+<p> Net income (Loss) Per Share		  0.01	   (0.13)</p>
+<p> Weighted Average Shares Outstanding     3,283	    3,309</p>
+<p>Earnings (loss) before Interest,</p>
+<p>Taxes, Depreciation and</p>
+<p>  Amortization				     348	    (379)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

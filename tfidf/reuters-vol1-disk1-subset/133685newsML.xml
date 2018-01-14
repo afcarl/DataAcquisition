@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133685" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PRESALE - Scituate, Mass..</title>
+<headline>PRESALE - Scituate, Mass..</headline>
+<text>
+<p>AMT: 4,087,000	DATE: 10/24/96	NYC Time: 1100	CUSIP: 809095</p>
+<p>ISSUER: Scituate							  ST: MA</p>
+<p>ISSUE: Municipal purpose loan of 1996			     TAX STAT: Exempt-LT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 11/15/96							     SURE BID: N</p>
+<p>DUE: 11/1/97-06					     SR MGR:</p>
+<p>1ST CPN: 05/01/97</p>
+<p>CALL: Non-Callable					  TIC</p>
+<p>DELIVERY: 11/6/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: Fleet National Bank, Boston</p>
+<p>L.O.: Palmer &amp; Dodge, Boston</p>
+<p>F.A.: Fleet Securities, Inc., Boston</p>
+<p>LAST SALE: $7,104,000 8/24/94 @ 5.6836% TIC; 10yrs 11mos Avg; BBI-6.22%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    502,000</p>
+<p>1998		    500,000</p>
+<p>1999		    500,000</p>
+<p>2000		    500,000</p>
+<p>2001		    400,000</p>
+<p>2002		    340,000</p>
+<p>2003		    340,000</p>
+<p>2004		    340,000</p>
+<p>2005		    340,000</p>
+<p>2006		    325,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

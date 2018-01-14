@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32872" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PriCellular, BellSouth in license swap deal.</title>
+<headline>PriCellular, BellSouth in license swap deal.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>PriCellular Corp said on Wednesday it agreed to swap two Alabama wireless licenses for one owned by BellSouth Corp in Wisconsin and $18 million in cash, subject to Federal Communications Commission approval.</p>
+<p>PriCellular is swapping a license covering Florence, Ala., with a population of 137,000, and an adjacent rural license with a population of 62,000, and will gain a rural Wisconsin license with a population of 118,000.</p>
+<p>BellSouth's payment will make up for the difference in population (pops) of the swapped territories, it said. Once the deal goes through PriCellular will have 4.1 million pops in total. -- Nick Louth, New York Newsroom 212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

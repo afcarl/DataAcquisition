@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132717" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Jason Inc Q3 net rises.</title>
+<headline>Jason Inc Q3 net rises.</headline>
+<dateline>MILWAUKEE 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.11		    $0.07</p>
+<p> Net			  2,270		    1,406</p>
+<p> Revs		     106,730		   96,453</p>
+<p> Avg shrs		  20,604		   20,691</p>
+<p>(All Data Above 000s Except Per Share Numbers)  </p>
+<p>		     NINE MONTHS</p>
+<p> Shr			  $0.38		    $0.40</p>
+<p> Net			  7,745		    8,285</p>
+<p> Revs		     322,395		  312,352</p>
+<p> Avg shrs		  20,571		   20,653</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILWAUKEE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

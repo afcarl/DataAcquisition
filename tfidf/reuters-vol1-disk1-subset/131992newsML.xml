@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131992" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: Malaysia's Oct 1-20 palm oil exports 514,229t - SGS.</title>
+<headline>Malaysia's Oct 1-20 palm oil exports 514,229t - SGS.</headline>
+<dateline>KUALA LUMPUR 1996-10-21</dateline>
+<text>
+<p>Cargo surveyor Societe Generale de Surveillance (SGS) Malaysia Sdn Bhd said it estimated Malaysia's palm oil exports for October 1-20 at 514,229 tonnes against 413,743 tonnes in September 1-20.</p>
+<p>It said the exports comprised 114,643 tonnes of RBD palm oil, 230,160 tonnes of RBD palm olein and 57,622 tonnes of RBD palm stearin. The other products accounted for 111,804 tonnes.  </p>
+<p>India, the main buyer during the period, took 79,970 tonnes, while China 78,200, Pakistan 73,250 and United States 34,028.</p>
+<p>Countries in the European Union bought 92,023 tonnes.</p>
+<p>-- Kuala Lumpur newsroom (603-230-8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

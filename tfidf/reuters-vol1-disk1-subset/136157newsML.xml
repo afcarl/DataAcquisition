@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136157" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: PureTec Corp year loss narrows.</title>
+<headline>PureTec Corp year loss narrows.</headline>
+<dateline>RIDGEFIELD, N.J. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	loss   $0.32	   loss   $0.95</p>
+<p> Net	loss   8,173	   loss   16,908</p>
+<p> Oper shr profit 0.04	    loss   0.09</p>
+<p> Oper net profit 1,736	   loss   1,646</p>
+<p> Revs		344,847		  52,324</p>
+<p> Avg shrs	  27,268		   17,751</p>
+<p>	 (All data above 000s except per share numbers)</p>
+<p>NOTE: The company said Q4 data was not ready because it needed time to create proforma 1995 Q4 results to include the merger between PureTech International and Ozite Corp.</p>
+<p>Net fiscal 1996 results included one-time $8.6 million charge due to shutdown of certain facilities.</p>
+<p>Net fiscal 1995 results included $4.8 million loss from discontinued operations.</p>
+<p>Excluding one-time charges, PureTec had 1996 oper earnings of $0.04 per share.</p>
+<p>Fiscal 1995 results are before the merger. If the merger had occuRred at the start of fiscal 1995, the company would have had a proforma loss of $0.93 per share, including one-time charges.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIDGEFIELD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132123" id="root" date="1996-10-21" xml:lang="en">
+<title>SOUTH KOREA: Samsung says to supply parts to Boeing.</title>
+<headline>Samsung says to supply parts to Boeing.</headline>
+<dateline>SEOUL 1996-10-21</dateline>
+<text>
+<p>South Korea's Samsung Aerospace Industries Co said on Monday it had agreed to supply parts to Boeing Co to build 747-500 planes.</p>
+<p>A Samsung statement did not put a value on the deal, saying details would be announced later.  </p>
+<p>The statement said Northrop Grumman Corp would also participate in the project to build the 500- to 600- seat planes based on Boeing's existing 747-400 model.</p>
+<p>Samsung Aerospace, part of the Samsung Group  SAGR.CN, expects to be awarded contracts worth around $200 million from the project, the statement said.</p>
+<p>Samsung would supply such parts as fuselages and tail wings, it said.</p>
+<p>-- Seoul Newsroom (822) 727-5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3640047">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

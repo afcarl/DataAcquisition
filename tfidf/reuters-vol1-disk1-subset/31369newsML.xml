@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31369" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: SOCCER-SINGAPORE PLAYER PARALYSED AFTER FALL.</title>
+<headline>SOCCER-SINGAPORE PLAYER PARALYSED AFTER FALL.</headline>
+<dateline>SINGAPORE 1996-09-04</dateline>
+<text>
+<p>Former Singapore international Anthony Samy has been paralysed from the neck down after falling awkwardly during a soccer match, the New paper reported on Wednesday.</p>
+<p>The evening newspaper said the 31-year-old, who played for Singapore from 1986-87, collided with another player during a friendly between Woodlands Wellington and Selangor.</p>
+<p>He was taken to hospital, where doctors said damage to his spinal column had left him permanently paralysed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131816" id="root" date="1996-10-21" xml:lang="en">
+<title>UK: US trial for Shire Pharma's Reminyl started.</title>
+<headline>US trial for Shire Pharma's Reminyl started.</headline>
+<dateline>LONDON 1996-10-21</dateline>
+<text>
+<p>Drug development company Shire Pharmaceuticals Group Plc said on Monday that a Phase III clinical trial for its Reminyl drug for Alzheimer's disease had started in the United States.</p>
+<p>The company said patient enrolment for the double-blind, placebo-controlled trial, which was being undertaken by Johnson &amp; Johnson unit Janssen Pharmaceutica NV, had already begun and was expected to proceed very rapidly in coming months.</p>
+<p>The U.S. company is Shire's co-development and licensing partner for Reminyl, which is derived from daffodil bulbs.</p>
+<p>Shire's 60-centre Phase III study of Reminyl is already under way in Europe, involving some 500 patients. Results of the double-blind phase are due in mid-1997.</p>
+<p>Interim results of Shire's Phase II studies with Reminyl showed a significant improvement in cognitive performance in patients with Alzheimer's-type dementia, the company said.</p>
+<p>In late September, Shire said Johnson &amp; Johnson had already paid it about eight million stg for Reminyl, or galanthamine hydrobromide, since November 1995.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135924" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Law could curb phone company use of customer data.</title>
+<headline>Law could curb phone company use of customer data.</headline>
+<byline>Roger Fillion</byline>
+<dateline>WASHINGTON 1996-10-23</dateline>
+<text>
+<p>An obscure part of the new telecommunications law could restrict how phone companies use confidential customer data to peddle everything from calling plans and caller I.D. to Internet access and credit cards.</p>
+<p>The law pits consumer advocates who fear an onslaught of telemarketers and a loss of personal privacy against local, long-distance and cellular carriers wanting to offer their customers one-stop shopping in the new communications age.</p>
+<p>The data, which include billing records and calling patterns, are taking on added importance as local and long-distance companies, cable-TV operators and others brace to get into each other's business under the new telecom law.</p>
+<p>&quot;Everybody wants to use these data -- subject to the law -- for their marketing efforts, given that it's a much more competitive environment now,&quot; said attorney Alfred Mamlet of Steptoe &amp; Johnson. &quot;There are new technologies and new markets for the companies.&quot;</p>
+<p>The Federal Communications Commission is drafting rules to spell out the limits set by Congress on the use of &quot;customer proprietary network information.&quot; CPNI details when calls are made, the destination, the frequency and length, the number and type of phone lines ordered, and the price of the bill.</p>
+<p>Few curbs existed before the new telecom law. The new FCC rules -- which stem from a provision in the law pushed by Rep. Edward Markey, D-Mass., -- are expected in early 1997.</p>
+<p>The agency must decide what form of customer approval a carrier must receive before using the data for marketing.</p>
+<p>The rules will determine, for example, what if any okay is needed for a carrier to use a customer's long-distance calling pattern to pitch a cellular service if a customer is seen to make plenty of calls from the road.</p>
+<p>Many phone companies want the FCC to avoid stringent rules requiring detailed customer approval. Industry executives argue that consumers would benefit from flexibile rules that let companies target a customer's communications needs.</p>
+<p>&quot;It would give us the opportunity to tailor their package of services to what they need and what they want,&quot; said James Spurlock, AT&amp;T Corp.'s director of federal government affairs.</p>
+<p>But consumer and privacy groups fear the data could fall into the wrong hands without tough curbs and clear approval.</p>
+<p>They also fear an explosion in telemarketing: Companies could use CPNI to market a vast array of products and services unrelated to the phone service a customer actually receives.</p>
+<p>&quot;When consumers sign up for telehone service, they don't expect the information to be used to market non-phone services such as credit cards or investment information,&quot; said John Windhausen, general counsel for the Competition Policy Institute (CPI), a consumer advocacy group.</p>
+<p>Companies already use the information. Long-distance carriers pitch cheaper plans based on a customer's calling habits. The marketing is expected to heat up.</p>
+<p>Under contention at the FCC is whether a company can use the data derived from its long-distance business to pitch local or cellular service, without prior customer assent.</p>
+<p>The telecom law lets carriers use CPNI without prior approval when supplying the service a customer ordered.</p>
+<p>The FCC has proposed to classify phone service under three categories: local, long distance and cellular. CPNI from one could not be used to market another without a customer's okay.</p>
+<p>A number of phone companies, including several regional Baby Bell companies, have asked the FCC for just one broad category that would give them greater marketing flexibility.</p>
+<p>Texas phone regulators, by contrast, propose categories based on &quot;the exact services (the customer) has ordered.&quot;</p>
+<p>The FCC also has proposed requiring phone companies to notify customers of their right to restrict access to CPNI.</p>
+<p>Under contention is whether the notification should be oral or written, such as a notice stuffed into a bill or posted in the &quot;white pages&quot; phone directory.</p>
+<p>Consumer advocates, privacy groups and state regulators want advance written approval for use of the information.</p>
+<p>Some companies -- AT&amp;T, several of the Bells and GTE Corp. -- suggest that no response to a detailed notification about a customer's CPNI rights should amount to a customer's blessing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

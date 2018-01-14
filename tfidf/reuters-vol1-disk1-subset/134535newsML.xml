@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134535" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Oxford Resources Q1 shr $0.38 vs $0.30.</title>
+<headline>Oxford Resources Q1 shr $0.38 vs $0.30.</headline>
+<dateline>MELVILLE, N.Y. 1996-10-22</dateline>
+<text>
+<p>(dollars in thousands, except per share data)</p>
+<p>			  Three months ended  September 30,</p>
+<p> Revenues:				     1996	  1995</p>
+<p> Rental income			     $75,096    $63,255</p>
+<p>Gain on sale of retail</p>
+<p>  installment contracts		    2,600	2,030</p>
+<p> Interest and other income		 2,825	1,496</p>
+<p>Gain on vehicle dispositions and</p>
+<p>  lease terminations			 1,534	1,518</p>
+<p> Servicing income			    3,055	2,133</p>
+<p>   Total revenues			   85,110     70,432</p>
+<p>Expenses:</p>
+<p>  SG&amp;A					  12,776     10,068</p>
+<p>  Depreciation and amortization	 36,052     31,938</p>
+<p>  Interest				    26,938     21,811</p>
+<p>   Total expenses			   75,766     63,817</p>
+<p> Income from operations, before taxes  9,344	6,615</p>
+<p> Taxes on income			     3,644	2,580</p>
+<p> Net income				    5,700	4,035</p>
+<p> Net income per share*			0.38	 0.30</p>
+<p>Weighted average number of shares</p>
+<p>  outstanding(a)			    15,035     13,481 (a)</p>
+<p>NOTE: Share and per share data reflects the issuance of an additional 1,545,000 shares of Class A Common Stock on October 19, 1995</p>
+<p>Full company name is OXFORD RESOURCES CORP</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

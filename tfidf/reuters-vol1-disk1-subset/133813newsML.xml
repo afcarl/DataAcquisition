@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133813" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Texas electricity prices ease with cooler weather.</title>
+<headline>Texas electricity prices ease with cooler weather.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Bulk wholesale electricity prices in the Electric Reliability Council of Texas (ERCOT) eased slightly Tuesday with cooler weather expected to ease demand in southern Texas, industry sources said.</p>
+<p>Although demand was expected to be fairly minimal in the southern portion of the state, below normal temperatures held sway in the northern area with reports of snow in some areas.</p>
+<p>Peak, firm electricity in ERCOT for Wednesday delivery was said to be talked at $23.00-24.50 with one unconfirmed 16-hour Wednesday delivery trade at $23.85, from $23.00-26.00 per megawatt hour (MWh) on Monday, the brokers and marketers said.</p>
+<p>Off-peak ERCOT power for Wednesday delivery was said to be holding steady the $12.00-14.00 range, the sources said.</p>
+<p>November peak ERCOT electricity was talked higher at $22.00-22.50 from $20.25-20.50 late last week, while December was assessed higher at $23.00-24.00 from $22.25-22.50 per MWh, the industry sources said.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

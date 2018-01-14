@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134429" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Fruit of the Loom Inc Q3 net up.</title>
+<headline>Fruit of the Loom Inc Q3 net up.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.63		    $0.32</p>
+<p> Net			 47,800		   24,500</p>
+<p> Revs		     628,000		  641,300</p>
+<p> Avg shrs		  76,400		   76,000</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>	  NINE MONTHS</p>
+<p> Shr			  $1.42		    $0.99</p>
+<p> Net			108,100		   75,500</p>
+<p> Revs		   1,866,400		1,894,300</p>
+<p> Avg shrs		  76,200		   76,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Results for nine months ended Sept 30, 1995 include charge of $0.07 a share related to change in accounting principle.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

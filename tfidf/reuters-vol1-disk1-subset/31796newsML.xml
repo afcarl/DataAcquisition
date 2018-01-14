@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31796" id="root" date="1996-09-04" xml:lang="en">
+<title>BRAZIL: Brazilian candidate pledges to bare all for votes.</title>
+<headline>Brazilian candidate pledges to bare all for votes.</headline>
+<dateline>BRASILIA 1996-09-04</dateline>
+<text>
+<p>A Brazilian city council candidate has pledged to parade through town naked, covered only in paint, if voters elect her next month.</p>
+<p>Journalism student Allesandra Goncalves, 22, who is campaigning in Varzea Grande, the second largest city in Mato Grosso state, told the Correio Braziliense newspaper: &quot;It's not pornographic. This is political marketing.&quot;</p>
+<p>It quoted her on Wednesday as saying she was making the pledge partly for lack of funds. &quot;Running a political campaign without money is difficult. Taking your clothes off isn't.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

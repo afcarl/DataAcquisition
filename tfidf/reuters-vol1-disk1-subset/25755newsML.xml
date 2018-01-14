@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25755" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: SOCCER-SCOTTISH LEAGUE STANDINGS.</title>
+<headline>SOCCER-SCOTTISH LEAGUE STANDINGS.</headline>
+<dateline>LONDON 1996-08-31</dateline>
+<text>
+<p>Scottish league standings after</p>
+<p>Saturday's matches (tabulated - played, won, drawn, lost, goals</p>
+<p>for, goals against, points):</p>
+<p>Division one</p>
+<p> Greenock Morton	 3  2  0  1   5   2   6</p>
+<p> Dundee		    3  1  2  0   3   2   5</p>
+<p> St Johnstone	    2  1  1  0   3   0   4</p>
+<p> St Mirren		 3  1  1  1   5   4   4</p>
+<p> Airdrieonians	   2  1  1  0   1   0   4</p>
+<p> Falkirk		   3  1  1  1   1   1   4</p>
+<p> Clydebank		 2  1  0  1   1   3   3</p>
+<p> Partick		   3  0  2  1   1   2   2</p>
+<p> Stirling		  3  0  1  2   1   3   1</p>
+<p> East Fife		 2  0  1  1   0   4   1</p>
+<p>Division two</p>
+<p> Livingston		3  3  0  0   6   2   9</p>
+<p> Queen of South	  3  2  0  1   5   4   6</p>
+<p> Ayr			 3  1  2  0   8   2   5</p>
+<p> Stenhousemuir	   3  1  1  1   6   1   4</p>
+<p> Hamilton		  3  1  1  1   3   2   4</p>
+<p> Stranraer		 3  1  1  1   3   3   4</p>
+<p> Brechin		   3  0  3  0   2   2   3</p>
+<p> Clyde		     3  1  0  2   2   5   3</p>
+<p> Dumbarton		 3  0  2  1   3   4   2</p>
+<p> Berwick		   3  0  0  3   1  14   0</p>
+<p>Division three</p>
+<p> Albion			3  3  0  0  5  0    9</p>
+<p> Forfar			3  2  0  1  7  4    6</p>
+<p> Cowdenbeath		 3  2  0  1  4  3    6</p>
+<p> Arbroath		    3  1  2  0  4  2    5</p>
+<p> Alloa			 3  1  1  1  3  3    4</p>
+<p> Queen's Park		3  1  1  1  6  8    4</p>
+<p> Montrose		    3  1  0  2  3  4    3</p>
+<p> Inverness Thistle	 3  1  0  2  3  6    3</p>
+<p> East Stirling	     3  0  2  1  3  4    2</p>
+<p> Ross County		 3  0  0  3  3  7    0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

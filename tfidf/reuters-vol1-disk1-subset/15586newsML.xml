@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15586" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: U.S. says three firms sign price-fixing plea deals.</title>
+<headline>U.S. says three firms sign price-fixing plea deals.</headline>
+<dateline>WASHINGTON 1996-08-27</dateline>
+<text>
+<p>The U.S. Justice Department said Tuesday that three companies and three of their executives have agreed to plead guilty and pay more than $20 million in criminal fines as part of the government's price-fixing investigation involving Archer Daniels Midland Co.</p>
+<p>It said Ajinomoto Co. Inc. and Kyowa Hakko Kogyo Co. Ltd., both based in Toyko, and the U.S. unit of the South Korean firm Sewon Company Ltd. admitted conspiring to fix prices to eliminate competition in the worldwide market for lysine, an animal feed supplement.  </p>
+<p>The Justice Department said the three corporations have agreed to cooperate fully with the continuing investigation by providing witnesses who will be available to testify in the United States and documents.</p>
+<p>The Justice Department has been conducting a long-running investigation into allegations of lysine price fixing involving Archer Daniel Midlands and a number of its top executives.</p>
+<p>&quot;This is the department's first action against international cartel activity in the food and feed additive industry,&quot; Assistant Attorney General Joel Klein said in a statement.</p>
+<p>&quot;It sends a message to the entire world that criminal collusive behaviour that harms U.S. consumers will not be tolerated,&quot; he said, announcing that the plea agreements have been signed and that the criminal case has been filed in federal court in Chicago.  </p>
+<p>The charges alleged the defendants conspired among themselves and with unnamed co-conspirators to suppress and eliminate competition in the lysine market from June 1992 until June last year, in violation of the federal antitrust laws.</p>
+<p>The Justice Department charged that the defendants and the unnamed co-conspirators:</p>
+<p>-- held meetings and conversations to discuss prices and volumes of lysine sold in the United States and elsewhere;</p>
+<p>-- agreed to charge prices at certain levels and to increase lysine prices; and to allocate among the firms the volume of lysine to be sold;</p>
+<p>-- issued price announcements and price quotations in accordance with the agreements;</p>
+<p>-- and participated in meetings and conversations aimed at monitoring and enforcing adherence to the agreed-upon prices and sales volumes.</p>
+<p>The plea agreements, in which the three firms and the three executives admit their guilt, must be accepted by a federal judge in Chicago.</p>
+<p>Ajinomoto and Kyowa Hakko each agreed to pay the maximum fine of $10 million while Sewon America will pay as much as the judge deems it can reasonably afford, Justice said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

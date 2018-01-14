@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132792" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BFGoodrich to sell Tremco unit to RPM.</title>
+<headline>BFGoodrich to sell Tremco unit to RPM.</headline>
+<dateline>AKRON, Ohio 1996-10-22</dateline>
+<text>
+<p>BFGoodrich Co said Tuesday that it has an agreement with RPM Inc for RPM to acquire Tremco Inc, a BFGoodrich subsidiary that manufactures and sells sealants and coatings.</p>
+<p>The purchase price was not disclosed.</p>
+<p>Goodrich said it expects to realize a gain on the sale, which it expects to complete early in the first quarter of 1997.</p>
+<p>The company said that the sale of Tremco, which had sales of about $350 million in 1995, will allow Goodrich to accelerate expansion of its core specialty chemicals and aerospace businesses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AKRON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

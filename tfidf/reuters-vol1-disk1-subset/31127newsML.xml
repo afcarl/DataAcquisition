@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31127" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: Greenalls plans 25 mln stg buy-back of Pubco bond.</title>
+<headline>Greenalls plans 25 mln stg buy-back of Pubco bond.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Greenalls Group Plc plans to buy 25 million stg of 11.25 percent Pubco Corp bonds due 2006, Greenalls said in a statement on Wednesday.</p>
+<p>The bonds will be bought at a spread over the 7.50 percent 2006 gilt, which will be fixed by tender on September 6.</p>
+<p>Greenalls's subsidiary The Boddington Group is repaying 25 million stg advanced to it by Pubco.</p>
+<p>There is 111 million stg of the paper outstanding.</p>
+<p>-- London Newsroom +44 171 542 7748</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I66200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

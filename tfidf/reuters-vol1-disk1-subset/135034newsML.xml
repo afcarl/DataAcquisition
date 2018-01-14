@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135034" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: PRESS DIGEST - London-based Arab newspapers - Oct 22.</title>
+<headline>PRESS DIGEST - London-based Arab newspapers - Oct 22.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- Iran and the Gulf Arab States need $160 billion to raise their daily production of oil to 37 billion barrels in 2010.</p>
+<p>- Egyptian oil minister says political disparity with Israel will not affect gas supply plans.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- A big blaze in Savola oil plant in Bahrain causes a loss of about ten million dinars.</p>
+<p>- Saudi Agriculture Ministry allocates 376 million riyals for 60 projects.</p>
+<p>- Qatar's Al Rayan oil field will start working in November 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

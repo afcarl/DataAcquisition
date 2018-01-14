@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25742" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: CRICKET-PAKISTAN WIN TOSS, PUT ENGLAND IN TO BAT.</title>
+<headline>CRICKET-PAKISTAN WIN TOSS, PUT ENGLAND IN TO BAT.</headline>
+<dateline>BIRMINGHAM, England 1996-08-31</dateline>
+<text>
+<p>Pakistan won the toss and put England in to bat in the second limited overs cricket international at Edgbaston on Saturday.</p>
+<p>Surrey all-rounder Adam Hollioake was making his England debut, replacing Lancashire batsman Graham Lloyd, with seamer Peter Martin again being omitted from the 13.</p>
+<p>Pakistan kept the side who lost to England by five wickets at Old Trafford on Thursday in the first of the three one-day matches.</p>
+<p>Teams:</p>
+<p>England: Mike Atherton (captain), Nick Knight, Alec Stewart, Graham Thorpe, Matthew Maynard, Adam Hollioake, Ronnie Irani, Robert Croft, Darren Gough, Dean Headley, Alan Mullally.</p>
+<p>Pakistan: Aamir Sohail, Saeed Anwar, Ijaz Ahmed, Salim Malik, Inzamam-ul-Haq, Wasim Akram (captain), Moin Khan, Saqlain Mushtaq, Mushtaq Ahmed, Waqar Younis, Ata-ur-Rehman.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIRMINGHAM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132945" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: NWE straight-run fuel - Russian still available.</title>
+<headline>NWE straight-run fuel - Russian still available.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Low sulphur straight run fuel was quiet on Tuesday with nothing heard done following a deal late yesterday at $144.50 fob NWE.</p>
+<p>&quot;It was tank material so the market is probably a touch higher, not that much is going on,&quot; said one trader Few cargoes were avaiable with most sellers looking to defer until November in the hope of higher prices. U.S interest was fading with the arbitrage no longer working.</p>
+<p>High sulphur straight run was quieter after two, possibly three deals yesterday. Traders said good avails was letting people pick cargoes up from the low to mid $120s cif NWE depending on water content.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

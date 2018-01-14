@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18122" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: British trade deficit stable in June.</title>
+<headline>British trade deficit stable in June.</headline>
+<dateline>LONDON 1996-08-28</dateline>
+<text>
+<p>Britain's global trade deficit was unchanged at 1.12 billion pounds ($1.75 billion) in June, official data showed on Wednesday.</p>
+<p>Exports fell slightly to 13.63 billion and imports were also down at 14.75 billion. The Treasury said the data demonstrated the strength of export growth. Government bonds edged higher on the figures. ($1=.6415 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

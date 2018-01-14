@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32603" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. crudes ease late on Iraq, finds API support.</title>
+<headline>U.S. crudes ease late on Iraq, finds API support.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>U.S. crudes eased Wednesday on diminished concerns over Iraqi troop incursions but were later aided by relatively large draws in overall crude oil stocks.</p>
+<p>News that Iraqi troops had pulled out of Kurdish regions in northern Iraq after U.S. air strikes later in the day, brought NYMEX crude prices down from morning highs.</p>
+<p>Outright prices also revived on American Petroleum Institute (API) data showing a 5.6 million barrel draw in crude stocks and a drop in imports to 6.7 million barrels.</p>
+<p>October West Texas Intermediate/Cushing was at $23.20-30 a barrel, with the Oct/Nov roll steady around 70 cts.  </p>
+<p>Domestic trade was moderately active in narrowly softer ranges with activity spread across the grades.</p>
+<p>Light Louisiana Sweet/St. James moved several times at WTI plus 33 cents, barely changed from Tuesday. WTI/Midland traded between plus eight and 10 cents, modestly softer than Tuesday.</p>
+<p>Eugene Island was done at a negative $1.03 and $1.05 to WTI/Cushing, while West Texas Sour/Midland moved at minus $1.20/1.22, both at relatively stable levels.</p>
+<p>WTI/Cushing Postings Plus was the most active, trading between $2.33 and $2.41, and drawing refiner short covering amid a steeper price backwardation recently.</p>
+<p>Elswehere, Hurricane Fran threatening the U.S. Atlantic coast also lent some psychological support, although no disruptions were reported to refinery operations or shipping.</p>
+<p>--Jacqueline Wong, New York Energy Desk, +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

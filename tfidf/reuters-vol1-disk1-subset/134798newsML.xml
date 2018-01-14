@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134798" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Intl Remote sees Q3 loss, to take Q4 charge.</title>
+<headline>Intl Remote sees Q3 loss, to take Q4 charge.</headline>
+<dateline>CHATSWORTH, California 1996-10-21</dateline>
+<text>
+<p>International Remote Imaging Systems Inc said it expected to report an operating loss for the third quarter and that it would reduce its workforce by 20 percent.</p>
+<p>In a news release after the market closed on Monday, the company said it expected the restructuring to save more than $1 million annually, after a one-time charge to earnings of about $900,000 in the fourth quarter.</p>
+<p>International Remote attributed a large part of the expected third-quarter loss to growth in operating expenses outpacing that of sales. Although third-quarter sales increased year on year, they were below the company's expectations, it said.</p>
+<p>Gross margins were hurt by introductory discounts on the company's new Model 900UDx urine pathology workstation. Operating expenses increased principally from refinements of the White IRIS leukocyte differential analyser in preparation for commercial launch.</p>
+<p>The company said the restructuring was primarily aimed at restoring profitability following recent acquisitions.</p>
+<p>Most of the reductions in the workforce would take place at the company's headquarters in Chatsworth, it added.</p>
+<p>The company's employment roll is estimated to be around 150.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHATSWORTH, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

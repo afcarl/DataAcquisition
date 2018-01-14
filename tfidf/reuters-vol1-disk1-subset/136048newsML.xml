@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136048" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Triad Systems Corp net falls, with charge.</title>
+<headline>Triad Systems Corp net falls, with charge.</headline>
+<dateline>LIVERMORE, Calif. 1996-10-23</dateline>
+<text>
+<p>Triad Systems Corporation</p>
+<p>			CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>				  September 30,	  September 30,</p>
+<p>				   1996	 1995	1996     1995</p>
+<p>(Amounts in thousands</p>
+<p>except per share data)</p>
+<p>     Total revenues	50,074     47,807   175,676  175,077</p>
+<p>   Restructuring charge	--	   --     9,000	 --</p>
+<p> Operating income	   3,991	6,457     5,533   20,532</p>
+<p>Income before</p>
+<p>  extraordinary charge    2,294	2,958     1,559    8,426</p>
+<p>Extraordinary charge on</p>
+<p>retirement of debt, net</p>
+<p>     of taxes		 (377)	(243)     (377)    (396)</p>
+<p> Net income		   1,917	2,715     1,182    8,030</p>
+<p>Earnings per share</p>
+<p>Primary</p>
+<p>Income before</p>
+<p>extraordinary</p>
+<p>	 charge		  0.13	 0.17	0.09     0.48</p>
+<p>     Net income		0.11	 0.16	0.07     0.46</p>
+<p>Weighted average</p>
+<p>	shares		 17,727     17,268    17,570   17,774</p>
+<p>Fully diluted</p>
+<p>Income before</p>
+<p>extraordinary</p>
+<p>	 charge		  0.13	 0.17	0.09     0.48</p>
+<p>     Net income		0.11	 0.15	0.07     0.45</p>
+<p>Weighted average</p>
+<p>	shares		 17,727     17,810    17,570   17,973</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIVERMORE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

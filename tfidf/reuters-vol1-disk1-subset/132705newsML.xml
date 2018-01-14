@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132705" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Kimberly-Clark sees $600 mln sale proceeds. [CORRECTED 18:51 GMT]</title>
+<headline>Kimberly-Clark sees $600 mln sale proceeds. [CORRECTED 18:51 GMT]</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>Kimberly-Clark Corp said on Tuesday that it was looking for a buyer for Toronto-based Scott Paper Ltd, and that it expected $600 million in proceeds from the divestitures in 1996. (Corrects from &quot;proceeds from the sale in 1996&quot; to make clear that $600 million not just from Scott sale.)</p>
+<p>Kimberly-Clark said on April 18 it planned to sell its 50.1 percent stake in Scott Paper, and Scott said its advisors were seeking a buyer for 100 percent of the company.</p>
+<p>Chief Financial Officer Jack Donehower told a conference call, &quot;While we cannot reveal full details, the process is works to find a buyer for the whole company.&quot;</p>
+<p>He said the $600 million in proceeds Kimberly-Clark would receive from divestitures (corrects from &quot;the sale&quot;) contributed to the company's strong 1996 cash flow position.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

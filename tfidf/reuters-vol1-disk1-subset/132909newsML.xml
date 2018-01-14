@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132909" id="root" date="1996-10-22" xml:lang="en">
+<title>GREECE: LIST OF GREEK TELECOM OTE PRICE CHANGES FOR '97.</title>
+<headline>LIST OF GREEK TELECOM OTE PRICE CHANGES FOR '97.</headline>
+<dateline>ATHENS 1996-10-22</dateline>
+<text>
+<p>The following is a list of price changes announced by Greece's state telecom OTE, effective January 1, 1997:</p>
+<p>- The new telephone connection fee is cut to 40,000 drachmas from 50,000, down by 20 percent.</p>
+<p>- The basic monthly fee, regardless of calls, rises to 1,850 from 1,650 drachmas, up by 12.12 percent.</p>
+<p>- The local three-minute call rises to 11.5 drachmas from 10.2, up by 12.75 percent.</p>
+<p>- Long distance calls within Greece are cut by 1.78 percent on the average. The four-zone charging system is changed to a three-zone system, eliminating the fourth and most expensive zone altogether.</p>
+<p>- International calls to Europe rise by seven percent.</p>
+<p>- International calls to United States, Canada, Australia are cut by 18 percent.</p>
+<p>- Hellascom network service fees are hiked by 10 percent.</p>
+<p>- Hellaspak network fees are cut by 15 percent.</p>
+<p>--Dina Kyriakidou, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

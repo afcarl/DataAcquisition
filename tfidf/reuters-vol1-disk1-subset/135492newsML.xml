@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135492" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH KOREA: S.Korea to tender for pork, chicken in November.</title>
+<headline>S.Korea to tender for pork, chicken in November.</headline>
+<dateline>SEOUL 1996-10-22</dateline>
+<text>
+<p>South Korea will tender for 14,620 tonnes of pork and 6,500 tonnes of frozen chicken in November to meet its 1997 Minimum Market Access import quotas under the World Trade Organisation, the Ministry of Agriculture and Forestry said on Tuesday.  </p>
+<p>The tender will be conducted by the Livestock Products Marketing Organisation (LPMO). The pork tender will be held by 2.00 p.m. (0500 GMT) on November 12 and the chicken tender by 2.00 p.m. (0500 GMT) on November 15. Delivery has been set for April 30, LPMO official Kim Soon-eun told Reuters.</p>
+<p>South Korea has imported 99 percent of this year's requirement of 23,392 tonnes of pork and 85 percent of its chicken requirement of 10,350 tonnes, official figures show.</p>
+<p>South Korea plans to open its pork and chicken markets from July 1 next year.</p>
+<p>-- Seoul Newsroom (822) 727 5651</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

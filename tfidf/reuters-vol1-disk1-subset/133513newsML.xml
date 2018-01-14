@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133513" id="root" date="1996-10-22" xml:lang="en">
+<title>SINGAPORE: Alliance makes Singapore emerging markets HQ.</title>
+<headline>Alliance makes Singapore emerging markets HQ.</headline>
+<dateline>SINGAPORE 1996-10-22</dateline>
+<text>
+<p>U.S. investment group Alliance Capital Management said on Tuesday it was making Singapore the global headquarters for its US$1 billion emerging markets investment activities.</p>
+<p>Michael Laughlin, Alliance executive vice president, told reporters the move brought the management of Alliance's emerging markets funds into one location for the first time.</p>
+<p>Previously management of funds was handled in individual territories.</p>
+<p>He said the company currently manages funds totalling US$140 billion worldwide. -- Singapore newsroom (65 8703011)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

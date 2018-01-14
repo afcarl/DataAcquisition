@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136211" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: LeCroy Q1 Sept 30 shr rises to $0.23.</title>
+<headline>LeCroy Q1 Sept 30 shr rises to $0.23.</headline>
+<dateline>CHESTNUT RIDGE, N.Y. 1996-10-23</dateline>
+<text>
+<p>Three months</p>
+<p>			   (In thousands, except per share amounts)</p>
+<p>							     1996     1995</p>
+<p> Total revenues					  26,397  22,400</p>
+<p> Cost of sales					   11,520  10,283</p>
+<p>  Gross profit					   14,877  12,117</p>
+<p>Operating expenses:</p>
+<p>  Selling, general and administrative	     9,132   7,685</p>
+<p>  Research and development			    3,516   3,129</p>
+<p>  Total operating expenses			   12,648  10,814</p>
+<p> Operating income					 2,229   1,303</p>
+<p> Other (income) expenses				(154)     307</p>
+<p> Income before income taxes			   2,383     996</p>
+<p> Provision for income taxes			     830     349</p>
+<p> Net income						 1,553     647</p>
+<p> Income per common share				 0.23    0.14</p>
+<p> Weighted average number of common shares	 6,740   4,632</p>
+<p>Full comany name is LeCroy Corp</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHESTNUT RIDGE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

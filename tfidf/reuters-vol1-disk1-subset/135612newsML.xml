@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135612" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: Ciba sees U.S. Novartis decision in autumn.</title>
+<headline>Ciba sees U.S. Novartis decision in autumn.</headline>
+<dateline>BASLE, Switzerland 1996-10-22</dateline>
+<text>
+<p>Ciba-Geigy AG said it expected the U.S. Federal Trade Commission (FTC) to rule in late autumn on its proposed merger with Sandoz AG to form Novartis AG.</p>
+<p>&quot;The FTC is expected to announce its decision in late autumn,&quot; the company said in a statement.</p>
+<p>Novartis' designated chief executive, Daniel Vasella, has said in the past that the merger might be pushed back into 1997 because of slower than expected U.S. regulatory review.  </p>
+<p>&quot;The preparations for merging with Sandoz are already at an advanced stage. The merger can be implemented once the FTC has given its clearance,&quot; it said, adding it had recently announced the sales of parts of its corn herbicide and animal health activities in North America.</p>
+<p>&quot;These diverstitures respond to the FTC's concerns in these areas. Investigations in the field of gene therapy are not yet complete,&quot; it said it is statement on nine-month sales.</p>
+<p>Sandoz included a similar comment in its separate statement on nine-month sales.</p>
+<p>-- Zurich newsroom +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASLE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31722" id="root" date="1996-09-04" xml:lang="en">
+<title>SLOVENIA: Slovenia August producer prices up 0.3 pct mth/mth.</title>
+<headline>Slovenia August producer prices up 0.3 pct mth/mth.</headline>
+<dateline>LJUBLJANA 1996-09-04</dateline>
+<text>
+<p>The Slovenian Statistical Office reported the following economic indicator details.</p>
+<p>    SLOVENIA PRODUCER PRICES    Aug   July    Aug 95</p>
+<p>    Monthly change (pct)	  +0.3   +0.4   +0.4</p>
+<p>    Yr/yr change (pct)	    +7.3   +7.4  +11.5</p>
+<p>-- Marja Novak, Ljubljana newsroom, 386-61-125-8439</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

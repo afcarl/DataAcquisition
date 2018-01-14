@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32873" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Hambrecht &amp; Quist names Patrick Allen CFO.</title>
+<headline>Hambrecht &amp; Quist names Patrick Allen CFO.</headline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>Hambrecht &amp; Quist Inc said it has named Patrick Allen to replace Raymond Minehan, who will resign to pursue other interests, effective Sept. 30.</p>
+<p>The company also has named David McAuliffe, currently co-director of Investment Banking, to the additional, newly-created post of chief administrative officer.</p>
+<p>The moves come less than a month after the investment banking firm's initial public offering on August 9.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

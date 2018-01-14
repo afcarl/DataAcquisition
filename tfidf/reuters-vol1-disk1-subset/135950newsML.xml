@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135950" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Renaissance Solutions to file for offering.</title>
+<headline>Renaissance Solutions to file for offering.</headline>
+<dateline>LINCOLN, Mass. 1996-10-23</dateline>
+<text>
+<p>Renaissance Solutions Inc said on Wednesday it plans to file to offer 1.1 million shares of its common stock.</p>
+<p>Renaissance said that of those shares, about 56,400 are to be offered by the company while the rest are to be offered by certain selling stockholders.</p>
+<p>The company plans to grant the underwriters an option to purchase up to an additional 165,000 shares of common stock to cover any over-allotments.</p>
+<p>The net proceeds are to be used for working capital and general corporate purposes, including possible acquisitions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LINCOLN, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136062" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: CSCE world sugar still in range, ends barely up.</title>
+<headline>CSCE world sugar still in range, ends barely up.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>Dull and rangebound activity persisted in the CSCE world sugar market as thin volume and a dearth of news remained the day's main features.</p>
+<p>March closed up 0.02 to 10.65, having ranged from 10.68 to 10.59. The back months ended the day 0.05 to 0.01 higher.</p>
+<p>Volume was estimated at only 6,487 lots.</p>
+<p>Support remained at 10.50 in March and resistance at 10.80.</p>
+<p>&quot;Producers are willing to sell on a scale-up basis from unchanged and the funds probably won't sell until (March) gets below 10.50, so there is no direct pressure,&quot; a broker said.</p>
+<p>&quot;We're locked in this range.&quot;</p>
+<p>He said March would run buy stops around 10.80.</p>
+<p>Dealers blamed thin activity in New York on tonight's annual London sugar dinner.</p>
+<p>-- Suzanne Rostler, New York Commodities, 212-859-1647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

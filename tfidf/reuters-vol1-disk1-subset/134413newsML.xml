@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134413" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: FSA says Q3 muni bond volume up 146 pct.</title>
+<headline>FSA says Q3 muni bond volume up 146 pct.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Financial Security Assurance, a unit of Financial Security Assurance Holdings Ltd, said Tuesday it insured $3.2 billion of municipal bonds in the third quarter, a 146 percent rise over the same period last year.</p>
+<p>In the third quarter of 1995, FSA and Capital Guaranty Insurance Co, which FSA acquired in December, insured a combined $1.3 billion of municipals.</p>
+<p>For the year to date, FSA insured $8.2 billion of munis, a 91 percent increase over the $4.3 billion insured by FSA and Capital Guaranty in the first nine months of 1995.  </p>
+<p>FSA said it was the first quarter that the company outpaced Financial Guaranty Insurance Co, a unit of GE Capital Services, for a spot among the three largest municipal bond insurance companies.</p>
+<p>GE Capital is a unit of General Electric Co.</p>
+<p>AMBAC Indemnity Corp, a unit of AMBAC Inc, was the top insurer for the period, just ahead of MBIA Insurance Corp, a unit of MBIA Inc.</p>
+<p>FSA also said Tuesday it insured $5.4 billion of asset-backed securities in the third quarter, compared to the $2.1 billion insured in the same period last year.</p>
+<p>For the year to date, FSA insured $12.8 billion of asset-backed deals, compared to $6.8 billion in the first three quarters of 1995.</p>
+<p>--Steven Dickson, 212-859-1652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132449" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Acordia Inc Q3 net rises.</title>
+<headline>Acordia Inc Q3 net rises.</headline>
+<dateline>INDIANAPOLIS 1996-10-22</dateline>
+<text>
+<p>(dollars in thousands, except per share data)</p>
+<p>			   Nine Months Ended   Three Months Ended</p>
+<p>				September 30	  September 30</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p>Revenues:</p>
+<p>Commissions and fees</p>
+<p>		     $482,597    $396,275    $159,898    $134,704</p>
+<p>Investment income</p>
+<p>			  4,916	 4,793	 1,721	 1,528</p>
+<p>Net realized investment</p>
+<p>     gains		 62	   525	    24	   105</p>
+<p>   Other		2,424	 1,537	   760	   628</p>
+<p> Total revenues   489,999     403,130     162,403     136,965</p>
+<p> Total expenses   425,972     349,887     142,046     123,391</p>
+<p> Operating profit  64,027	53,243	20,357	13,574</p>
+<p>Income before income taxes</p>
+<p>			 38,748	29,893	12,585	 5,772</p>
+<p> Income taxes	17,730	13,754	 5,695	 2,895</p>
+<p> Net income	  21,018	16,139	 6,890	 2,877</p>
+<p> Earnings per share  1.46	  1.12	  0.48	  0.20</p>
+<p>Weighted average</p>
+<p>shares outstanding</p>
+<p>		   14,435,530  14,423,886  14,496,604  14,322,372</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

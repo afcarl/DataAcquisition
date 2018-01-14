@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135758" id="root" date="1996-10-23" xml:lang="en">
+<title>SOUTH AFRICA: SAB SHARE OFFER INCREASED TO $413 MILLION.</title>
+<headline>SAB SHARE OFFER INCREASED TO $413 MILLION.</headline>
+<dateline>JOHANNESBURG 1996-10-23</dateline>
+<text>
+<p>South African Breweries Ltd said on Wednesday that it had increased its international share offering to $413 million (1.9 billion rand), following strong international demand.  </p>
+<p>SAB said the manager's option for a further two million share was being exercised by Robert Fleming and Co Ltd on behalf of the managers.</p>
+<p>The additional issue will take place on the same terms as the earlier issue of 16.25 million new shares.</p>
+<p>The issue takes the form of ordinary shares of 20 South African cents each and American Depositary Shares (each representing the right to receive an ordinary share) at a price of $25.43 (115 rand) per share.</p>
+<p>Proceeds of the issue, one of the largest private sector emerging market equity issues to date, will be used to fund the company's continuing international expansion.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

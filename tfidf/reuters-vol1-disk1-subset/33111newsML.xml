@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33111" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Airbus seeks partners for jetliner - WSJ.</title>
+<headline>Airbus seeks partners for jetliner - WSJ.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Airbus Industrie has been talking to aerospace manufacturers in North America and Asia about possible partnerships in its planned A3XX airliner, The Wall Street Journal reported on Wednesday.</p>
+<p>In an interview, Volker von Tein, Airbus' chief operating officer, told the newspaper an industrial alliance with a U.S. company could be far-reaching and did not exclude a large-scale manufacturing operation.</p>
+<p>Von Tien said potential candidates for a manufacturing alliance could include Canada's Bombardier Inc, Northrop Grumman and Lockheed Martin Corp.</p>
+<p>A Northrop spokesman said the company had been contacted by Airbus, a European consortium, to sound out the corporation's interest in the A3XX project.</p>
+<p>While Northrop is not interested in making structural components for the large airliner, the spokesman said Northrop is considering the possibility of making engine nacelles for the double-decker jet.</p>
+<p>He said, however, that contacts so far had been &quot;strictly exploratory.&quot;</p>
+<p>Von Tein said other possible industrial partners in the program include Italy's Alenia SpA, a unit of state-owned Finmeccanica.</p>
+<p>Von Tein said Airbus cannot exclude Chinese and Russian partners in the A3XX project, although Russia is a remote possibility because manufacturers there are financially strapped.</p>
+<p>Airbus plans to launch its long-range A3XX seating 555 passengers in three classes or more than 800 in a single-class layout in time for deliveries in 2003.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3640047">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

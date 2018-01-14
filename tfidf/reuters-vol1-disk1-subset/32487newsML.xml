@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32487" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: Indian sugar prices weaken despite festival season.</title>
+<headline>Indian sugar prices weaken despite festival season.</headline>
+<dateline>BOMBAY 1996-09-04</dateline>
+<text>
+<p>Indian sugar prices weakened on Wednesday despite the onset of the festival season, dealers said.</p>
+<p>&quot;Consumer demand was low inspite of approaching festivals and increased offerings dragged down prices,&quot; one dealer said.</p>
+<p>Ready delivery S-30 sugar fell by 3-7 rupees to 1,355/1,388 rupees per quintal and M-30 by five to 1,385/1,420 rupees. Sugar mill delivery eased by five to 1,295/1,305 rupees.</p>
+<p>The markets are closed on Thursday for a local festival.</p>
+<p>They reopen on Friday.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

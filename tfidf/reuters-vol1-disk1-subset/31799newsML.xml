@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31799" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Mexican banks' past-due loans up in June - Gov't.</title>
+<headline>Mexican banks' past-due loans up in June - Gov't.</headline>
+<dateline>MEXICO CITY 1996-09-04</dateline>
+<text>
+<p>Past-due loans in the Mexican banking sustem totalled 109.73 billion pesos at the end of June, compared to 106.59 billion pesos at the end of May, according to figures from the National Banking and Securities Commission (CNBV).</p>
+<p>The past-due loan figure does not include loan portfolio sales of 50.78 billion pesos by the banks to the government's Bank Insurance Fund (Fobaproa) since June 1995.</p>
+<p>The banks' loan-loss reserves did, however, increase to 87.62 billion pesos at the end of June, compared to 75.85 billion pesos at the end of March, according to a report from the CNBV's multiple banking commission.</p>
+<p>CNBV figures show that Mexican banks' loans portfolios totalled 838.27 billion pesos at the end of June, up from the 826.54 billion pesos posted at the end of March.</p>
+<p>Past-due loans thus increased to 13.09 percent of total loans in June, compared to 12.90 percent at the end of March.</p>
+<p>Bank deposits totalled 794.26 billion pesos during the first half of 1996, an amount that includes Investment Unit (UDI) trust funds, but does not include banks in which the government has intervened. Deposits totalled 774.20 billion pesos at the end of March.</p>
+<p>Banks currently intervened, and or under special management are Inverlat, Banco Union, Banca Cremi, Banco del Centro, Banpais, Obrero, Oriente, Interestatal, Capital and Sureste.</p>
+<p>-- Maria Luisa Aguilar, Mexico City newsroom, +525 728-9553</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

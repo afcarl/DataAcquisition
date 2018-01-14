@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31599" id="root" date="1996-09-04" xml:lang="en">
+<title>POLAND: Warsaw commodities exchange sacks president.</title>
+<headline>Warsaw commodities exchange sacks president.</headline>
+<dateline>WARSAW 1996-09-04</dateline>
+<text>
+<p>The Warsaw Commodities Exchange (WGT) sacked on Wednesday its president, Eugeniusz Sobczak, and appointed the WGT's hitherto deputy head, Jan Traczyk, to replace him, PAP news agency said.</p>
+<p>It quoted Traczyk as saying he would strive to quickly introduce derivative instruments to the exchange, which now trades mainly in grain, meat and their products on a cash basis three times a week.</p>
+<p>First transactions in commodity futures and options should take place in January or, at the latest, February 1997, Traczyk said.</p>
+<p>He noted however, that for the derivatives market to operate, the exchange needed a clearing house and a system of licensed warehouses.</p>
+<p>The WGT cooperates closely with the Chicago Board of Trade.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

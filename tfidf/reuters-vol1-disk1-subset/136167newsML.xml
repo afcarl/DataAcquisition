@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136167" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Republic Industries names Berrard president.</title>
+<headline>Republic Industries names Berrard president.</headline>
+<dateline>FT. LAUDERDALE, Fla. 1996-10-23</dateline>
+<text>
+<p>Republic Industries Inc said Wednesday that it named Steven Berrard president, co-chief executive and a member of its board.</p>
+<p>The company said that due to dramatic expansion and expected growth in the automotive sector, Republic decided to expand its most senior management position.</p>
+<p>Chairman and Chief Executive H. Wayne Huizenga said in a release that he would share the responsibilities and office of chief executive with Berrrard.</p>
+<p>Republic also appointed Harris Hudson to vice chairman of the company.  </p>
+<p>Berrard and Huizenga have worked together for over 15 years in business ventures, including Viacom Inc's Blockbuster Entertainment.</p>
+<p>Hudson will also serve as chairman of Republic's Waste and Security Services divisions.  </p>
+<p>Prior to joining the company, Berrard served as chief executive at AutoNation USA.</p>
+<p>Republic Industries had previously reported it expects to acquire AutoNation USA in December 1996.  </p>
+<p>Harris Hudson had served as Republic's president.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FT. LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

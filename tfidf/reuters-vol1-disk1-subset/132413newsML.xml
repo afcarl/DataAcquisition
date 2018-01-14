@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132413" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Koppers Q3 shr $0.27 after charges.</title>
+<headline>Koppers Q3 shr $0.27 after charges.</headline>
+<dateline>PITTSBURGH 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			 $ 0.27		  $  0.62</p>
+<p> Net			  2,544		    6,413</p>
+<p> Revs		     159,922		  140,885</p>
+<p> Avg shrs		   9,367		   10,368</p>
+<p>	  NINE MONTHS</p>
+<p> Shr			$  0.57		   $ 1.96</p>
+<p> Net			  5,527		   20,255</p>
+<p> Revs		     443,510		  398,664</p>
+<p> Avg shrs		   9,703		   10,333</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: Koppers Industries Inc said without a $10.1 million in 1996 third-quarter restructuring charge, earnings for the quarter would have been $11 million, or $1.17 a share. The results for the first nine months of 1996 include a $10.1 million litigation charge and the $10.1 million restructuring charge.</p>
+<p>-- New York newsdesk, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

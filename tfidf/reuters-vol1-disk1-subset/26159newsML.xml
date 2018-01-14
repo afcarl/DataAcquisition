@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26159" id="root" date="1996-09-01" xml:lang="en">
+<title>ITALY: ATHLETICS-KOMEN FINALLY BREAKS MORCELI RECORD.</title>
+<headline>ATHLETICS-KOMEN FINALLY BREAKS MORCELI RECORD.</headline>
+<dateline>RIETI, Italy 1996-09-01</dateline>
+<text>
+<p>Daniel Komen, who has twice been within a fraction of a second of Noureddine Morceli's world 3,000 metres record, shattered the mark by nearly five seconds on Sunday.</p>
+<p>The 20-year-old Kenyan clocked seven minutes 20.67 seconds for the non-championship event at an international meeting to break the Algerian's two-year-old mark of 7:25.11.</p>
+<p>Kenyan David Kisang took the field through 1,000 metres in 2:25.89 before Komen took the lead, clocking 4:53.18 at the 2,000 mark and carrying on to finish more than 20 seconds ahead of his nearest rival.</p>
+<p>Kenyas's Shem Kororia, was second in 7:43.17 with Italian Gennaro di Napoli third in 7:46.39.</p>
+<p>Komen, who did not make the Kenyan team for the Atlanta Olympics, was only 0.05 of a second outside Morceli's mark in Monaco last month.</p>
+<p>He clocked 7:25.87 at the Brussels grand prix on August 23, the third fastest time in history, with Morceli finishing well back in sixth place.</p>
+<p>In the previous week Komen came close to breaking Ethiopian Haile Gebreselassie's world 5,000 metres record, clocking the second fastest time in history of 12:45.09 at the Zurich grand prix.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIETI, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31903" id="root" date="1996-09-04" xml:lang="en">
+<title>PHILIPPINES: Philippine peso ends up on overnight rates hike.</title>
+<headline>Philippine peso ends up on overnight rates hike.</headline>
+<dateline>MANILA 1996-09-04</dateline>
+<text>
+<p>--------------------------Sept 4-------------------------</p>
+<p>* Volume slips to $96.5 million from $151 million</p>
+<p>------------------------------------------------------------</p>
+<p>The Philippine peso ended higher at 26.228 to a U.S. dollar on Wednesday from the previous 26.254 after the Central Bank raised its overnight rates.</p>
+<p>&quot;The peso rose after the Central Bank brought up its overnight borrowing rate to 12.5 percent,&quot; said one trader.  </p>
+<p>Total volume dropped to $96.5 million from $151 million, as the peso moved between a high of 26.227 and a low of 26.243.</p>
+<p>Dealers say they expect the value of the peso to stay at current high levels unless the Central Bank brings down overnight rates in the next few days.</p>
+<p>The Central Bank had raised its overnight rates for two consecutive sessions to curb speculation in the foreign exchange market following the steep fall of treasury bill rates on Monday.</p>
+<p>--KATHERINE ESPINA (632) 841-89-36, FAX 817-6267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

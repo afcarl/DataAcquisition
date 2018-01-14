@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136182" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: ACE Cash Express Q1 shr rises to $0.08.</title>
+<headline>ACE Cash Express Q1 shr rises to $0.08.</headline>
+<dateline>IRVING, Texas 1996-10-23</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>					 Three Months Ended Sept 30</p>
+<p>					   1996			  1995</p>
+<p> Revenues		   $	 19,021	   $	 14,067</p>
+<p> Total store expenses	     14,006		     10,854</p>
+<p> Region expenses		     1,764			1,205</p>
+<p> Headquarters expenses	     1,227			  964</p>
+<p> Franchise expenses		    238			   --</p>
+<p>Other depreciation and</p>
+<p>  amortization			   656			  485</p>
+<p> Interest expense, net		 548			  287</p>
+<p> Other expense			    16			    2</p>
+<p> Income before income taxes	  566			  270</p>
+<p> Income taxes			    221			  102</p>
+<p> Net income				345			  168</p>
+<p> EBITDA				  2,542			1,662</p>
+<p> Earnings per share		    .08			  .04</p>
+<p>Avg shares outstanding	     4,327			4,199</p>
+<p>Full company name is ACE Cash Express Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

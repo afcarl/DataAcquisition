@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134516" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: FP&amp;L shuts Turkey Pt 4 Fla. power plant.</title>
+<headline>FP&amp;L shuts Turkey Pt 4 Fla. power plant.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Florida Power &amp; Light Co shut its 666 megawatt (MW) Turkey Point 4 nuclear power plant late Monday to repair a feedwater heater, the Nuclear Regulatory Commission (NRC) said Tuesday.</p>
+<p>The NRC said the outage was expected to be brief, with the unit likely returning to service late Wednesday.  </p>
+<p>FP&amp;L officials were not immediately available to comment about the outage.</p>
+<p>The adjoining Turkey Point unit 3, also 666 MW, was operating at full output, NRC said.</p>
+<p>FP&amp;L is the operator and owner of the Turkey Point nuclear units in Florida City, Fla.</p>
+<p>The utility also operates two 839 MW nuclear units at the St Lucie generating complex on Hutchinson Island, Fla. The St Lucie units were producing power at full capacity, according to the daily NRC report.</p>
+<p>The four nuclear units account for roughly a fourth of the company's installed production capacity.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

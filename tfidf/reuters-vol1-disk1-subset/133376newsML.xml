@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133376" id="root" date="1996-10-22" xml:lang="en">
+<title>PERU: U.S. anti-drug head visits Peru crop projects.</title>
+<headline>U.S. anti-drug head visits Peru crop projects.</headline>
+<dateline>LIMA 1996-10-22</dateline>
+<text>
+<p>U.S. anti-drug chief Barry McCaffrey visited U.S.-funded alternative crop programmes in Peru's lush River Apurimac valley on Tuesday with Peruvian President Alberto Fujimori.</p>
+<p>McCaffrey and Fujimori inspected projects to encourage local farmers to substitute fields of coca, the raw product for cocaine, for other products like cocoa, coffee, cotton and corn.</p>
+<p>Peru is the world's largest grower of coca leaf, accounting for more than two-thirds of total production.</p>
+<p>McCaffrey, a former commander-in-chief of the United States Southern Command, arrived in Lima late on Monday from Panama and is due to return to the United States on Wednesday night.</p>
+<p>He said a proposal by Panama's government to turn a U.S. military base in Panama into an international centre to fight drug trafficking deserved serious study.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

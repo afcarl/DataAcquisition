@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132341" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. Cattle/Beef Daily Summary.</title>
+<headline>U.S. Cattle/Beef Daily Summary.</headline>
+<text>
+<p>Midwest and High Plains Direct Slaughter Cattle: Tue, Oct 22, 1996</p>
+<p>		:  Tex-OK :    KS   :    NE   :   IA    :    CO   :  5 Area</p>
+<p>Tue Sales   :     100 :    None :   2,500 :   1,500 :   1,400 :   5,500</p>
+<p>Week to Date:  13,100 :   3,300 :   7,500 :   4,900 :   1,400 :  30,200</p>
+<p>Sm Pd Lst Wk:  76,700 :  32,300 :  36,000 :  20,400 :   6,600 : 172,000</p>
+<p>Sm Pd Lst Yr:  16,900 :   4,400 :  15,600 :  16,000 :     300 :  53,200</p>
+<p>Tue Lv Strs :   ----- :   ----- :   69.50-:   ----- :   ----- :  69.50-</p>
+<p>		:	   :	   :   70.00 :	   :	   :  70.00</p>
+<p>Tue Lv Hfrs :   69.00 :   ----- :   70.00 :   70.00 :   ----- :  69.00-</p>
+<p>		:	   :	   :	   :	   :	   :  70.00</p>
+<p>Tue Dr Strs :	   :	   :  112.00-:  112.00-:  113.00 : 112.00-</p>
+<p>		:	   :	   :  113.00 :  113.00 :	   : 113.00</p>
+<p>Tue Dr Hfrs :	   :	   :  111.00-:  112.00-:  113.00 : 111.00-</p>
+<p>		:	   :	   :  113.00 :  113.00 :	   : 113.00</p>
+<p>Live Steers : (Weighted averages for Mon, Oct 21, 1996)</p>
+<p> No. Head   :     230 :     --- :	48 :     226 :     --- :     504</p>
+<p> Av. Weight :    1172 :    ---- :    1225 :    1231 :    ---- :    1203</p>
+<p> Av. Price  :   69.00 :   ----- :   70.00 :   69.81 :   ----- :   69.46</p>
+<p>Live heifers: (Weighted averages for Mon, Oct 21, 1996)</p>
+<p> No. Head   :     151 :     --- :	47 :     162 :     --- :     360</p>
+<p> Av. Weight :    1191 :    ---- :    1225 :    1177 :    ---- :    1189</p>
+<p> Av. Price  :   68.00 :   ----- :   70.00 :   69.50 :   ----- :   68.94</p>
+<p>Dressed Steers: (Weighted averages for Mon, Oct 21, 1996)</p>
+<p> No. Head   :     --- :     --- :     --- :     141 :     --- :     141</p>
+<p> Av. Weight :    ---- :    ---- :    ---- :    1232 :    ----     1232</p>
+<p> Av. Price  :  ------ :  ------ :  ------ :  111.69 :  ------ :  111.69</p>
+<p>Dressed Heifers: (Weighted averages for Mon, Oct 21, 1996)</p>
+<p> No. Head   :     --- :     --- :     --- :     183 :     --- :     183</p>
+<p> Av. Weight :    ---- :    ---- :    ---- :    1135 :    ---- :    1135</p>
+<p> Av. Price  :  ------ :  ------ :  ------ :  111.10 :  ------ :  111.10</p>
+<p>Mon,Ttl Wted:     381 :   ----- :	95 :     712 :   ----- :   1,188</p>
+<p>Ttl others  :  12,265 :   3,269 :   1,316 :     588 :   ----- :  17,438</p>
+<p>(10-22-96) Boxed Beef Cutout Value: Choice	 Select     263 Fab lds</p>
+<p>			 550-700 lbs  106.69  -0.14   99.19 -0.23  31 50s lds</p>
+<p>			 700-850 lbs  104.79  -0.48   97.16 -0.15  24 Grd lds</p>
+<p>						  (10-22-96)  (--------)  Wk to date</p>
+<p>Est'd Fed Inspected Cattle Slaughter:   132,000		    245,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133462" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: Australia hints at U.N. vote-buying.</title>
+<headline>Australia hints at U.N. vote-buying.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>A stunned Australia said on Tuesday it was disappointed at failing to win a U.N. Security Council seat and hinted that vote-buying may have ruined its campaign.</p>
+<p>Australia's ambassador to the United Nations Richard Butler said the outcome had stunned many in the U.N. and came after campaigning &quot;marked by offers, threats and blandishments&quot;.</p>
+<p>However, Butler said some U.N. members had unexpectedly paid their overdue U.N. fees in recent weeks, which enabled them to vote in the U.N. General Assembly ballots.</p>
+<p>&quot;Vote buying was not my term. That's what it has been called in a number of media reports,&quot; Butler said in a media briefing from New York. Butler cited a London Financial Times report.</p>
+<p>&quot;In recent days prior to this election, states that had not paid their dues to the U.N. suddenly came up with a cheque and paid them, which then made them eligible to vote,&quot; he said. &quot;Now, I am not in a position to say how or why that happened, but that's been characterised in some media reports...as the possibility of something like vote-buying. Delinquent states' dues were paid in the understanding that they would vote in a certain way.&quot;</p>
+<p>Butler said Australia lost more than 40 percent of its pledges in the final vote.</p>
+<p>Costa Rica, Japan, Kenya, Portugal and Sweden were elected on Monday to the powerful 15-member U.N. Security Council for two-year terms beginning on January 1, 1997.</p>
+<p>Sweden and Portugal battered Australia in a three-cornered race for two seats reserved for the group called West European and Others, now filled by Germany and Italy.</p>
+<p>Australia, which has held a Security Council seat four times, lobbied for nearly two years for a seat and thought its effort in bringing the Comprehensive Test Ban Treaty to the United Nations bolstered its candidature.</p>
+<p>Australian Prime Minister John Howard said it was disappointing to not win a security council seat and has called on the country's foreign ministry to explain why the bid failed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

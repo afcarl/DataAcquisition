@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134613" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: London timecharter fixtures.</title>
+<headline>London timecharter fixtures.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Thalassini Axia - (built 1996) 164,500 dwt del China early Nov trip via western Australia redel Japan $11,750/$12,000 daily MOSK.</p>
+<p>Gortys - (built 1993) 71,504 dwt 14 on 33 del Richards Bay early Nov trip GNS $9,000/$9,500 daily Pan Ocean.</p>
+<p>North Emperor - (built 1987) 68,308 dwt 13.8 on 30.5 del Shanghai prompt three to five months redel Far East $9,600 daily Goldbeam.</p>
+<p>Despina - (built 1993) 64,644 dwt 14 on 34 plus one del USG mid Nov trip Far East $13,250 daily plus $260,000 bb Korea Line.  </p>
+<p>Athena - (built 1979) 61,500 dwt 13 on 35 plus three del Nopac 25-30/10 two to four months redel Singapore-Japan range $8,000 daily plus $180,000 bb Kingston Maritime.</p>
+<p>Poros - (built 1980) 62,185 dwt 13.5 on 35 plus 2.5 del USG early Nov trip Far East $11,000 daily plus $200,000 bb HMM.</p>
+<p>Minghai - (built 1996) 45,593 dwt del Pori early Nov trip via Continent redel Far East $11,800 daily Moller.</p>
+<p>TBN - (built 1989) 33,000 dwt del Norway end Oct three to five months $7,450 daily Van Ommeren.</p>
+<p>Ibn Younus - (built 1977) 23,600 dwt 14.5 on 30 plus two del Hongkong 30-31/10 trip Caribbean/NCSA $6,300 daily Granco.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

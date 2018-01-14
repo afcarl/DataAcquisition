@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132448" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. Restaurant Properties  Q3 shr $0.36.</title>
+<headline>U.S. Restaurant Properties  Q3 shr $0.36.</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>($000's)</p>
+<p>			     Three Months Ended    Nine Months Ended</p>
+<p>			     September 30,	   September 30,</p>
+<p>				 1996	  1995	1996	1995</p>
+<p>    Net Income	   $ 2,590    $ 1,495    $ 5,774  $ 3,993</p>
+<p>Net Income Per Unit</p>
+<p>Allocable to Unitholders</p>
+<p>	(a)		  $   0.36    $  0.32    $  0.97  $  0.84</p>
+<p>Funds Generated from</p>
+<p>Operations Allocable</p>
+<p>     to Unitholders   $  3,777    $ 2,238   $  8,973  $ 6,149</p>
+<p>Funds Generated From</p>
+<p>Operations</p>
+<p>    Per Unit (a)     $   0.55    $  0.48    $  1.56  $  1.33</p>
+<p>Avg Number of Outstanding</p>
+<p>	Units	   6,966,044  4,627,747  5,829,591  4,632,582</p>
+<p>NOTES: (a)  Net income per unit is based upon primary units outstanding. Funds generated from operations/unit is cash flow from operations based upon taxable income applied to the average actual units outstanding. Full company name is U.S. Restaurant Properties Master LP.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135141" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Costello says sticks by employment forecast.</title>
+<headline>RTRS-Costello says sticks by employment forecast.</headline>
+<dateline>ADELAIDE 1996-10-22</dateline>
+<text>
+<p>Australian Treasurer Peter Costello said on Tuesday the government was sticking to its forecast for unemployment in the year to June 1997 and that the government's decision to set up a Cabinet employment committee was not a concession that the jobs situation was worsening.</p>
+<p>&quot;We actually forecast that unemployment would fall over the current year and by the year's end be about 8.25 percent,&quot; Costello told reporters.</p>
+<p>&quot;We think there are very good growth prospects and we stand by all of the forecasts that we made,&quot; he said.  </p>
+<p>&quot;We indicated in the budget we expect good employment growth over the course of the year, we think we will get that,&quot; Costello said.</p>
+<p>&quot;But the important thing to remember is we have got to look two, three, four, five years down the track and that's what we are doing,&quot; he said.</p>
+<p>Asked if the establishment of the Cabinet committee was a concession that unemployment was about to get a lot worse, he said: &quot;Of course it's not.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

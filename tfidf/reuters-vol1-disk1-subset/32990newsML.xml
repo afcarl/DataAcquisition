@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32990" id="root" date="1996-09-04" xml:lang="en">
+<title>TURKEY: Turkish lira/bond/forex closing report. [CORRECTED 15:00 GMT]</title>
+<headline>Turkish lira/bond/forex closing report. [CORRECTED 15:00 GMT]</headline>
+<dateline>ISTANBUL 1996-09-04</dateline>
+<text>
+<p>The Turkish lira eased to 87,080 per dollar on Wednesday from 86,980 Tuesday close despite cash shortage.</p>
+<p>Dealers say higher-than-expected consumer price data and the U.S. missile attack against Iraqi military targets helped the lira fall.</p>
+<p>The central bank raised its dollar rate for banks' compulsory currency transfers to 87,000 lira at close, up from 86,950 at opening.</p>
+<p>The central bank lent a total of 11.55 trillion lira, 7.75 trillion lira of that from today's five-day repo sale at an average of 72.1 percent, and 3.8 trillion lira (corrects from 7.4 trillion lira) from overnight money it lent at 75 percent.</p>
+<p>The overnight money rate closed at 75 percent after moving between 69-74.75 percent during the day. The central bank had collected 4.4 trillion lira overnight cash on Tuesday.</p>
+<p>In the t-bill market, yields fell by one-to-three points after the treasury's 112-day t-bill auction on Tuesday, when it sold 133.8 trillion lira t-bills.</p>
+<p>The most active December 25 paper yield, sold at an average of 117.50 percent at yesterday's auction, fell to 115.50 percent.</p>
+<p>The second active February 26 paper fell to 129.07 percent from 130.10 percent Tuesday close.</p>
+<p>-- Istanbul Newsroom, +90-212-275 0875 IMA ERC</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

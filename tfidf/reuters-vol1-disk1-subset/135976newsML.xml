@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135976" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Niagara Mohawk Power Corp Q3 loss.</title>
+<headline>Niagara Mohawk Power Corp Q3 loss.</headline>
+<dateline>SARACUSE, N.Y. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.16   profit	 $0.26</p>
+<p> Net loss		  12,916   profit	46,941</p>
+<p> Revs		     895,713		  887,231</p>
+<p> Avg shrs		 144,364		  144,330</p>
+<p>		     Nine Months</p>
+<p> Shr profit		 $0.74   profit	 $1.32</p>
+<p> Net profit	     136,198   profit     220,162</p>
+<p> Revs		   3,019,547		2,950,860</p>
+<p> Avg shrs		 144,344		  144,328</p>
+<p>		     12 Months</p>
+<p> Shr profit		 $0.87   profit	 $0.71</p>
+<p> Net profit	     164,072   profit     142,740</p>
+<p> Revs		   3,986,025		3,968,970</p>
+<p> Avg shrs		 144,341		  144,264</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: First Call consensus Q3 estimate was profit $0.19.</p>
+<p>1996 Q3 loss includes charge of $68.5 million, or $0.31/shr, to increase reserve for uncollectible customer bills.</p>
+<p>1995 12 months net includes charge of $197 million, or $0.89/shr, for employee reduction program.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARACUSE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

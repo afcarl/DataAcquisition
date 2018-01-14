@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134407" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Compdent Corp Q3 shr $0.26 vs $0.18.</title>
+<headline>Compdent Corp Q3 shr $0.26 vs $0.18.</headline>
+<dateline>ATLANTA 1996-10-22</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					September 30,    September 30,</p>
+<p>					 1996     1995    1996     1995</p>
+<p> Revenues			 $37,147 $ 31,872$ 103,293$ 78,379</p>
+<p>Income:</p>
+<p>Before extraordinary item</p>
+<p>   and income tax		 4,709    2,893  12,971    5,729</p>
+<p>  Income tax provision	  2,103    1,246   5,721    2,478</p>
+<p>  Extraordinary item		  -	  -	 -    (498)</p>
+<p>     Net income		   2,606    1,647   7,250    2,753</p>
+<p>Per share:</p>
+<p>  Before extraordinary item    0.26     0.18    0.71     0.47</p>
+<p>  Extraordinary item		  -	  -	 -   (0.08)</p>
+<p>  Net income			 0.26     0.18    0.71     0.39</p>
+<p>Weighted average common</p>
+<p>    shares outstanding	 10,163    9,041  10,167    6,411</p>
+<p> EBITDA (a)			 6,795    4,063  17,871    9,078</p>
+<p>(a) Earnings before interest, taxes, and depreciation and</p>
+<p>amortization.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

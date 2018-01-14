@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132439" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: SuburbFed Financial Corp Q3 net loss.</title>
+<headline>SuburbFed Financial Corp Q3 net loss.</headline>
+<dateline>FLOSSMOOR, Ill. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary loss	 $0.34   profit	 $0.37</p>
+<p> Shr dil loss	     $0.34   profit	 $0.36</p>
+<p> Net loss		     449   profit	   493</p>
+<p>	  9  MONTHS</p>
+<p> Shr prim profit	  $1.10   profit	 $1.03</p>
+<p> Shr dil profit	   $1.10   profit	 $1.20</p>
+<p> Net profit		 1,444   profit	 1,386</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: 1996 figures before one-time $0.80 charge related to Savings Association Insurance Fund assessment.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FLOSSMOOR, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

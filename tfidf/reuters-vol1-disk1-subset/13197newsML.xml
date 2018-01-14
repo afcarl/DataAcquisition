@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13197" id="root" date="1996-08-25" xml:lang="en">
+<title>HONG KONG: Filipina stabbed to death in Hong Kong.</title>
+<headline>Filipina stabbed to death in Hong Kong.</headline>
+<dateline>HONG KONG 1996-08-25</dateline>
+<text>
+<p>Hong Kong police on Sunday arrested a Portuguese man and are hunting for another European male in connection with the killing of a Filipina in the territory.</p>
+<p>The 24-year-old Hong Kong-born Portuguese, whom police declined to name, was seen by a patrolling officer stabbing the Filipina in a Central district lane early on Sunday morning and was arrested after a chase, a police spokesman said.</p>
+<p>The 25-year-old murder victim, whom police also refused to identify, suffered injuries to her neck and head. She was rushed to hospital but certified dead on arrival.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

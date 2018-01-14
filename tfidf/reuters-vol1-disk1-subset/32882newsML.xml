@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32882" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. July construction spending fell 1.4 pct.</title>
+<headline>U.S. July construction spending fell 1.4 pct.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>U.S. Commerce Department</p>
+<p>seasonally adjusted construction spending, with comparisons.</p>
+<p>    PERCENT CHANGES: July    June--Rev from  July96/95</p>
+<p> Total Spending	-1.4     0.7     1.2	  1.8</p>
+<p>ANNUAL RATES, BILLIONS OF U.S. DOLLARS:  July'95</p>
+<p> Total Spending     554.7   562.6   565.9	545.0</p>
+<p> Private Spending   415.4   422.0   424.7	409.4</p>
+<p> -Residential	 244.0   246.7   246.1	231.3</p>
+<p> --New Housing	174.7   177.5   176.9	158.3</p>
+<p> ---Single-Family   156.5   156.7   156.1	140.6</p>
+<p> ---Multi-Family     18.2    20.8    20.7	 17.7</p>
+<p>ANNUAL RATES, BILLIONS OF U.S. DOLLARS:</p>
+<p> -			 July    June--Rev from  July'95</p>
+<p> -Nonresidential    132.3   137.2   139.7	137.7</p>
+<p> --Industrial	  27.8    28.7    29.4	 33.1</p>
+<p> --Office		24.7    26.5    25.7	 28.4</p>
+<p> Public Spending    139.3   140.6   141.1	135.6</p>
+<p>    PERCENT CHANGES: July    June--Rev from  July96/95</p>
+<p> Private Spending    -1.6     1.1     1.7	  1.5</p>
+<p> Public Spending     -0.9    -0.5    -0.5	  2.7</p>
+<p>Wall Street economists expected a 0.2 percent drop in July construction spending.  </p>
+<p>Construction spending in 1992 dollars, which discounts the effects of inflation:</p>
+<p>  Percent Changes -- July    June--Rev from</p>
+<p>  Total Spending     -1.9     0.2     0.7</p>
+<p>Annual Rates, Billions of U.S. Dollars --</p>
+<p>  Total Spending    481.3   490.8   493.7</p>
+<p>The 1.4 percent drop in total construction spending during July was the largest monthly decline since a 2.6 percent fall in five months since a 2.6 percent decrease in February. The $554.7 billion annual rate of spending in July also was the lowest since February when it was at a rate of $544.6 billion.</p>
+<p>Spending on new housing units dropped 1.6 percent in July to a $174.7 billion rate, the biggest monthly drop since a 2.4 percent decline in May 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

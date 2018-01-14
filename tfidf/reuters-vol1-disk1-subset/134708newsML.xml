@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134708" id="root" date="1996-10-22" xml:lang="en">
+<title>EGYPT: Germans say they find Alexandria's royal quarter.</title>
+<headline>Germans say they find Alexandria's royal quarter.</headline>
+<dateline>CAIRO 1996-10-22</dateline>
+<text>
+<p>Archaeologists based in Germany said on Tuesday they had discovered traces of the royal quarter of the ancient city of Alexandria, where Mark Antony wooed Cleopatra, the last pharaoh of an independent Egypt.</p>
+<p>They said in a faxed statement that a team led by marine archaeologist Franck Goddio had found the quarter in the eastern harbour of the Egyptian city.</p>
+<p>But they declined to give details until a news conference by Goddio in Alexandria on November 3.</p>
+<p>Marine archaeologists led by Frenchman Jean Yves Empereur have been retrieving ancient statuary from the northwestern corner of the eastern harbour, close to where the Pharos or lighthouse stood in classical times.</p>
+<p>Textbooks say the palace enclosure was built on al-Silsilah, a promontory that marks the eastern edge of the eastern harbour, but no remains are visible on land today.</p>
+<p>Alexandria was built for the Macedonian warrior Alexander the Great from the late 4th century BC. The Ptolemies, a dynasty founded by one of his generals, ruled Egypt from the city until the Roman invasion and it remained the capital of the country until the Arab conquest in the 7th century AD.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

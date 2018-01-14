@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13260" id="root" date="1996-08-25" xml:lang="en">
+<title>BAHRAIN: Saudi Arabian Airlines plans Dhahran-Cairo flights.</title>
+<headline>Saudi Arabian Airlines plans Dhahran-Cairo flights.</headline>
+<dateline>MANAMA 1996-08-25</dateline>
+<text>
+<p>Saudi Arabia's flag carrier Saudi Arabian Airlines Corp will resume Dhahran-Cairo flights in December after a break of more than 15 years, a Saudi newspaper said on Sunday.</p>
+<p>The English-language Arab News did not give reasons for the break but quoted airline officials as saying the carrier would operate flights three times a week on the Dhahran-Cairo route on a Monday, Wednesday and Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

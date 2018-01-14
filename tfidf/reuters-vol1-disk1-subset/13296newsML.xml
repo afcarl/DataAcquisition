@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13296" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Madonna goes down-market in Los Angeles.</title>
+<headline>Madonna goes down-market in Los Angeles.</headline>
+<dateline>LOS ANGELES 1996-08-25</dateline>
+<text>
+<p>Pop singer Madonna has paid $2.7 million for a 1920s home in Los Angeles, a property about half the size of the nearby residence she has been trying to sell, the Los Angeles Times reported on Sunday.</p>
+<p>&quot;She's scaling down,&quot; the paper quoted a source as saying. Her new purchase boasts a 3,500-square-foot (325 square-metre) main house with five bedrooms and a two-bedroom guest house.</p>
+<p>The recently restored Mediterranean-style house is in the tree-lined suburb of Los Feliz, and had been listed at $3.2 million.</p>
+<p>Her current 7,800-square foot (650-square-metre) home that overlooks the HOLLYWOOD sign has been on the market for some time, most recently at $6.5 million, the paper said.</p>
+<p>Madonna reportedly spends most of the time in her Miami residence, and she also has a place in Manhattan. She is currently awaiting the birth of her first child and the December release of her new movie, &quot;Evita.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

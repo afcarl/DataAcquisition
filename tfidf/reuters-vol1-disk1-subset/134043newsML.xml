@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134043" id="root" date="1996-10-22" xml:lang="en">
+<title>PORTUGAL: Avon Rubber unit opens Portugal factory.</title>
+<headline>Avon Rubber unit opens Portugal factory.</headline>
+<dateline>LISBON 1996-10-22</dateline>
+<text>
+<p>Avon Automotive, a division of British tyre manufacturer Avon Rubber PLC, has opened a factory in northern Portugal to manufacture automotive hoses, a spokesman said on Tuesday.</p>
+<p>The factory, opened last Friday in Tondela near the city of Viseu, will produce components for Ford factories in Valencia, Spain, and Sao Paulo, Brazil, Gordon Morris told Reuters from Avon Rubber's head office in Bradford-on-Avon in central England.</p>
+<p>He said the new factory to be operated by Portuguese subsidiary Avon Polimeros would involve an initial $5.2 million investment that was expected to increase over the next year.</p>
+<p>The factory created 50 new jobs and was expected to provide up to 100 jobs by the end of its first year of operation.</p>
+<p>&quot;The Iberian peninsula is one of the growth areas in Europe for automotive production,&quot; Morris said.</p>
+<p>Avon Automotive, which has factories in France, Mexico and the Czech Republic, has an annual turnover of 175 million stg ($280 million), about half the turnover of Avon Rubber Plc.</p>
+<p>-- David Brough, Lisbon newsroom +351-1-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

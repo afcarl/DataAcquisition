@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133052" id="root" date="1996-10-22" xml:lang="en">
+<title>KENYA: Tea prices mixed at Kenyan auction.</title>
+<headline>Tea prices mixed at Kenyan auction.</headline>
+<dateline>NAIROBI 1996-10-22</dateline>
+<text>
+<p>Tea prices were mixed at the weekly Kenyan export auction on Tuesday amid good general demand, traders said.</p>
+<p>Brighter BP1s were again discounted by 3-4 U.S. cents while mediums were firm to two cents dearer. Prices for PF1s were generally down by two cents. Brighter PDusts were about steady and brighter Dust 1s tended easier while mediums held steady.</p>
+<p>Bright fannings were irregular but generally sold at last prices.</p>
+<p>Egypt and Sudan were the main buyers. There also was activity from the UK and Afghanistan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

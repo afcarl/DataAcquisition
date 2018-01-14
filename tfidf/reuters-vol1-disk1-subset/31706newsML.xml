@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31706" id="root" date="1996-09-04" xml:lang="en">
+<title>YUGOSLAVIA: Yugo minister calls for freeze on farm debt - paper.</title>
+<headline>Yugo minister calls for freeze on farm debt - paper.</headline>
+<dateline>BELGRADE 1996-09-04</dateline>
+<text>
+<p>The Yugoslav government has proposed a five-year moratorium on debts incurred by the agriculture industry to assist the ailing sector, the Belgrade daily Nasa Borba said on Wednesday.</p>
+<p>&quot;Due to great economic exhaustion of the agriculture sector, the federal government has proposed to the National Bank of Yugoslavia that it allow agricultural producers to postpone repayment of credits for five years,&quot; Nasa Borba quoted federal Agriculture Minister Tihomir Vrebalov as saying.</p>
+<p>No one at the agriculture ministry or central bank were available for comment.</p>
+<p>Vrebalov said the government was also considering a grace period for this year but said the proposal would remain on the federal government's agenda until a decision is made.</p>
+<p>The first measure to revive primary agricultural production is to unburden it from large debts to banks, Vrebalov said.</p>
+<p>He felt there should not be any problems for the NBY to accept the government's proposal and that the central bank was only seeking modes for postponing repayment of farm credits.</p>
+<p>The agriculture sector, especially primary production, is plagued by a lack of working capital, the same problem seen in the rest of Yugoslavia's economy. -- Amra Kevic, Belgrade newsroom +381 11 2224305</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

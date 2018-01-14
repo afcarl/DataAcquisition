@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132382" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. Mid-West power prices firm with cool weather.</title>
+<headline>U.S. Mid-West power prices firm with cool weather.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Spot wholesale electricity prices in the Midwestern U.S. were mostly higher Tuesday with below-normal temperatures and even snow boosting short-term heating demand, industry sources said.</p>
+<p>Up to three inches of snow was reported in parts of Kansas and Missouri, and temperatures in Minnesota, North Dakota and Iowa were expected to reach highs in only the mid-40 degrees Fahrenheit today.</p>
+<p>&quot;It's frigid up here, and it's pushing prices higher,&quot; said one Mid-West marketer.</p>
+<p>In the East Central Area Coordination Agreement (ECAR), peak, non-firm electricity prices for Wednesday delivery were said to be higher at $18.00-22.00 per megawatt hour (MWh) from $17.00-19.00 on Monday, the brokers and marketers said.</p>
+<p>Off-peak next-day ECAR power was talked steady in the $12.50-14.00 area, the sources said.</p>
+<p>November ECAR prices held at $17.25-17.55, while December was pegged steady near $18.70-19.10.</p>
+<p>Peak, non-firm power prices for Wednesday delivery in the Mid-Continent Area Power Pool (MAPP) region were talked higher at $17.00-19.50 from $15.50-16.50 on Monday.</p>
+<p>Off-peak non-firm MAPP power was also assessed higher at $9.50-11.50 from $8.00-10.00, the sources said.</p>
+<p>In the Mid-American Interpool Network (MAIN), non-firm peak power for Wednesday delivery was said to also be stronger at $17.00-19.50 from $16.50-19.00 for Tuesday delivery.</p>
+<p>Off-peak next day MAIN power was pegged steady in the $11.50-13.00 range.</p>
+<p>In the Southwest Power Pool (SPP), peak, non-firm power for Wednesday delivery was assessed steady at strong prices of $21.00-25.00, the sources said.</p>
+<p>Off-peak prices in SPP held steady in the $12.00-14.00 area, the sources said.</p>
+<p>December SPP was discussed higher at $20.50-20.75 from the $20.25-20.50 range on Monday, the sources said.</p>
+<p>Temperatures were forecast to remain at or below normal through most of the U.S., with the exception of some above-normal temperatures in the Northeast, through to the end of October.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

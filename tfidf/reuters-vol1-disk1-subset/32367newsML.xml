@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32367" id="root" date="1996-09-04" xml:lang="en">
+<title>SWEDEN: Roof ice kills baby in Sweden, landlord convicted.</title>
+<headline>Roof ice kills baby in Sweden, landlord convicted.</headline>
+<dateline>STOCKHOLM 1996-09-04</dateline>
+<text>
+<p>The owner of a Swedish apartment block was found guilty of negligence on Wednesday after large chunks of ice slid from the building's roof and killed a baby, the Swedish news agency TT said.</p>
+<p>A court in the northern town of Lulea gave the man a suspended 30-day prison term over the March 1995 incident, which caused the death of a four-month-old boy lying in his pram.</p>
+<p>The property owner denied negligence.</p>
+<p>He told the court he and the block's caretaker had done everything within reason to stop a build-up of ice and snow on the roof, a common problem on Swedish buildings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

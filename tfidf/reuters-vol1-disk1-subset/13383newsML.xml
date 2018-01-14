@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13383" id="root" date="1996-08-25" xml:lang="en">
+<title>INDIA: Mother Teresa's condition remains grave.</title>
+<headline>Mother Teresa's condition remains grave.</headline>
+<dateline>CALCUTTA 1996-08-25</dateline>
+<text>
+<p>Mother Teresa's condition remained grave on Sunday, with her heart unstable as she remained on a respirator in a Calcutta hospital, an official said.</p>
+<p>&quot;It (her condition) hasn't changed, she hasn't improved,&quot; the official at the Woodlands Nursing Home told Reuters.</p>
+<p>The 85-year-old Nobel peace laureate's heartbeat was still irregular, but she was conscious.</p>
+<p>The official refused to elaborate, saying Mother Teresa's doctors would announce the next health bulletin at 1130 hours (0600 GMT).</p>
+<p>Dr S.K. Sen, medical director of Woodlands, said late on Saturday that the Roman Catholic nun had suffered a brief heart failure which was &quot;adequately treated&quot;.</p>
+<p>Specialist physicians are attending her round the clock.</p>
+<p>Known as the Saint of the Gutters for her devotion to the poor and homeless, Mother Teresa has been in hospital since Tuesday when she was admitted with high fever and vomiting.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

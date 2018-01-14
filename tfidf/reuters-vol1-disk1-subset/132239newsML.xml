@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132239" id="root" date="1996-10-21" xml:lang="en">
+<title>FRANCE: Cap Gemini to take full Bossard control.</title>
+<headline>Cap Gemini to take full Bossard control.</headline>
+<dateline>PARIS 1996-10-21</dateline>
+<text>
+<p>French computer services group Cap Gemini said on Monday that it planned to take full control of management consultancy company Groupe Bossard.</p>
+<p>It already owns 49 percent and said in a statement it had the agreement of the vast majority of the partners in Groupe Bossard who hold the other 51 percent.</p>
+<p>The deal should be carried out on January 1 and reinforce Cap Gemini's position in international management consultancy, it said. Bossard has 800 consultancies of which 450 are in France, it added.</p>
+<p>-- Paris Newsroom +33 01 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

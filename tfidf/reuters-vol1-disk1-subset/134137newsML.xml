@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134137" id="root" date="1996-10-22" xml:lang="en">
+<title>DENMARK: Gt.Belt issues 0.7-1.2 bln DKK 4.0 pct 2002 bond.</title>
+<headline>Gt.Belt issues 0.7-1.2 bln DKK 4.0 pct 2002 bond.</headline>
+<dateline>COPENHAGEN 1996-10-22</dateline>
+<text>
+<p>The following issue was announced by lead manager Unibank on Tuesday.</p>
+<p> BORROWER - Great Belt A/S  LEAD MGR - Unibank</p>
+<p> AMT= 700 million-1.2 bln DKK    COUPON= 4.00 pct</p>
+<p> MATURITY= 31 October, 2002</p>
+<p> GUARANTOR - Kingdom of Denmark  PAY DATE - 31 October 1996.</p>
+<p> PAY FREQUENCY - Annually on 31 October. TYPE  =Straight</p>
+<p> ISS PRICE  =To be advised. LAST MOODY = AAA    LAST S&amp;P  = AAA</p>
+<p>--Steve Weizman, Copenhagen newsroom +45 33 969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I5020006">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

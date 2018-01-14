@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133250" id="root" date="1996-10-22" xml:lang="en">
+<title>BULGARIA: Early Bulgaria general election possible -Stoyanov.</title>
+<headline>Early Bulgaria general election possible -Stoyanov.</headline>
+<dateline>SOFIA 1996-10-22</dateline>
+<text>
+<p>Bulgaria's main opposition presidential candidate, tipped by opinion polls as front-runner for Sunday's poll, has raised the possibility of an early general election if he wins in the first round.</p>
+<p>A party official said on Tuesday Petar Stoyanov had told a rally in the Black Sea port of Varna that strong support for his Union of Democratic Forces would be a vote of no confidence in the Bulgarian Socialist Party (BSP) government.</p>
+<p>&quot;If we win outright in the first round, this would create a new political situation. The vote of confidence which the BSP received in December 1994 has expired and hardly anyone will argue with a popular vote against today's BSP government,&quot; the official quoted Stoyanov as saying on Monday.</p>
+<p>&quot;There is no other democratic way to measure the mood of society so early parliamentary elections would arise from the new political situation.&quot;</p>
+<p>The Socialists have 125 seats in the 240-seat parliament, which is elected for a four-year term. The party is riven by internal splits and the BSP government is presiding over unprecedented economic crisis.</p>
+<p>The International Monetary Fund has twice postponed a badly-needed $115 million second tranche of funding, citing government delays in implementing essential structural reforms.</p>
+<p>The national currency has collapsed from 70 to the dollar to 225 this year so far and inflation is expected to exceed 200 percent by year end. Foreign exchange reserves are dwindling and power and bread shortages loom during the coming winter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

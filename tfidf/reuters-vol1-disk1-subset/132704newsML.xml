@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132704" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Sirco says new product lines to help 1997.</title>
+<headline>Sirco says new product lines to help 1997.</headline>
+<dateline>STAMFORD, Conn. 1996-10-22</dateline>
+<text>
+<p>Sirco International Corp said Tuesday it is on track to post record earnings for the 1996 fiscal year despite being hurt in the third quarter by liquidation sales of its Fila product line.</p>
+<p>Those sales were made at &quot;significantly lower margins&quot; than Fila sales during the same period in the prior year, the company said.</p>
+<p>The company said it also expects new product lines to boost results in the 1997 first quarter and for the 1997 fiscal year.  </p>
+<p>Sirco has begun to generate sales from new licenses with Perry Ellis and Skechers, and said it expects those sales to help the 1997 results.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

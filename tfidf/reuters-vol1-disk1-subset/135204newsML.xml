@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135204" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan oil industry to urge govt to cut oil taxes.</title>
+<headline>Japan oil industry to urge govt to cut oil taxes.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>The Petroleum Association of Japan (PAJ) said on Tuesday it would urge the Liberal Democratic Party, the leading party in the new government, to live up to its election pledge and reduce taxes on oil products.</p>
+<p>&quot;The oil industry will urge the Liberal Democratic Party to keep its election promise to adjust various taxes on oil products when sales taxes are raised,&quot; PAJ chairman Yuji Idemitsu said in a statement.</p>
+<p>In Sunday's general election, the LDP secured 239 seats, 12 short of the majority it needed to rule alone but enough to ensure its president, Prime Minister Ryutaro Hashimoto, would head Japan's next government.</p>
+<p>Hashimoto's outgoing administration planned to raise the national sales tax on goods and services from three percent to five percent next April.</p>
+<p>A reduction in oil taxes has been a long-standing issue for the industry, which says the current heavy taxation on oil is unfair.</p>
+<p>More than half of Japan's gasoline retail price of about 105 yen per litre is gasoline tax. On top of that, Japanese drivers must also pay the three percent sales tax.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

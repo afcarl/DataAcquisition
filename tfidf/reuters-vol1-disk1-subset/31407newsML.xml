@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31407" id="root" date="1996-09-04" xml:lang="en">
+<title>SOUTH AFRICA: S.AFRICA'S DURBAN PORT HANDLES RECORD 2,014 SHIPS.</title>
+<headline>S.AFRICA'S DURBAN PORT HANDLES RECORD 2,014 SHIPS.</headline>
+<dateline>DURBAN 1996-09-04</dateline>
+<text>
+<p>South Africa's Durban harbour, the busiest port in Africa, handled a record number of 2,014 cargo ships over July and August, Portnet said on Wednesday.</p>
+<p>&quot;The port of Durban has experienced one of the busiest periods during the months of July and August this year when the port handled the highest number of ship movements since the Suez Canal crisis during 1971,&quot; Portnet said in a statement.</p>
+<p>&quot;A record number of vessel movements, 2,014, were recorded,&quot; the parastatal said.</p>
+<p>A total of 3,668 ships were handled in all South African ports, with Cape Town recording 1,043 and Richards Bay 304 ships over the same period.</p>
+<p>-- Durban newsroom, +27 31 307-1877</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DURBAN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

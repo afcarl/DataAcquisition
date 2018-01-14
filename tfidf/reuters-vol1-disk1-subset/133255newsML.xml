@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133255" id="root" date="1996-10-22" xml:lang="en">
+<title>UKRAINE: Ukraine sows 8.20 million ha with winter grain.</title>
+<headline>Ukraine sows 8.20 million ha with winter grain.</headline>
+<dateline>KIEV 1996-10-22</dateline>
+<text>
+<p>Ukraine has so far sown 8.20 million hectares with winter grain this year, up from 7.65 million hectares at the time in 1995, a senior Agriculture Ministry official said on Tuesday.</p>
+<p>&quot;Ukraine is seeking ways to boost its grain harvest next year so we are sowing more fields with winter grain this autumn,&quot; Valentyn Tymoshenko, deputy head of the crop department, told Reuters.</p>
+<p>Tymoshenko said this year's sowing campaign is nearly finished and only the southern parts of the country await completion.</p>
+<p>The Agriculture Ministry said plans called for sowing 8.65 million hectares with winter grain in September and October.</p>
+<p>Winter wheat sowing has taken up 7.740 million hectares and the balance has been sown with winter rye and barley.</p>
+<p>Ukraine's final figure for the entire 1996 crop, forecast at 25 million tonnes after 36.5 million tonnes in 1995, will be available when the harvest campaign is finished in November.</p>
+<p>Winter wheat accounted for 13.18 million tonnes of this year's harvest figure, against 16.4 million tonnes last year.</p>
+<p>Deputy Prime Minister Mykhaylo Zubets, in charge of agriculture, forecast in September that the 1997 harvest would be 40 million tonnes but Agriculture Minister Anatoly Horishko forecast this month that it would be 35 million.</p>
+<p>Details of winter sowing:</p>
+<p>					Oct 96	  Oct 95</p>
+<p> Sown (million hectares)	8.197	   7.651</p>
+<p> Planned (million hectares)   8.647	   7.742</p>
+<p>-- Yuri Kulikov, Kiev newsroom, +380 44 229-2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31303" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: French stocks close up in technical rebound.</title>
+<headline>French stocks close up in technical rebound.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>French stocks finished higher in a technical rebound on Wednesday, helped by strong results at blue-chip energy group Total, brokers said.</p>
+<p>The blue-chip CAC-40 index closed up 13.34 points, or 0.68 percent, at 1,984.77, while the CAC-40 September futures contract finished 15 points higher at 1,992.</p>
+<p>Wednesday's rise was the second in the past eight sessions and traders said the bourse appeared to be under pressure.</p>
+<p>They said investors were likely to be cautious ahead of the U.S. August jobs figures due out on Friday.</p>
+<p>Volume totalled 3.84 billion francs.</p>
+<p>Traders said the market shrugged off a second set of missile attacks by the United States on Iraq and was encouraged by reports of planned tax cuts in the 1997 budget.</p>
+<p>Energy group Total's shares rose 0.13 percent to 385 francs, extending their recent gains, after reporting a 45 percent jump in first-half net attributable profit, reflecting higher production and higher oil prices.</p>
+<p>Rival Elf-Aquitaine, due to report first-half results on Thursday morning, also closed up 0.18 percent at 382.50 francs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

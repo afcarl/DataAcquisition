@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136342" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Scotiabank sees pick-up in Canadian growth.</title>
+<headline>Scotiabank sees pick-up in Canadian growth.</headline>
+<dateline>TORONTO 1996-10-23</dateline>
+<text>
+<p>Canadian economic growth should accelerate to more than 3.0 percent in 1997 on strong export gains and lower interest rates, the Bank of Nova Scotia said in a report.</p>
+<p>&quot;Strong export markets and the powerful domestic stimulus from sharply lower interest rates will fuel solid economic gains in 1997,&quot; said Warren Jestin, chief economist with the bank, in a statement. &quot;Overall, 1997 is shaping up to be Canada's best year this decade in terms of sustainable, broadly based economic performance.&quot;  </p>
+<p>The country's positive economic fundamentals are expected to translate into a stronger currency, the bank said.</p>
+<p>Scotiabank economists said the Canadian dollar will probably appreciate into the US$0.75 to US$0.77 range.</p>
+<p>Regionally, the bank expects Alberta to lead Canadian provinces in growth in both 1996 and 1997, with strong performances anticipated from most of Alberta's key industries.</p>
+<p>Ontario should see the second strongest growth rate after Alberta, boosted by a rebound in manufacturing. The bank expects an Ontario growth rate of over 3.5 percent in 1997.  </p>
+<p>New Brunswick and Nova Scotia are expected to lead growth in the Atlantic region, helped by diversification in higher technology sectors, Scotiabank said. Diversification, as well as strong international demand for grains, should also boost Saskatchewan and Manitoba.</p>
+<p>Growth in British Columbia is expected to match the national average next year, while Quebec's economic growth is expected to continue lagging the national average, the bank said.</p>
+<p>-- Jeffrey Hodgson (416) 941-8105, e-mail: jeffrey.hodgson@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

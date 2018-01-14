@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32483" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: Mother Teresa likely to leave hospital by weekend.</title>
+<headline>Mother Teresa likely to leave hospital by weekend.</headline>
+<dateline>CALCUTTA 1996-09-04</dateline>
+<text>
+<p>Mother Teresa, who spent several days in intensive care late last month, is fit and cheerful and likely to leave hospital by this weekend, her doctors said on Wednesday.</p>
+<p>&quot;We stopped antibiotics yesterday and she does not have any fever. By this weekend, she will be at her home,&quot; S.K. Sen, medical director at Calcutta's Woodlands Nursing Home, said.</p>
+<p>&quot;Now we can tell that she is out of danger,&quot; he told reporters.</p>
+<p>Mother Teresa, the 86-year-old Nobel peace laureate noted for her work with the poor and destitute and widely known as the Saint of the Gutters, was taken to hospital on August 20 suffering from malaria and mild pneumonia.</p>
+<p>She then suffered heart failure while in intensive care.</p>
+<p>Sen said the condition of the revered Roman Catholic missionary was now stable and her chest infection was under control.</p>
+<p>&quot;I am fit and the doctor says I am OK. I must return to my home and I have lot of things to do over there,&quot; Sen quoted Mother Teresa as saying.</p>
+<p>Doctors said she still had some cardiac irregularity but there was no cause for concern.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

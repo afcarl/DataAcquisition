@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33088" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: High Plains Wheat - Basis steady, movement slack.</title>
+<headline>High Plains Wheat - Basis steady, movement slack.</headline>
+<dateline>KANSAS CITY, Mo. 1996-09-04</dateline>
+<text>
+<p>Basis bids for hard red winter wheat were unchanged Wednesday at locations in Kansas, Oklahoma and at the Gulf, grain dealers said.</p>
+<p>Dealers said wheat movemnet continued to be slack Tuesday and early Wednesday as farmers waited for higher prices.</p>
+<p>One Oklahoma dealer said farmers in her state had been keeping busy by putting fertilizer on prospective wheat fields. But those efforts were being complicated by recent rainfall across the state.  </p>
+<p>Basis values are quoted against KCBT wheat, cash dollars/bu.</p>
+<p>			  Basis	    Prev	     Cash price</p>
+<p>KANSAS</p>
+<p> Colby		29 und Dec    29 und Dec	   4.3600</p>
+<p> Dodge City	 25 und Dec    25 und Dec	   4.4000</p>
+<p> Hutchinson	  5 ovr Dec     5 ovr Dec	   4.7000</p>
+<p> Newton	     12 ovr Dec    12 ovr Dec	   4.7700</p>
+<p> Salina		2 und Dec     2 und Sep	   4.6300</p>
+<p> Topeka	     11 ovr Dec    11 ovr Dec	   4.7600</p>
+<p> Wichita	    14 ovr Dec    14 ovr Dec	   4.7900</p>
+<p> Kansas City	12 ovr Dec    12 ovr Dec	   4.7700</p>
+<p>			 Basis	    Prev		Cash price</p>
+<p>TEXAS</p>
+<p> Fort Worth	 11 ovr Dec    11 ovr Dec	   4.7600</p>
+<p> Galveston	  39 ovr Dec    39 ovr Dec	   5.0400</p>
+<p> Houston	    39 ovr Dec    39 ovr Dec	   5.0400</p>
+<p>OKLAHOMA</p>
+<p> Catoosa	    20 ovr Dec    20 ovr Dec	   4.8500</p>
+<p> Enid		  8 ovr Dec     8 ovr Dec	   4.7300</p>
+<p> Guymon	     21 und Dec    21 und Dec	   4.4400</p>
+<p>--Kansas City bureau, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

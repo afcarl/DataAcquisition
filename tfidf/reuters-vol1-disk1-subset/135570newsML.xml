@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135570" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRIA: Austrian Readymix unit to increase capital.</title>
+<headline>Austrian Readymix unit to increase capital.</headline>
+<dateline>VIENNA 1996-10-22</dateline>
+<text>
+<p>Austria's Kies-Union, a unit of Britain's Readymix RMC Group Plc, will almost triple its base capital following a merger with Lieferbeton, another Readymix unit, the company said in a statement on Tuesday.</p>
+<p>The equity capital would be increased to 152.5 million schillings from 57.8 million, Kies-Union said in an invitation for its November 29 annual shareholder's meeting published in the Wiener Zeitung daily on Tuesday.</p>
+<p>Readymix last week said it would concentrate its Austrian activities by merging Kies-Union, the country's biggest supplier of sand and gravel, and Lieferbeton to form Readymix-Kies-Union AG. RMC will control 72 percent of the new firm. -- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

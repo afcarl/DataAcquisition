@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132556" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. OPTIONS FOCUS/Puts busy, volatility climbs.</title>
+<headline>U.S. OPTIONS FOCUS/Puts busy, volatility climbs.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Investors loaded up on index put options as the market declined sharply Tuesday, but traders said activity was fairly sluggish.</p>
+<p>The market decline also drove volatility up slightly, with the Chicago Board Options Exchange's (CBOE) volatility index .VIX up about half a point at 17.62 in afternoon trade.</p>
+<p>The VIX reached 17.79 earlier, its highest level since early October.</p>
+<p>&quot;Volatility's up a little bit, but I can't see any rhyme or reason for (the) selling,&quot; said one S&amp;P 100 index .OEX trader at the CBOE.  </p>
+<p>The OEX was down 2.45 points at 683.96 in late trading after dropping to 681.74 in afternoon. The S&amp;P 500 index .SPX fell 3.75 points to 706.10. It reached 704.55 intraday.</p>
+<p>At the same time, the key Dow industrial average slumped 30 points to 6,061. It had fallen more than 50 points, triggering curbs on index-linked trading, around 1415 CDT (1915 GMT).</p>
+<p>Index put volume on the CBOE outpaced call volume by 122,242 to 53,006 at 1430 CDT (1930 GMT).</p>
+<p>&quot;There's nothing going on,&quot; another trader said.  </p>
+<p>He said weak technology stocks were leading the broad market lower and that many options participants had already set their positions for a potential market reaction to the November 5 U.S. presidential election.</p>
+<p>The trader at the CBOE said with expectations of a post-election market selloff high, the decline could come before that.</p>
+<p>&quot;Everybody expects the market to go down after the elections, especially if the Democrats take one of the houses (of Congress),&quot; he said.  </p>
+<p>Republicans now control both the Senate and the House of Representatives.</p>
+<p>Republican candidate Bob Dole is trailing Democratic President Bill Clinton by a wide margin in most opinion polls, but many Congressional races are close.</p>
+<p>&quot;If Clinton wins and the Democrats pick up one house, that's going to hit the market pretty hard,&quot; the trader said.</p>
+<p>&quot;But what I suspect is going to happen is that people are going to expect that to happen and sell it off early,&quot; he explained.  </p>
+<p>&quot;Everybody is going to try to beat (a selloff) by a couple of days and what's going to happen is the market will steadily start coming down and people are going to panic and say they can't wait until after the election&quot; to sell.</p>
+<p>The most active OEX options included the November 685, 680, 675 and 670 puts and the November 685, 690 and 700 calls.</p>
+<p>Among SPX options traded on the CBOE, the busiest options included the November 700 put, which traded about 10,800 contracts, and the November 680 put. The most active SPX call was the November 720, with about 1,800 contracts traded. -Gregory Crawford, 312/408-8750/Email: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

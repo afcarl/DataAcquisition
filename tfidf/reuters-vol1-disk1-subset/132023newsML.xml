@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132023" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Takebishi Elec -6mth parent forecast.</title>
+<headline>Takebishi Elec -6mth parent forecast.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    PREVIOUS	   ACTUAL</p>
+<p> (Parent)	     FORECAST	   FORECAST	  YEAR-AGO</p>
+<p> Sales		 19.53		19.30		17.21</p>
+<p> Current	    594    million	 446    million	 692    million</p>
+<p> Net		  306    million	 206    million	 360    million</p>
+<p> Interim div	  5.00 yen	   5.00 yen	   ---</p>
+<p>NOTE - Takebishi Electric Sales Co Ltd is the full company name.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31516" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Newbridge plans stake in wireless firm.</title>
+<headline>Newbridge plans stake in wireless firm.</headline>
+<dateline>OTTAWA 1996-09-04</dateline>
+<text>
+<p>Newbridge Networks Corp said on Wednesday it planned to take a minority equity stake in a Canadian firm that is an expert in very high-speed radio frequencies that could be useful for business communications.</p>
+<p>&quot;Our interest is in using that two-way transmission technology for business as opposed to (using) fibre optics,&quot; executive vice president Conrad Lewis told reporters at a technology seminar. He declined to name the company.</p>
+<p>Lewis said the company was already well-positioned to supply groups that applied for Canadian licenses for the new wireless communications technology called LMCS.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

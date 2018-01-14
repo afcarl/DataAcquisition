@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135806" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Canada exceeds quarterly U.S. lumber export quota.</title>
+<headline>Canada exceeds quarterly U.S. lumber export quota.</headline>
+<dateline>OTTAWA 1996-10-23</dateline>
+<text>
+<p>Canadian exports of softwood lumber to the United States exceeded the bilaterally agreed duty-free quota by 155.3 million board feet in the quarter from July through September, the government said on Wednesday.</p>
+<p>Statistics provided by Canada's Department of Foreign Affairs and International Trade showed exports of 4,381,587,100 board feet, compared with the quarterly quota of 4,226,250,000.</p>
+<p>The extra 155,377,100 board feet is subject to Canadian duty, as per an agreement reached between the two countries that took effect on April 1.</p>
+<p>The duty amounts to $50 per thousand board feet.</p>
+<p>The department said exports in October &quot;to date&quot; have totalled 222.0 million -- 153.6 million from British Columbia, 22.4 million from Alberta, 13.8 million from Ontarion and 32.1 million from Quebec.</p>
+<p>In the past two quarters there has been a one-week lag between the time when lumber crosses the border and the department tallies its export figures.</p>
+<p>The breakdown for the July-September quarter was 2.466 billion from British Columbia, 349.6 million from Alberta, 454.7 million from Ontario and 1.111 billion from Quebec.</p>
+<p>Department spokeswoman Nicole Bourget said earlier that the government would resume publication of a daily update of the exports on Thursday.</p>
+<p>-- Reuters Ottawa Bureau (613) 235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

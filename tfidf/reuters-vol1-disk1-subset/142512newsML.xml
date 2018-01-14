@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142512" id="root" date="1996-10-25" xml:lang="en">
+<title>ITALY: SOCCER-CAGLIARI'S DANISH DEFENDER OUT FOR TWO WEEKS.</title>
+<headline>SOCCER-CAGLIARI'S DANISH DEFENDER OUT FOR TWO WEEKS.</headline>
+<dateline>CAGLIARI 1996-10-25</dateline>
+<text>
+<p>Cagliari's Danish defender Christian Loenstrup will miss at least two league matches after suffering a hard blow to a kidney in Thursday's Italian Cup tie with Internazionale.</p>
+<p>Veteran trainer Carlo Mazzone said on Friday that blood had been found in urine Loenstrup gave for an anti-doping test following the 2-2 draw.</p>
+<p>He was immediately taken to hospital where he was diagnosed with an injury to his left renal cavity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAGLIARI"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

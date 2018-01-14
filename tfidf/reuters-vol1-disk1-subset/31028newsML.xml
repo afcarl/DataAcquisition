@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31028" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: London rice - steady - Sep 4.</title>
+<headline>London rice - steady - Sep 4.</headline>
+<text>
+<p>EU milled American type long grain 10 pct broken cif U.K. (Incl EC Levy) Jul/Aug 670 stg per long ton.</p>
+<p>Italian No.1 milled, round grain, 10 pct broken cif dlvd London (Free of EC Levy) Aug unquoted (end of season).</p>
+<p>Brown/Cargo Long Grain Rice. C and F EC ports. Subject to EC Levies Dlrs per tonne unless stated.</p>
+<p>U.S. No.2 Brown 4 pct broken Jul/Aug $18.00 per 100 LBS.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

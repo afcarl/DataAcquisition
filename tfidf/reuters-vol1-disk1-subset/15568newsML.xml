@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15568" id="root" date="1996-08-27" xml:lang="en">
+<title>UK: LONDON CURRENCY AND GOLD BULLION RATES.</title>
+<headline>LONDON CURRENCY AND GOLD BULLION RATES.</headline>
+<text>
+<p>LONDON, Reuter - Following are the buying and selling rates for leading world currencies and gold against the dollar on the London foreign exchange and bullion markets today.</p>
+<p>(Tourist rates will differ from those quoted)</p>
+<p>US$1.00 COSTS    1.3705/10  Canadian Dollars</p>
+<p>		     1.4743/53  German Marks</p>
+<p>		     1.6528/38  Dutch Guilders</p>
+<p>		     1.1900/05  Swiss Francs</p>
+<p>		     30.38/39   Belgian Francs</p>
+<p>		     5.0468/78  French Francs</p>
+<p>		     1510.3/1.3 Italian Lire</p>
+<p>		     107.66/76  Japanese Yen</p>
+<p>		     6.5812/87  Swedish Crowns</p>
+<p>		     6.3941/78  Norwegian Crowns</p>
+<p>		     5.6984/04  Danish Crowns</p>
+<p>		     1.4079/89  Singapore Dollars</p>
+<p>		     0.7889/94  Australian Dollars</p>
+<p>		     7.7318/28  Hong Kong Dollars</p>
+<p>One Sterling     US$1.5580/85</p>
+<p>Gold (ounce)     US$389.15/389.45</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

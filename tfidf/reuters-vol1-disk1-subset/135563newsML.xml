@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135563" id="root" date="1996-10-22" xml:lang="en">
+<title>SWEDEN: Handelsbanken says may redeem own shares.</title>
+<headline>Handelsbanken says may redeem own shares.</headline>
+<dateline>STOCKHOLM 1996-10-22</dateline>
+<text>
+<p>Swedish commercial bank Handelsbanken's president Arne Martensson said on Tuesday it may buy back some of its own shares in a move mirroring a recent redemption by state-owned rival Nordbanken.</p>
+<p>&quot;I see a buy-back as an alternative. It's our policy to create a return on equity higher than that of the other (Swedish) banks,&quot; Martensson told business daily Dagens Industri.</p>
+<p>Nordbanken recently bought back its own shares to the value of five billion crowns, and Handelsbanken's over-liquidity would allow it to at least double that amount in a buy-back transaction.</p>
+<p>However, the bank would first need to be sure that the money could not be used in a better way, such as for acquisitions, Martensson said.</p>
+<p>&quot;Our aim is to become one of the three largest banks in (each of) Finland, Norway and Denmark. This we can do through small acquisitions and own establishment,&quot; Martensson said, adding that this policy had been successful in Finland and Norway, and now it was Denmark's turn.</p>
+<p>Martensson repeated that a merger with Swedish rival S-E-Banken was not on the agenda.</p>
+<p>&quot;There are a lot of investigations showing that advantages of scale cease to take effect at a size smaller than Handelsbanken is at present,&quot; he said.</p>
+<p>-- Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

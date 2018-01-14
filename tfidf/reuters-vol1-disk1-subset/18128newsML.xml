@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18128" id="root" date="1996-08-28" xml:lang="en">
+<title>BELARUS: Belarus shopkeepers told to switch to local goods.</title>
+<headline>Belarus shopkeepers told to switch to local goods.</headline>
+<dateline>MINSK 1996-08-28</dateline>
+<text>
+<p>Belarussian President Alexander Lukashenko has ordered all shops in the former Soviet republic to stock at least 75 percent goods manufactured locally, national news agency Belapan said.</p>
+<p>&quot;We have issued orders on trade, and they say that 75 percent of stores', kiosks' and street vendors' stock must be made here and 25 percent can be imported,&quot; it quoted Lukashenko as saying on Tuesday.</p>
+<p>A government official who asked not to be identified said the government was preparing a further series of measures to protect national manufacturers. About 11 trillion Belarussian roubles of unsold Belarussian goods are stockpiled, unable to find sellers, he added.</p>
+<p>&quot;In order to protect local manufacturers it is also planned to increase the tax on the sale of imported items from 10 to 100 percent and to implement a trade surcharge of about 50 percent on the sale of imported goods,&quot; he said.</p>
+<p>Until now businesses have not been limited in the quantity of imported products they sell.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

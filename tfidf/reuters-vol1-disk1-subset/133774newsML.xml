@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133774" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Pacific Intertie DC line constraints extended - BPA.</title>
+<headline>Pacific Intertie DC line constraints extended - BPA.</headline>
+<dateline>LOS ANGELES 1996-10-22</dateline>
+<text>
+<p>Maintenance on the direct current (DC) segment of the Pacific Intertie, the power lines linking the Northwest to California, has been extended to at least the end of the week, the Bonneville Power Administration (BPA) said Tuesday.</p>
+<p>North-to-south transmissions on the line were capped at 1,086 megawatts (MW) and at 1,070 (MW) south to north for Tuesday and Wednesday.</p>
+<p>Capacity was expected to move up to 2,200 MW during light load hours and 2,000 MW during heavy load hours on Thursday, but more testing needs to be conducted, a BPA source said.</p>
+<p>He noted that the line has not been pre-scheduled to any level that would require cutting contracted transmissions.</p>
+<p>The time required for additional studies remains uncertain, the source said.</p>
+<p>The DC line was shut completely on October 15 through 2000 PDT on Sunday, but had been expected to return to 2,000-2,200 MW after that.</p>
+<p>The DC line's actual capacity is 3,200 MW, but it has been capped at 2,000 MW due to voltage support concerns following a major power outage on August 10. The Intertie's 4,800 MW AC (alternating current) line has been similarly cut back to 3,200 MW.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

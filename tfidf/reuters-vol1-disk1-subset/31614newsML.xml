@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31614" id="root" date="1996-09-04" xml:lang="en">
+<title>POLAND: Poland mulls PBR merger with Handlowy, PBK.</title>
+<headline>Poland mulls PBR merger with Handlowy, PBK.</headline>
+<dateline>WARSAW 1996-09-04</dateline>
+<text>
+<p>The government is considering a reduction of its 63 percent stake in the Polish Development Bank (PBR) by handing it over to Bank Handlowy, or a cross shareholding with Powszechny Bank Kredytowy SA (PBK), PBR's president said.</p>
+<p>Miezyslaw Groszek told a news conference on Wednesday the bank's biggest shareholders -- including Citibank, which has a seven percent stake -- have also asked the treasury to sell its shares at an auction for current shareholders.</p>
+<p>&quot;There is an idea of handing over PBR's shares to Bank Handlowy...and the second is a shareholder crossing with PBK,&quot; Groszek said.</p>
+<p>&quot;The biggest shareholders have (also) asked the treasury to open a tender for its stake in the bank,&quot; he said. &quot;I am unable to say which of the three ways is real.&quot;</p>
+<p>PBK, one of the nine state-owned commerial banks carved out of the central bank in 1989 is slated for privatisation this year, but the finance ministry has been delaying the selection of an adviser in the privatisation, holding back the process.</p>
+<p>The state-owned Bank Handlowy is the biggest Polish commercial bank.</p>
+<p>-- Jacek Ramotowski +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

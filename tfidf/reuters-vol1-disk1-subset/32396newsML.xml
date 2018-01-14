@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32396" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: CASS ex-Germany Jan-July Europe, Africa, M East data.</title>
+<headline>CASS ex-Germany Jan-July Europe, Africa, M East data.</headline>
+<dateline>FRANKFURT 1996-09-03</dateline>
+<text>
+<p>The following table shows IATA Cargo Accounts Settlement System (CASS) statistics for the ex-Germany air cargo market January-July 1996.</p>
+<p>			  Germany     Europe	 Africa	 M.East</p>
+<p> Weight (kg)	  4,690,233   30,092,306   13,110,005   28,422,936</p>
+<p> Market share (kg)  1.51%	 9.67%	  4.21%	   9.13%</p>
+<p> Revenue (Dm)	 6,482,048   81,410,394   55,282,842   59,966,765</p>
+<p> Market share (Dm)  0.76%	 9.53%	  6.47%	   7.02%</p>
+<p> Av. Yield Dm/Kg    1.38	  2.705	  4.217	   2.11</p>
+<p>- Air Cargo Newsroom Tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

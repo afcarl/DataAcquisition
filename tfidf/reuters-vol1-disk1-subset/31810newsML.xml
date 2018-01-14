@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31810" id="root" date="1996-09-04" xml:lang="en">
+<title>PANAMA: Panama stock exchange volume up 44 pct vs yr ago.</title>
+<headline>Panama stock exchange volume up 44 pct vs yr ago.</headline>
+<dateline>PANAMA CITY 1996-09-04</dateline>
+<text>
+<p>Trading volume on Panama's stock market rose 44.36 percent from January to August compared with the same period in 1995, an exchange spokeswoman said Wednesday.</p>
+<p>The 11-share stock exchange traded $190.403 million from Jan 1 to Aug 30, up from $131.892 million during the same period in 1995.</p>
+<p>The jump is reflected in bolsa-listed companies making larger volume listings of short-term commercial paper, the spokeswoman said.</p>
+<p>-- Laurens Grant, Panama City newsroom, 507 2237739</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

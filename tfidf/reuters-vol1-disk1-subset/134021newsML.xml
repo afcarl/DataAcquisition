@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134021" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: TAT airline attendants plan 24-hour strike.</title>
+<headline>TAT airline attendants plan 24-hour strike.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>The union representing airline attendants working for British Airway's French airline unit TAT European Airlines on Tuesday announced a 24-hour strike for Wednesday to protest against under-staffing.</p>
+<p>&quot;The hostesses and stewards of the company, 100 percent owned by British Airways, plan to protest against chronic under-staffing and the precariousness of their work contracts,&quot; the Syndicat National du Personnel Navigant Commercial said in a statement.</p>
+<p>A union spokeswoman said the airline had some 300 flight attendants. She said the strike would start at midnight local time. (midnight GMT)</p>
+<p>Earlier this month, the airline's pilots staged a strike.</p>
+<p>A spokesman for the airline could not be reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

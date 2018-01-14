@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31493" id="root" date="1996-09-04" xml:lang="en">
+<title>PHILIPPINES: Basketball-Milkmen wins 4th game, ties PBA series.</title>
+<headline>Basketball-Milkmen wins 4th game, ties PBA series.</headline>
+<dateline>MANILA 1996-09-04</dateline>
+<text>
+<p>Alaska Milk beat Formula Shell 79-76 on Tuesday evening and evened the best-of-seven final series of the Philippine Basketball Association second conference at two wins each.</p>
+<p>Shell threw away a 74-68 lead with a succession of passing errors in the last two minutes of play enabling the Milkmen to pull off the victory.</p>
+<p>Rene Hawkins led Alaska's offensive with 24 points while American import Kenny Redfield led Shell with 18.</p>
+<p>&quot;We will beat them in Game Five on Friday and in Game Six on Sunday. You'll see red balloons falling on Sunday,&quot; Alaska coach Tim Cone said after the hard-earned win.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

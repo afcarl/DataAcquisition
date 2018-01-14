@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32805" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Central Sprinkler Q3 shr $0.39 vs $0.73.</title>
+<headline>Central Sprinkler Q3 shr $0.39 vs $0.73.</headline>
+<dateline>LANSDALE, Pa. 1996-09-04</dateline>
+<text>
+<p>Three Months	Nine Months</p>
+<p>				   Ended July 31,	Ended July 31,</p>
+<p>				     1996     1995	1996     1995</p>
+<p> Net Sales		    $49,491  $42,758  $135,042 $114,462</p>
+<p> Gross Profit		  14,251   14,006    39,813   36,876</p>
+<p> Operating Income	     2,949    4,298     7,829   10,653</p>
+<p> Interest Expense, Net	  876	500     2,047    1,412</p>
+<p> Income before Income Taxes: 2,073   3,798     5,782    9,241</p>
+<p> Income Taxes		     769    1,409     2,172    3,481</p>
+<p> Net Income		     1,304    2,389     3,610    5,760</p>
+<p> Average Number of Shares   3,323    3,288     3,345    3,422</p>
+<p> Earnings Per Share	    0.39     0.73	1.08     1.68</p>
+<p>Note: Full company name is Central Sprinkler Corp.</p>
+<p>(Amounts in thousands, except per share)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32870">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANSDALE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

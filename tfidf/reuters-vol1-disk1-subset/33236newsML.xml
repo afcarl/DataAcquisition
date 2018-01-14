@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33236" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: SPD party calls for stricter clamps on tax dodges.</title>
+<headline>SPD party calls for stricter clamps on tax dodges.</headline>
+<dateline>FRANKFURT 1996-09-04</dateline>
+<text>
+<p>Germany's opposition Social Democrats on Wednesday demanded stricter controls to reduce tax evasion, only one day after investigators again swooped on a major German bank on suspicion of tax evasion.</p>
+<p>&quot;We need more spot checks, and then I am sure more people would become more honest,&quot; Ingrid Matthaeus-Maier, the party's expert on finances told German radio.</p>
+<p>She said tax evasion hurts all citizens because the government, which was losing some 12 billion marks in tax income through the evasion of tax payments every year, simply raises taxes to make up for any shortfalls.</p>
+<p>&quot;We could have already cut taxes if the federal government were able to get the money it is entitled to,&quot; she said.</p>
+<p>With the top German tax rate coming in at around 51 percent, tax evasion has become an almost socially acceptable action, banking sources said. One source, asking not to be named said, &quot;You would have to be foolish not to try and reduce your tax burden in some sort of way like this.&quot;</p>
+<p>But investigators have launched high profile raids on domestic and international banks over the past two years after billions of marks were moved into Luxembourg and other tax havens after Germany slapped a 30 percent withholding tax on interest income in 1994.</p>
+<p>Moving funds abroad to avoid that tax is not illegal, but failing to report interest income to fiscal authorities in Germany is a breach of the law.</p>
+<p>Matthaeus-Maier called on banks to assist authorities by agreeing to spot checks.</p>
+<p>On Tuesday tax authorities probed branches of Westdeutsche Landesbank Girozentrale and some savings banks on suspicion of collusion in tax dodges.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

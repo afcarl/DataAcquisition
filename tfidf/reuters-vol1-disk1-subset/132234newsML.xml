@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132234" id="root" date="1996-10-21" xml:lang="en">
+<title>NORWAY: PRESS DIGEST - Norway - Oct 21.</title>
+<headline>PRESS DIGEST - Norway - Oct 21.</headline>
+<dateline>OSLO 1996-10-21</dateline>
+<text>
+<p>Following are some of the leading stories in Norwegian papers this morning:</p>
+<p>AFTENPOSTEN</p>
+<p>- Some 80 percent of fathers now use their right to a four-week paternity leave. Only four percent took such a leave in 1993. Family Minister Grete Berget says the increase is fantastic and proves that the government's policy of making fathers assume more responsibility at home is working.</p>
+<p>-Rimi supermarket chain open on Sundays despite protests by union.</p>
+<p>-Rosenborg win 1996 elite division soccer championships.</p>
+<p>DAGENS NAERINGSLIV</p>
+<p>- British Petroleum Norway will pay tax for the first time in 1997, after working on the Norwegian continental shelf for 20 years. High oil prices give BP Norway a taxable income on several hundred million crowns this year.</p>
+<p>- Norway's largest newspaper Verdens Gang (VG) has stabilised it's circulation after slipping for 18 months. The circulation in August was 367,389 copies.</p>
+<p>- A strong growth in Internet users has prompted state-owned telecompany Telenor's division Telenor Online to invest 150 million crowns in technology to improve capacity and the quality of Internet access. Telenor expects to have 150,000-200,000 Internet customers next year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

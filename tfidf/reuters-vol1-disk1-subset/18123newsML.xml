@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18123" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: UK shares open steady, helped by firm Wall St.</title>
+<headline>UK shares open steady, helped by firm Wall St.</headline>
+<dateline>LONDON 1996-08-28</dateline>
+<text>
+<p>London shares started steady to slightly higher on Wednesday after modest overnight gains in U.S. shares and bonds sparked an early mark-up in prices.</p>
+<p>By 0736 GMT the FTSE 100 was trading 5.1 points higher at 3,910.8 -- an all-time high -- but after the extended holiday weekend, volumes are again expected to be light with little on the economic or corporate front to excite activity.</p>
+<p>Shares in the one major UK company with results today, W H Smith, made modest headway after the company reported a pre-tax loss of 194.7 million stg for the 12 months to June 1. Shortly after the start the shares were up 2p at 517-1/2p.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

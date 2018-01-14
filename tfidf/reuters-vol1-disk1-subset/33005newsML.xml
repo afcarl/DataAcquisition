@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33005" id="root" date="1996-09-04" xml:lang="en">
+<title>ISRAEL: Israel, U.S. to discuss Israeli economic reforms.</title>
+<headline>Israel, U.S. to discuss Israeli economic reforms.</headline>
+<dateline>JERUSALEM 1996-09-04</dateline>
+<text>
+<p>The Joint Economic Development Group of Israeli and U.S. government officials will hold its semi-annual meeting in Jerusalem on Sunday, Israel's Treasury said.</p>
+<p>The group was formed in 1985 to monitor economic reforms in Israel.</p>
+<p>The head of the Israeli delegation will be David Brodett, director-general of Israel's Finance Ministry. The head of the U.S. delegation will be Undersecretary of State for Economic Affairs Joan Spero.</p>
+<p>The Treasury said that at the end of the meeting a discussion would be held to exchange views on privatisation and competitiveness.</p>
+<p>Among participants will be Joseph Stiglitz, head of the White House Council of Economic Advisers, other government officials, academics and private-sector economists.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

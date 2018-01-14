@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32272" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Steelworkers oppose LTV venture investment.</title>
+<headline>Steelworkers oppose LTV venture investment.</headline>
+<dateline>PITTSBURGH 1996-09-04</dateline>
+<text>
+<p>The United Steelworkers of America said Wednesday union members at all LTV Steel local unions will hold plant gate demonstrations Thursday to protest the LTV Corp unit's investment in a new non-union TRICO mini-mill in Decatur, Ala., rather than reinvesting in existing mills.</p>
+<p>The union said &quot;members are angry that LTV is taking profits from its longtime steelmaking facilities, many of which are in need of repair and upgrading, and investing the money in the TRICO joint venture with British Steel ( Plc) and Sumitomo Metal (Industries Ltd ).&quot;</p>
+<p>LTV has announced its intentions to run TRICO as a non-union steel plant, the union noted.</p>
+<p>&quot;LTV will not have labor peace until it comes to terms with union workers over its planned TRICO mini-mill,&quot; it continued. -- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

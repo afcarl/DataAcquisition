@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134471" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Detroit Diesel Corp Q3 net lower.</title>
+<headline>Detroit Diesel Corp Q3 net lower.</headline>
+<dateline>DETROIT, Mich. 1996-10-22</dateline>
+<text>
+<p>Three Months	 Nine Months</p>
+<p>				     1996     1995	1996     1995</p>
+<p> Net revenues		  $ 487.6 $ 493.6 $ 1,457.7 $1,576.7</p>
+<p> Cost of sales		   375.3   377.4   1,120.5  1,211.0</p>
+<p> Gross profit		    112.3   116.2     337.2    365.7</p>
+<p>Expenses:</p>
+<p> Selling and administrative   72.5    76.9     213.6    236.0</p>
+<p> Research and development     26.6    20.9	78.1     67.8</p>
+<p> Interest			    3.7     2.3	 9.1	7.7</p>
+<p> Special charge*		     -	 -	38.3	  -</p>
+<p> Total			     102.8   100.1     339.1    311.5</p>
+<p>Income (loss) before income taxes</p>
+<p>  and minority interests	 9.5    16.1     (1.9)     54.2</p>
+<p> Provision for income taxes    2.3     5.0     (1.7)     17.9</p>
+<p> Minority interests		 .1	.2	  .6	 .7</p>
+<p> Net income (loss)		 7.1    10.9     (0.8)     35.6</p>
+<p>Primary net income (loss)</p>
+<p>  per share			  .29     .44     (.03)     1.44</p>
+<p>*  Consists of product coverage and reduction in the value of an investment in Mexico of $24.9 million after tax or $1.01 a share. (In millions, except per share amounts)</p>
+<p>		  Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

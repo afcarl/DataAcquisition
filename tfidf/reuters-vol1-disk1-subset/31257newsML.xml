@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31257" id="root" date="1996-09-04" xml:lang="en">
+<title>JAPAN: N.Korean paper says no one starving after floods.</title>
+<headline>N.Korean paper says no one starving after floods.</headline>
+<dateline>TOKYO 1996-09-04</dateline>
+<text>
+<p>A North Korean newspaper has reported that many people lost homes and property as a result of recent devastating floods, but no one was starving as a result.</p>
+<p>&quot;In the areas stricken by the unprecedented floods, many residents lost all of their homes and properties,&quot; said the August 27 edition of the North Korean government newspaper Minju Joson.</p>
+<p>&quot;But there is no one bewildered with nothing to wear under the cold skies or starving,&quot; the official daily, received by the Tokyo-based Radiopress news agency on Wednesday, said.</p>
+<p>Pyongyang's official media have said floods in July seriously damaged vast areas in the communist state, caused many deaths, and made many people homeless.</p>
+<p>North Korea was already widely reported to be on the brink of famine after the worst floods in a century ravaged much of the country last year, wiping out most of the 1995 rice harvest.</p>
+<p>&quot;There are not a few people who lost their properties. But no matter what area you visit, you see people full of conviction and optimism as usual,&quot; the newspaper said.  </p>
+<p>Japanese aid workers, who recently visited the reclusive state, said the latest floods directly hit a southern rice growing area and caused more serious damage to food output than last year's floods.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32081" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PRESALE- Colorado Springs, Colo..</title>
+<headline>PRESALE- Colorado Springs, Colo..</headline>
+<text>
+<p>AMT: 66,675,000     DATE: 09/09/96	NYC Time: 1130	CUSIP: 196630</p>
+<p>ISSUER: Colorado Springs						ST: CO</p>
+<p>ISSUE: Utilities system, Series 1996A			    TAX STAT: Exempt-REV</p>
+<p>M/SP/F: Aa/AA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 09/15/96							     SURE BID: Y</p>
+<p>DUE: 11/15/97-25					    SR MGR:</p>
+<p>1ST CPN: 11/15/96</p>
+<p>CALL: 11/15/06 @ par					TIC</p>
+<p>DELIVERY: 10/3/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: Norwest Bank Colorado, Denver</p>
+<p>L.O.: Sherman &amp; Howard, Denver</p>
+<p>F.A.: George K. Baum &amp; Co., Denver</p>
+<p>LAST SALE: $48,915,000 8/7/95 @ 6.16450% TIC; 26yrs 8mos Avg; BBI-6.03%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		  1,210,000</p>
+<p>1998		  1,260,000</p>
+<p>1999		  1,315,000</p>
+<p>2000		  1,365,000</p>
+<p>2001		  1,425,000</p>
+<p>2002		    205,000</p>
+<p>2003		    215,000</p>
+<p>2004		    230,000</p>
+<p>2005		    235,000</p>
+<p>2006		    250,000</p>
+<p>2007		    265,000</p>
+<p>2008		    280,000</p>
+<p>2009		    290,000</p>
+<p>2010		    305,000</p>
+<p>2011		    325,000</p>
+<p>2012		    340,000</p>
+<p>2013		    360,000</p>
+<p>2014		    380,000</p>
+<p>2015		    400,000</p>
+<p>2016		    420,000</p>
+<p>2017		    445,000</p>
+<p>2018		    470,000</p>
+<p>2019		    495,000</p>
+<p>2020		    525,000</p>
+<p>2021		    555,000</p>
+<p>2022		    585,000</p>
+<p>2023		    615,000</p>
+<p>2024		 27,735,000</p>
+<p>2025		 24,175,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

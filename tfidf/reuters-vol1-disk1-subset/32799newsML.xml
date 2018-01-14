@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32799" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Exploration to issue unit's stock as div.</title>
+<headline>Exploration to issue unit's stock as div.</headline>
+<dateline>SAN ANTONIO 1996-09-04</dateline>
+<text>
+<p>Exploration Co said Wednesday that it voted for a partial distribution of the assets of ExproFuels Inc, its wholly owned subsidiary.</p>
+<p>Exploration Co said in a release that it will issue about 48 percent of the subsidiary's stock as a dividend to its shareholders.</p>
+<p>Exploration Co shareholders, of record as of the close of trading on September 13, 1996, will receive one share of ExproFuels stock for every five shares of stock held, the company said.</p>
+<p>Exploration Co currently owns four million shares of ExproFuels stock, which will be registered with the U.S. Securities and Exchange Commission.</p>
+<p>About 9.55 million shares are outstanding in Exploration Co, and 1.91 million, or 47.75 percent, of the total outstanding four million ExproFuels shares will be issued to existing Exploration Co shareholders, the company added in the release.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN ANTONIO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

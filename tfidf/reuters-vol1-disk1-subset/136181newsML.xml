@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136181" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Tenneco gas line rupture cuts 10 mmcfd.</title>
+<headline>Tenneco gas line rupture cuts 10 mmcfd.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>Tenneco Inc unit Tennessee Gas Pipe Line said a rupture on a natural gas feeder line in the Mississippi River shut in about 10 million cubic feet per day of supply.  </p>
+<p>&quot;There was a rupture and fire at about 0530 CDT this morning. We isolated the line at about 0730 and the fire was out shortly after,&quot; a company spokesman said.</p>
+<p>He said the 12-inch feeder line that flows into the company's 500 line was located about 60 miles southeast of New Orleans, La, in an area known as Tiger Pass.</p>
+<p>The spokesman said gas from one platform was shut in, adding &quot;There's been no significant impact on customer service.&quot;</p>
+<p>The U.S. Goast Guard said the line ruptured after it was struck by a dredge.</p>
+<p>--J Silha, New York Power Desk 212-859-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

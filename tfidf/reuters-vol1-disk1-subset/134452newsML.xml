@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134452" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Court delays MCI local services entry.</title>
+<headline>Court delays MCI local services entry.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>MCI Communications Corp said on Tuesday its entry into local telecommunication services would be delayed by a court &quot;stay&quot; -- or legal suspension -- of Federal Communication Commission (FCC) pricing rules.</p>
+<p>&quot;Certainly we are disappointed by the stay since it delays our broad-based entry into local services,&quot; MCI chief financial officer Doug Maine told an analysts' conference call.</p>
+<p>Although MCI is building its own local circuits through its MCI Metro unit, this is aimed at the business market in the downtown areas of major cities. MCI says it needs to be able to resell regional Bell lines to reach the broad market.  </p>
+<p>A Federal appeals court last Tuesday upheld a complaint by some regional phone companies that FCC pricing guidelines overrode the responsibilities of state regulators to set the price for reselling local phone circuits.</p>
+<p>Analysts had said that the move put a wrench in the whole machinery to open up local telephone markets to competition and allow regional Bells to enter long distance markets.</p>
+<p>&quot;We will work vigorously for a resolution through regulatory and legal channels,&quot; said Maine. He gave no estimates of how great the delay would be.</p>
+<p>MCI and other big long distance companies are still enmeshed in negotiations to connect with the local circuits of regional Bells, with talks in some areas already going into arbitration processes. -- Nick Louth, New York Newsroom 212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

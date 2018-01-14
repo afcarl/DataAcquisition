@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26157" id="root" date="1996-09-01" xml:lang="en">
+<title>UK: CRICKET-PAKISTAN BEAT ENGLAND IN FINAL ONE-DAYER.</title>
+<headline>CRICKET-PAKISTAN BEAT ENGLAND IN FINAL ONE-DAYER.</headline>
+<dateline>NOTTINGHAM, England 1996-09-01</dateline>
+<text>
+<p>Pakistan beat England by two wickets to win the third and final one-day cricket international at Trent Bridge on Sunday.</p>
+<p>Scores: England 246 all out in 50 overs (N.Knight 125 not out), Pakistan 247-8 off 49.4 overs (Ijaz Ahmed 59).</p>
+<p>England won the series 2-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOTTINGHAM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135416" id="root" date="1996-10-22" xml:lang="en">
+<title>TAIWAN: PRESS DIGEST - Taiwan newspapers - Oct 22.</title>
+<headline>PRESS DIGEST - Taiwan newspapers - Oct 22.</headline>
+<dateline>TAIPEI 1996-10-22</dateline>
+<text>
+<p>These are the leading stories in the Taiwan press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>Newspaper headlines</p>
+<p>CHINA TIMES - President Lee Teng-hui says Taiwan and China should stop their current hostile confrontation.</p>
+<p>The government steps up efforts to gather criminal evidence in its anti-gangster sweep.</p>
+<p>UNITED DAILY NEWS - Teachers and government employees will see a salary increase of three percent next year.</p>
+<p>Prosecutors investigate Tainan mayor Shih Chih-ming for possible corruption.</p>
+<p>COMMERCIAL TIMES - Taiwan's unemployment rate will reach a new high next year, the government says.</p>
+<p>Export orders in September set a new monthly high.</p>
+<p>ECONOMIC DAILY NEWS - The Taiwan dollar falls to T$27.5 versus one U.S. dollar.</p>
+<p>Taiwan will speed up the pace of economic recovery next year.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

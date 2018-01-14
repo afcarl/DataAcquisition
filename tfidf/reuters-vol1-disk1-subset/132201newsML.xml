@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132201" id="root" date="1996-10-21" xml:lang="en">
+<title>TURKEY: PRESS DIGEST - Turkey - Oct 21.</title>
+<headline>PRESS DIGEST - Turkey - Oct 21.</headline>
+<dateline>ANKARA 1996-10-21</dateline>
+<text>
+<p>These are the leading stories in the Turkish press on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>SABAH</p>
+<p>- Islamist Prime Minister Necmettin Erbakan visits the mausoleum of modern Turkey's secular founder Ataturk.</p>
+<p>- Islamist-led government increases the government subsidy for ballet and opera by 129 percent for 1997.</p>
+<p>MILLIYET</p>
+<p>- Leading businessman Rahmi Koc says it is obvious that the current coalition does not work and emphasises the need for one party in power.</p>
+<p>HURRIYET</p>
+<p>- Husband massacres ten people in his mother-in-law's house where his wife has been living for two years.</p>
+<p>CUMHURIYET</p>
+<p>- Police detain 113 members of radical religious group demonstrating in the capital, Ankara.</p>
+<p>DUNYA</p>
+<p>- Number of holding companies on the rise in Turkey.</p>
+<p>YENI YUZYIL</p>
+<p>- French minister responsible for European relations says Europe's priority is Turkey.</p>
+<p>ZAMAN</p>
+<p>- It is alleged that Turkish staff at Incirlik airbase -- a joint base for the U.S.-led allied airforce that protects Iraqi Kurds -- have found a box full of $10 million worth of U.S. banknotes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

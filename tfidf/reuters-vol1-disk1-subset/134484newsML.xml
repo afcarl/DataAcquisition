@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134484" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CompuServe sees Q2 loss of $0.22-$0.27/shr.</title>
+<headline>CompuServe sees Q2 loss of $0.22-$0.27/shr.</headline>
+<dateline>COLUMBUS, Ohio 1996-10-22</dateline>
+<text>
+<p>CompuServe Corp said it expected a loss of $0.22 to $0.27 a share for the second quarter ending October 31, well above the $0.10 to $0.15 a share it had previously estimated it would lose in the period.</p>
+<p>The company said the greater-than-previously-expected losses were tied to delays in shipping its new CompuServe 3.0 software for its core CompuServe Interactive online service, the release of which was originally scheduled to begin in volume in September but which was delayed until October.</p>
+<p>In addition, CompuServe said CompuServe Interactive had a net reduction of 44,000 subscribers in August and September.  </p>
+<p>It said that during the first two months of the second quarter, the company recruited more than 350,000 new subscribers to CompuServe Interactive, but continued membership churn cut net subscribers by 44,000 to 3,015,000.</p>
+<p>In a statement, CompuServe Chief Executive Bob Massey said that, &quot;Since we began shipping the product only this month, we will not realize the expected positive effects on subscriber retention and increased membership that we anticipated in this quarter.&quot;  Massey attributed the delay primarily to efforts taken to assure the quality of the new version of its customer software.  </p>
+<p>The company said its new CompuServe 3.0 software is aimed at addressing several of the underlying causes of subscriber churn, but giving online subscribers faster response times, greater ease-of-use, and seamless access to the Internet.</p>
+<p>CompuServe stated that the new interface, coupled with a targeted marketing effort, should help reduce attrition and improve profitability.</p>
+<p>It added that it expects to begin accruing benefits from its inclusion in Microsoft Corp's Windows 95 operating system, giving PC users direct access to its online service from the Windows desktop.  </p>
+<p>Online industry analyst Peter Krasilovsky, a vice president of Bethesda, Md.-based Arlen Communications Inc, said the new CompuServe 3.0 software interface could &quot;give people a reason to subscribe to CompuServe once again.&quot;</p>
+<p>The analyst said the 3.0 software eliminates the advantages other online service providers and direct Internet access providers have held in terms of their software's speed and ease-of-use compared with CompuServe older versions.</p>
+<p>&quot;People who subscribed to CompuServe were getting an inferior service,&quot; Krasilovsky said of previous versions of CompuServe software which tied users to a proprietary system.  </p>
+<p>However, he cautioned that the adoption of CompuServe 3.0 would be slowed by its dependence on Microsoft's Internet Explorer browser software.</p>
+<p>Internet Explorer is only available to users of Windows 95, which means in effect that the new CompuServe service will only be accessible to computer users who have purchased new computers in the last year.</p>
+<p>He said it was unlikely a large percentage of the three million plus users of CompuServe Interactive would begin using the new 3.0 software until after Christmas, when another round of computer buying broadens the base of Windows 95 users.  </p>
+<p>Still, Krasilovsky said CompuServe continues to offer the richest set of online bulletin board discussion groups, attracting large numbers of sophisticated computers users from around the world.</p>
+<p>In its statement, CompuServe said that during the first two months of the current quarter, subscribers to its WOW! family-oriented online service rose to 106,000. The service was introduced in the spring. It said it had 203,000 subscribers to SPRYNET, its Internet-only access service.</p>
+<p>Membership in the company's Japanese licensee service, NIFTY-Serve, stood at 1.98 million, it said.</p>
+<p>The company said the rate of cash utilization slowed in the first two months of the second fiscal quarter. Total cash utilization in August and September averaged less than $10 million per month compared with over $36 million per month in its first fiscal quarter ended July 31.</p>
+<p>The company said it expects to report second quarter results the week of November 18.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

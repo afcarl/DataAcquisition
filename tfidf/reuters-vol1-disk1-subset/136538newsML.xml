@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136538" id="root" date="1996-10-23" xml:lang="en">
+<title>RUSSIA: Moscow rejects CIA report of weak nuclear controls.</title>
+<headline>Moscow rejects CIA report of weak nuclear controls.</headline>
+<dateline>MOSCOW 1996-10-23</dateline>
+<text>
+<p>Russian officials on Wednesday rejected a U.S. intelligence report that Moscow's control over its nuclear arsenal had been weakening.</p>
+<p>&quot;This does not correspond to the truth,&quot; said Georgy Nasonov, a spokesman for Russia's atomic energy ministry.</p>
+<p>&quot;Russian and American specialists are working hand in hand in the field of the military use of nuclear energy and our American colleagues have expressed no reservations,&quot; he said, speaking by telephone.</p>
+<p>The Central Intelligence Agency report, quoted in a U.S. newspaper on Tuesday, concluded that controls had become less strict because of dramatic social change in Russia and accompanying economic problems and low morale in the military.</p>
+<p>But it said the chance of an unauthorised launch or blackmail remained low. State Department spokesman Nicholas Burns said Washington believed Russia had control over its nuclear force.</p>
+<p>&quot;There can be no doubt about the control over strategic missile forces,&quot; said a spokesman for the Russian military organisation which oversees controls of the nuclear arsenal.</p>
+<p>&quot;An inspection group from the United States is arriving today, and tomorrow they will be checking how our strategic forces are controlled. We are ready for this check,&quot; said the official, from the National Centre for Reduction of Nuclear Danger.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

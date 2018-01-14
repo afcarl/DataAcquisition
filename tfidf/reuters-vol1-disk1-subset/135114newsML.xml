@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135114" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-AGL says keen on Polish acquisition.</title>
+<headline>RTRS-AGL says keen on Polish acquisition.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>The Australian Gas Light Co (AGL) was keen on expanding in Poland through an acquisition, managing director Len Bleasel said on Tuesday.</p>
+<p>&quot;We are not there to build pipelines. We are there to participate in the industry, by acquisition hopefully,&quot; Bleasel told reporters after the company's annual meeting.</p>
+<p>In April, AGL formed a joint venture with the Polish Gas and Oil Corp to produce nylon gas pipe for the rebuilding of Poland's gas distribution system.  </p>
+<p>Bleasel said AGL has yet to decide on it future plans in Chile. AGL's outgoing chairman Richard Mason said the company and one of its units Industrial Pipelines Systems Pty Ltd (IPS) had held introductory discussions with Chilean companies.</p>
+<p>He said the company would make a decision on its plan for Chilean and Latin American energy market after the company's general manager of pipelines makes a presentation to the board shortly on market growth potential in Chile.</p>
+<p>-- Kevin Morrison, Sydney newsroom  61-2 9373-1813</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

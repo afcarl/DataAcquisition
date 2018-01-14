@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133563" id="root" date="1996-10-22" xml:lang="en">
+<title>SINGAPORE: Ossia gets approval for Singapore share listing.</title>
+<headline>Ossia gets approval for Singapore share listing.</headline>
+<dateline>SINGAPORE 1996-10-22</dateline>
+<text>
+<p>Clothing and footwear wholesaler and distributor Ossia International Pte Ltd said on Tuesday it had received in-principle approval to list its shares on the main board of the Stock Exchange of Singapore (SES).</p>
+<p>An Ossia statement said its initial public offering (IPO) of shares would be lead managed by Overseas Union Bank Ltd. It did not say when the IPO would be launched.</p>
+<p>The SES usually requires companies to list within a couple of months of approval being granted.</p>
+<p>The statement gave no other details of the IPO.  </p>
+<p>Ossia distributes a variety of brands of designer clothing and sportswear to department stores and shops in 20 countries across Asia, Europe, the Middle East and Africa, it said.</p>
+<p>-- Singapore newsroom (65 8703199)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

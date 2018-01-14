@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135568" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: RWE details 95/96 results.</title>
+<headline>RWE details 95/96 results.</headline>
+<dateline>ESSEN, Germany 1996-10-22</dateline>
+<text>
+<p>Year to June 30 1996. RWE already published key 1995/96 results in July.</p>
+<p>(in millions of marks unless stated)</p>
+<p>    Group net profit			   1,562   vs 1,447</p>
+<p>Group net profit (excluding</p>
+<p>    minority interests)			1,196   vs 1,086</p>
+<p>	  Of which energy			564     vs 516</p>
+<p>	  Mining and raw materials	   271     vs 246</p>
+<p>	  Petroleum and chemicals	    249     vs 246</p>
+<p>	  Waste disposal			 12	vs 94 loss</p>
+<p>	  Plant and machinery		  120     vs 83</p>
+<p>	  Telecommunication		    75 loss vs n/a</p>
+<p>	  Construction			   83	vs 81</p>
+<p>    Group income from ord. activities    3,360   vs 3,154</p>
+<p>    Group sales				  65,436  vs 63,585</p>
+<p>	  Of which, energy		     21,200  vs 21,500</p>
+<p>	  Mining and raw materials	   4,800   vs 5,000</p>
+<p>	  Petroleum and chemicals	    24,200  vs 23,800</p>
+<p>	  Waste treatment			1,300   vs 1,000</p>
+<p>	  Plant and machinery		  7,300   vs 6,400</p>
+<p>	  Telecommunications		   500     vs n/a</p>
+<p>	  Construction			   5,900   vs 5,800</p>
+<p>	  Others				   100     vs 100</p>
+<p>    Taxes					  1,798   vs 1,707</p>
+<p>    Earnings per share			 2.95    vs 2.68 marks</p>
+<p>    Cash flow				    8,695   vs 8,643</p>
+<p>    Cash flow per share			15.69   vs 16.10 marks</p>
+<p>    Investments				  7,182   vs 6,784</p>
+<p>    Dividend (proposed, already reported)1.50    vs 1.40 marks</p>
+<p>    No of employees (at 30.6.96)	   132,658 vs 134,497</p>
+<p>    Parent net profit			  831     vs 752</p>
+<p>    Parent dividend payout		   831     vs 752</p>
+<p>    Parent dividend (proposed)	     1.50    vs 1.40 marks</p>
+<p>    Transfer to reserve			365     vs 334</p>
+<p>NOTE - Full name of the German diversified utilities group is RWE AG.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESSEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

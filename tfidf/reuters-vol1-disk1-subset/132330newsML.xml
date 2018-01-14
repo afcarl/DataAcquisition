@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132330" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Imperial Oil Ltd Q3 net profit sinks.</title>
+<headline>Imperial Oil Ltd Q3 net profit sinks.</headline>
+<dateline>TORONTO 1996-10-22</dateline>
+<text>
+<p>1996			  1995</p>
+<p> Shr			 C$0.58		   C$0.72</p>
+<p> Net			 99,000		  138,000</p>
+<p> Revs		   2,627,000		2,423,000</p>
+<p>	    9 MONTHS</p>
+<p> Shr			 C$3.24		   C$2.18</p>
+<p> Net			588,000		  421,000</p>
+<p> Revs		   7,623,000		7,204,000</p>
+<p> Avg shrs		 181,000		  193,000</p>
+<p>		  (All data above 000s except per share numbers)</p>
+<p>Note: Imperial's 1996 earnings include a gain of C$250 million from a previously announced income tax refund. That gain was partly offset by a foreign exchange loss of C$25 million after-tax related to the redemption of long-term debt.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

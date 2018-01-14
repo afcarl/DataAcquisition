@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135193" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH KOREA: Hyundai in Malta telecoms venture.</title>
+<headline>Hyundai in Malta telecoms venture.</headline>
+<dateline>SEOUL 1996-10-22</dateline>
+<text>
+<p>South Korea's Hyundai Electronics Industries Co said on Tuesday it had agreed to participate in a three-way joint venture with an Italian and a Maltese firm to set up a telecommunications company in Malta.</p>
+<p>A Hyundai statement said it would have a 29 percent stake in the joint venture Elsacom-Malta, which will be set up in Malta for telecommunications services in east European nations.</p>
+<p>Hyundai Electronics is a unit of Hyundai Group.</p>
+<p>Elsag Bailey SPA, part of Italy's Finmeccanica SPA, will hold a 51 percent stake and Malta's state-owned Telemalta the remaining 20 percent, the statement said.</p>
+<p>Elsacom-Malta, to be capitalised at about $10 million, plans to launch in early 1997 satellite-relayed telephone and data communications services in Romania, Ukraine, Albania, Maldives, Bulgaria and former Yugoslavian region, it added.</p>
+<p>-- Seoul Newsroom (822) 727-5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

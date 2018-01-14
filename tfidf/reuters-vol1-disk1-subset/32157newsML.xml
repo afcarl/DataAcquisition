@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32157" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CBOT wheat ends lower on technical slide.</title>
+<headline>CBOT wheat ends lower on technical slide.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>CBOT wheat futures closed lower on a technical slide, with a near free fall in soybean futures also weighing on the market, traders said.</p>
+<p>Pressure also came from persistent worldwide competition for wheat export business with traders also citing the U.S/Iraqi conflict as a mildly bearish factor.</p>
+<p>&quot;People are keeping an eye on it but it's not considered a big deal yet,&quot; said Ron Kucha of O'Connor and Co.</p>
+<p>U.S. air strike against Iraq this week was seen as potentially disrupting international trade and could lead to a modest near-term snarl on shipments of wheat to the Mideast.</p>
+<p>Wheat futures volume was estimated at 14,000 contracts, down from 17,043 Tuesday.</p>
+<p>In wheat options, Refco Inc bought 600 December $4.40 puts and sold 600 December $4.20 puts at 7-3/8 cents.</p>
+<p>Wheat options volume was estimated at 3,500 contracts, up from 3,278 Tuesday.</p>
+<p>Wheat closed three to five cents per bushel lower, with September down 3-1/2 at $4.49.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

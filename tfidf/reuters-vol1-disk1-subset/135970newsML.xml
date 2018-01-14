@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135970" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: U.S. stock index futures rebound late, end higher.</title>
+<headline>U.S. stock index futures rebound late, end higher.</headline>
+<dateline>CHICAGO 1996-10-23</dateline>
+<text>
+<p>U.S. stock index futures rebounded during afternoon pit trading to finish moderately higher and near daily peaks.</p>
+<p>December Standard and Poor's (S&amp;P) 500 futures erased morning losses and advanced during the final couple of hours, buoyed partly by a late turnaround in U.S. Treasury bond futures as they moved into the plus column near their close.</p>
+<p>Traders said debt futures rose mainly on unconfirmed talk of central bank buying of cash five-year T-notes after muted response when the five-year T-note auction produced results close to or slightly worse than expected.  </p>
+<p>During the recovery, December S&amp;P 500s drew good buying from one dealer that ran buy stops. Brokers said the move up in busy trade prompted covering from shorts, who had expected an extension of the morning's drop, and also cajoled would-be buyers to retest the long side.</p>
+<p>&quot;I think you had a lot of shorts from the morning who covered...and new longs in the market,&quot; said one S&amp;P 500 broker.</p>
+<p>He said CME's price boards estimated volume at about 84,000 for nearby S&amp;P 500s, and he waited to see if Thursday's data show a rise in open interest to suggest new longs.  </p>
+<p>Brokers also noted some signs of arbitrage buy programs during the late runup, when the futures premium over cash briefly yawned toward the 4.70-point zone.</p>
+<p>Fair value on Wednesday was roughly 3.55 points premium. Arbitrage buy programs needed at least 4.25 points over, and sell programs required a premium of 2.85 points or less.</p>
+<p>A comeback in over-the-counter shares also aided recovery.</p>
+<p>Earlier in the day, the 50-point drop in the Dow 30 Industrials triggered the New York Stock Exchange's curb on computer-assisted program trades. The exchange lifted that curb when the index recouped half of its loss.  </p>
+<p>Traders also took note of nearby S&amp;P 500s' technical resilience on the heels of Tuesday's and Wednesday morning's profit-taking pullbacks.</p>
+<p>Critical support remained untouched at the 703.85 level.</p>
+<p>At settlement, December S&amp;P 500s rose 1.95 points to 711.05, Value Lines added 2.20 points to 649.70, Midcap 400s rose 1.65 points to 245.35, NYSE Composite firmed 0.75 to 377.95, and Nikkei 225 lost 110.0 to 21,065.0. -Derivatives Desk(312)408-8750/E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

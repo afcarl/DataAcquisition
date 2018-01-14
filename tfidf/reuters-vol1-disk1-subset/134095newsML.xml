@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134095" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: Results of Bundesbank poll, October 22.</title>
+<headline>Results of Bundesbank poll, October 22.</headline>
+<dateline>FRANKFURT 1996-10-22</dateline>
+<text>
+<p>Following are the results of a poll of 10 economists on the expected outcome of this week's Bundesbank council meeting. The poll was conducted on Tuesday.</p>
+<p>1. Will the Bundesbank cut its leading interest rates this week?</p>
+<p>Yes 0</p>
+<p>No  10</p>
+<p>2. Will there be a further cut in the discount and lombard rates later this year?</p>
+<p>Yes 0</p>
+<p>No  10</p>
+<p>3. Will there be another fixed tender at 3.00 this Thursday?</p>
+<p>Yes 10</p>
+<p>No  0</p>
+<p>Detailed results of the poll as follows:</p>
+<p>    Economist				     1.  2.   3.</p>
+<p>    Stefan Schneider, Banque Paribas	No. No.  Yes.</p>
+<p>    Ulrich Humbrecher, WestLB		 No. No.  Yes.</p>
+<p>    Ulrich Beckmann, Deutsche Bank	  No. No.  Yes.</p>
+<p>    Wilfried Bock, Norddt. Landesbank     No. No.  Yes.</p>
+<p>    Steven King, HSBC James Capel	   No. No.  Yes.</p>
+<p>    Stephen Lewis, London Bond Broking    No. No.  Yes.</p>
+<p>    Howard Archer, Nat West Bank	    No. No.  Yes.</p>
+<p>    Ros Lifton, HSBC Markets		  No. No.  Yes.</p>
+<p>    Craig Shute, Bear Sterns		  No. No.  Yes.</p>
+<p>    Sharda Persaud, San Paolo Bank	  No. No.  Yes.</p>
+<p>--Frankfurt Newsroom + 49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

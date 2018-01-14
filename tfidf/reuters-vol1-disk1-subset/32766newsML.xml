@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32766" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: SEC names new enforcement chief in San Francisco.</title>
+<headline>SEC names new enforcement chief in San Francisco.</headline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>The Securities and Exchange Commission said on Wednesday it named a partner at a prominent law firm as head of enforcement in its San Francisco district office.</p>
+<p>The SEC said in a statement that Helane Morrison, a partner at the San Francisco law firm of Howard, Rice, Nemerovski, Canady, Falk &amp; Rabkin, replaces Robert Singletary, who left the enforcement chief's post in June.  </p>
+<p>While head of enforcement, Singletary led his office in an aggressive and controversial effort to investigate municipalities and municipal finance professionals.</p>
+<p>David Bayless, the district administrator of the San Francisco district office, said the addition of Morrison &quot;puts potential violators of the federal securities laws on notice that the SEC will continue to be vigilant and aggressive in its protection of investors.&quot;</p>
+<p>Morrison graduated from Boalt Hall law school of the University of California at Berkeley in 1984, where she was editor-in-chief of the Law Review.  </p>
+<p>Upon graduation, she became a judicial law clerk to the Honorable Richard Posner of the U.S. Court of Appeals for the Seventh Circuit. She then served as a judicial law clerk to Justice Harry Blackmun on the U.S. Supreme Court.</p>
+<p>In 1986, she joined the law firm of Howard, Rice, where she became a partner in 1991. Morrison's litigation practice has specialized in federal securities laws, with experience in both SEC investigations and private litigation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132859" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BASEBALL-LINESCORE FOR GAME 2 OF WORLD SERIES.</title>
+<headline>BASEBALL-LINESCORE FOR GAME 2 OF WORLD SERIES.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>Linescore for Game 2 of the</p>
+<p>World Series, won 4-0 by the Atlanta Braves over the New York</p>
+<p>Yankees on Monday:</p>
+<p>			   1  2  3   4  5  6   7  8  9     R  H  E</p>
+<p>			   -  -  -   -  -  -   -  -  -     -  -  -</p>
+<p> ATLANTA		 1  0  1   0  1  1   0  0  0     4 10  0</p>
+<p> NEW YORK		0  0  0   0  0  0   0  0  0     0  7  1</p>
+<p>BATTERIES:</p>
+<p>ATLANTA  - GREG MADDUX, MARK WOHLERS (9TH) AND JAVIER</p>
+<p>LOPEZ</p>
+<p>NEW YORK - JIMMY KEY, GRAEME LLOYD (7TH), JEFF NELSON</p>
+<p>(7TH), MARIANO RIVERA (9TH) AND JOE GIRARDI</p>
+<p>WP - GREG MADDUX (1-0)</p>
+<p>LP - JIMMY KEY (0-1)</p>
+<p>SAVE - NONE</p>
+<p>HOME RUNS:</p>
+<p>ATLANTA - NONE</p>
+<p>NEW YORK - NONE</p>
+<p>    TIME: 2:44     ATTENDANCE:  56,340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

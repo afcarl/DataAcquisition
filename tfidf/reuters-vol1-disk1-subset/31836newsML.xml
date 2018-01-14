@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31836" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Bear Stearns raises Mexico, cuts Argentina, Chile.</title>
+<headline>Bear Stearns raises Mexico, cuts Argentina, Chile.</headline>
+<dateline>MEXICO CITY 1996-09-04</dateline>
+<text>
+<p>Bear Stearns said on Wednesday it raised its rating on Mexico from neutral to overweight in the Bear Stearns Latin American Model Portfolio. It also said it was cutting Argentina to underweight from neutral and Chile to neutral from overweight.</p>
+<p>The brokerage said in a statement it raised its year-end target for the dollar-adjusted Mexican Bolsa to 500, an increase of 14 percent over Friday's close.  </p>
+<p>Bear Stearns said it upgraded Mexico from underweight to neutral on August 3. From then until the end of the month, the IPC index of leading stocks rose 3.3 percent in dollar terms.</p>
+<p>&quot;The factors supporting that upgrade have, in our view, become more solidly entrenched since then, despite last week's sell-off,&quot; analyst Geoffrey Dennis, director of Latin America strategy, said in a report.</p>
+<p>The report listed five factors supporting further gains in Mexico:  </p>
+<p>the shift of econonomic policy from austerity to growth that has led to lower interest rates, a stable peso, a gradual rebound of the economy of three percent to four percent annual GDP growth, improved political stability and attractive valuations.</p>
+<p>Regarding the emergence of a new guerrilla group called the Popular Revolutionary Army (EPR in Spanish), Dennis said, &quot;Although the sudden outbreak of violence in the south of Mexico was a negative surprise, we think it is unlikely to cause a prolonged market sell-off.&quot;  </p>
+<p>Bear Stears also reported risks and negative factors on Mexico, including a chance the peso will break down and weak fundamentals such as high unemployment and low real wages in the domestic economy.  </p>
+<p>Bear Stearns cut Argentina to underweight despite a surpising market rally just after Domingo Cavallo was sacked as economy minister.</p>
+<p>&quot;The honeymoon of new Economy Minister Roque Fernandez with the financial markets lasted exactly one week,&quot; Dennis said.</p>
+<p>The report listed several factors working against Argentina, including tough anti-growth measures, unemployment and a potential end to the currency convertibility plan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

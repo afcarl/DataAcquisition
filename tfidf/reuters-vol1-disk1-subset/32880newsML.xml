@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32880" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: John Wilson goes from Staples to Gap.</title>
+<headline>John Wilson goes from Staples to Gap.</headline>
+<dateline>WESTBOROUGH, Mass. 1996-09-04</dateline>
+<text>
+<p>Staples Inc said on Wednesday its Chief Financial Officer and Executive Vice President for Finance &amp; Strategy John Wilson resigned effective September 15 to become chief administrative officer at The Gap Inc.</p>
+<p>In this role, Staples said, Wilson will be responsible for worldwide growth and development, distribution, finance, systems, legal and administrative functions.</p>
+<p>Staples operates 568 &quot;office superstores&quot; worldwide.  </p>
+<p>John Mahoney, a former Ernst &amp; Young audit partner, has been named CFO of Staples and will report directly to Staples' Chairman and Chief Executive Tom Stemberg.</p>
+<p>Also Wednesday Staples said it had a definitive agreement to merge with Office Depot. The two stores issued a statement saying the transaction was intended to be a tax-free exchange of shares in which Office Depot holders would get 1.14 Staples shares for each of their Office Depot shares.  </p>
+<p>The Gap issued a statement Wednesday saying Wilson, as chief administrative officer and executive vice president, will oversee finance, distribution, legal and real estate functions and report to the company's Chief Executive Millard Drexler.</p>
+<p>The Gap's statement said it first announced its intention to hire a CAO a year ago, when it announced that Drexler would become CEO.</p>
+<p>Gap Inc operates over 1,750 stores in six countries under the names Gap, GapKids, Banana Republic and Old Navy.  </p>
+<p>Staples spokeswoman Phyllis Wasserman said Wilson's departure had nothing to do with the merger.</p>
+<p>&quot;He had a tremendous opportunity at The Gap and he planned to take it before the merger,&quot; she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTBOROUGH, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

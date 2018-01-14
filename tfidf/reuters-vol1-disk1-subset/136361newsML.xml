@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136361" id="root" date="1996-10-23" xml:lang="en">
+<title>KENYA: Kenyan minister dies in London.</title>
+<headline>Kenyan minister dies in London.</headline>
+<dateline>NAIROBI 1996-10-23</dateline>
+<text>
+<p>Kenya's minister for research, technical training and technology, Zachary Onyonka, has died in London, the foreign ministry said on Wednesday. He was aged 57.</p>
+<p>The ministry said Onyonka died on Tuesday night from acute diabetes. He held a doctorate degree in economics.</p>
+<p>Onyonka had served as parliament member since 1969. He also held several ministerial portfolios in that period.</p>
+<p>He leaves behind a widow and several children.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

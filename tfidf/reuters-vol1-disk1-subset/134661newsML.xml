@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134661" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: UK white sugar imports rose slightly in August.</title>
+<headline>UK white sugar imports rose slightly in August.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>UK white sugar imports in tonnes issued by UK Customs - Cane or beet sugar and pure sucrose in solid form - flavouring or colouring.</p>
+<p>				Aug	  Jul    Jan/Aug 1996</p>
+<p>  TOTAL		     101	  nil	 1,493</p>
+<p>  Netherlands	     nil	  nil	   nil</p>
+<p>  Malawi		    100	  nil	 1,460</p>
+<p>  Canada		    nil	  nil	     2</p>
+<p>  India		     nil	  nil	     2</p>
+<p>  Indonesia		 nil	  nil	     5</p>
+<p>  Japan		     nil	  nil	   nil</p>
+<p>  U.S.			  1	  nil	    21</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

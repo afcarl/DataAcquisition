@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32473" id="root" date="1996-09-04" xml:lang="en">
+<title>AFGHANISTAN: Afghan women urge U.N. to condemn Taleban.</title>
+<headline>Afghan women urge U.N. to condemn Taleban.</headline>
+<dateline>KABUL 1996-09-04</dateline>
+<text>
+<p>About 200 Afghan women demanded on Wednesday that the United Nations condemn the rebel Islamic Taleban militia for what they called violations of women's rights in Taleban-held parts of Afghanistan.</p>
+<p>About 200 women from the Afghan Women's Islamic Renaissance gathered outside a U.N. office in Kabul to hand a letter to U.N. Secretary-General Boutros Boutros-Ghali.</p>
+<p>The letter complained that the Taleban had prevented women from going to school and from working in offices.</p>
+<p>&quot;The United Nations must officially condemn the Taleban for violating women's rights in the southwestern provinces, particularly in Herat,&quot; the letter said.</p>
+<p>The militant Islamic Taleban cracked down on women receiving education or engaging in paid employment after capturing the western city of Herat a year ago.</p>
+<p>Taleban leaders say they do not oppose education for women, but say it must take place within an Islamic framework once peace has been restored throughout Afghanistan.</p>
+<p>The United Nations has halted educational programmes in Taleban-held areas because of the strictures. Some charities, such as Save The Children, have suspended all their activities in Taleban-controlled territories in protest.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KABUL"/>
+<dc element="dc.creator.location.country.name" value="AFGHANISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

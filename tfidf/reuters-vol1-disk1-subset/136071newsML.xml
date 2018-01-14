@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136071" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Horizon Mental Health Q4 earnings summary.</title>
+<headline>Horizon Mental Health Q4 earnings summary.</headline>
+<dateline>LEWISVILLE, Texas 1996-10-23</dateline>
+<text>
+<p>HORIZON MENTAL HEALTH MANAGEMENT INC.</p>
+<p>		    (In thousands, except per share data)</p>
+<p>			   For the three month     For the year</p>
+<p>			   ended Aug 31		ended Aug 31</p>
+<p>			   Pro forma		   Pro forma</p>
+<p>		    1995    1995(2) 1996    1995(1) 1995(2) 1996</p>
+<p>Revenues	 $14,426 $14,426 $16,941 $29,350 $56,078 $62,445</p>
+<p>Net income	 1,585   1,178   1,534   3,946   3,783   5,564</p>
+<p>Earnings/share    0.37    0.28    0.35    1.15    0.90    1.28</p>
+<p>Weighted average</p>
+<p>number of common</p>
+<p>shares outstanding 4,248  4,248  4,390   3,442   4,220   4,350</p>
+<p>(1) Includes results of Horizon operating subsidiary for six mos ended Feb 28, 1995, equity method which excludes revs but includes Horizon's share of net in reported results.</p>
+<p>(2) Assumes the acquisition of the 27.5% minority interest in the Horizon operating subsidiary, which occurred on March 20, 1995, as if it had occurred at the beginning of the reported period and that the Company recorded tax expense at the rate of 40%.</p>
+<p>Full name Horizon Mental Health Management Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEWISVILLE, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

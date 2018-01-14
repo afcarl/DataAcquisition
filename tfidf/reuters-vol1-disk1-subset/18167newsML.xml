@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18167" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: FTC proposes NGC sell stake in NGL plant.</title>
+<headline>FTC proposes NGC sell stake in NGL plant.</headline>
+<dateline>WASHINGTON 1996-08-28</dateline>
+<text>
+<p>The Federal Trade Commission Wednesday proposed that NGC Corp. sell its stake in the Trident natural gas liquids plant in Mont Belvieu, Texas, in order to gain approval for its purchase of Chevron Corp.'s Warren plant in the same city.</p>
+<p>The proposal also requires NGC to resign as operator of the Trident plant, which it co-owns with Union Pacific Fuels, Inc., and the Gulf Coast Fractionators plant, which it co-owns with Liquid Energy Corp. and DuPont Co. unit Conoco Inc.</p>
+<p>The FTC negotiated the proposal with NGC Corp. to settle charges that the company's purchase of Chevron's Warren plant, would stifle competition by leaving only two operators at the key natural gas liquids hub.</p>
+<p>The only other competing plant in the area is operated by Enterprise Products Co.</p>
+<p>Under the proposal, NGC would be allowed to own and operate the Warren plant as long as it stopped serving as operator of the Trident and Gulf Coast plants and sold its 80 percent interest in the Trident plant by Sept. 20.</p>
+<p>NGC Corp. and Chevron announced in January they were planning to merge Chevron's natural gathering, processing and marketing operations with NGC.</p>
+<p>NGC's stock fell 12.5 cents to $55 on the New York Stock Exchange at midday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

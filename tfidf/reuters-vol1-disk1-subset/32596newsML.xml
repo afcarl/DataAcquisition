@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32596" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Reading to restructure its capital.</title>
+<headline>Reading to restructure its capital.</headline>
+<dateline>PHILADELPHIA 1996-09-04</dateline>
+<text>
+<p>Reading Co, Craig Corp and Citadel Holding Corp said in a joint statement on Wednesday the companies have entered into an agreement to restructure Reading's capital structure.</p>
+<p>Craig and Citadel plans to transfer assets and cash valued at about $88 million to a Reading holding company called Reading Entertainment, giving Craig and Citadel more than 80 percent of the holding company, the companies said.</p>
+<p>The balance of voting power will be held by current Reading stockholders, the companies said.</p>
+<p>Reading Co will become a wholly owned unit of Reading Entertainment and each share of Reading class A common stock will be converted into a right to get one share of Reading Entertainment, the companies said. The deal is contingent upon approval of the boards of each company, the companies said.</p>
+<p>Craig, which owns approximately 52.5 percent of Reading's capital stock, has agreed to vote its shares in favor of the transactions, the companies said.</p>
+<p>The terms of the Exchange Agreement are substantially as contemplated by the letter of intent, as previously announced.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

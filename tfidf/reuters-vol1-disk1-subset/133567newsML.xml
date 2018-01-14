@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133567" id="root" date="1996-10-22" xml:lang="en">
+<title>THAILAND: Thailand approves Thai Airways shr sale.</title>
+<headline>Thailand approves Thai Airways shr sale.</headline>
+<dateline>BANGKOK 1996-10-22</dateline>
+<text>
+<p>The Thai cabinet on Tuesday approved in principle a finance ministry proposal to sell an undisclosed percent of its shares in Thai Airways International Plc, the finance minister said.</p>
+<p>The finance ministry, which holds about 93 percent of Thai Airways' shares, will use the funds from the sale to buy shares in an expressway firm, Finance Minister Chaiyawat Wibulswasdi told reporters.</p>
+<p>Thai Airways shares will be privately offered to the Government Housing Bank or other financial institutions, he said.  </p>
+<p>The finance ministry will consider other details of the previously-announced share sale later, Chaiyawat said.</p>
+<p>The ministry needs about 3.0 billion baht ($120 million) for its planned investment in Don Muang Tollway Co Ltd, he said.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18114" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: Oil prices rally as U.S. product stocks fall.</title>
+<headline>Oil prices rally as U.S. product stocks fall.</headline>
+<dateline>LONDON 1996-08-27</dateline>
+<text>
+<p>Oil prices rallied again on Wednesday with the help of a draw in U.S. oil product stocks after surrendering on Tuesday some of the recent sharp gains.</p>
+<p>London October futures for North Sea benchmark Brent blend crude oil at 1540 GMT was up 34 cents a barrel at $20.37 after shedding 38 cents on Tuesday.</p>
+<p>Oil product prices found support from weekly U.S. industry and government data showing a drop in gasoline and heating oil/diesel (distillates) inventories.</p>
+<p>American Petroleum Institute statistics for the week to August 23 showed gasoline stocks down 2.238 million barrels and distillates down 463,000 barrels.</p>
+<p>U.S. distillates stocks are now more than 19 million barrels, or 15 percent, below levels at the same time last year, raising concern among refiners in the run up to the northern hemisphere winter.</p>
+<p>&quot;The gasoline and distillate figures were constructive, led by higher implied demand for both products ahead of the (U.S.) Labor Day holiday,&quot; said brokers GNI in London.</p>
+<p>Oil traders continued to keep a close eye on the preparations for the return to world markets of Iraqi crude under a limited oil-for-food sale arranged under U.N. auspices.</p>
+<p>Delays in implementing a May 20 agreement between Iraq and the U.N. have helped support crude markets but analysts say prices could come under pressure once exports begin.</p>
+<p>OPEC deputy secretary general Ramzi Salman said on Tuesday that a combination of renewed Iraqi exports and extra crude from non-OPEC producers, some from delayed North Sea fields, could undermine markets later in the year.</p>
+<p>&quot;It is expected that these delayed fields will come onstream in the fourth quarter, while the timing for Iraqi crude, in the oil for food and medicine deal was also about the same time,&quot; Salman told OPEC news agency in an interview.</p>
+<p>&quot;This may lead to a softening of the market, which in turn, would require that OPEC members adhere strictly to their quotas in order to keep prices as firm as possible,&quot; Salman said.</p>
+<p>But he said Iraq's return after six years had already been factored in to the market.</p>
+<p>&quot;There will be no shock when Iraq returns to the market because the world and OPEC have already taken this into consideration.&quot;</p>
+<p>Crude oil prices in dollars per barrel at 1540 GMT,</p>
+<p>						    Aug 28	 Aug 27</p>
+<p>								     (close)</p>
+<p>    Dated Brent				 $20.55	 $20.25</p>
+<p>    IPE London Brent futures (Oct)	$20.37	 $20.03</p>
+<p>    NYMEX light crude futures (Oct)     $21.86	 $21.56</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

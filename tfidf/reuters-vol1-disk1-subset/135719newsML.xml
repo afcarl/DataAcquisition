@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135719" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: BASEBALL-LINESCORE FOR GAME 3 OF WORLD SERIES.</title>
+<headline>BASEBALL-LINESCORE FOR GAME 3 OF WORLD SERIES.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Linescore for Game 3 of the</p>
+<p>World Series, won 5-2 by the New York Yankees over the Atlanta</p>
+<p>Braves on Tuesday:</p>
+<p>			   1  2  3   4  5  6   7  8  9     R  H  E</p>
+<p>			   -  -  -   -  -  -   -  -  -     -  -  -</p>
+<p> NEW YORK		1  0  0   1  0  0   0  3  0     5  8  1</p>
+<p> ATLANTA		 0  0  0   0  0  1   0  1  0     2  6  1</p>
+<p>BATTERIES:</p>
+<p>NEW YORK - DAVID CONE, MARIANO RIVERA (7TH), GRAEME LLOYD</p>
+<p>(8TH), JOHN WETTELAND (9TH) AND JOE GIRARDI</p>
+<p>ATLANTA - TOM GLAVINE, GREG MCMICHAEL (8TH), BRAD CLONTZ</p>
+<p>(8TH), MIKE BIELECKI (9TH) AND JAVIER LOPEZ</p>
+<p>WP - DAVID CONE (1-0)</p>
+<p>LP - TOM GLAVINE (0-1)</p>
+<p>SAVE - JOHN WETTELAND (1)</p>
+<p>HOME RUNS:</p>
+<p>NEW YORK - BERNIE WILLIAMS (1) OFF MCMICHAEL IN THE 8TH, 1</p>
+<p>ON</p>
+<p>ATLANTA - NONE</p>
+<p>    TIME:  3:22   ATTENDANCE:  51,843</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

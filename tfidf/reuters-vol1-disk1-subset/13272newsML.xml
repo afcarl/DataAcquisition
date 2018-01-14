@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13272" id="root" date="1996-08-25" xml:lang="en">
+<title>BAHRAIN: Work starts on Saudi-American YANPET expansion.</title>
+<headline>Work starts on Saudi-American YANPET expansion.</headline>
+<dateline>MANAMA 1996-08-25</dateline>
+<text>
+<p>Engineering work has started at a $2 billion expansion project at a joint Saudi-American petrochemical venture, industry sources said on Sunday.</p>
+<p>&quot;Engineering work has started at the site of the plant after SABIC's partner gave the green light to the project,&quot; said an industry source in the Saudi capital Riyadh.</p>
+<p>&quot;Fluor Daniel is the managing contractor,&quot; for the Saudi Yanbu Petrochemical Company (YANPET), another said.</p>
+<p>YANPET is a 50-50 joint venture between Saudi Arabia's industrial giant Saudi Basic Industries Corp (SABIC) and Mobil Yanbu Petrochemical Company Inc, a subsidiary of the U.S. firm Mobil Corp.</p>
+<p>The expansion will include the construction of an 800,000 tonnes a year ethylene cracker, a 535,000 tonnes polyethylene plant and a 410,000 tonnes a year ethylene glycol plant.</p>
+<p>Construction is expected to begin in 1997 and start-up is scheduled for early 2000.</p>
+<p>SABIC managing director Ibrahim bin Salameh said in May the project will make YANPET one of the largest petrochemical complexes in the world.</p>
+<p>It will have the capacity to produce more than 1.6 million tonnes a year of ethylene and more than two million tonnes of derivative products, he added.</p>
+<p>SABIC, 70 percent owned by the Saudi government, accounts for around five percent of total world production of petrochemicals. It plans to raise its output to 25 million tonnes by the year 2000 from more than 21 million now.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

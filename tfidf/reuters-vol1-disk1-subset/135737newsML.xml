@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135737" id="root" date="1996-10-23" xml:lang="en">
+<title>SWITZERLAND: SOCCER-FIFA ANNOUNCES EMERGENCY PLANS TO IMPROVE STADIUM SAFETY.</title>
+<headline>SOCCER-FIFA ANNOUNCES EMERGENCY PLANS TO IMPROVE STADIUM SAFETY.</headline>
+<dateline>ZURICH 1996-10-23</dateline>
+<text>
+<p>FIFA on Tuesday barred any standing spectators at future World Cup matches following the stadium tragedy that claimed 81 lives in Guatemala earlier this month.</p>
+<p>In a letter to member associations, FIFA said no standing area tickets would be permitted to be sold and such sections must remain empty during a match.</p>
+<p>The ruling was one of eight emergency measures designed to improve stadium safety contained in the letter from FIFA, world soccer's governing body.</p>
+<p>FIFA also said stadiums which continue to use fences for crowd control must make sure they were easily dismantled because evacuation gates had proven ineffective.</p>
+<p>The FIFA executive committee will discuss a proposal to remove crowd control fences for all World Cup matches at its next meeting on December 7 in Barcelona.</p>
+<p>The letter said only tickets for numbered seats would be allowed to be sold and stadium capcities must be meticulously checked and verified.</p>
+<p>Tickets sales must be arranged to avoid forgery, which is believed to triggered the stampede prior to the start of World Cup qualifier between Guatemala and Costa Rica on October 16.</p>
+<p>The kick-off will not be allowed to take place until any problems outside the stadium are completely under control. Only the FIFA commissioner attending the match will decide when it is safe for the match to proceed, the letter said.</p>
+<p>The FIFA commissioner will also carry out systematic safety checks inside and outside the stadium prior to every World Cup match.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

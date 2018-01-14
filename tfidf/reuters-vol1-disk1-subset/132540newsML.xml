@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132540" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: On Assignment Q3 net rises.</title>
+<headline>On Assignment Q3 net rises.</headline>
+<dateline>CALABASAS, Calif. 1996-10-22</dateline>
+<text>
+<p>(In thousands of dollars, except per share amounts)</p>
+<p>			 CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					 September 30     September 30</p>
+<p>				  1996	  1995	1996     1995</p>
+<p> Total Revenues	  $23,303     $19,201   $63,643  $52,530</p>
+<p> Cost of Services	 16,244	13,486    44,292   36,784</p>
+<p> Gross Profit		7,059	 5,715    19,351   15,746</p>
+<p> Operating Expenses	4,554	 3,923    12,956   11,014</p>
+<p> Operating Income	  2,505	 1,792     6,395    4,732</p>
+<p>Non-Recurring Acquisition</p>
+<p>  Costs			    0	     0	 401	  0</p>
+<p>Income Before Interest</p>
+<p>  and Income Taxes	 2,505	 1,792     5,994    4,732</p>
+<p> Interest Income, net	130	    97	 370	285</p>
+<p> Pretax Income	     2,635	 1,889     6,364    5,017</p>
+<p> Income Taxes		1,062	   746     2,563    1,997</p>
+<p> Net Income		  1,573	 1,143     3,801    3,020</p>
+<p> Earnings Per Share	 0.29	  0.21	0.70     0.57</p>
+<p>Weighted Average Shares</p>
+<p>  outstanding		5,449	 5,328     5,445    5,244</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALABASAS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

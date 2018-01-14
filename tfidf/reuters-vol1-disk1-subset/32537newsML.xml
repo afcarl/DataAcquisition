@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32537" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Lewis Galoob Toys.</title>
+<headline>RESEARCH ALERT - Lewis Galoob Toys.</headline>
+<text>
+<p>-Hambrecht and Quist analyst Hank Wilson increased his 1996 and 1996 earnings estimates for Lewis Galoob Toys Inc, calling the company's 1997 toy preview the &quot;most exciting product line&quot; the company has ever introduced.</p>
+<p>-Wilson said he increased estimates for fiscal 1997 to $1.72 from $1.55 per share, and increased 1996 earnings estimates to $1.31 from $1.26. This compares with earnings of $0.60 per share in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

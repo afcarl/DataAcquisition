@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134852" id="root" date="1996-10-22" xml:lang="en">
+<title>NORWAY: Elkem operating profits per division.</title>
+<headline>Elkem operating profits per division.</headline>
+<dateline>OSLO 1996-10-22</dateline>
+<text>
+<p>Elkem ASA operating profits per division for the nine months to September 30.</p>
+<p>			   (millions of crowns unless stated)</p>
+<p>Ferrosilicon		  258	  vs	 141</p>
+<p>Manganese Chrome	    212	  vs	 222</p>
+<p>Materials		     280	  vs	 110</p>
+<p>Aluminium		     100	  vs	 247</p>
+<p>Other		   minus  37	  vs	  54</p>
+<p>--Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

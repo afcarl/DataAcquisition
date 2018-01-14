@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134099" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: Swiss bond market closing report.</title>
+<headline>Swiss bond market closing report.</headline>
+<dateline>ZURICH 1996-10-22</dateline>
+<text>
+<p>Traders were divided on whether Swiss bond prices have peaked, with futures ending at session highs but still below top levels set earlier this month.</p>
+<p>The Swiss December Confederate bond futures contract peaked on October 9 at 115.80, and has set successively lower highs since then. One bond trader said of the market: &quot;It looks overheated, there are too many market-maker positions while customers are reluctant.&quot; Inflation data for Swiss canton of Basle on Monday also showed a sharp rise in heating oil prices.</p>
+<p>A second trader attributed late gains to a surge in Bund futures.  </p>
+<p>&quot;It was only tied to Bunds. It wasn't anything special,&quot; said the dealer of the Swiss market's late gains.</p>
+<p>Traders said activity in the cash market was largely confined to buying in the Federal 4-1/2 percent 2007, and 4-1/4 percent 2008 bond.</p>
+<p>Asfinag, the Austrian-government backed highway financing agency, launched a 300 million Swiss franc foreign bond.</p>
+<p>The five-year issue, priced at 101.625, has a coupon of 3.0 percent. Lead manager was UBS.</p>
+<p>Some market sources saw the issue as too expensive. UBS led the issue alone without the other two big Swiss banks.  </p>
+<p>The five-year sector was seen as less crowded compared with some others. Synidicate managers were divided on the pricing for Asfinag, possibly reflecting differing expectations of whether Swiss long rates will decline further or not.</p>
+<p>&quot;When one compares it with the secondary market, it is not cheap and not expensive, but at this level, volume is very thin,&quot; said one syndicate executive of Asfinag's issue.</p>
+<p>&quot;I think compared with the market it is certainly not cheaper, and at these levels, buyers are very rare,&quot; he added.</p>
+<p>But the borrower may prove popular with retail investors, another executive said.  </p>
+<p>Short-term rates declined. Swiss National Bank (SNB) vice president Jean-Pierre Roth said Tuesday monetary policy should be used to offset any Swiss franc appreciation resulting from EMU.</p>
+<p>-- Closing prices as follows:</p>
+<p>Dec Conf futures up 33 at 115.29.</p>
+<p>Dec Comi medium-term bond up 15 at 110.45</p>
+<p>Dec Euro Swiss francs up four at 98.28.</p>
+<p>4-1/2 Apr 2006 bond 105.00/10 yield 3.84 pct</p>
+<p>(vs 104.78/88 yield 3.871 pct)</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

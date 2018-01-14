@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132549" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: DSP Group Inc posts Q3 loss.</title>
+<headline>DSP Group Inc posts Q3 loss.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-22</dateline>
+<text>
+<p>DSP GROUP, INC.</p>
+<p>			CONSOLIDATED STATEMENT OF OPERATIONS</p>
+<p>		 (Amounts in thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>						 1996  1995  1996    1995</p>
+<p>Revenues:</p>
+<p> Product sales		    $11,403 $10,850 $29,136 $30,262</p>
+<p> Licensing, royalties and other    2,208  2,218  8,693  7,152</p>
+<p> Total revenues		    13,611  13,068  37,829  37,414</p>
+<p>Cost of revenues:</p>
+<p> Cost of product sales	     8,378  6,324  21,511  17,277</p>
+<p>Cost of licensing, royalties</p>
+<p>   and other				  218  137    596     620</p>
+<p> Total cost of revenues	    8,596  6,461  22,107  17,897</p>
+<p> Gross profit			  5,015  6,607  15,722  19,517</p>
+<p>Operating expenses:</p>
+<p> Research and development	    1,802  2,260  6,584  6,208</p>
+<p>Selling, general and</p>
+<p>   administrative			2,066  2,261  7,686  8,151</p>
+<p> Acquired in process technology(1)  1,529  --   1,529	--</p>
+<p> Unusual items				 --  --	--     913</p>
+<p> Total operating expenses	  5,397  4,521  15,799  15,272</p>
+<p> Operating income (loss)		(382)  2,086  (77)  4,245</p>
+<p> Other income (expense), net	    215  256    806     741</p>
+<p>Gain on sale of stock in</p>
+<p>   affiliate				   --  --	--   1,893</p>
+<p>Equity in income (loss) of</p>
+<p>   investees				(125)  71    (83)	71</p>
+<p> Income (loss) before income taxes  (292)  2,413  646   6,950</p>
+<p>Provision (benefit) for income</p>
+<p>   taxes				     (29)  (77)    68     309</p>
+<p> Net income (loss)			(263)  2,490  578   6,641</p>
+<p> Prepaid expenses and other	     836	   876</p>
+<p>					     45,573	46,617</p>
+<p> Property and equipment, net:	 3,752	 4,097</p>
+<p> Equity investment			2,586	 2,244</p>
+<p> Other assets				 505	   507</p>
+<p> Deferred income taxes		  1,389	 1,389</p>
+<p>					     53,805	54,854</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

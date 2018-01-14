@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31118" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: HSBC leads 75 mln mark Argentina Brady-linked bond.</title>
+<headline>HSBC leads 75 mln mark Argentina Brady-linked bond.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>The following bond was announced by lead manager HSBC Trinkaus.</p>
+<p> BORROWER   FIDELIO TRUST NO 2 (ARGENTINE SOVEREIGN OBLIGATIONS)</p>
+<p> AMT    75 MLN DEM    COUPON     11.0	MATURITY    01.APR.05</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  99.75     PAY DATE    01.OCT.96</p>
+<p> FULL FEES  UNDISC    REOFFER    99.75     GOV LAW     ENGLISH</p>
+<p> MOODY	=	   LISTING    LONDON    PAY FREQ    SEMI-ANN</p>
+<p> S&amp;P	  =	   DENOMS (K) ONE	 SALE LIMITS =</p>
+<p> NOTES	UNDERLYING ARE FRB BRADY BONDS OF ARGENTINA</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

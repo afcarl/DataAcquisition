@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132620" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: National R.V. to buy Country Coach.</title>
+<headline>National R.V. to buy Country Coach.</headline>
+<dateline>PERRIS, Calif. 1996-10-22</dateline>
+<text>
+<p>National R.V. Holdings Inc said it entered into a definitive agreement to buy Country Coach Inc, an Oregon-based motor coach manufacturer.</p>
+<p>Terms of the acquisition were not disclosed, although National R.V. said it expects the acquisition to be accretive to earnings.</p>
+<p>It said Country Coach had sales of about $70 million in 1995 and pretax earnings of about $2.8 million.</p>
+<p>National R.V., which makes motor homes, said the purchase of Country Coach will enable it to offer a complete line of products at prices ranging from $40,000 to $700,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERRIS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

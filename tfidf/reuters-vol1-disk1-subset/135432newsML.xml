@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135432" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: More public works might hurt Japan reform bid -- EPA.</title>
+<headline>More public works might hurt Japan reform bid -- EPA.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>If spending on public works was increased with the aim of stimulating Japan's economy it could undermine efforts by Japanese industries to reform their business structures, Economic Planning Agency (EPA) Minister Shusei Tanaka told a news conference on Tuesday.  </p>
+<p>He was asked to comment on remarks by officials of Prime Minister Ryutaro Hashimoto's Liberal Democratic Party calling for an extra budget, featuring economic stimulus steps, worth about five trillion yen.</p>
+<p>&quot;Basically, increasing public works spending is an 'easy' way to stimulate the economy. But if such a measure was taken, it could hurt efforts (by Japanese companies) to reform their business structures,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

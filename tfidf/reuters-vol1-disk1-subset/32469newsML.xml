@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32469" id="root" date="1996-09-04" xml:lang="en">
+<title>SRI LANKA: Four-day polio programme to silence Sri Lanka war.</title>
+<headline>Four-day polio programme to silence Sri Lanka war.</headline>
+<dateline>COLOMBO 1996-09-04</dateline>
+<text>
+<p>Sri Lanka's separatist guerrillas agreed on Wednesday to four days of ceasefire to help implement an island-wide polio immunisation programme.</p>
+<p>The Liberation Tigers of Tamil Eelam (LTTE) said in a statement that their leader, Velupillai Prabhakaran, had declared September 6-7 and October 11-12 to be &quot;days of tranquility&quot; for the programme.</p>
+<p>Brita Ostberg, the United Nations Children's Emergency Fund (UNICEF) representative in Sri Lanka, said she had appealed to the LTTE and the military to stop fighting on those days.</p>
+<p>&quot;I asked them,&quot; Ostberg told Reuters. &quot;Sri Lanka is trying to eradicate polio. To do that, those who vaccinate need access to children and the children need access to them.&quot;</p>
+<p>Army officials were not immediately available for comment on the appeal, but government troops have responded favourably to such appeals in the past.</p>
+<p>The rebels are fighting a 13-year-old war for an independent homeland for minority Tamils in the Indian Ocean island's north and east. The government says more than 50,000 people have been killed in the conflict.</p>
+<p>Government forces were dug in near the northern town of Kilinochchi, where the rebels set up their base after the army ousted them from their Jaffna peninsula stronghold in April.</p>
+<p>The rebels have kept up sporadic hit-and-run attacks since they overran a northeastern army camp in July, killing or capturing almost its entire garrison of 1,400 men.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

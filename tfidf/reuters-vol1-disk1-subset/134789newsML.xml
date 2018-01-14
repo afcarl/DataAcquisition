@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134789" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Oct 22.</title>
+<headline>PRESS DIGEST - New York Times front page - Oct 22.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page Tuesday:</p>
+<p>- U.S. Special Coordinator for the Middle East Dennis Ross left Jerusalem for the United States without a pact on Hebron following a series of Israeli-Palestinian talks.</p>
+<p>- South Africa's former police chief confessed having ordered acts of terror against blacks during the country's era of apartheid.</p>
+<p>- Liberal Alliance candidate Arnoldo Aleman had a 10-percent lead against Nicaragua's former president in incomplete official returns from the country's presidential elections.</p>
+<p>- The U.S. Supreme Court dismissed the first constitutional challenge that it has considered regarding the military's policy that assumes that homosexuals are not fit for service.</p>
+<p>- American Indian tribes have stopped archeological research on hundreds of prehistoric remains throughout the United States.</p>
+<p>- Republican presidential candidate Bob Dole's aggressive campaign against President Bill Clinton has not improved his standing in public opinion polls. -- New York Newsdesk (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

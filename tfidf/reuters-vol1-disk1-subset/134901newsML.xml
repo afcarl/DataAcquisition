@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134901" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: Canal Plus declines comment on TF1 action.</title>
+<headline>Canal Plus declines comment on TF1 action.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>Canal Plus declined to comment on news on Tuesday that French television channel TF1 was launching emergency proceedings against it to exclude sports cover from Canal Plus's merger with Dutch company Nethold.</p>
+<p>&quot;Canal Plus has no comment for the moment,&quot; a spokeswoman told Reuters.</p>
+<p>TF1 chairman Patrick Le Lay said in an interview with the newspaper La Tribune, &quot;We have just taken out emergency interim proceedings against Canal Plus to demand the suspension of its merger with Nethold or, at least, the exclusion of all Nethold sports channels from the merger.&quot;</p>
+<p>Le Lay said that under the merger agreement, Canal Plus would take over Nethold's sports channels. However, according to the terms of Canal Plus's agreement with TF1 on Eurosport, Canal Plus had pledged not to compete against the sports channel.</p>
+<p>Nethold is jointly held by the South African-controlled industrial firm Richemont and MCL-Multi Choice Ltd.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

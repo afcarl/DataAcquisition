@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134559" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Ampex Corp Q3 net drops.</title>
+<headline>Ampex Corp Q3 net drops.</headline>
+<dateline>REDWOOD CITY, Calif. 1996-10-21</dateline>
+<text>
+<p>(in thousands, except share data)</p>
+<p>			 Three months ended    Nine Months ended</p>
+<p>			     Sept. 30,		 Sept. 30,</p>
+<p>				1996	1995	 1996	 1995</p>
+<p> Net sales	   $  23,604  $  24,431  $  72,256  $  71,589</p>
+<p>Restructuring charges</p>
+<p>  (credits)		(453)    (1,087)	(453)    (1,087)</p>
+<p>   Operating income    3,026	4,197	9,708     18,571</p>
+<p>Amortization of debt</p>
+<p>  financing costs	    -	   23	   85	  103</p>
+<p>   Net income	    3,103	3,361     10,548     14,946</p>
+<p>Primary income per share:</p>
+<p>   Income per share     0.07	 0.09	 0.24	 0.41</p>
+<p>Weighted average number</p>
+<p>of common shares</p>
+<p>  outstanding     46,227,048 36,971,923 44,082,092 34,376,239</p>
+<p>Fully diluted income</p>
+<p>per share:</p>
+<p>   Income per share     0.07	 0.09	 0.24	 0.35</p>
+<p>Weighted average number</p>
+<p>of common shares</p>
+<p>  outstanding     46,280,192 45,665,048 46,152,259 47,786,546</p>
+<p>NOTE: 1996 net includes charge for litigation of $0.05/shr in Q3 and $0.06/shr for nine months $0.01/shr charge for moving expenses for Q3 and nine months.</p>
+<p>1996 net includes gain from royalty settlement of $0.02/shr in Q3 and $0.04/shr for nine months and $0.01/shr restructuring credit for Q3 and nine months.</p>
+<p>Q3 and nine months 1995 net includes $0.03/shr gain from vacating facilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

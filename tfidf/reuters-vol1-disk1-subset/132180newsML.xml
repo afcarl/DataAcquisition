@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132180" id="root" date="1996-10-21" xml:lang="en">
+<title>LEBANON: Guerrillas attack Israeli-backed militiamen.</title>
+<headline>Guerrillas attack Israeli-backed militiamen.</headline>
+<dateline>MARJAYOUN, Lebanon 1996-10-21</dateline>
+<text>
+<p>Pro-Iranian Hizbollah guerrillas launched a series of attacks against pro-Israeli militia targets in south Lebanon on Monday, wounding one militiaman, pro-Israeli militia sources said.</p>
+<p>The guerrillas fired Sagger rockets at four outposts of the South Lebanon Army (SLA) militia at Ahmadiyeh, Zaghla, Zemraya and Kawkaba -- all in the eastern sector of Israel's south Lebanon occupation zone, the SLA sources said.</p>
+<p>A militiaman at Zemraya was wounded, they added.</p>
+<p>Other fighters set off a roadside bomb near a patrol of the militia near Beit Yahoun crossing point leading into the western sector of the Israeli-held zone, SLA sources said.</p>
+<p>In retaliation for the assaults, Israeli and SLA forces retaliated with artillery fire on guerrilla-held hills north of the zone, Lebanese security sources said.</p>
+<p>In Beirut, Hizbollah (Party of God) claimed responsibility for the attacks. The militant group is fighting Israeli and SLA forces to oust them from the south Lebanon zone they set up to prevent raids on northern Israel.</p>
+<p>On Sunday, a roadside bomb exploded in an SLA-controlled area officially outside the zone, wounding a civilian motorist, SLA soures said. A second roadside bomb was set off by Hizbollah fighters near an SLA patrol but no one was hurt, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARJAYOUN, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

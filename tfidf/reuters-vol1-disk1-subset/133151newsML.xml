@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133151" id="root" date="1996-10-22" xml:lang="en">
+<title>SLOVAKIA: U.S. urges Slovakia to finish kidnap probe.</title>
+<headline>U.S. urges Slovakia to finish kidnap probe.</headline>
+<dateline>BRATISLAVA 1996-10-21</dateline>
+<text>
+<p>The U.S. ambassador to Slovakia warned on Tuesday that Bratislava would harm its chances of joining NATO and the European Union if it failed to clear up a tangled set of criminal cases with political links.</p>
+<p>The cases centre on Michal Kovac Junior, adult son of President Michal Kovac, who was kidnapped in August 1995, bundled into the boot of his car and dumped outside a police station in Austria.</p>
+<p>Opposition politicians have attributed the kidnapping to a feud between the president and Prime Minister Vladimir Meciar. Two state detectives were sacked after voicing suspicions that the SIS secret service was involved.</p>
+<p>According to a ex-policeman named Robert Remias, a former SIS member told him the abduction was organised by SIS chief Ivan Lexa, an ally of the prime minister.</p>
+<p>But Remias, the only contact with the former SIS source, was killed by a car bomb and another investigator adjourned the case in May due to lack of evidence.</p>
+<p>U.S. Ambassador Ralph Johnson told the independent Slovak Foreign Policy Association that dropping the probe would damage the country's hopes of joining Western institutions.</p>
+<p>&quot;We make no judgments about the outcome of these investigations, but abandoning them would in our view be very damaging to Slovakia's candidacy,&quot; Johnson said in an address in Presov, according to a text released by the embassy in Bratislava.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

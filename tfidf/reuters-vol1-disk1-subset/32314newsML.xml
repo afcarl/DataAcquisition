@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32314" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: FBI to move 500 agents to fight terrorism.</title>
+<headline>FBI to move 500 agents to fight terrorism.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>The FBI said on Wednesday it planned to shift 500 agents to investigate domestic and international terrorism after it found itself stretched thin by a number of high-profile cases.</p>
+<p>FBI officials said the counter-terrorism unit continued to investigate the June truck bombing that killed 19 U.S. airmen in Saudi Arabia, the July 17 crash of TWA Flight 800 that killed 230 people and the July 27 bombing at the Olympics park in Atlanta that killed two people and injured 111.</p>
+<p>They said the unit had also investigated last year's bombing of the federal building in Oklahoma City and was involved in the long standoff with the anti-government Freemen group in Montana that ended peacefully in June.</p>
+<p>&quot;It has stretched our resources to be able to deal with all these cases. We have more responsibilities (in fighting terrorism), there have been more incidents and there is the potential for even more acts. You have to put more people on it,&quot; one official said.</p>
+<p>Agents will be reassigned from other unspecified duties to fighting terrorism, the officials said. The Federal Bureau of Investigation has more than 10,000 agents. The number working only on terrorism remains classified.</p>
+<p>The officials said congressional committees would be told of the planned shift but the FBI did not need approval from Congress because the move did not involve increased funding.</p>
+<p>FBI Director Louis Freeh shifted about 300 agents from headquarters to field offices soon after he took over the agency in 1993. In 1992, after the breakup of the Soviet Union and the end of the Cold War, the FBI moved about 400 agents from its counter-intelligence unit to work on cases involving violent crimes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

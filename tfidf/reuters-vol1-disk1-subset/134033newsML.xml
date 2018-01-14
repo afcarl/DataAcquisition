@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134033" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Italy's Ciampi welcomes city inflation data.</title>
+<headline>Italy's Ciampi welcomes city inflation data.</headline>
+<dateline>ROME 1996-10-22</dateline>
+<text>
+<p>Treasury Minister Carlo Azeglio Ciampi on Tuesday welcomed data from 10 Italian cities which pointed to inflation falling to 3.0 percent year-on-year in October from 3.4 percent in September.</p>
+<p>&quot;This data...confirms government forecasts of a fall in annual inflation beneath three percent by the end of 1996,&quot; Ciampi said in a statement.</p>
+<p>&quot;It's possible to say today that the government objectives for 1996, both in terms of the average inflation figure of 3.9 percent for 1996 as a whole.</p>
+<p>&quot;This is the result of a culture of stability which is taking root in the country,&quot; the statement continued.</p>
+<p>&quot;It should futher be noted that the fall in market rates is carrying on with strength, both because of the fall in inflation and because of the reduced &quot;Italian risk&quot;.</p>
+<p>--Rome newsroom +396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

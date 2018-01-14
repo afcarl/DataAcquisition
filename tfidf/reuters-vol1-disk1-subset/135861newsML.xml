@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135861" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Motorola in deal with Singapore's MobileOne.</title>
+<headline>Motorola in deal with Singapore's MobileOne.</headline>
+<dateline>ARLINGTON HEIGHTS, Ill. 1996-10-23</dateline>
+<text>
+<p>Motorola Inc said Wednesday it signed a contract with MobileOne (Asia) Pte Ltd of Singapore to enhance its wireless communications system with the latest code division multiple access technology.</p>
+<p>Motorola's Asia/Pacific Cellular Infrastructure Group said it would install its compact base stations, including 15 of the SC 601 microcell base stations announced last month, in underground train stations in Singapore. MobileOne has also ordered more than 20 of Motorola's SC 604 macrocell units, Motorola said.</p>
+<p>Motorola said it will work with MobileOne to install them by the end of 1996. MobileOne is the first operator to deploy Motorola's compact base stations.</p>
+<p>MobileOne is a consortium of the Keppel Corp Ltd, Singapore Press Holdings Ltd, Cable and Wireless Plc and Hong Kong Telecommuications Co Ltd.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON HEIGHTS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131705" id="root" date="1996-10-21" xml:lang="en">
+<title>FRANCE: Seita affected by cancer link report.</title>
+<headline>Seita affected by cancer link report.</headline>
+<dateline>PARIS 1996-10-21</dateline>
+<text>
+<p>Shares in French tobacco group Seita fell on Monday on the back of the publication of a study linking cigarette-smoking and lung cancer. At 1000 GMT, Seita stocks were down 3.69 percent at 196 francs.</p>
+<p>U.S. tobacco shares fell on Friday on expectations of lower sales and more lawsuits against cigarette makers.</p>
+<p>&quot;People are looking at the U.S. situation and say that what's going to happen there is also going to have an impact here,&quot; said an analyst. But he added he believed the Seita share fall was overdone.</p>
+<p>-- Paris newsroom +33 14221 5452.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

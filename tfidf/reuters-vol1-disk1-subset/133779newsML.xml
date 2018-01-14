@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133779" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Burlington Northern Santa Fe Q3 summary.</title>
+<headline>Burlington Northern Santa Fe Q3 summary.</headline>
+<dateline>FORT WORTH, Texas 1996-10-22</dateline>
+<text>
+<p>Pro forma</p>
+<p>			    1996			  1995</p>
+<p> Shr			  $1.58		    $1.53</p>
+<p> Net			247,000		  237,000</p>
+<p> Revs		   2,050,000		2,097,000</p>
+<p> Avg shrs		 156,300		  154,200</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>			     9  MONTHS</p>
+<p> Shr			  $4.14		    $3.45</p>
+<p> Net			645,000		  530,000</p>
+<p> Revs		   6,117,000		6,085,000</p>
+<p> Avg shrs		 155,800		  152,900</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>First Call mean estimate: $1.57 per share.</p>
+<p>NOTE: Pro forma amounts are presented on a comparable basis to 1996 and include 1995 amounts for both Burlington Northern Inc and Santa Fe Pacific Corp, which became subsidiaries of BNSF in a business combination effected Sept. 22, 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

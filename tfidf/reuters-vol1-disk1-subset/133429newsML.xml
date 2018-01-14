@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133429" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: IFC, GMD reach $45 mln financing deal.</title>
+<headline>IFC, GMD reach $45 mln financing deal.</headline>
+<dateline>MEXICO CITY 1996-10-21</dateline>
+<text>
+<p>The International Finance Corporation (IFC) and Mexican construction firm Grupo Mexicano de Desarrollo (GMD) have reached an agreement on a $45 million financing package, GMD said.</p>
+<p>The IFC would &quot;promote the participation of the international financing community&quot; in generating a $45 million credit, GMD said in news release on Monday.</p>
+<p>&quot;This credit has the objective of improving the system for distributing water in the cities of Cancun and Isla Mujeres,&quot; GMD said, referring to two Mexican Caribbean resorts in Quintana Roo state.</p>
+<p>GMD has a 30-year exclusive contract for water treatment and distribution systems in Quintana Roo, the news release said.</p>
+<p>The IFC deal was signed with GMD's subsidiary Desarrollos Hidraulicos de Cancun SA de CV.</p>
+<p>--Dan Trotta, Mexico City newsroom, (525) 728-9507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

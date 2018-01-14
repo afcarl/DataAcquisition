@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135354" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Manila's PHIBOR rates mixed on year-end tightness.</title>
+<headline>Manila's PHIBOR rates mixed on year-end tightness.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>Philippine interbank offered rates (PHIBOR) showed mixed results on Tuesday, with the one-week, one-month and one-year maturities declining while the two-month and three-month rose, traders said.</p>
+<p>Dealers said there was more demand for two-month and three-month pesos due to the expected seasonal tightness in liquidity by year-end.</p>
+<p>This prompted banks to raise their swap rates for the two and three-month maturities.</p>
+<p>&quot;Banks see tightness during December. They're positioning for that period,&quot; a trader said.</p>
+<p>PHIBOR represents rates at which banks are willing to swap their pesos for dollars.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133259" id="root" date="1996-10-22" xml:lang="en">
+<title>BOSNIA: OSCE to postpone Bosnian polls, Western official.</title>
+<headline>OSCE to postpone Bosnian polls, Western official.</headline>
+<dateline>SARAJEVO 1996-10-22</dateline>
+<text>
+<p>The international organisation in charge of Bosnia's polls has decided to postpone local elections scheduled for late November due to lack of cooperation by the parties, a Western official said on Tuesday.</p>
+<p>&quot;Municipal elections will be postponed later today because of political difficulties in all areas of the country,&quot; the official told reporters in Sarajevo on condition of anonymity.  </p>
+<p>Earlier diplomats said the Organisation for Security and Cooperation in Europe (OSCE) was expected to announce within hours a decision to postpone controversial local elections in Bosnia until next spring.</p>
+<p>&quot;The OSCE is confident it can meet the logistical challenges but if it has the full support and cooperation of the parties,&quot; the Western official said in Sarajevo.</p>
+<p>&quot;(But) they are not confident of that support during the four weeks between now and the election day,&quot; he said.</p>
+<p>The elections are viewed as the last chance for Bosnia to be reunited after a war that divided the country into ethnic ghettoes. Serbs have already said they will not take part, citing security problems in villages in Serb territory resettled by Moslem refugees.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132303" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: Australian stocks open firmer after Dow record.</title>
+<headline>Australian stocks open firmer after Dow record.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>Australian shares climbed from the opening bell on Monday after the Dow closed at a new record high on Friday, its 31st record close this year following another round of solid corporate earnings reports.</p>
+<p>At 10.30 a.m. (0030 GMT), the All Ordinaries index was 8.6 points firmer at 2,363.6.</p>
+<p>The December share price index was up seven points at 2,391 and at a 27.4 point premium to the underlying index.</p>
+<p>Brokers said benefiting the most from early buying was bellwether stock BHP which was aided by a firmer copper price as well as the Dow's rise on Friday.</p>
+<p>&quot;BHP is the standout this morning. There has been plenty of volume early and it is carrying the market at the moment,&quot; a dealer at a Brisbane-based brokerage said.</p>
+<p>The dealer said resource issues were still favoured over industrials but that most blue chip industrial issues had also opened modestly firmer.</p>
+<p>&quot;Interest rates are still a factor affecting industrial issues whereas resources are making up lost ground now that metal prices seem to have stabilised,&quot; the dealer said.</p>
+<p>Amongst industrial issues, media group News Corp was well supported early after its ADRs rose on Wall Street on Friday.</p>
+<p>Market attention was focused on engineering group ANI ahead of its annual meeting in Sydney this morning.</p>
+<p>ANI directors are divided over the handling of the company's investment in the troubled Holter Environmental Systems in the early 1990s which has cost ANI more than A$200 million (US$159 million) in losses and writedowns.</p>
+<p>Also active early was Foster's Brewing group whose shares opened weaker after it said that its 40 percent owned Canadian brewer, Molson had agreed to discuss a new licensing agreement with U.S. brewer Coors, after an arbitration panel ruling that terminated their previous agreement.</p>
+<p>(A$1 = US$0.795)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

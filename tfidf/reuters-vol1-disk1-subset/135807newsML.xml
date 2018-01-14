@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135807" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Imperial Oil lowers posted oil prices.</title>
+<headline>Imperial Oil lowers posted oil prices.</headline>
+<dateline>CALGARY 1996-10-23</dateline>
+<text>
+<p>Imperial Oil Ltd said it lowered the price it would pay for some grades of crude oil by C$9.00/cubic metre or C$1.43/barrel, effective immediately.</p>
+<p>The new prices were listed as follows:</p>
+<p>Edmonton light sweet C$207.00/cubic metre, or C$32.91/barrel Cromer light sour C$201.00/cubic metre, or C$31.96/barrel Bow River at Hardisty C$174.00/cubic metre, or C$27.66/barrel Midale at Cromer C$183.00/cubic metre, or C$29.09/barrel -- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32225" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Corn harvest progresses in U.S. south, yields vary.</title>
+<headline>Corn harvest progresses in U.S. south, yields vary.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Corn harvest was progressing rapidly in southern U.S. growing regions but yield estimates and crop conditions varied widely, agronomists said.</p>
+<p>In Texas, corn was 57 percent harvested as of Sunday, ahead of the five-year average of 54 percent.</p>
+<p>Yield estimates ranged from less than 20 bushels per acre (bpa) in dryland fields in the south, to more than 200 bpa in irrigated fields in the panhandle, said Cloyce Coffman, Texas A&amp;M University extension corn and sorghum specialist.</p>
+<p>&quot;The irrigated crop is probably one of the best crops we've had, particularly in the panhandle,&quot; Coffman said.  </p>
+<p>He estimated statewide yields at about 110 to 120 bpa, above USDA's August 1 estimate of 90 bpa. Texas produced about 217 million bushels of corn in 1995.</p>
+<p>In North Carolina, corn was 23 percent harvested as of Sunday, ahead of the five-year average of 14 percent.</p>
+<p>&quot;The yields are probably better than average but I don't think they're going to be a record,&quot; said Jim Dunthy, North Carolina State University extension corn and soybean specialist.</p>
+<p>He estimated statewide yields in the upper 80s bpa to lower 90s, compared with USDA's August 1 estimate of 96 bpa.  </p>
+<p>North Carolina's crop suffered from heavy rains this summer but Dunthy said mold damage was light.</p>
+<p>&quot;The corn has been surprisingly good considering all the moisture we've had,&quot; he said. &quot;Some got leveled by (Hurricane) Bertha which makes harvesting a nightmare.&quot;</p>
+<p>Farmers were anticipating more harvest troubles later this week as Hurricane Fran approached the east coast, he said. Meteorologists predicted two to six inches of rain through Saturday for the Carolinas.</p>
+<p>In Arkansas, corn harvest was 33 percent complete as of Sunday, lagging average of 47 percent.  </p>
+<p>Aflatoxin problems were reported in some corn fields in Independence County but the state's statistical service said the instances were isolated.</p>
+<p>In Mississippi, where this year's high corn prices tempted farmers to plant more than twice as many corn acres as last year, the crop was 38 percent harvested as of Sunday, compared with 28 percent for the five-year average.</p>
+<p>Heavy rains in Attala County delayed harvest and raised concerns of lower test weights and poor quality, said County Agent Ernest Flint in the state's weekly crop report.</p>
+<p>--Emily Kaiser 312-408-8749</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

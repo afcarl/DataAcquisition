@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135112" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-WMC sees lower Kambalda nickel output.</title>
+<headline>RTRS-WMC sees lower Kambalda nickel output.</headline>
+<dateline>KALGOORLIE, Australia 1996-10-22</dateline>
+<text>
+<p>WMC Ltd said on Tuesday it expected its Kambalda operation to produce in excess of 35,000 tonnes of nickel in the financial year ending June 30, 1997, compared with 38,000 tonnes in the previous year.</p>
+<p>WMC anticipated a slight decline due to the switchover to independent contract mining services at Kambalda, which earlier this month resulted in WMC retrenching some 445 workers, mostly effective immediately.</p>
+<p>Mark Cutifani, manager of nickel operations for WMC, told reporters he expected Kambalda to lose about 2,000 tonnes due to the switch.  </p>
+<p>The September and December quarters will record the most significant declines in output, with production returning to normal in the second half, Cutafani said.</p>
+<p>Cutafani said he expects nickel prices to trade at between US$3.00 and $3.50 a pound for the next few years but to decline in the longer-term.</p>
+<p>He said proposed 1999 start-up of the Inco Ltd-run Voisey Bay nickel project in Canada looks to be facing delays of betweeen one and two years as it wends its way through native title and environmental requirements.   </p>
+<p>But Voisey Bay will put downward pressure on international nickel prices, he said. &quot;We believe that for a period it will put a damper on prices.&quot;</p>
+<p>He said current nickel prices of around US$3.14 a pound were encouraging the recovery of scrap, which was affecting demand for primary metal.</p>
+<p>About half the world's nickel demand is met by the scrap industry, he said.</p>
+<p>The economics of recovering scrap drop off when international nickel prices fall below about US$3.00 and below US$2.50 become even less attractive, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KALGOORLIE, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134710" id="root" date="1996-10-22" xml:lang="en">
+<title>ISRAEL: Clal Israel to reconsider Yotvata bid.</title>
+<headline>Clal Israel to reconsider Yotvata bid.</headline>
+<dateline>TEL AVIV 1996-10-22</dateline>
+<text>
+<p>The board of Clal Israel Ltd will meet on Friday to decide whether to proceed with its bid to buy half of a kibbutz-owned dairy called Yotvata, a spokesman for the company said on Tuesday.</p>
+<p>Clal made an offer last February to acquire 50 percent of Yotvata for 100 million shekels. But the offer ran into problems when the Tnuva cooperative, the country's biggest food concern, said it would regard the acquisition as a breach of an agreement under which it distributes Yotvata's products in most of Israel.</p>
+<p>Earlier this month, newspaper reports said Nestle was also interested in acquiring Yotvata together with Tnuva.</p>
+<p>Clal's other interests in the food industry include a small manufacturer of frozen foods called Sunfrost and Jaf-Ora, a beverage maker.</p>
+<p>- Tel Aviv newsroon, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

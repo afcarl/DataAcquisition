@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33283" id="root" date="1996-09-04" xml:lang="en">
+<title>BELGIUM: MEPs to approve safety rules for passenger ships.</title>
+<headline>MEPs to approve safety rules for passenger ships.</headline>
+<dateline>BRUSSELS 1996-09-04</dateline>
+<text>
+<p>Plans to improve safety standards on passenger ships operating on domestic routes are expected to win the approval of the European Parliament on September 5.</p>
+<p>Neither these vessels nor ships on international voyages which sail within 20 miles of the nearest coast are covered by the international safety requirements laid down by the International Maritime Organisation.</p>
+<p>And yet they are exposed to the same dangers as similar ships on international routes operating in the same sea areas, according to parliamentary rapporteur Per Stenmarck.</p>
+<p>Every year since 1986, more than a thousand lives have been lost in maritime disasters involving around 230 ships. The percentage of major accidents involving passenger ships is likely to rise as vessels age and are increasingly flagged out to registers with low safety standards, Stenmarck warns in a report due to be adopted by the parliament on Thursday.</p>
+<p>The Swedish Christian Democrat will be urging fellow MEPs on Thursday to approve a draft directive (cooperation procedure) which aims to replace EU member states' widely different national safety rules for such vessels by harmonised EU-wide standards.</p>
+<p>The common standards proposed by the European Commission are based on the international Safety of Life at Sea (SOLAS) Convention and cover stability, navigational and operational requirements, as well as escape routes, public address systems, life saving equipment, radiocommunications, search and rescue.</p>
+<p>Stemarck will also be recommending a number of improvements to the Commission proposal - COM(96)61.</p>
+<p>His report calls on the Commission to allow member states to impose standards higher than those set by the SOLAS Convention and include in the proposal new requirements on environmental protection, crew training and working conditions.</p>
+<p>It also demands urgent action to tackle the technical and administrative national barriers which prevent the internal market in ship transfers from operating smoothly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

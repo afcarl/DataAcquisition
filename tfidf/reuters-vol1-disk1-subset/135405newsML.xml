@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135405" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Toyama Chem to step up UK test of Alzheimer's drug.</title>
+<headline>Toyama Chem to step up UK test of Alzheimer's drug.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Toyama Chemical Co Ltd said on Tuesday it would start phase 2 of three-stage clinical trials for a drug used to treat Alzheimer's-type dementia next month in Britain.</p>
+<p>The company said a phase 1 study of the drug, T-588, in Britain was completed as scheduled in June.</p>
+<p>The drug is currently being tested in a phase 2 clinical test in Japan, it said in a statement.</p>
+<p>&quot;We want to secure recognition of its safety and efficacy in overseas countries and to accelerate collaboration with overseas companies for the development of T-588 as an international product,&quot; the statement said.</p>
+<p>At present, Tacrine, a drug produced by U.S. firm Warner-Lambert Co is the only drug approved as an anti-dementia agent in the United States, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

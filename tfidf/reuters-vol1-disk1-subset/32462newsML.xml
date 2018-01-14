@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32462" id="root" date="1996-09-04" xml:lang="en">
+<title>PAKISTAN: Pakistan expects Daewoo big investment.</title>
+<headline>Pakistan expects Daewoo big investment.</headline>
+<dateline>ISLAMABAD 1996-09-04</dateline>
+<text>
+<p>Pakistan's Investment Minister Asif Ali Zardari said on Wednesday he expected South Korea's Daewoo Corp would invest &quot;billions of dollars&quot; in his country under a deal he just signed with it in Islamabad.</p>
+<p>Daewoo chairman Chang Young-soo signed the memorandum of understanding with Zardari, agreeing to make investmenet in several sectors, the official APP news agency said.</p>
+<p>The agency did not specify any amount of possible investment in fields that it said included railways, telecommunication, petrochemicals, banking, heavy industry, agriculture, hotels and resorts, and power projects.</p>
+<p>It quoted Zardari, who is also the husband of Prime Minister Benazir Bhutto, as saying it would be easy to evaluate the investment volume as soon as Daewoo started working in areas in which it had shown interest.</p>
+<p>&quot;But I am sure it will be in billions of dollars,&quot; he said.</p>
+<p>Daewoo also signed another memorandum of understanding with Pakistan's Railways Ministry on conductying a feasibility study and construction of rail link connecting Central Asian countries with Pakistan, APP said.</p>
+<p>It gave no details of the deal on the project, which it said envisaged the construction of rail link between Pakistan and Turkmenistan through Afghanistan.</p>
+<p>The route proposed tentatively is from Kushka in Turkmenistan to Herat in Afghanistan and Daldandin in Pakistan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

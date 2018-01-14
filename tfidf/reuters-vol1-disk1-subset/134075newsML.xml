@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134075" id="root" date="1996-10-22" xml:lang="en">
+<title>NETHERLANDS: Warcrimes tribunal says president not ready to quit.</title>
+<headline>Warcrimes tribunal says president not ready to quit.</headline>
+<dateline>THE HAGUE 1996-10-22</dateline>
+<text>
+<p>The U.N. criminal tribunal for former Yugoslavia said on Tuesday remarks attributed to its president, Antonio Cassese, that he intented to quit had been misconstrued.</p>
+<p>&quot;He (Cassese) has no intention of quitting. He was merely expressing growing impatience with the lack of arrests,&quot; Hague-based tribunal spokesman Christian Chartier told Reuters.</p>
+<p>The U.S. Christian Science Monitor daily reported on Monday that Cassese had threatened to quit in a speech to a University of Connecticut Law School panel on Saturday.</p>
+<p>&quot;If the major powers of the world are not consistent and don't make arrests in the next 10 months, we are prepared to pack up and go home,&quot; the newspaper reported him as saying.</p>
+<p>Chartier, who said he had spoken to Cassese on Tuesday, said his comments merely meant that unless there were fresh arrests, no more cases would come before the tribunal.</p>
+<p>&quot;It was stated as a matter of fact. He has definitely not threatened to resign,&quot; Chartier said.</p>
+<p>Of the 74 people indicted for war crimes in the former Yugoslavia, only seven are in tribunal custody.</p>
+<p>The remainder, including former Bosnian Serb leader Radovan Karadzic and his army commander Gen. Ratko Mladic, both charged with genocide, remain at large.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE HAGUE"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

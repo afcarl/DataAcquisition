@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32964" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Corrections to build Florida jail annex.</title>
+<headline>Corrections to build Florida jail annex.</headline>
+<dateline>NASHVILLE, Tenn. 1996-09-04</dateline>
+<text>
+<p>Corrections Corp. of America said Wednesday it will invest about $31 million to design, build and operate a 1000-bed jail annex in Lakeland, Fla.</p>
+<p>The five-year contract was approved by Polk County commissioners Tuesday and is expected to produce over $16 million in annual revenues for the Nashville, Tenn.-based company.</p>
+<p>The all-cell facility is scheduled to open in the fourth quarter of 1997.</p>
+<p>Corrections Corp. manages prisons and other correctional institutions for government agencies.</p>
+<p>Its stock fell 12.5 cents to $32.25 on the New York Stock Exchange in late morning trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

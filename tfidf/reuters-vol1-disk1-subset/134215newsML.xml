@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134215" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: End to New Delhi rule in Gujarat recommended.</title>
+<headline>End to New Delhi rule in Gujarat recommended.</headline>
+<dateline>NEW DELHI 1996-10-22</dateline>
+<text>
+<p>Indian Prime Minister H.D. Deve Gowda's cabinet on Tuesday recommended revoking presidential rule in the western state of Gujarat, the Press Trust of India (PTI) said.  </p>
+<p>Gujarat was brought under New Delhi's direct rule last month after the Hindu nationalist Bharatiya Janata Party (BJP) split into two there, forcing the fall of its government in one of India's most prosperous regions.</p>
+<p>Media reports said a breakaway BJP faction had mustered a majority in the 181-member assembly with the help of the Congress party of former prime minister P.V. Narasimha Rao, which has 44 deputies there.</p>
+<p>PTI said Gujarat governor Krishna Pal Singh had told the federal government that direct presidential rule could be lifted as he believed a stable state government could now be formed.</p>
+<p>The news agency said President Shankar Dayal Sharma was expected to sign a notification ending direct rule on Tuesday evening or on Wednesday morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

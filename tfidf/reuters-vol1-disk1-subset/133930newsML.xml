@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133930" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Pentagon expands Iraq chemical investigationm.</title>
+<headline>Pentagon expands Iraq chemical investigationm.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>In a growing military controversy, the Pentagon said on Tuesday it was notifying 20,000 U.S. Gulf War troops that they may have been exposed to chemical weapons in the destruction of an Iraqi ammunition dump.</p>
+<p>The announcement by Defence Department spokesman Ken Bacon vastly expanded the search for possible victims of the March 1991 incident. The military said last month it was notifying 5,000 troops that they could have suffered exposure in destruction of the Kamisiyah ammo depot in southern Iraq.  </p>
+<p>&quot;We have decided after looking at the facts that it would be best to go out and aggressively reach out to these 20,000 people, the number of people we think were in a 50 kilometre (30 mile) radius of Kamisiyah,&quot; Bacon told reporters.</p>
+<p>But he stressed that the Pentagon still had no evidence that any American troops had suffered from exposure to Sarin nerve agents in a blast cloud from rockets or shells destroyed at Kamisiyah.</p>
+<p>The Pentagon has repeatedly denied any attempt to cover up possible exposure of U.S. troops to chemical agents in the war and has said there was no evidence that Iraq ever used chemical weapons against U.S.-led coalition forces.</p>
+<p>But the figure on possible exposure from the destruction of Kamisiyah by U.S. military engineers in March 1991 has grown steadily from 150 announced by the Defence Department in June to 20,000 revealed on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

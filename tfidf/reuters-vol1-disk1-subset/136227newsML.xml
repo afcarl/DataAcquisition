@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136227" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: Expert says mystery 1908 blast vaporised evidence.</title>
+<headline>Expert says mystery 1908 blast vaporised evidence.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>A mysterious explosion over remote Siberia in 1908 that flattened forests for miles aroundand confounded experts was most likely caused by an asteroid hitting Earth, a Russian physicist said on Wednesday.</p>
+<p>Scientists had suspected the blast over Tunguska must have been caused by an asteroid or large meteorite exploding on impact with the atmosphere at a height of six to 10 km (four to six miles).</p>
+<p>But no crater and no fragments were ever found.</p>
+<p>Vladimir Svetsov of the Russian Academy of Sciences,, writing in the science journal Nature, said his models showed this is exactly what he would expect if an asteroid or similarly large object smashed into Earth.</p>
+<p>Its fall would not be slowed by the drag of the atmosphere, unlike a smaller meteorite which survives more intact as its fall is broken.</p>
+<p>Svetsovsaid the faster and more powerful collision of an asteroid would create enough force to completely obliterate any fragments.</p>
+<p>In addition, he wrote: &quot;Radiation energy is decidedly large -- quite comparable with that of a nuclear explosion.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

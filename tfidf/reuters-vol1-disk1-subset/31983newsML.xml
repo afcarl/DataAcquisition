@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31983" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: Singapore oil products gives up earlier gains.</title>
+<headline>Singapore oil products gives up earlier gains.</headline>
+<dateline>SINGAPORE 1996-09-04</dateline>
+<text>
+<p>Singapore oil product swaps lost most of its gains from Tuesday as the market discounted the possibility of a full blown war in Iraq following the U.S. missile attack, trading sources said.</p>
+<p>October gas oil swaps traded down to $27.15 on Wednesday afternoon, about 50 cents below Tuesday's close. On Tuesday, prices rose by about $1.00 following news of the first U.S. missile attack on Iraq.</p>
+<p>Brokers said offers were currently seen at a lower $27.10 and buyers have backed down to $26.90.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

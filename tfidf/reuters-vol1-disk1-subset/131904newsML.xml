@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131904" id="root" date="1996-10-21" xml:lang="en">
+<title>NEW ZEALAND: Donaghys buys Feltex Industrial Textiles.</title>
+<headline>Donaghys buys Feltex Industrial Textiles.</headline>
+<dateline>WELLINGTON 1996-10-21</dateline>
+<text>
+<p>Donaghys Industries Ltd, a wholly owned subsidiary of Donaghys Ltd, said on Monday it had acquired Auckland-based Feltex Industrial Textiles.</p>
+<p>The ownership becomes effective on November 15.</p>
+<p>Donaghys said market forces had necessitated rationalisation with the New Zealand narrow fabrics industry.</p>
+<p>&quot;Manufacturers have been suffering from excess capacity for some time and this was the major driving force behind the agreement,&quot; it said.  </p>
+<p>Donaghys would operate the business from its present site in Auckland for the interim but planned to integrate it with its own webbing and braid business in due course.</p>
+<p>The company said the new consolidated webbing and braids business would double its capacity in these product categories.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

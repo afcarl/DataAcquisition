@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134955" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: SNB sees battle brewing over EMU clearing system.</title>
+<headline>SNB sees battle brewing over EMU clearing system.</headline>
+<dateline>ZURICH 1996-10-22</dateline>
+<text>
+<p>Swiss National Bank vice president Jean-Pierre Roth sees a potential battle among European financial centres if broad access is not granted to a planned Economic and Monetary Union (EMU) clearing system.</p>
+<p>In a speech to be presented here to an international business law conference, he also said it would be important for Swiss banks to gain access to the system.</p>
+<p>The system in question, TARGET (Trans-European Automated Real-Time Gross Settlement Express Transfer), is planned to start in 1999 as EMU is phased in with the start of the single European currency, the Euro.</p>
+<p>Banks of so-called &quot;out&quot; countries which have not joined EMU would suffer a competitive disadvantage if their countries were denied membership in the clearing system, Roth said.</p>
+<p>&quot;Up to now, the question whether the &quot;Outs&quot;, like the &quot;Ins,&quot; should be granted full access to TARGET, has been answered in different ways,&quot; Roth said.</p>
+<p>&quot;The details of participation of the 'Outs' still must be established in detail. But there seems to be a conflict here,&quot; Roth said.</p>
+<p>Roth did not name any countries, but notedd some potential EMU members &quot;of the first rank&quot; oppose granting TARGET access to European Union (EU) countries which are not EMU members.</p>
+<p>These future EMU members argue that countries not joining EMU's unified monetary policy should also not be granted &quot;the means to destroy it.&quot;</p>
+<p>&quot;A war among financial centres within the EU is thus not to be ruled out,&quot; Roth said.</p>
+<p>Britain, in particular, has argued that such discrimination would be illegal under the EU's single market legislation. But other views, including those of the Bundesbank, hold that banks outside a common currency should not have the same privileges as those within.</p>
+<p>Roth said it was too early for non-EU members, including Switzerland, to take a position on the matter.</p>
+<p>&quot;But one thing cannot be overlooked: the participation in the European clearing system will become increasingly more important. It is to be expected that longer-term, the number of customers wishing to settle payments in Euro in Switzerland will increase,&quot; Roth said.</p>
+<p>&quot;If banks' customers cannot complete these transactions, or cannot do them in a cost-effective manner, then they will open accounts in foreign countries. (Swiss) Banks would lose business. A link with TARGET would thus be very important for our banks,&quot; Roth said.</p>
+<p>Roth added that Switzerland, with its own Swiss Interbank Clearing (SIC) system, has an efficient real-time payments system and thus already has the necessary framework for joining TARGET.</p>
+<p>A senior Swiss commercial banker told Reuters Swiss access to TARGET cannot be settled until Britain's case is cleared up, but that he expected the EU to grant broad access to the system late in the process.</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

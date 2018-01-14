@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32666" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Applied Cellular to 90 pct stake in firm.</title>
+<headline>Applied Cellular to 90 pct stake in firm.</headline>
+<dateline>NIXA, Mo. 1996-09-04</dateline>
+<text>
+<p>Applied Cellular Technology Inc said Wednesday it has reached an agreement to acquire a 90 percent interest in Test Industries Plc, a London-based developer of test equipment.</p>
+<p>Terms of the acqusition were not disclosed.</p>
+<p>Test has proprietary products for test applications in telecommunications, defense, and aerospace industries.</p>
+<p>Test's management estimates that revenues will exceed $5.1 million with pretax net profits of $760,000 in fiscal year 1997, endiing in March.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIXA, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132494" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Key Tronic Q1 diluted shr $0.02 vs $0.16.</title>
+<headline>Key Tronic Q1 diluted shr $0.02 vs $0.16.</headline>
+<dateline>SPOKANE, Wash. 1996-10-22</dateline>
+<text>
+<p>FINANCIAL HIGHLIGHTS</p>
+<p>	     (in thousands, except per share amounts)</p>
+<p>						    First Quarters Ended</p>
+<p>						     09/28/96  09/30/95</p>
+<p> Net Sales					  $45,337  $60,550</p>
+<p> Gross Profit					 6,779    8,925</p>
+<p> Operating Income				     924    3,350</p>
+<p> Net Income					     207    1,618</p>
+<p> Fully Diluted Earnings per Share		 .02	.16</p>
+<p> Fully Diluted Shares Outstanding	     9,598   10,417</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPOKANE, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

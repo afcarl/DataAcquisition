@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162035" id="root" date="1996-11-03" xml:lang="en">
+<title>USA: ATHLETICS-TOP FINISHERS IN NEW YORK CITY MARATHON.</title>
+<headline>ATHLETICS-TOP FINISHERS IN NEW YORK CITY MARATHON.</headline>
+<dateline>NEW YORK 1996-11-03</dateline>
+<text>
+<p>(Makes tabular, corrects 2nd place to Tumo as per officials)</p>
+<p>Top finishers in Sunday's New</p>
+<p>York City Marathon:</p>
+<p>Men</p>
+<p>1. Giacomo Leone (Italy) 2:09:54</p>
+<p>2. Turbo Tumo (Ethiopia) 2:10:09</p>
+<p>3. Joseph Kamau (Kenya) 2:10:40</p>
+<p>4. John Kagwe (Kenya) 2:11:39</p>
+<p>5. Andres Espinosa (Mexico) 2:11:39</p>
+<p>6. Cosmas Ndeti (Kenya) 2:11:53</p>
+<p>7. Martin Fiz (Spain) 2:12:31</p>
+<p>8. Luca Barzaghi (Italy) 2:12:42</p>
+<p>9. Sammy Nyangincha (Kenya) 2:12:44</p>
+<p>10. William Koech (Kenya) 2:12:57</p>
+<p>Women</p>
+<p>1. Anuta Catuna (Romania) 2:28:18</p>
+<p>2. Franca Fiacconi (Italy) 2:28:42</p>
+<p>3. Joyce Chepchumba (Kenya) 2:29:38</p>
+<p>4. Kim Jones (U.S.) 2:34:46</p>
+<p>5. Christine Mallo (France) 2:35:31</p>
+<p>6. Zhaia Dhamani (France) 2:36:40</p>
+<p>7. Tegla Loroupe (Kenya) 2:37:19</p>
+<p>8. Grete Kirkeberg (Norway) 2:37:37</p>
+<p>9. Jeanne Peterson (U.S.) 2:38:05</p>
+<p>10. Gadiso Edato (Ethiopia) 2:40:44</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

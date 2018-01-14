@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32356" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: StorageTek says IBM deal going well.</title>
+<headline>StorageTek says IBM deal going well.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Storage Technology Corp said on Wednesday a deal signed last June under which the U.S. computer data storage company is supplying branded-disc products to International Business Machines Corp is &quot;functioning smoothly.&quot;</p>
+<p>It said that a U.S. Justice Department probe into possible anticompetitive aspects of the deal was having no impact on the agreement.</p>
+<p>&quot;Things are going very well.  We are selling products to IBM and IBM is selling the products on to their customers,&quot; said a Storage Technology spokesman in a telephone interview.</p>
+<p>The company described the U.S. Justice investigation as &quot;routine and expected.&quot;</p>
+<p>&quot;We expect this deal to be very good for StorageTek, very good for IBM and we hope the Justice Department will find that it will be good for competition as well,&quot; the spokesman said.</p>
+<p>Financial analysts have said that the IBM deal could add hundreds of millions of dollars to StorageTek's revenues.</p>
+<p>-- Paris Newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

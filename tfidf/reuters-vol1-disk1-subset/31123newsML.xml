@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31123" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: UK Labour to seek &quot;right environment for business&quot;.</title>
+<headline>UK Labour to seek &quot;right environment for business&quot;.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>British opposition Labour Party leader Tony Blair said his party did not intend to be a single-term government and its success would depend on its ability to create the right environment for business.</p>
+<p>&quot;We do not want or intend to be a one-term wonder as a government,&quot; he told a business conference in London.</p>
+<p>&quot;If we fail to provide the right environment for business, we will not succeed as a government.&quot;</p>
+<p>Outlining the main thrust of labour economic policy, Blair said its primary commitment was to maintaining macro-economic stability.</p>
+<p>There would be no return to penal tax rates, he said, and Labour would work with business to improve the infrastructure.</p>
+<p>A Labour government would also reduce red tape to help small businesses, improve education and help to open up overseas markets.</p>
+<p>Labour is well ahead of the ruling Conservatives in the opinion polls. The next election has to be held by mid-1997.</p>
+<p>-- Richard Murphy, London Newsroom +44-171-542 2774</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

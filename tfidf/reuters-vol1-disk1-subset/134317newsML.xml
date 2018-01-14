@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134317" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: RESEARCH ALERT - Light upgraded to buy.</title>
+<headline>RESEARCH ALERT - Light upgraded to buy.</headline>
+<text>
+<p>-- Credit Lyonnais said on Tuesday it had upgraded its recommendation for Brazil's Light Servicos de Eletricidade SA to buy from hold.</p>
+<p>-- &quot;Our 18-month target price for Light is 465 reais, an upside of 40 percent from current levels,&quot; analyst Rosana Aldworth wrote in a report.</p>
+<p>--&quot;Light's stock price has underperformed both the Ibovespa and the electricity sector in 1996.&quot;</p>
+<p>-- Ian Simpson, Wall Street desk, (212) 859-1879</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

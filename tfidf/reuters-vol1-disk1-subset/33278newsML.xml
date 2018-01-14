@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33278" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Chirac fortunes improve slightly in French poll.</title>
+<headline>Chirac fortunes improve slightly in French poll.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>An opinion poll published on Wednesday saw a slight improvement in the low popularity of French President Jacqes Chirac and Prime Minister Alain Juppe, both buffeted by near-record unemployment and planned layoffs.</p>
+<p>A Gallup survey for the weekly L'Express said 46 percent of voters disapproved of Chirac in August against 47 percent in July while 43 percent approved of him, versus 40 percent.</p>
+<p>The premier's disapproval rating stood unchanged at 57 percent but 37 percent of those asked supported him, up three percentage points from July.</p>
+<p>The poll was taken in late August, following a police raid to evict African immigrants who had occupied a Paris church to fight expulsion orders. The government had sought to portray the raid as a tough stance on illegal immigration.</p>
+<p>A Louis Harris poll for the business magazine Valeurs Actuelles highlighted a jump in general gloominess about the stagnating economy and prospects for labour conflicts.</p>
+<p>It said 62 percent of those asked thought the economy was getting worse, against 44 percent in June.</p>
+<p>Only six percent thought things were getting better, down sharply from 13 percent in the earlier survey.</p>
+<p>Chirac was credited with a 38 percent approval rating against 44 percent in July, while Juppe got the thumbs down from 55 percent against 60 percent in the earlier poll.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

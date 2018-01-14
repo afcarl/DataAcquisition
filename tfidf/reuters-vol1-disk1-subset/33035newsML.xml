@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33035" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - First Tenn. cut on price.</title>
+<headline>RESEARCH ALERT - First Tenn. cut on price.</headline>
+<text>
+<p>-- Salomon Brothers said it lowered its rating on First Tennessee National Corp to hold from buy because the shares have neared the firm's price target of 35 per share.</p>
+<p>-- Said fundamental view of company remains unchanged.</p>
+<p>-- Views a modest share repurchase plan by First Tennessee as likely. Said an aggressive plan could prompt earnings per share estimate increase, but said did not expect such a plan.</p>
+<p>-- Said the rest of 1996 could be a challenging period for the company due to weakness in bond division.</p>
+<p>-- Shares unchanged at 33-3/8.</p>
+<p>-- Wall Street desk, 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

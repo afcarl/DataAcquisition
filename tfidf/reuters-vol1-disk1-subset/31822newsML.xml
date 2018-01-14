@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31822" id="root" date="1996-09-04" xml:lang="en">
+<title>PANAMA: Hong Kong consortium to sign Panama contract soon.</title>
+<headline>Hong Kong consortium to sign Panama contract soon.</headline>
+<dateline>PANAMA CITY 1996-09-04</dateline>
+<text>
+<p>A local unit of Hong Kong consortium Hutchison Whampoa expects to sign a contract to operate Panama's two main ports by the end of the month, a company spokeswoman said.</p>
+<p>Company officials intend to sign the contract with the Panamanian government after congressional approval, expected during the current legislative session which convened Sunday, the spokeswoman said late Tuesday.</p>
+<p>&quot;We should be signing the contract with Panama by the end of the month,&quot; she said.</p>
+<p>The Hong Kong consortium won a preliminary bidding round last month in an auction that saw foreign investors and diplomats criticize Panama for opening sealed bids and changing regulations in the privatization process.</p>
+<p>The Hong Kong consortium made a $22.2 million offer to operate Cristobal Port on the Atlantic coast and Balboa Port on the Pacific from 1997. The two ports, which handle 200,000 and 28,000 containers per year respectively, are due to be turned over to Panama by the United States in 1997.</p>
+<p>-- Laurens Grant, Panama City newsroom, 507 2237739</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135182" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Four groups eye Philippine power plant contract.</title>
+<headline>Four groups eye Philippine power plant contract.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>Four foreign and local groups have expressed interest in competing for a contract to rehabilitate a 350-megawatt National Power Corp hydroelectric plant in Laguna, south of Manila, the Philippine generator said on Tuesday.</p>
+<p>Cerael Donggay, NPC vice-president, told reporters the groups were local firm First Private Power Corp, a consortium made up of Alsons Power Holding Corp and Tomen Corp, CalEnergy International of the U.S. and Asiapower Developments Ltd of New Zealand.</p>
+<p>Donggay said bids for the rehabilitation of the Caliraya-Botocan-Kalayaan hydro complex would be accepted on November 25.</p>
+<p>Impsa Asia Ltd of Argentina had earlier submitted an unsolicited bid. It will now have to match the tender of the lowest bidder to win the project.</p>
+<p>Under the Philippine build-operate-transfer (BOT) law, other companies are allowed to challenge unsolicited proposals. The lowest bidder wins the contract.</p>
+<p>- Manila newsroom 63 2 8418939 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1610107">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

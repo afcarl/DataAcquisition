@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136257" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: Dirty tanker rates mostly steady in active trade.</title>
+<headline>Dirty tanker rates mostly steady in active trade.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>Fairly active trade was seen again ON Wednesday in the dirty tanker chartering market and rates in most regions held steady, traders said.</p>
+<p>Only rates for inter-UKC and West Africa-USG voyages showed any signs of easing, with trade in both regions fairly thin compared with activity last week.</p>
+<p>A VLCC was booked transatlantic from West Africa at W65, around five points lower from last week's levels, although Suezmax tonnage to UKC and the Mediterranean continued to take steady W105 in amid moderate demand from refiners.  </p>
+<p>On the North Sea market, trade was thin but a VLCC was booked transatlantic at a steady W62.5 and Suezmax tonnage moved to the Med at W90.</p>
+<p>Inter UK-Cont activity continued to slow and rates were slightly softer, averaging around W135, off 2-1/2 points on the day. Early November Aframax tonnage from Tees to UKC took W135 while 88,000 tonnes for early November inter-UKC voyage took W125.</p>
+<p>Mediterranean business was steady with good cross Med demand supporting rates for Suezmax and Aframax tonnage at around W87.5 and W105 respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

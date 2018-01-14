@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26172" id="root" date="1996-09-01" xml:lang="en">
+<title>UK: CRICKET-ENGLAND WIN TOSS AND BAT IN THIRD ONE-DAY INTERNATIONAL. [CORRECTED 11:15 GMT]</title>
+<headline>CRICKET-ENGLAND WIN TOSS AND BAT IN THIRD ONE-DAY INTERNATIONAL. [CORRECTED 11:15 GMT]</headline>
+<dateline>NOTTINGHAM, England 1996-09-01</dateline>
+<text>
+<p>Englandcaptain Mike Atherton won the toss and elected to bat first in the third one-day international against Pakistan at Trent Bridge on Sunday.</p>
+<p>England lead the series 2-0.</p>
+<p>Teams:</p>
+<p>England: Nick Knight, Alec Stewart, Mike Atherton (captain), Mike Maynard, Graham Lloyd, Ronnie Irani, Adam Hollioake, Robert Croft, Darren Gough, Peter Martin, Allan Mullally.</p>
+<p>Pakistan: Saeed Anwar, Shahid Anwar, Ijaz Ahmed, Aamir Sohail, Shadab Kabir, Asif Mujtaba, Rashid Latif, Wasim Akram, Waqar Younis, Saqlain Mushtaq (corrects name from Mushtaq Ahmed), Shahid Nazir.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOTTINGHAM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

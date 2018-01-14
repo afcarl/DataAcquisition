@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134169" id="root" date="1996-10-22" xml:lang="en">
+<title>PAKISTAN: Pakistan money up on repo rate rise, devaluation.</title>
+<headline>Pakistan money up on repo rate rise, devaluation.</headline>
+<dateline>KARACHI, Pakistan 1996-10-22</dateline>
+<text>
+<p>Pakistan's inter-bank money market rates jumped on Tuesday after the central bank devalued the rupee by 7.86 percent against the dollar and raised repo discount rate by 3.0 percent, dealers said.</p>
+<p>&quot;The market was on fire because of the twin below of the rupee devaluation and rise in discount rate,&quot; an official of Standard Chartered Bank said. &quot;The market was short and borrowers were scrambling for funds.&quot;</p>
+<p>The repo rates rose drastically, a dealer at KASB &amp; Co said. &quot;Three-month trading, which was seen at 15 percent yesterday, crossed the 17 percent level today.&quot; -- Amir Zia 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

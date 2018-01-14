@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31384" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: TENNIS-WEDNESDAY'S FEATURED MATCHES AT U.S. OPEN.</title>
+<headline>TENNIS-WEDNESDAY'S FEATURED MATCHES AT U.S. OPEN.</headline>
+<dateline>NEW YORK 1996-09-03</dateline>
+<text>
+<p>Schedule of Wednesday's featured matches at the U.S. Open (prefix number denotes seeding):</p>
+<p>Day session</p>
+<p>Stadium court, beginning 11:00 a.m. (1500 GMT) 1-Steffi Graf (Germany) v Judith Wiesner (Austria) 2-Michael Chang (U.S.) v Javier Sanchez (Spain) 16-Martina Hingis (Switzerland) v 7-Jana Novotna (Czech Republic)</p>
+<p>Night session</p>
+<p>Stadium, beginning 7:30 p.m. (2330 GMT) 6-Andre Agassi (U.S.) v 3-Thomas Muster (Austria)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

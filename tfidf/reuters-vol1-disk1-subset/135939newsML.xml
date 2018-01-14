@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135939" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: NL Industries suspends div on bleak forecast.</title>
+<headline>NL Industries suspends div on bleak forecast.</headline>
+<dateline>HOUSTON 1996-10-23</dateline>
+<text>
+<p>NL Industries Inc said Wednesday that a continuing decline in prices for titanium dioxide pigments is likely to result in a fourth quarter loss, prompting it to suspend the regular quarterly dividend.</p>
+<p>The company said the outlook for titanium dioxide pigments pricing remains bleak.</p>
+<p>Average selling prices for the pigments for this year's third quarter were 15 percent below prices in the same period in the prior year, and 6 percent lower than in this year's second quarter.  </p>
+<p>The company said it expects average prices in the fourth quarter to be &quot;somewhat below&quot; the third quarter average. Although prices have dropped, demand for titanium dioxide pigments has continued to grow, it said.</p>
+<p>The company had set a dividend of $0.10 per share for shareholders of record on September 16, payable September 30.</p>
+<p>In this year's third quarter, the company reported a net loss of $4.2 million, or $0.08 per share, compared with a net profit of $17.4 million, or $0.34 per share, in the prior year's third quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

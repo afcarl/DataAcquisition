@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133145" id="root" date="1996-10-22" xml:lang="en">
+<title>RUSSIA: Russian crude oil supplies to Novorossiisk halted.</title>
+<headline>Russian crude oil supplies to Novorossiisk halted.</headline>
+<dateline>MOSCOW 1996-10-22</dateline>
+<text>
+<p>Russian crude oil supplies to the main oil export outlet of Novorossiisk have been interrupted for at least two days due to planned pipeline repairs, although loadings will continue from storage tanks, oil sources said.</p>
+<p>It was not immediately clear what effect the pipeline repairs would have on total scheduled exports for the period.  </p>
+<p>A dispatcher at the state-run Black Sea Oil Pipeline System concern said that pipeline oil supplies to the port had been halted for up to 80 hours from 1000 local/0600 GMT on Tuesday.</p>
+<p>&quot;Planned repairs are being carried out for up to 80 hours, but it is possible they will finish earlier,&quot; she said.</p>
+<p>But she said that expedition of supplies received before repairs started would continue.</p>
+<p>A port source who declined to be identified said that oil received before an unspecified time on Tuesday morning would be loaded and exported. He said the port's two main oil berths were working.</p>
+<p>Crude storage tank capacity at Novorossiisk, which industry sources say can load up to 650,000 tonnes (4.5 million barrels) a day, is estimated at between 500,000 tonnes (3.65 million barrels) and 700,000 tonnes (5.10 million barrels).</p>
+<p>The sources gave no indication of current storage levels.</p>
+<p>Shipping and trading sources had said earlier this month that the terminal was scheduled to close for planned oil pipeline maintenance from October 21-24, but that the schedule was flexible.</p>
+<p>-- Lynnley Browning, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

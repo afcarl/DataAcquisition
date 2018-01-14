@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32222" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: N.J. Turnpike says approves traffic, revenue study.</title>
+<headline>N.J. Turnpike says approves traffic, revenue study.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>New Jersey Turnpike Authority said Wednesday it awarded a contract to Wilber Smith Associates to study traffic and revenues for the agency.</p>
+<p>The study will project future revenues and traffic flow, and review implementation of electronic toll collection and other capital projects, the agency said.</p>
+<p>&quot;This study is not a prelude to a toll increase,&quot; the authority's executive director, Edward Gross, said in a statement.</p>
+<p>Gross added that the authority's plan to raise approximately $400 million in 1997 for turnpike capital projects was outlined in a 1995 finance plan. &quot;The authority is acting in a manner consistent with the plan, which provides for toll stabilization through 1998.&quot;</p>
+<p>--Steven Dickson, 212-859-1652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136051" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: National Home Health Q4 earnings summary.</title>
+<headline>National Home Health Q4 earnings summary.</headline>
+<dateline>SCARSDALE, N.Y. 1996-10-23</dateline>
+<text>
+<p>National Home Health Care Corp</p>
+<p> Q4 Ended July 31,	1996			1995</p>
+<p> Shr primary	     $ 0.40		   $ 0.09</p>
+<p> Net			  1,901			426</p>
+<p> Revs			 9,031		    6,486</p>
+<p>				   Year</p>
+<p> Shr primary	     $ 0.71		    $0.30</p>
+<p> Net			  3,357		    1,426</p>
+<p> Revs			38,830		   24,556</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The increase in net income for the fiscal year 1996 includes a one-time net gain of $1,014,000, or $0.22 a share, in connection with the initial public offering of a previously owned subisidiary.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCARSDALE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

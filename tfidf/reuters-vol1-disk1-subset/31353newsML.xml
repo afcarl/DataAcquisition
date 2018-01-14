@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31353" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: CRICKET-ENGLISH COUNTY CHAMPIONSHIP CLOSE SCORES.</title>
+<headline>CRICKET-ENGLISH COUNTY CHAMPIONSHIP CLOSE SCORES.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Close of play scores on the second day of four-day English county championship cricket matches on Wednesday:</p>
+<p>At Edgbaston (Birmingham): Essex 238 and 113-1 (G.Gooch 58 not out), Warwickshire 253 (W.Khan 126)</p>
+<p>At Trent Bridge (Nottingham): Nottinghamshire 324 (K.Evans 71), Leicestershire 341-5 (V.Wells 119, J.Whitaker 116 not out)</p>
+<p>At Southampton: Glamorgan 401 (S.James 103, H.Morris 80, R.Croft 67, A.Shaw 53; D.Mascarenhas 6-88), Hampshire 193-2 (J.Laney 102 not out, G.White 70)</p>
+<p>At Taunton: Derbyshire 524 (A.Rollins 127, K.Krikken 89, D.Cork 77, P.DeFreitas 60, G.Roberts 52), Somerset 238-4 (M.Lathwell 109)  </p>
+<p>At Old Trafford (Manchester): Middlesex 160 and 231 (K.Brown 83, M.Gatting 50), Lancashire 262 (S.Titchard 67; P.Tufnell 6-74)</p>
+<p>At Worcester: Sussex 219, Worcestershire 413-9 declared (D.Leatherdale 122, S.Rhodes 110, T.Curtis 61)</p>
+<p>At The Oval (London): Surrey 395 and 82-1, Northamptonshire 235 (D.Ripley 55; B.Julian 6-37)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

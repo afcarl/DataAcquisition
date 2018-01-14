@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132841" id="root" date="1996-10-22" xml:lang="en">
+<title>ALBANIA: SOCCER-HAFIZI NAMED AS ALBANIA'S NEW COACH.</title>
+<headline>SOCCER-HAFIZI NAMED AS ALBANIA'S NEW COACH.</headline>
+<dateline>TIRANA 1996-10-22</dateline>
+<text>
+<p>Astrit Hafizi will replace Neptun Bajko as Albania's coach, the Albanian Football Federation said on Tuesday.</p>
+<p>Bajko, who had coached the team since August 1994, resigned last week in the wake of a 3-0 home defeat to Portugal in a World Cup group nine qualifier in Tirana, saying his players had refused to follow his tactics.</p>
+<p>Hafizi, 43, previously coached Albanian first division team Vllaznia, where he also played from 1968 to 1984.</p>
+<p>Albania play their next World Cup qualifier on November 9 against Armenia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

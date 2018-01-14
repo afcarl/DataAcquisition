@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33165" id="root" date="1996-09-04" xml:lang="en">
+<title>FINLAND: Cautious Helsinki ends up with metals leading rise.</title>
+<headline>Cautious Helsinki ends up with metals leading rise.</headline>
+<dateline>HELSINKI 1996-09-04</dateline>
+<text>
+<p>Finnish shares broke a three-day losing streak and ended cautiously higher on Wednesday with metal and engineering companies' shares in the lead cheered by firmer Wall Street metal industry stocks overnight.</p>
+<p>The Helsinki bourse HEX all-share index closed 4.2 points or 0.2 percent higher at 2,104.36 points. Turnover was a quiet 204 million markka.</p>
+<p>Telecoms blue-chip Nokia shed 0.70 markka to 185.80 markka accounting for almost one third of trade.</p>
+<p>In the metal and engineering sector, Rauma advanced 2.80 markka to 97.00 markka.</p>
+<p>Brokers said the sentiment was cautious with investors nervously awaiting U.S. August payrolls and jobless data due for release on Friday.</p>
+<p>&quot;The market is still nervous due to recent volatility in U.S. interest rates,&quot; one broker said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

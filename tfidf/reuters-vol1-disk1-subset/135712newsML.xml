@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135712" id="root" date="1996-10-23" xml:lang="en">
+<title>NEW ZEALAND: RUGBY LEAGUE-PLAYERS ORDERED HOME TO CUT COSTS.</title>
+<headline>RUGBY LEAGUE-PLAYERS ORDERED HOME TO CUT COSTS.</headline>
+<dateline>AUCKLAND, New Zealand 1996-10-23</dateline>
+<text>
+<p>Twelve of Britain's rugby league players have been ordered home from their tour of New Zealand as a cost-cutting measure.</p>
+<p>The Lions have two matches to play -- the second and third tests against New Zealand in Palmerston North and Christchurch.</p>
+<p>But the 12 players involved are not part of the test side and have been recalled by officials in England.</p>
+<p>&quot;The decision to release players from the tour is based upon the fact that there are no more midweek games and therefore little point in taking two teams to Palmerston North and Christchurch for the final 10 days of the tour when the players could be at home with their families,&quot; Rugby League spokesman Dave Callaghan said.</p>
+<p>Team coach Phil Larder, who is with the tour party, said: &quot;I can understand the decision economically...but I am still very upset at the way it has happened.&quot;</p>
+<p>The players have been booked on a flight out of Auckland on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUCKLAND, New Zealand"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

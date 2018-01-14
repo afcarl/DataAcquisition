@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134570" id="root" date="1996-10-22" xml:lang="en">
+<title>NETHERLANDS: MARTINAIR DOUBLES SOUTH AFRICAN FLIGHTS.</title>
+<headline>MARTINAIR DOUBLES SOUTH AFRICAN FLIGHTS.</headline>
+<dateline>AMSTERDAM 1996-10-22</dateline>
+<text>
+<p>Dutch cargo and charter airline, Martinair NV, is already increasing its South Africa flights, after only a month of operating the Amsterdam-</p>
+<p>Johannesburg route, a Martinair spokesman said.</p>
+<p>As of November 1, Martinair will fly twice-weekly into South Africa with a Boeing 747 freighter. The Dutch carrier began its operations to Johannesburg in the beginning of October.</p>
+<p>This twice-weekly service will route via Harare on the return journey, he said.</p>
+<p>Initially, the Dutch carrier obtained an NV3 permit to fly to South Africa, which means it had to carry 90 percent perishables cargo ex-Johannesburg, according to the South African government.</p>
+<p>However, as the carrier now also flies via Harare it can pick-up other cargoes, as well as perishables, said the spokesman.</p>
+<p>Martinair will also be flying four-times-a-week from Amsterdam to Nairobi from November 1. Last year, under its winter schedule, the carrier flew Sao Paulo to Nairobi and then returned to Amsterdam.</p>
+<p>The new service will be direct Amsterdam-Nairobi. It will be operated twice weekly with an MD-11 and the other two services could be with an MD-11 or B747, said the spokesman.</p>
+<p>Martinair if jointly-owned by KLM, the national Dutch airline, and Dutch shipping line, Nedlloyd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

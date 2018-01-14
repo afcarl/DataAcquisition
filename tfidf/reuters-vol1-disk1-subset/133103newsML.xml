@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133103" id="root" date="1996-10-22" xml:lang="en">
+<title>RWANDA: 3,000 refugees arrive in Zairean town of Bukavu.</title>
+<headline>3,000 refugees arrive in Zairean town of Bukavu.</headline>
+<byline>Christian Jennings</byline>
+<dateline>KIGALI 1996-10-22</dateline>
+<text>
+<p>At least 3,000 Hutu refugees arrived overnight in the eastern Zairean town of Bukavu after fleeing camps near the battlegrounds of Uvira, a spokesman for the U.N. refugee agency UNHCR said on Tuesday.</p>
+<p>&quot;The 3,000 refugees arrived last night into the Bukavu camp of Nyangezi-Mulwa. These are refugees coming from the most northern Uvira camps who fled on Sunday and Monday,&quot; Paul Stromberg told Reuters in the Rwandan capital Kigali.</p>
+<p>Stromberg said there were no reports of casualties.</p>
+<p>Estimates of the size of the exodus from 12 refugee camps near Uvira by the border with Burundi ranged up to a quarter of a million. Some sources said they had taken to nearby mountains, others that they were heading for Bukavu.</p>
+<p>A World Food programme plane was expected in Uvira to evacuate U.N. and aid agency staff trapped by the fighting between the Zairean army and ethnic Tutsi rebels.</p>
+<p>Humanitarian sources said the Goma camps were still quiet. Stromberg said security sources said there had been skirmishes north of the camps but did not give any casualties.</p>
+<p>&quot;In Goma, the road north from Goma to the refugee camps is completely shut except for transportation of water and this only with the permission of the Zairean authorities and the Zairean camp security contingents,&quot; Stromberg said.</p>
+<p>Meantime, the U.S. embassy warned its citizens that Rwanda's former army could target them if it invaded: &quot;The U.S. embassy has received information in an oblique fashion to the effect the ex-FAR intends to target Americans when they invade Rwanda. We do not judge any actions to be imminent.&quot;</p>
+<p>In Kigali, rumours circulated that up to 1,700 Rwandan government soldiers were operating in the south Kivu area. On Monday, a Rwandan government spokesman denied its army had crossed into Zaire and said soldiers had only secured the border.</p>
+<p>The Zaire army has been battling the Banyamulenge Tutsis for more than six months but fighting has so far been largely on the high plateau above Uvira. Clashes have now spread to the plains, threatening settlements and closing most of the 100 km (60-mile) road between Uvira and Bukavu.</p>
+<p>There was no reliable report on the fighting or death toll.</p>
+<p>Banyamulenge Tutsis immigrated from Rwanda about 200 years ago. Long-running clashes between them and native Zaireans have been exarcebated by the 1994 massacres of Rwandan Tutsis and civil war in Rwanda that created a refugee and security crisis in the region.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIGALI"/>
+<dc element="dc.creator.location.country.name" value="RWANDA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135781" id="root" date="1996-10-23" xml:lang="en">
+<title>SLOVAKIA: SLOVAK GOVT SAYS NOMURA SIGNS $30 MLN BRIDGE LOAN.</title>
+<headline>SLOVAK GOVT SAYS NOMURA SIGNS $30 MLN BRIDGE LOAN.</headline>
+<dateline>BRATISLAVA 1996-10-23</dateline>
+<text>
+<p>The Slovak government on Wednesday said London-based Nomura International Plc had signed a $30 million bridge loan with the state-owned hydroconstruction firm Vodohospodarska Vystavba a.s..  </p>
+<p>&quot;Nomura has signed a $30 million bridge loan,&quot; said Magda Pospisilova, spokeswoman for Prime Minister Vladimir Meciar who met with Nomura International President Hitoshi Tonomuru earlier in the day.</p>
+<p>She gave no further details of the loan.</p>
+<p>She said that while the size of the loan was not very large, both sides hope that it will the beginning for &quot;future mutual cooperation&quot;.</p>
+<p>Vodohopodarska is involved in the completion of the controversial Gabcikovo dam on the Danube River on Slovakia's southern border with Hungary.</p>
+<p>-- Peter Laca, Bratislava Newsroom, 42-7-563-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

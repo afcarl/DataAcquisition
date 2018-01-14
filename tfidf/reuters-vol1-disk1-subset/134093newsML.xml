@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134093" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Prodi warns against illegal budget protests.</title>
+<headline>Prodi warns against illegal budget protests.</headline>
+<dateline>ROME 1996-10-22</dateline>
+<text>
+<p>Prime Minister Romano Prodi said on Tuesday he will not tolerate any illegal protests against the government's 1997 austerity budget.</p>
+<p>Prodi was responding to comments by some leaders of merchant groups who said they were planning protests &quot;to the limits of the law&quot; against the budget package.</p>
+<p>In a statement released by his office, Prodi denounced &quot;threatening declarations by some merchants' representatives&quot;.</p>
+<p>Some merchants groups have hinted at a tax revolt to protest against a budget they say will hurt earnings through fiscal tightening.</p>
+<p>Prodi added: &quot;I say to them that this is all wrong and dangerous&quot;.</p>
+<p>The budget, which is currently being examined at commission level in the Italian parliament, aims to cut some 62.5 trillion lire off next year's projected budget deficit.</p>
+<p>-- Rome newsroom +396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133755" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: NU sees power back today for all Conn. users.</title>
+<headline>NU sees power back today for all Conn. users.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Northeast Utilities (NU) said Tuesday it hoped to restore power service to all Connecticut customers later today after a weekend storm pounded the state and the rest of New England last weekend.</p>
+<p>&quot;We still have 1,000 customers out,&quot; said NU spokeswoman Myra Humphrey, adding most of those were in Fairfield County near the New York state border.</p>
+<p>At the peak of the outage, 92,000 customers were without electricity, she said.</p>
+<p>Thus far, heavy winds and torrential rain from the weekend nor'easter knocked down 125 of its poles, damaged 135 transformers and over a hundred sections of overhead power lines, she said.</p>
+<p>Humphrey said major transmission and generation facilities were unharmed by the storm.</p>
+<p>NU, via its Connecticut Lighting and Power Co subsidiary, serves 149 of the 169 communities in Connecticut.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

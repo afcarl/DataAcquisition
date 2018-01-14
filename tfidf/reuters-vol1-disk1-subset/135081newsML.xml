@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135081" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Kidston nine-month profit rises.</title>
+<headline>RTRS-Kidston nine-month profit rises.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Nine months to Sept 30</p>
+<p>		(million A$ unless stated)</p>
+<p>    Net				     4.76 vs   3.96</p>
+<p>    Sales				  87.49 vs  81.95</p>
+<p>    Other income ('000s)		6.0   vs   652</p>
+<p>    Earnings per shr (cents)	  3.8   vs   3.2</p>
+<p>    Depreciation			  7.75  vs   8.65</p>
+<p>    Tax				     2.87  vs   2.14</p>
+<p>NOTE: Gold miner Kidston Gold Mines is 70 percent owned by Placer Pacific Ltd, which in turn is 75.4 percent owned by Placer Dome Inc.  </p>
+<p>NOTE: The company's equity share of gold production for the nine months was 141,076 ounces compared with 150,671 ounces a year earlier.</p>
+<p>    Gold sales (ounces):		141,100 vs 150,000</p>
+<p>    Average price an ounce:	     A$616 vs A$543</p>
+<p>    Cash cost an ounce:		   A$476 vs A$431</p>
+<p>    Total operating costs an ounce    A$548 vs A$490</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

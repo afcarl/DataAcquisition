@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32041" id="root" date="1996-09-04" xml:lang="en">
+<title>KUWAIT: Kuwait hands oil duties to information minister.</title>
+<headline>Kuwait hands oil duties to information minister.</headline>
+<dateline>KUWAIT 1996-09-04</dateline>
+<text>
+<p>Kuwait has temporarily transferred its oil portfolio to information minister Sheikh Saud Nasser al-Saud al-Sabah, a government official said on Wednesday.</p>
+<p>Four ministers, including former oil minister Abdul-Mohsen al-Mudej, resigned on Sunday in compliance with a law which bars civil servants and ministers from running for parliament.</p>
+<p>Officials said Mudej's resignation was not expected to change the Gulf state's oil policy, determined by the Supreme Petroleum Council, which groups senior state officials and the oil minister.</p>
+<p>The four ministers who resigned were elected members of parliament in 1992 and then appointed as ministers. All want to run in elections set for October but parliamentary candidates cannot already be ministers.</p>
+<p>Sheikh Saud was also given the education portfolio, replacing Ahmad Abdallah al-Rubai.</p>
+<p>The justice and labour portfolios were given to the minister of interior Sheikh Ali Sabah al-Salem al-Sabah to replace Mishari al-Anjari and Ahmad Khaled al-Kulaib, respectively.</p>
+<p>The government has announced parliamentary polls will be held on October 7. The elections will be the second since the 1991 Gulf War for the only elected legislature on the Arab side of the Gulf.</p>
+<p>The fortunes of the 50-seat chamber are watched closely around the Gulf by liberals who see it as a potential model for other states in the region. A new cabinet will be announced soon after the elections.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUWAIT"/>
+<dc element="dc.creator.location.country.name" value="KUWAIT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

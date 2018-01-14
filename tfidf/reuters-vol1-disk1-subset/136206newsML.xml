@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136206" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Fuqua Enterprises Inc Q3 full results.</title>
+<headline>Fuqua Enterprises Inc Q3 full results.</headline>
+<dateline>ATLANTA 1996-10-23</dateline>
+<text>
+<p>FUQUA ENTERPRISES, INC.</p>
+<p>	  (Amounts in thousands except per share data)</p>
+<p>			  For the three months  For the nine months</p>
+<p>				   Ended Sept. 30    Ended Sept. 30</p>
+<p>				  1996	1995	1996	1995</p>
+<p>Revenues:</p>
+<p> Net sales		 $49,655   $27,923  $127,053   $85,665</p>
+<p> Investment income	   572	 210     1,839	 576</p>
+<p> Total revenue	    50,227    28,133   128,892    86,241</p>
+<p>Costs and Expenses:  </p>
+<p> Cost of sales	    38,210    23,475    98,584    73,183</p>
+<p>Selling, general and</p>
+<p> administrative expenses 7,881     2,431    19,682     7,042</p>
+<p> Interest expense	    862	 198     1,956	 713</p>
+<p>Total costs and</p>
+<p>  expenses		  46,953    26,104   120,222    80,938</p>
+<p>Income from continuing</p>
+<p>operations before</p>
+<p>  income taxes	     3,274     2,029     8,670     5,303</p>
+<p> Income taxes		1,187	 708     3,145     1,971</p>
+<p>Income from continuing</p>
+<p>  operations		 2,087     1,321     5,525     3,332</p>
+<p>Discontinued operations:</p>
+<p>Income (loss) from discontinued</p>
+<p>  operations, net		0     (651)	   0	 602</p>
+<p> Net income		  2,087	 670     5,525     3,934</p>
+<p>Per share:</p>
+<p>Income from continuing</p>
+<p>  operations		  0.46	0.34	1.21	0.86</p>
+<p> Net income		   0.46	0.17	1.21	1.02</p>
+<p>Avg. common shares and common</p>
+<p>  share equivs.	    4,565     3,870     4,554     3,864</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132793" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Quaker State Q3 net shr $0.19 vs $0.47.</title>
+<headline>Quaker State Q3 net shr $0.19 vs $0.47.</headline>
+<dateline>IRVING, Texas 1996-10-22</dateline>
+<text>
+<p>QUAKER STATE CORPORATION AND SUBSIDIARIES</p>
+<p>		     (in thousands, except per share data)</p>
+<p>				     Quarter Ended  Nine Months Ended</p>
+<p>				  9/30/96  9/30/95  9/30/96   9/30/95</p>
+<p>Sales and Operating Revenues</p>
+<p>				 $309,985 $277,109 $890,595  $774,340</p>
+<p>Income from Continuing Operations</p>
+<p>Before Restructuring Charge</p>
+<p>				    6,754    4,795   19,633    13,968</p>
+<p>Restructuring Charge,</p>
+<p>   Net of Tax		     ---    (722)	---  (10,202)</p>
+<p>Income from Discontinued Operations</p>
+<p>					---   11,255	---    13,933</p>
+<p> Net Income		     6,754   15,328   19,633    17,699</p>
+<p>Per Share Data:</p>
+<p>Income from Continuing Operations</p>
+<p>				     0.19     0.13     0.58	0.12</p>
+<p> Net Income			0.19     0.47     0.58	0.55</p>
+<p>Weighted Average Capital</p>
+<p>   Shares Outstanding	36,067   32,878   34,002    32,018</p>
+<p>Note: Net income from the prior year included a gain of $11,255,000, or $0.34 per share, on the sale of the company's natural gas operations.</p>
+<p>Net income in the first nine months of 1995 reflected a headquarters relocation restructuring charge of $0.32 per share and income from discontinued operations of $13,933,000, or $0.43 per share, including $0.34 per share gain on the sale of the company's natural gas operations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

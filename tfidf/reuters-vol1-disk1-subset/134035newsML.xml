@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134035" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Italy confidence vote set for Wednesday night.</title>
+<headline>Italy confidence vote set for Wednesday night.</headline>
+<dateline>ROME 1996-10-22</dateline>
+<text>
+<p>A vote of confidence called by the government of Italian Prime Minister Romano Prodi on its plan to rescue a troubled bank will be held on Wednesday night, parliamentary officials said.</p>
+<p>Party leaders decided that the vote would take place at about 1830 GMT in the Chamber of Deputies (lower house) after a debate.</p>
+<p>The government called the vote earlier on Tuesday to ensure that a crucial cabinet decree covering a rescue plan for heavily indebted Banco di Napoli passes swiftly into law.</p>
+<p>Treasury Minister Carlo Azeglio Ciampi announced the measure in parliament after the cabinet met to decide how the government should respond to filibustering tactics by the secessionist Northern League.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

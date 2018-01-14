@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135894" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: TSX sees Q2 results below estimates.</title>
+<headline>TSX sees Q2 results below estimates.</headline>
+<dateline>EL PASO, Texas 1996-10-23</dateline>
+<text>
+<p>TSX Corp said on Wednesday it expected its operating results for the second fiscal quarter ended October 26 to be &quot;substantially&quot; less than analysts' estimates.</p>
+<p>TSX said the lower operating results were a result of several factors, including the announcement by the company's largest customer that shipments are to be stopped until further notice. It did not name the customer.  </p>
+<p>The company said its potential merger partner has been made aware of the expectations and merger talks are continuing. Earlier this month Antec Corp said it and TSX were discussing a combination of the two companies in a conversion of shares.</p>
+<p>TSX's stock dropped 2-5/8 Wednesday to 17-7/8.</p>
+<p>TSX said if the hold of shipments by the customer remains in effect materially into the third fiscal quarter it could cause a reduction in the company's earnings in that quarter and until the customer ends the stoppage.  </p>
+<p>TSX also said it reduced the scale of the company's advertising insertion business segment and received a substantial portion of the second quarter's order input late in the quarter which made it unavailable for shipment in the second quarter.</p>
+<p>Headquartered in El Paso, Texas, TSX, through its Texscan subsidiary, manufactures CATV fiber optic and RF distribution electronics and electronic advertising insertion equipment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL PASO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184767" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: AIG unit's muni swaps plunged $300 mln in '96. [CORRECTED 03:00 GMT 15/11]</title>
+<headline>AIG unit's muni swaps plunged $300 mln in '96. [CORRECTED 03:00 GMT 15/11]</headline>
+<dateline>WASHINGTON 1996-11-13</dateline>
+<text>
+<p>American International Group's derivatives subsidiary scaled back (corrects from closed) its unit dealing with  U.S. local and state governments in September, but the company waited until Wednesday to let the other shoe drop.</p>
+<p>The value of the unit's interest rate swaps with those municipalities plunged $300 million, or 34 percent, to $579 million between January and September, AIG said in a routine filing with the Securities and Exchange Commission.</p>
+<p>The value of all AIG's other derivatives postions declined by $712 million, or 12 percent, to $5.3 billion over the same period. </p>
+<p>In the early 1990s, AIG Financial Products was the premier provider of long-term interest rate swaps to municipalities. The company offered a triple-A rating and unbeatable pricing to government entities strapped for cash and looking to lower their borrowing costs with swaps.</p>
+<p>But AIG was hit with a double whammy starting in 1994 and 1995 when the pace of municipal borrowing dropped dramatically. Then, in late 1995, and early 1996, the value of interest rate swaps with municipalities took a nose dive on fears Republicans would rewrite the tax code driving up tax-exempt borrowing rates. </p>
+<p>AIG, which had done over $4 billion in notional value of long-term swaps with municipalities, was apparently hit hard by the market's move Wednesday's filing showed.</p>
+<p>Some of the firm's biggest municipal deals have also become embroiled in federal investigations of wrongdoing in the municipal bond market. AIG's largest muni swap, a $422 million issue with Dade County, Florida in 1994, is being investigated by the Securities and Exchange Commission, sources familiar with the probe have said. And an earlier transaction in Oklahoma was linked to a bid rigging scheme that led to the convictions of several bankers at other firms.</p>
+<p>In September, the company let go some of the muni unit's employees, but kept managing director Joann Palazzo. Palazzo was out of her office late on Wednesday and could not be reached for comment.</p>
+<p>(Corrects to clarify not &quot;all but one&quot; of the muni unit's employees  let go in September)</p>
+<p>--Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

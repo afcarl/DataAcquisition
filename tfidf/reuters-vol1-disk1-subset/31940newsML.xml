@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31940" id="root" date="1996-09-04" xml:lang="en">
+<title>HONG KONG: MSCI says world markets recoup modestly in August.</title>
+<headline>MSCI says world markets recoup modestly in August.</headline>
+<dateline>HONG KONG 1996-09-04</dateline>
+<text>
+<p>Morgan Stanley Capital International said world equity markets regained ground in August that was lost during the widespread correction in July.</p>
+<p>But a sell-off in many markets during the final week of the month limited the extent of the gains. The MSCI World Index of 22 developed market countries gained 1.0 percent during the month, reversing part of a 3.7 percent decline in July.</p>
+<p>The Europe, Australasia, Far East Index rose 0.1 percent compared with a 3.1 percent drop the prior month. The Emerging Markets Free index added 2.4 percent against a loss of 7.0 percent in the prior month.</p>
+<p>In developed market countries, 19 markets showed gains for the month, while only three declined.</p>
+<p>Among the strongest markets during August were Finland, Sweden and Australia. Sweden benefited from new signs of a rebound in the economy while in Australia, a new budget proposal that limited government spending contributed to investor confidence that interest rate, inflation and currency trends will be generally favorable.</p>
+<p>The decliners among developed market countries in August were Japan, France and Italy.</p>
+<p>Higher interest rates in the United States contributed to the weakness in many global markets in the last week of August. The rise in rates also cut the gain in the U.S. markets to 2.1 percent for August. This compares with a gain of about 4.0 percent going into the final week of the month.</p>
+<p>In the emerging market countries, 17 equity markets rose while nine declined. Strongest performers were Hungary, Mexico, Poland and Venezuela while Korea, Pakistan and Chile fell. Several previously-announced changes to MSCI indices occurred in early September. The EMF index expanded to include the China Free, Hungary and Czech Republic indices. Other changes include the addition of Taiwan to the index at a 50 percent weighting and the increase of the weighting for the Korea Index to 50 percent from 20 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28471" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: MetLife, New England Mutual complete merger.</title>
+<headline>MetLife, New England Mutual complete merger.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Metropolitan Life Insurance Co. and New England Mutual Life Insurance Co. said Tuesday they have completed their merger, creating a company with combined assets under management of $275 billion.</p>
+<p>It is the largest merger ever in the life insurance industry, MetLife said.</p>
+<p>Under the terms of the merger, policyholders of The New England are now policyholders of MetLife and their policies are backed by the combined assets of both companies.</p>
+<p>Most operations of New England Mutual Life Insurance Co. have been transferred to New England Variable Life Insurance Co., formerly its subsidiary, and renamed New England Life Insurance Co.</p>
+<p>New England Life Insurance Co. operates as a wholly-owned subsidiary of MetLife and will retain The New England's management, national distribution system, work force and Boston-based headquarters.</p>
+<p>MetLife and The New England began merger discussions at the end of 1994 and signed a definitive merger agreement in August 1995.</p>
+<p>Policyholders from both companies voted in favour of the merger in proxies counted in July 1996.</p>
+<p>The Massachusetts and New York insurance departments as well as other state regulators approved the merger in August 1996.</p>
+<p>&quot;In an increasingly competitive financial world, this merger brings together the special talents of two great companies to produce a potent force that will lead to greater growth for each company,&quot; MetLife Chairman Harry Kamen said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

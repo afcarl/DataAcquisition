@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132468" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: NBT sets five percent stock dividend.</title>
+<headline>NBT sets five percent stock dividend.</headline>
+<dateline>NORWICH, N.Y. 1996-10-22</dateline>
+<text>
+<p>NBT Bancorp Inc said on Tuesday that its board of directors had declared a five percent stock dividend and a regular quarterly dividend of $0.15 per share.</p>
+<p>The company said in a statement that the cash dividend represented an increase of $0.02 a share over the regular third quarter 1996 dividend.</p>
+<p>Stock and cash dividends will be paid on December 13 to shareholders of record as of November 29. The cash dividend will be paid on the increased number of shares.</p>
+<p>Daryl Forsythe, president and chief executive, said: &quot;The cash dividend of $0.15 per share is an effective increase of over 21 percent on an annualized basis. This is in line with the company's record performance for the first nine months of 1996 and we are pleased to share this success with our stockholders.&quot;</p>
+<p>NBT Bancorp has about 7.95 million common shares outstanding as of September 30.</p>
+<p>-- New York newsdesk, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWICH, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

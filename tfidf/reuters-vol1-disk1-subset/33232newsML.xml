@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33232" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: French pessimism about economy jumps - poll.</title>
+<headline>French pessimism about economy jumps - poll.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Gloom among the French about the country's economic and labour climate has risen sharply, an opinion poll suggested on Wednesday.</p>
+<p>About 62 percent of the French believe the economic and social situation is deteriorating compared with 44 percent in the previous poll two months earlier, the survey by pollster Louis Harris indicated.</p>
+<p>The poll of 1,004 people was held on August 30 and 31. The previous survey was carried out on June 7 and 8.</p>
+<p>The latest survey showed a return to the pessimistic levels seen in polls conducted between March and May.</p>
+<p>In the new poll, only six percent of those questioned thought the outlook was improving compared with 13 percent in June. Some 30 percent felt it was unchanged against 42 percent last time. Two percent had no opinion.</p>
+<p>The survey's findings come against a background of record unemployment of 12.5 percent and a economic data highlighting a sluggish economy.</p>
+<p>Earlier on Wednesday, the national statistics institute INSEE released figures showing second quarter growth contracted 0.4 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133159" id="root" date="1996-10-22" xml:lang="en">
+<title>ESTONIA: Estonian government heads for crisis, PM says.</title>
+<headline>Estonian government heads for crisis, PM says.</headline>
+<dateline>TALLINN 1996-10-22</dateline>
+<text>
+<p>Estonia's governing coalition headed for crisis on Tuesday as its prime minister and foreign minister openly argued after mud-slinging between their parties in weekend local elections.</p>
+<p>&quot;The situation within the governing coalition is quite critical or tense,&quot; Prime Minister Tiit Vaehi told a news conference after a government meeting.</p>
+<p>Relations in the three-party government worsened after the weekend local poll in which Vaehi's Coalition Party and the Reform Party of Foreign Minister Siim Kallas were mutually critical.</p>
+<p>Relations between the two men have also become tense.</p>
+<p>Vaehi has been angered by Reform Party ministers who have criticised the budget, pushed Kallas as prime minister and blamed the Coalition Party for economic mismanagement.</p>
+<p>&quot;If we do not solve these three questions, a government crisis is inevitable,&quot; Vaehi added.</p>
+<p>Kallas said the two parties had to agree on working together at local and national level after the elections, in which the Reform Party came first in capital Tallinn and most large towns but failed to win majorities.</p>
+<p>&quot;If we do not come to an agreement, then the coalition will fall apart,&quot; Kallas told newspaper Postimees.</p>
+<p>Government crises have been endemic in Estonia since it quit the former Soviet Union in 1991 but succeeding administrations have always kept the country on the path of economic reform.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

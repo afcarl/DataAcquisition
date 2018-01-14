@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131937" id="root" date="1996-10-21" xml:lang="en">
+<title>CHINA: Shanghai copper ends up on short-covering.</title>
+<headline>Shanghai copper ends up on short-covering.</headline>
+<dateline>SHANGHAI 1996-10-21</dateline>
+<text>
+<p>Shanghai copper futures ended up on short-covering triggered by last Friday's gains on the London Metal Exchange but it is likely to fall again in the short term, traders said.</p>
+<p>The most active February 1997 contract ended at 18,910 yuan ($2,278) per tonne, rising 140 yuan. It opened at 18,850 yuan, hitting an intra-day high of 18,940 and a low of 18,730.</p>
+<p>November rose 280 to 18,680 yuan, December 20 to 18,620, January 80 to 18,830, March 120 to 19,000 and April 80 to 19,100.</p>
+<p>Combined volume fell to 65,400 tonnes from 129,530.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

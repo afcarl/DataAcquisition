@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131748" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Dow Industrials lower at open.</title>
+<headline>Dow Industrials lower at open.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>The Dow Industrials were lower at the open on Monday, weighed down by weakness in shares of International Business Machines and profit-taking.</p>
+<p>The Dow was down 12 at 6082 and the NASDAQ Index was down one at 1241.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

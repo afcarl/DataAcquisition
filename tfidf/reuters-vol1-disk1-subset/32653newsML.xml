@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32653" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Brendle's former chairman resigns.</title>
+<headline>Brendle's former chairman resigns.</headline>
+<dateline>WINSTON-SALEM, N.C. 1996-09-04</dateline>
+<text>
+<p>Douglas Brendle, former chairman and chief executive officer of Brendle's Inc, said on Wednesday he is resigning from the company's board of directors.</p>
+<p>&quot;Since I was not in agreement with the direction that the CEO and the remaining board members were taking the company, I felt it was useless to continue serving on the Board of Directors,&quot; Brendle said in a statement.</p>
+<p>Brendle declined to comment further upon his statement.</p>
+<p>The company filed for chapter 11 bankruptcy in April.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINSTON-SALEM, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

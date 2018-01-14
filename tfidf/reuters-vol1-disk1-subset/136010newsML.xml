@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136010" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: ITT Hartford sees fund assets at $400 mln.</title>
+<headline>ITT Hartford sees fund assets at $400 mln.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>The retail mutual funds recently unveiled by ITT Hartford Group Inc are expected to grow to $400 million in assets by the end of this year, according to an ITT Hartford executive.</p>
+<p>The eight funds, which were declared effective by the Securities and Exchange Commission in July, currently have assets of about $50 million, according to David Levenson, director of mutual funds for ITT Hartford.</p>
+<p>ITT has offered funds since 1977 as part of its annuity business, and the new funds are being offered as stand-alone retail products.  </p>
+<p>Levenson spoke to Reuters after an ITT marketing road show for the funds to financial advisers here.</p>
+<p>The eight funds include Small Company, Capital Appreciation, International Opportunities, Stock, Dividend and Growth, Advisers, a balanced fund, Bond Income Strategy, and Money Market.</p>
+<p>Levenson said the funds, with a 5.5 percent front load, are being offered through brokers and banks.</p>
+<p>The older annuity-related funds include the $5 billion Advisers, and the $1.9 billion Stock Fund.</p>
+<p>SEC rules require separate fund products be created in order for them to be offered through retail outlets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

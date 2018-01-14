@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32862" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Ameritech, IBM begin Internet access trial.</title>
+<headline>Ameritech, IBM begin Internet access trial.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Ameritech Corp and International Business Machines Corp said Wednesday they will begin a customer trial next month of technology that could provide faster access to the Internet and other multimedia and data services.</p>
+<p>The trial will involve approximately 200 Chicago-area customers of Ameritech and the IBM Global Network.  It is based on technology known as Asymmetric Digital Subscriber Line (ADSL).  </p>
+<p>ADSL technology will allow customers to interact with data networks and the Internet at speeds more than 50 times faster than an ordinary telephone line, the companies said.</p>
+<p>The technology utilizes a portion of the existing phone line, allowing a customer to use the data portion of the line and talk on the voice portion of the line simultaneously.</p>
+<p>During the six-month initial trial, customers will be provided a data access service that will allow them to receive or download information at speeds of up to 1.5 megabits per second, the companies said.  </p>
+<p>Ameritech will use ADSL modem equipment from Westell Technologies Inc for the initial trial.</p>
+<p>Trials testing ADSL use with other switching platforms, such as asynchronous transfer mode (ATM), will be conducted by Ameritech at a later time.</p>
+<p>Tom Reiman, president of product management for Ameritech, said the companies hope to have a high-speed service available to customers as early as next summer.</p>
+<p>The IBM Global Network is providing a range of Internet and intranet services, plus various network and data communications resources, to this customer trial.</p>
+<p>&quot;The high speed access that this technology promises could improve both our current suite of Internet and intranet services as well as enable a new generation of IBM Global Network services in the future,&quot; Roger Dudley, general manager, marketing and service management, IBM Global Network, said in a statement.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133591" id="root" date="1996-10-22" xml:lang="en">
+<title>IRAN: Iran ends naval war games in Gulf of Oman.</title>
+<headline>Iran ends naval war games in Gulf of Oman.</headline>
+<dateline>TEHRAN 1996-10-22</dateline>
+<text>
+<p>Iran's navy on Tuesday ended a series of war games in the Gulf of Oman, state-run Tehran radio reported.</p>
+<p>It quoted a navy commander as saying air and sea units and teams of divers had successfully completed the four-day manoeuvres, code-named &quot;Sadaf&quot; (Seashell), in the Gulf of Oman, south of the oil-rich Gulf waterway's only entrance.</p>
+<p>The war games in Iranian coastal waters off the port of Chah Bahar had started on Saturday, the radio added.</p>
+<p>The Iranian news agency IRNA said on Monday the manoeuvres had been launched on Sunday. There was no explanation for the apparent discrepancy.</p>
+<p>Iran says its armed forces are strictly defensive. The Islamic republic opposes the military presence of the United States in the Gulf and says Washington falsely accuses Tehran of threatening regional security in order to scare its Gulf Arab allies into buying more U.S. arms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

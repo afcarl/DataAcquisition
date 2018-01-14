@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132423" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Primadonna not to expand into Mississippi.</title>
+<headline>Primadonna not to expand into Mississippi.</headline>
+<dateline>PRIMM, Nev. 1996-10-22</dateline>
+<text>
+<p>Primadonna Resorts Inc said on Tuesday that it decided not to pursue plans to expand into the Biloxi, Mississippi gaming market at this time.</p>
+<p>The company said in a statement that, after a period of due diligence, and despite an extremely positive association with local regulators and officials, it will not enter into a definitive agreement to purchase the Broadwater Resort site in Biloxi or President Casinos Inc's leasehold interest at the Broadwater Marina.</p>
+<p>Primadonna signed a letter of intent to buy the properties in July.</p>
+<p>Primadonna said it remains convinced of Biloxi's potential as a major resort destination, but the timing is not right at this time for Primadonna.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRIMM, Nev."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

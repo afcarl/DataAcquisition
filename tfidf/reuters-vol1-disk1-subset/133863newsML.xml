@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133863" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: FBI agent charged with hiding Ruby Ridge document.</title>
+<headline>FBI agent charged with hiding Ruby Ridge document.</headline>
+<byline>James Vicini</byline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>Prosecutors on Tuesday charged an FBI official obstructed justice by destroying a document that was needed in the murder trial of a white separatist over a 1992 shootout in Ruby Ridge, Idaho.</p>
+<p>Justice Department sources said E. Michael Kahoe, chief of the FBI's violent crimes section during the incident, has agreed to plead guilty to the charges and cooperate in the long-running probe into possible wrongdoing by FBI officials.</p>
+<p>U.S. Attorney Michael Stiles, who has been in charge of the investigation, said Kahoe allegedly participated in the concealment and destruction of an FBI headquarters document sought by prosecutors in preparing for Randy Weaver's trial.</p>
+<p>Weaver and his friend Kevin Harris were charged with the murder of Deputy U.S. Marshal William Degan, who was shot and killed in a confrontation on Aug. 21, 1992. Weaver's son was also killed in the firefight.</p>
+<p>After the shootout, the FBI's hostage rescue team went to Ruby Ridge, and on Aug. 22 an FBI sniper fired two shots at the cabin, wounding Weaver and killing his wife. The standoff ended nine days later when Weaver surrendered.</p>
+<p>Weaver and Harris were acquitted during their 1993 federal criminal trial of the murder charges.</p>
+<p>Obstruction of justice carries a maximum penalty of 10 years in prison and a $250,000 fine. Kahoe, formerly the special agent in charge of the FBI's office in Jacksonville, Florida, has been placed on administrative leave.</p>
+<p>According to the new charges, Kahoe was ordered by his superiors to prepare a critique of the FBI's conduct, then prosecutors in Idaho sent a letter to the FBI saying they needed any documents about the incident. Kahoe allegedly received a copy of the letter.</p>
+<p>Eventually the Justice Department ordered that all of the FBI documents be given to the prosecutors, but Kahoe allegedly withheld it from the documents to be delivered, destroyed all his copies and ordered a subordinate to destroy all copies and make it appear as if it never existed, prosecutors said.</p>
+<p>Kahoe was one of six FBI officials who have come under investigation for engaging in a possible cover-up. Only one agent has been cleared. The charges against Kahoe were the first arising from the investigation that began last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

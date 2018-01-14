@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32095" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. jet attacks Iraq radar site in no-fly zone.</title>
+<headline>U.S. jet attacks Iraq radar site in no-fly zone.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>A U.S. Air Force F-16 fighter fired a missile at an Iraqi radar in the expanded no-fly zone in southern Iraq on Wednesday after the radar began tracking the aircraft, the Defence Department said.</p>
+<p>Defence officials said the Iraqi radar went silent after the missile was fired in a newly-expanded part of the no-fly zone south of Baghdad, but it was not immediately clear whether the radar site was destroyed.</p>
+<p>Navy Commander Bruce Williams said that the jet was illuminated by the radar in defiance of U.S. warnings to Iraqi forces, and it fired a &quot;Harm&quot; missile designed to destroy such radar sites. The missiles seek out active radar signals and ride them to the source.</p>
+<p>&quot;We don't know if the radar was hit,&quot; said Navy Commander Joe March, a Defence Department spokesman.</p>
+<p>The United States has warned Iraqi President Saddam Hussein's forces not to try to shoot down coalition aircraft policing the no-fly zone.</p>
+<p>The United States on Wednesday expanded the southern no-fly zone in Iraq from the 32nd parellel to the 33rd parallel just south of Baghdad as part of U.S. retaliation for attacks on Iraqi Kurds. Western allies created the zone after the 1991 Gulf War to help protect Iraq's Shiite Moslems from attack by Saddam.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

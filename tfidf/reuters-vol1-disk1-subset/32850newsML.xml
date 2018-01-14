@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32850" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Boston Ed raises power output at Pilgrim.</title>
+<headline>Boston Ed raises power output at Pilgrim.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Boston Edison Co is increasing power production from its 670 megawatt Pilgrim nuclear power plant after dipping output for routine cleanup work after Hurricane Edouard, the company said Wednesday.</p>
+<p>&quot;We cut back power to conduct a condensor backwash,&quot; said company spokesman Dave Tarantino.</p>
+<p>&quot;Big seas stir up a lot of sand that gets into the condensor. So we reverse the pumps and wash the sand out.&quot;</p>
+<p>The condensor takes in sea water to cool steam from the reactor that is used to run the plant's turbine generator. The steam pipes are part of a closed loop system.  </p>
+<p>Tarantino said the backwash typically takes about 24 hours and that the unit likely would be back at full power later today after dropping output to about 80 percent.</p>
+<p>The Plymouth, Mass. plant lies west of the path taken by Edouard as it swept north off the Massachusetts coast this weekend. Edouard did not make landfall and there was no direct damage to the plant as a result of the storm.</p>
+<p>Tarantino said power production at Pilgrim probably would be cut again this weekend for what is called a thermal backwash of the condensor system.</p>
+<p>A thermal backwash runs hot water through the condensor system to kill mussel larvae that otherwise would clog the cooling system. This is carried out twice a year.</p>
+<p>-- New York Power Desk +1 212 859 1621</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

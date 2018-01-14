@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32914" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Miller completes Vulcan buy. [CORRECTED 14:30 GMT]</title>
+<headline>Miller completes Vulcan buy. [CORRECTED 14:30 GMT]</headline>
+<dateline>ATLANTA 1996-09-04</dateline>
+<text>
+<p>Miller Industries Inc said it had completed buying Vulcan International Corp (corrects the company name to show it is not the publicly traded Vulcan International Inc) through the issuance of about 245,000 shares of its common stock.</p>
+<p>The company said in a statement late on Tuesday the transaction would be accounted for as a pooling of interests, an accounting method whereby the balance sheets of the two companies are added together item by item.</p>
+<p>Miller's common stock closed at $34-1/4 a share on Tuesday, down 3/4 point.</p>
+<p>The company expects the transaction to improve earnings this fiscal year. Further details were not immediately available.</p>
+<p>Vulcan International is the parent company of Vulcan Equipment Co, a Mississippi based manufacturer of towing and recovery equipment with revenues of about $22 million during its most recent fiscal year.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

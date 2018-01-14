@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32594" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Audio King August same store sales up 5 pct.</title>
+<headline>Audio King August same store sales up 5 pct.</headline>
+<dateline>MINNEAPOLIS 1996-09-04</dateline>
+<text>
+<p>Audio King Corp said comparable store sales rose five percent in August from a year ago.</p>
+<p>Total sales for the month were $5.3 million, up from $5.0 million a year ago, the company said.</p>
+<p>For the first two months of fiscal 1997, total sales were $10.4 million, up from $9.3 million a year ago. The August year to date comparable store sales were up nine percent from the same period last year, the company said.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

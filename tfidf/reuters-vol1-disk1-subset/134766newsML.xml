@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134766" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Fire destroys at least 60 homes north of San Diego.</title>
+<headline>Fire destroys at least 60 homes north of San Diego.</headline>
+<dateline>SAN DIEGO 1996-10-22</dateline>
+<text>
+<p>A raging wildfire destroyed at least 60 homes in a small town north of San Diego, police said Tuesday.</p>
+<p>Lt. Greg Fried, a police spokesman in the coastal community of Carlsbad, said the original damage estimate was &quot;extremely conservative&quot; and that 80 or more homes may actually have been lost in the 5,000-acre (2,000-hectare) blaze.  </p>
+<p>The fire broke out in the Elfin Forest Recreational Reserve Monday afternoon and quickly spread to nearby canyons lined with homes about 15 miles (25 km) north of San Diego.</p>
+<p>Flames cut a path of destruction not only in Carlsbad but in the neighboring town of San Marcos, but there was no immediate word on the extent of damage there.</p>
+<p>Dozens of Carlsbad residents were evacuated, and one firefighter suffered smoke inhalation and had to be taken to a local hospital. The cause of the blaze was under investigation.</p>
+<p>Hundreds of firefighters had the fire contained by early Tuesday. &quot;The winds have abated and we're holding our breath and hoping they don't pick up again,&quot; Fried said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

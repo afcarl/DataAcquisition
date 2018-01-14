@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32069" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: France balks but Clinton insists alliance well.</title>
+<headline>France balks but Clinton insists alliance well.</headline>
+<byline>Jim Adams</byline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>President Bill Clinton and other U.S. officials insisted on Wednesday that American missile strikes on Iraq have not hurt allied unity even though France balked on cooperating with an extended no-fly zone.</p>
+<p>&quot;I don't think it's dead,&quot; Clinton said when asked if the allied coalition was fatally divided. &quot;I think that, quite the contrary, we have received good support from the British ... I think things are on track and I feel good about it.&quot;</p>
+<p>The Pentagon said French combat aircraft had joined U.S. and British planes in patrolling an extended no-fly zone up to the 33rd parallel on Baghdad's outskirts. The U.S. rationale for the action was to deter Iraqi aggression.</p>
+<p>But Paris, after first refusing to confirm or deny the U.S. report, clarified that French planes participated in the no-fly action but only to the 30th parallel that embraces Kuwait and a narow slice of Iraqi territory south of Basrah.</p>
+<p>&quot;The French planes took part on Sept. 4 to usual missions of defense of Saudi airspace south of the 30th parallel,&quot; a French Foreign Ministry spokesman said.</p>
+<p>U.S. Defense Secretary William Perry said the cruise missile strikes had strengthened the coalition, not weakened it, and added: &quot;I fully expect the French to continue participation&quot; in enforcing the no-fly zone in southern Iraq.</p>
+<p>Clinton extended the zone to the 33rd parallel from the 32nd parallel with Britain's support. U.S. officials said the cruise missile attacks were needed both to punish Iraq for a military drive into northern Iraq and to destroy Iraqi anti-aircraft missile defenses in the southern no-fly zone.</p>
+<p>The U.S. Defense Department announced the French warplanes' participation shortly after the enlarged no-fly zone took effect an noon Iraq time. But Foreign Ministry spokesman Jacques Rummelhardt declined early in the day to say whether French planes would participate.</p>
+<p>Asked whether Clinton's decision to extend the exclusion zone was legitimate, Rummelhardt said: &quot;Its legitimacy is that it was decided unilaterally by the United States and it was supported by Britain.&quot; He also said France was still concerned about the U.S. cruise missile strikes at Iraq. &quot;The development of the situation remains worrying,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

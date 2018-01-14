@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135853" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Ex-Stratton Oakmont salesman barred for five years.</title>
+<headline>Ex-Stratton Oakmont salesman barred for five years.</headline>
+<dateline>WASHINGTON 1996-10-23</dateline>
+<text>
+<p>Regulators on Wednesday issued an order barring for five years a former Stratton Oakmont Inc salesman for allegedly using high pressure and fraudulent sales tactics &quot;in utter disregard of his obligations to customers.&quot;</p>
+<p>The order signed by SEC Chairman Arthur Levitt and three other SEC commissioners upheld a ruling by an administrative law judge against Richard Puccio, of Syossett, N.Y.</p>
+<p>The SEC said Pucio engaged in &quot;boiler room&quot; sales practices and failed to tell customers the house stocks he was selling were speculative and risky.</p>
+<p>The order bars Puccio from joining any broker or dealer, with a right to reapply after five years.</p>
+<p>The SEC said Puccio's admissions at a hearing show he engaged &quot;in knowing misconduct.&quot;</p>
+<p>He could not be reached for comment.</p>
+<p>The SEC alleged Puccio made baseless price predictions, discouraged customers from selling, misrepresented Stratton's research capabilities and impersonated other salesmen.</p>
+<p>He was fined $500 and promised not to repeat the violation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

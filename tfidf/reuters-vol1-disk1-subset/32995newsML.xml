@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32995" id="root" date="1996-09-04" xml:lang="en">
+<title>TURKEY: Istanbul gold eases slightly despite Iraq crisis.</title>
+<headline>Istanbul gold eases slightly despite Iraq crisis.</headline>
+<dateline>ISTANBUL 1996-09-04</dateline>
+<text>
+<p>Istanbul gold prices dropped on Wednesday despite the latest tension in Iraq, dealers said.</p>
+<p>Gold lost 1,700 lira and $1.15 to end at 1,084,000 lira per gram and $386.55 per ounce. Volume increased by 33 percent to 1,552 kilos.</p>
+<p>Dealers said prices dropped on the exchange due to easier gold prices in London and despite a weaker lira against the dollar in the domestic market.</p>
+<p>The Turkish lira closed at 87,000 per dollar, down from Tuesday's 86,980.</p>
+<p>Morning trade totalled 600 kilos and afternoon trade was 952 kilos. Of the total, 35 percent was in dollar terms. --Istanbul Newsroom, +90-212-275 0875 IMA</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

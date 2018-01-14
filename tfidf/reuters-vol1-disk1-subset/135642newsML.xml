@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135642" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: FDA panel opposes new female contraceptive.</title>
+<headline>FDA panel opposes new female contraceptive.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>A U.S. federal advisory committee has recommended against Food and Drug Administration approval of a new one-size-fits-all vaginal barrier contraceptive device for women.</p>
+<p>The FDA's Obstetrics and Gynecology Devices Panel, after a daylong hearing, said on Monday there was insufficient trial data to show the vaginal barrier device, called &quot;Lea's Shield,&quot; was effective in preventing pregnancies.</p>
+<p>YAMA Inc., of Millburn, New Jersey, the device's maker, wanted approval to market the shield by prescription.</p>
+<p>A review by outside medical experts is the first step toward agency approval of a new drug or medical device. The FDA is not bound to follow the recommendations of the panels, but usually accepts them.</p>
+<p>The panel voted 7-1 against a favourable recommendation.</p>
+<p>It said the size of the trial -- 52 couples -- was not adequate to show the effectiveness of the device.</p>
+<p>YAMA, supporting approval, presented studies showing the shield's effectiveness.</p>
+<p>The company said the shield, unlike such devices as the diaphragm and cervical cap now on the market, fitted most women and did not require sizing and fitting by a doctor.</p>
+<p>The device, which would be used with a spermicidal cream or gel, was seen by women's advocacy groups as another choice a woman could make on her own to prevent pregnancy.</p>
+<p>Some FDA officials were concerned, however, that women might believe the device was useful to prevent transmission of sexually transmitted diseases (STD).</p>
+<p>They added that no tests have shown the shield can protect against a STD and no such claims were being made for it.</p>
+<p>The shield is already on the market for over-the-counter sale in continental Europe and in Canada, YAMA said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

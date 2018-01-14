@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135010" id="root" date="1996-10-22" xml:lang="en">
+<title>FINLAND: LANNEN TEHTAAT PROFIT FALLS.</title>
+<headline>LANNEN TEHTAAT PROFIT FALLS.</headline>
+<dateline>HELSINKI 1996-10-22</dateline>
+<text>
+<p>Eight months to August 31,</p>
+<p>				    (million markka unless stated)</p>
+<p> Profit before extraordinary items    25.8 vs 31.5</p>
+<p> Earnings per share (markka)	    3.21 vs 3.97</p>
+<p> Net sales				   565.2 vs 491.0</p>
+<p> Operating profit			   22.1 vs 28.3</p>
+<p> Depreciation					18.3 vs 15.3</p>
+<p> Net financial items			 gain 3.7 vs 3.2 gain</p>
+<p> Extraordinary items				nil vs 0.1 charge</p>
+<p> Profit before minorities, taxes	     25.8 vs 31.4</p>
+<p> Minorities				  charge 0.2 vs 0.9 charge</p>
+<p> Taxes						  5.4 vs 6.6</p>
+<p> Net profit					  20.2 vs 23.9</p>
+<p> Equity to assets ratio (percent)	    60.9 vs 62.2</p>
+<p>NOTE - Company's full name is Lannen Tehtaat Oy.</p>
+<p>-- Helsinki newsroom +35 89 6805 0245</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

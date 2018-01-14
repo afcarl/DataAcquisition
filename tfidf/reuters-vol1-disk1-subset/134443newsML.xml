@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134443" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Philip Morris Cos Inc Q3 net rises.</title>
+<headline>Philip Morris Cos Inc Q3 net rises.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>1996			   1995</p>
+<p> Shr			  $2.01		    $1.71</p>
+<p> Net		    1,646,000		1,433,000</p>
+<p> Operating revs    17,414,000	     16,689,000</p>
+<p> Avg shrs		 818,000		  839,000</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>		     9 MONTHS</p>
+<p> Shr			  $5.87		    $4.95</p>
+<p> Net		    4,832,000		4,178,000</p>
+<p> Operating revs    52,414,000	     50,335,000</p>
+<p> Avg shrs		 824,000		  844,000</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: First Call Q3 mean estimate $2.01 per share.</p>
+<p>1995 nine months includes $0.03/shr charge from effects of changes in accounting methods.</p>
+<p>Q3 operating revenues, after adjustment for divestitures, were $17,414,000,000 vs $16,224,000,000. Nine month operating revenues, after adjustment for divestitures, were $52,408,000,000 vs $48,383,000,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

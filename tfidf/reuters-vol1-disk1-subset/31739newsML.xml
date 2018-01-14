@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31739" id="root" date="1996-09-04" xml:lang="en">
+<title>CUBA: Nation of Islam's Farrakhan meets Castro.</title>
+<headline>Nation of Islam's Farrakhan meets Castro.</headline>
+<dateline>HAVANA 1996-09-04</dateline>
+<text>
+<p>Louis Farrakhan, leader of the U.S.-based Nation of Islam who recently travelled to Libya for a prize, met with Cuban President Fidel Castro, state media said on Wednesday.</p>
+<p>The black American leader and Castro discussed world affairs, the situation in Cuba and the U.S. African American community. The meeting took place a few hours after the Nation of Islam leader arrived in Cuba on Tuesday, accompanied by members of his family and other members of the organisation.</p>
+<p>Farrakhan told Cuban reporters he was interested in obtaining a close view of the impact of recently tightened U.S. economic sanctions against Cuba. He was due to leave the communist-ruled island later on Wednesday.</p>
+<p>Farrakhan was recently awarded a $250,000 human rights prize in Libya, which is on the U.S. list of states that it says sponsor international terrorism. The U.S. Treasury Department denied his application to receive the $250,000 award or a $1 billion gift Libyan leader Muammar Gaddafi had pledged to the Nation of Islam after they met last January.</p>
+<p>Farrakhan organised last October's Million Man March that brought thousands of black men to Washington for a peaceful rally.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

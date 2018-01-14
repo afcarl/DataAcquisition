@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136141" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: US Treasury's 5-yr note yield seen at 6.32 pct.</title>
+<headline>US Treasury's 5-yr note yield seen at 6.32 pct.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>The U.S. Treasury's auction of $12.5 billion in five-year notes on Wednesday is expected to produce a yield near 6.32 percent, dealers said.</p>
+<p>At 1247 EDT/1647 GMT, the two-year notes were quoted at 6.3175 percent in when-issued trade.</p>
+<p>The bidding deadline for the notes is 1300 EDT/1700 GMT and results are expected around 1345 EDT/1745 GMT.</p>
+<p>-- N.A. Treasury Desk, 212-859-1679</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

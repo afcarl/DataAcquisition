@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133314" id="root" date="1996-10-22" xml:lang="en">
+<title>COLOMBIA: Colombia's Sept oil exports drop but income rises.</title>
+<headline>Colombia's Sept oil exports drop but income rises.</headline>
+<dateline>BOGOTA 1996-10-22</dateline>
+<text>
+<p>Colombia exported 4.08 million barrels of crude oil in September, down from 4.25 million barrels in September 1995, but its oil export revenues increased nonetheless, the state oil company Ecopetrol said.</p>
+<p>It said Colombia's oil export earnings for the month totalled $91.9 million, up from $71.8 million in September of last year.</p>
+<p>In addition to crude oil, Colombia exported 2.12 million barrels in other fuel products in September, down from 2.59 million barrels in Septmber 1995.</p>
+<p>The country imported 460,845 barrels of gasoline, meanwhile, down from 720,791 barrels in September of last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

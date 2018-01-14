@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136475" id="root" date="1996-10-23" xml:lang="en">
+<title>CROATIA: Croatian stocks lower in livelier OTC market.</title>
+<headline>Croatian stocks lower in livelier OTC market.</headline>
+<dateline>ZAGREB 1996-10-23</dateline>
+<text>
+<p>Following is the closing report for Croatia's over-the-counter market in Varazdin, including its Osijek outpost, for Wednesday, October 23.</p>
+<p>* Of 10 active stocks six fell, one rose and three remained unchanged.</p>
+<p>* Volume higher at 3,254 units, turnover also up at 177,304 German marks.</p>
+<p>* 10-stock VIN index fell 3.97 percent to 9,013 points.</p>
+<p>* Biggest loser was Istrian hotelier Arenaturist from Pula which lost 15.38 percent to close at 55 marks.</p>
+<p>* Top gainer was shipper Tankerska Plovidba from Zadar, gaining 25 percent to close at 100 marks.</p>
+<p>* The most actively traded issue was textile firm Varteks with 1548 shares traded, closing at 25 marks -- 13.79 percent down.</p>
+<p>-- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

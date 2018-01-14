@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134096" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Italian bonds/futures.</title>
+<headline>Italian bonds/futures.</headline>
+<dateline>MILAN 1996-10-22</dateline>
+<text>
+<p>Italian bond futures held to firmer levels encouraged throughout the day by preliminary October CPI data from the first three of 10 Italian cities indicating a year-on-year fall to 3.1 percent from 3.4 percent in September.</p>
+<p>Milan, Turin and Trieste announced their figures on Monday night, and later today Naples, Palermo, Florence, Perugia, Venice, Bologna and Genoa will publish their data.</p>
+<p>Dealers said that the market was supported by the CPI figures, and the firmer trend to the lira and German bunds. They added that the market was looking forward to an interest rate cut in November if the CPI rate then fell below 3.0 percent.</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

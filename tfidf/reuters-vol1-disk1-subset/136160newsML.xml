@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136160" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Stratus sees benefits from software revamp.</title>
+<headline>Stratus sees benefits from software revamp.</headline>
+<dateline>MARLBORO, Mass. 1996-10-23</dateline>
+<text>
+<p>Stratus Computer Inc said that its software business was a positive contributor to earnings for the first time this year, as the benefits of its recent restructuring began to take effect.</p>
+<p>&quot;With a sharpened focus on the best opportunities, we expect that results will continue to improve in this part of our business,&quot; said Bill Foster, chairman and CEO, in a statement. Stratus restructured its software unit in Q2.</p>
+<p>Stratus reported third quarter earnings of $0.45 a share, versus a loss of $0.40 a share a year ago. According to First Call, the Wall Street consensus was $0.42 a share.  </p>
+<p>Stratus also said that its hardware product revenues were up 15 percent on a sequential basis and that they were up five percent versus the year-ago period.  It said its Continuum Series 400 computer family saw strong sales growth.</p>
+<p>It said it expects even stronger Continuum growth in the fourth quarter, when Hewlett-Packard Co's UNIX operating system is available for the system, which is designed around  H-P's PA/RISC processor technology.  Stratus develops so-called fault-tolerant computers specifically designed with a backup system in case of system failures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32636" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Vivus says MUSE safe and effective in tests.</title>
+<headline>Vivus says MUSE safe and effective in tests.</headline>
+<dateline>MENLO PARK, Calif. 1996-09-04</dateline>
+<text>
+<p>VIVUS Inc said Wednesday results from European trials show its MUSE product, used to treat erectile dysfunction in men, showed the urethral suppository was safe and effective.</p>
+<p>Results from the double-blind, placebo-controlled multicenter trial in Europe of MUSE were presented Tuesday at the European Association of Urology (EAU) meeting in Paris.</p>
+<p>&quot;Our European findings confirm the safety, efficacy and quality-of-life results seen in the trials we conducted in the United States,&quot; Neil Gesundheit, M.D., vice president, said.</p>
+<p>&quot;MUSE, also known as alprostadil, was well tolerated and facilitated the resumption of sexual intercourse in the majority of men with chronic erectile dysfunction across all etiologies studied,&quot; he added.</p>
+<p>MUSE is a small, single-use, disposable applicator containing alprostadil, a synthetic version of the naturally occurring vasodilator prostaglandin E1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

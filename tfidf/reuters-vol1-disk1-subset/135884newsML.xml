@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135884" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Brite Voice Systems Inc Q3 profit vs loss.</title>
+<headline>Brite Voice Systems Inc Q3 profit vs loss.</headline>
+<dateline>WICHITA, Kan. 1996-10-23</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>						Three Months  Nine Months</p>
+<p>					 Ended Sept. 30  Ended Sept. 30</p>
+<p>					 1996     1995     1996    1995</p>
+<p> Revenues			  25,356   24,133   79,871  69,167</p>
+<p>Cost and expenses</p>
+<p>Costs of sales:</p>
+<p>   System			   6,093    5,864   19,210  15,344</p>
+<p>   Service			  5,746    5,771   17,660  16,718</p>
+<p>  Research and engineering    2,947    2,284    8,271   5,917</p>
+<p>Selling, general and</p>
+<p>   administrative		 9,262    6,945   25,834  20,657</p>
+<p>  S-Corporation distributions   ---    1,040	---   4,303</p>
+<p>Merger costs and other expenses ---</p>
+<p>						   4,327	---   4,327</p>
+<p>				     24,048   26,231   70,975  67,266</p>
+<p>Income (loss) from operations</p>
+<p>					1,308  (2,098)    8,896   1,901</p>
+<p> Other income, net		 (44)	 49	136     334</p>
+<p>Income (loss) before</p>
+<p>  income taxes		    1,264  (2,049)    9,032   2,235</p>
+<p>Provision (credit)</p>
+<p>  for income taxes		  320	191    2,496   1,331</p>
+<p> Net income (loss)		  944  (2,240)    6,536     904</p>
+<p> Earnings (loss) per share	.08    (.19)	.54     .08</p>
+<p>Weighted average</p>
+<p>  shares outstanding	   12,166   12,005   12,125  11,940</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WICHITA, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

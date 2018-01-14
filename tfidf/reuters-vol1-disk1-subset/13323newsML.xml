@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13323" id="root" date="1996-08-25" xml:lang="en">
+<title>BELGIUM: Belgians speed after Schumacher's Grand Prix win.</title>
+<headline>Belgians speed after Schumacher's Grand Prix win.</headline>
+<dateline>BRUSSELS 1996-08-25</dateline>
+<text>
+<p>Michael Schumacher's victory in the Belgian Formula One Grand Prix at Spa-Francorchamps sparked a speeding epidemic on Belgian roads after the race was over.</p>
+<p>Belga news agency reported that police checked more than 3,000 drivers and booked 222 for speeding on their way home after the race.</p>
+<p>Some were clocked doing 180 kilometres an hour (112 miles per hour), Belga said.</p>
+<p>Schumacher, driving a Ferrari, won the race in 1 hour 28 minutes 15.125 seconds at an average speed of 208.442 km/hour (130 m.p.h.).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

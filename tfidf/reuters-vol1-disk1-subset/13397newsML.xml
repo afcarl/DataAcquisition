@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13397" id="root" date="1996-08-26" xml:lang="en">
+<title>HONG KONG: Seoul stocks rattled by business tycoon sentencing.</title>
+<headline>Seoul stocks rattled by business tycoon sentencing.</headline>
+<dateline>HONG KONG</dateline>
+<text>
+<p>The sentencing of nine South Korean business tycoons added to the country's economic worries Monday and sent Seoul stocks diving to a 33-month-low.</p>
+<p>Most other Asian markets declined amid trade made sluggish by holidays for the London and Hong Kong markets.</p>
+<p>Seoul's composite stock index fell 15.24 points, or 1.95 percent, to 766.89, the lowest close since Nov. 4, 1993, when it ended at 766.55.</p>
+<p>&quot;The entire market is depressed right now because of the economic slow-down. The sentencing of the business leaders is making the sentiment worse,&quot; said a broker at Hanyang Securities.</p>
+<p>The head of Samsung, Lee Kun-hee, was sentenced to a two-year prison term suspended for three years. Daewoo's Kim Woo-choong was sentenced to two years in jail.</p>
+<p>The tycoons were sentenced for giving bribes to former South Korean President Roh Tae-woo, who succeeded Chun Doo Hwan.</p>
+<p>The same court also sentenced Chun to death on charges of treason and corruption. Roh was sentenced to 22-1/2 years in prison for playing a supporting role.</p>
+<p>Yonhap news agency quoted unidentified finance ministry officials as saying they were concerned that overseas investors would be scared away by the sentencing.</p>
+<p>In Tokyo, the Nikkei 225 stock average tumbled 345.06 points to close at 20,883.74.</p>
+<p>In Singapore, stocks were sharply lower, with the key Straits Times Industrials Index off 21.49 points at 2,160.03.</p>
+<p>Sydney's All Ordinaries Index lost 10.8 points to end at 2,282.1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

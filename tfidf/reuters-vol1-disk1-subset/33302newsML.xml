@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33302" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-Columbus beefs up Australia-West Coast route.</title>
+<headline>RTRS-Columbus beefs up Australia-West Coast route.</headline>
+<dateline>SYDNEY 1996-09-04</dateline>
+<text>
+<p>The Columbus Line will introduce a fixed-day weekly shipping service from Australia on the West Coast North America route, Columbus Line Australia Pty Ltd said.</p>
+<p>With the addition of a seventh ship, the Columbus Canterbury, to the route, Columbus Line would introduce weekly sailings from Melbourne and Sydney with fixed-day arrivals at destination and a punctual, seven-day spacing between all West Coast sailings, it said in a statement.</p>
+<p>Managing director Achim Drescher said the company was responding to client demand to offer increased reliability in services to and from North America.  </p>
+<p>Columbus Line is owned by German shipping group Hamburg-Sud, which is turn is owned by a privately owned diversified conglomerate, the Oetker Group.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

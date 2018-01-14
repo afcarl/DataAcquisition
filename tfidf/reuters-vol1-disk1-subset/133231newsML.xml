@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133231" id="root" date="1996-10-22" xml:lang="en">
+<title>ARMENIA: Armenia Jan-Aug industry output rises 1.2 pct y/y.</title>
+<headline>Armenia Jan-Aug industry output rises 1.2 pct y/y.</headline>
+<dateline>YEREVAN 1996-10-22</dateline>
+<text>
+<p>Armenian industrial production in the first eight months of this year was 1.2 percent higher than in the same period of 1995 after a 4.2 percent rise in the same period of 1995, the National Statistics Committee said.</p>
+<p>Output in August rose 6.7 percent to stand 9.2 percent higher than a year earlier.</p>
+<p>    ARMENIA INDUSTRIAL OUTPUT	AUG 96    JUL 96    AUG 95</p>
+<p>    month-on-month pct change	+6.7	-14.2     N/A</p>
+<p>    year-on-year pct change	  +9.2	-10.1     N/A</p>
+<p>					  JAN-AUG 96     JAN-AUG 95</p>
+<p>    year-on-year pct change	 1.2		 4.2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARMEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YEREVAN"/>
+<dc element="dc.creator.location.country.name" value="ARMENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

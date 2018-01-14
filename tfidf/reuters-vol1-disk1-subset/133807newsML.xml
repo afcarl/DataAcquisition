@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133807" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: FORECAST - API seen showing bearish distillate build.</title>
+<headline>FORECAST - API seen showing bearish distillate build.</headline>
+<byline>Harry Milling</byline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Tuesday evening's oil inventory data by the American Petreoleum Institute (API) could show a bearish build in distillate stocks after rising heating oil prices made U.S. heat less attractive for export.</p>
+<p>&quot;This report will show exports easing which allowed stocks to build,&quot; said William Brown, president of W.H. Brown &amp; Co.</p>
+<p>A Reuters survey estimates total distillate inventories, which includes heating oil, for the week ended October 18 will rise by one million barrels. Meanwhile, refinery turnarounds are expected to cut run rates by half a percentage point.  </p>
+<p>Crude estimates ranged from unchanged to up one million barrels due to increased imports.</p>
+<p>&quot;Gasoline supplies likely drew as a result of further refinery maintenance turnarounds,&quot; said Jim Ritterbusch, a trader with Sweeney Oil. The Reuters survey estimates a draw of one million barrels for gasoline inventories.</p>
+<p>Traders also said refiners have been maximizing distillate output at the expense of gasoline after a spike in heating oil prices created a rich crack.  </p>
+<p>&quot;Refiners have been trying to capture the very attractive distillate crack as much as they can,&quot; said Bob MacMinn, a trader with MPAS Inc.</p>
+<p>Supplies of heating oil have been at historical lows in Europe and the United States. U.S. heat was less expensive than heating oil in Europe, making U.S. heat attractive for export.</p>
+<p>With heating oil 18 million barrels below a year ago, U.S. prices eventually caught up to prices of heat in Europe closing the arbitrage window, dealers said.  </p>
+<p>Some traders cautioned that there is a chance distillate stocks could show a decline for the October 18 week since they have in five out of the last ten years at that time.</p>
+<p>&quot;Seasonally speaking, the stocks could go either way,&quot; said Sweeney Oil's Ritterbusch.</p>
+<p>However, in its Tuesday energy futures report, Paribas Futures said distillate stocks would have to decline by 1.5 million barrels to match last year's decline, so it said a slight decline in this week's inventory data would have a neutral effect.</p>
+<p>-- Harry Milling, New York Energy Desk, 212-859-1761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

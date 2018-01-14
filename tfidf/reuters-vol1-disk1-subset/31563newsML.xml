@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31563" id="root" date="1996-09-04" xml:lang="en">
+<title>SOUTH AFRICA: S.African JSE volumes up two-thirds year to August.</title>
+<headline>S.African JSE volumes up two-thirds year to August.</headline>
+<dateline>JOHANNESBURG 1996-09-04</dateline>
+<text>
+<p>Share volumes traded on the Johannesburg Stock Exchange (JSE) were 69.6 percent higher in the eight months to end-August compared to the previous year at 5.38 billion, the exchange said on Wednesday.</p>
+<p>The value of trade, excluding arbitrage, increased even further, by 88.4 percent to 73.05 billion rand.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

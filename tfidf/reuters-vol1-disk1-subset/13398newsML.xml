@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13398" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Respironics to buy Lifecare International for $50 mln.</title>
+<headline>Respironics to buy Lifecare International for $50 mln.</headline>
+<dateline>MURRYSVILLE, Pa.</dateline>
+<text>
+<p>Respironics Inc. said Monday it signed a definitive agreement to buy Colorado-based Lifecare International Inc. for $50 million.</p>
+<p>Both companies make respiratory therapy products.</p>
+<p>For the fiscal year ended March 31, 1996, Lifecare had revenues of $33.1 million, Respironics said.</p>
+<p>Respironics said it will finance the acquisition principally from proceeds of its recent stock offering.</p>
+<p>The deal is expected to be completed in October, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MURRYSVILLE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

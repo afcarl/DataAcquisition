@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136524" id="root" date="1996-10-23" xml:lang="en">
+<title>CROATIA: Croatian average lending rate jumps to 11.1 pct.</title>
+<headline>Croatian average lending rate jumps to 11.1 pct.</headline>
+<dateline>ZAGREB 1996-10-23</dateline>
+<text>
+<p>Croatian average lending rate jumped to 11.1 percent from 9.9 percent on Wednesday, boosted by higher rates for short term loans.</p>
+<p>Dealers said the demand was fully satisfied in meagre trade, with total settlement down to 14.3 million kuna against the supply of 55 million.</p>
+<p>New borrowings were made at steady 12 and 15 percent rates for short-term loans. Call money edged up 30 basis points to 9.7 percent.</p>
+<p>The central bank's kuna midrate for Thursday firmed to 5.43012 to the dollar and eased to 3.56210 against the mark. -- Metka Jelenc, Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133587" id="root" date="1996-10-22" xml:lang="en">
+<title>DUBAI: Iran starts population census.</title>
+<headline>Iran starts population census.</headline>
+<dateline>DUBAI 1996-10-22</dateline>
+<text>
+<p>More than 60,000 census-takers on Tuesday began a house to house survey across Iran in the country's fifth national census.</p>
+<p>State-run Tehran radio said the census, carried out every 10 years and the second since the 1979 Islamic revolution, would take 25 days and would cover data such as age distribution, education, housing conditions, employment and religion.</p>
+<p>President Akbar Hashemi Rafsanjani, the first person surveyed, urged full cooperation with census-takers.</p>
+<p>&quot;What people can do to help us (in the government) is to answer correctly. If answers are not correct, this will be misleading for planners,&quot; Rafsanjani told the radio.</p>
+<p>He was apparently voicing concern over people failing to give true answers due to traditional fears in Iran that the information they provide might lead to higher taxes or other demands from authorities.</p>
+<p>Iran's population is officially estimated at up to 65 million, including two million refugees from Afghanistan and Iraq. The 1986 census, the fourth since the surveys began in 1956, counted 49.5 million Iranians.</p>
+<p>Officials said last month the country's family planning programme had succeeded in cutting the annual population growth rate by half to 1.6 percent in eight years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134296" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: RESEARCH ALERT - Agrium raised.</title>
+<headline>RESEARCH ALERT - Agrium raised.</headline>
+<text>
+<p>-- J.P. Morgan analyst Donald Carson said in a research note that he raised his recommendation on Agrium Inc to buy from market performer.</p>
+<p>-- The upgrade is based on Agrium's proposed $960 million acquisition of Viridian Inc's he said.</p>
+<p>-- &quot;The two companies have extensive market overlap on Western Canada and the Pacific Northwest, which should result in cost saving opportunities as the businesses are combined. Most significantly we believe the acquisition of Viridian combined with the planned repurchase of up to 10 percent of the merged entity's shares significantly reduces investor concern that the company will embark on a massive greenfield expansion program. Agrium's more disciplined approach to capital expenditure will likely benefit both the company and the industry,&quot; the analyst said.</p>
+<p>-- Agrium's New York Stock Exchange-traded shares rose 1/8 to 13-7/8 while Viridian rose 0.05 to 17.80 on the Toronto Stock Exchange.</p>
+<p>-- Wall Street Desk, 212-859-1730.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

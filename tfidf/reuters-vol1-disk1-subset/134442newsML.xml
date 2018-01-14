@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134442" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Bel Fuse Inc Q3 shr $0.24 vs $0.39.</title>
+<headline>Bel Fuse Inc Q3 shr $0.24 vs $0.39.</headline>
+<dateline>JERSEY CITY, N.J. 1996-10-22</dateline>
+<text>
+<p>($ 000 omitted, except for per share and share data)</p>
+<p>						  Nine Months Ended</p>
+<p>						    September 30,</p>
+<p>						   1996	 1995</p>
+<p> Net Sales				    47,832     51,528</p>
+<p>Costs and Expenses:</p>
+<p>   Cost of Sales			    33,984     37,617</p>
+<p>Selling, General and</p>
+<p>     Administrative expenses	     8,472	9,047</p>
+<p>						  42,456     46,664</p>
+<p> Income (loss) from operations	   5,376	4,864</p>
+<p> Other income - net			  1,690	  843</p>
+<p>Earnings before</p>
+<p>   income tax provision		    7,066	5,707</p>
+<p> Income tax provision			1,415	  757</p>
+<p> Net Earnings				  5,651	4,950</p>
+<p> Net Earnings per common share	    1.12	  .99</p>
+<p>Average number of common</p>
+<p>   shares outstanding		  5,061,564  4,997,173</p>
+<p>						 Three Months Ended</p>
+<p>						    September 30,</p>
+<p>						   1996	 1995</p>
+<p> Net Sales				  $ 14,426   $ 17,568</p>
+<p>Costs and Expenses:</p>
+<p>   Cost of Sales			    10,621     12,590</p>
+<p>Selling, General and</p>
+<p>     Administrative expenses	     2,772	3,277</p>
+<p>						  13,393     15,867</p>
+<p> Income (loss) from operations	   1,033	1,701</p>
+<p> Other income - net			    238	  732</p>
+<p>Earnings before</p>
+<p>   income tax provision		    1,271	2,433</p>
+<p> Income tax provision			   39	  453</p>
+<p> Net Earnings				  1,232	1,980</p>
+<p> Net Earnings per common share	     .24	  .39</p>
+<p>Average number of common</p>
+<p>   shares outstanding		  5,070,195  5,028,415</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERSEY CITY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

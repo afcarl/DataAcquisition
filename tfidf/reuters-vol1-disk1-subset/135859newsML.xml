@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135859" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Garment Graphics Inc Q2 Sept 30 loss.</title>
+<headline>Garment Graphics Inc Q2 Sept 30 loss.</headline>
+<dateline>MINNEAPOLIS 1996-10-23</dateline>
+<text>
+<p>1996	     1995</p>
+<p> Net Sales				 $ 9,755,898    $ 5,726,167</p>
+<p> Loss before Income Taxes		(723,278)	(795,124)</p>
+<p> Income Tax Benefit			 (87,237)	(318,049)</p>
+<p> Net Loss				    (636,041)	(477,075)</p>
+<p> Loss Per Common Share			(0.21)	   (0.16)</p>
+<p>Weighted Average Common and Common</p>
+<p>  Equivalent Shares Outstanding	3,081,128	3,071,654</p>
+<p>					Six Months Ended September 30,</p>
+<p>						     1996	     1995</p>
+<p> Net Sales				$17,859,369     $13,047,507</p>
+<p> Loss before Income Taxes	     (470,374)	 (931,203)</p>
+<p> Income Tax Benefit				 0	 (372,481)</p>
+<p> Net Loss				   (470,374)	 (558,722)</p>
+<p> Loss Per Common Share		     (0.15)	    (0.18)</p>
+<p>Weighted Average Common and Common</p>
+<p>  Equivalent Shares Outstanding     3,080,901	 3,069,045</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

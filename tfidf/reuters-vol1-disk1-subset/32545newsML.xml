@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32545" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Schroder confirms lodging stocks.</title>
+<headline>RESEARCH ALERT - Schroder confirms lodging stocks.</headline>
+<text>
+<p>-- Schroder Wertheim analyst John Rohs confirmed downgrading Marriott International Inc to outperform from outperform significantly and upgrading La Quinta Inns Inc to outperform significantly from outperform.</p>
+<p>-- said Marriott was downgraded solely due to the stock price and added that business fundamentals remained solid.</p>
+<p>-- on La Quinta, he said the company's plans to accelerate a program to refurnish its rooms was a good idea and would help boost profits as well as cash flow.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

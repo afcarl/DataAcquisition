@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135457" id="root" date="1996-10-22" xml:lang="en">
+<title>CHINA: China approves merger of two futures exchanges.</title>
+<headline>China approves merger of two futures exchanges.</headline>
+<dateline>SHANGHAI 1996-10-22</dateline>
+<text>
+<p>China's top securities regulator has approved the merger of the Changchun United Commodity Exchange with the Beijing Commodity Exchange, the first case of its kind, the Beijing-based Financial Times said on Tuesday.  </p>
+<p>The newspaper said the China Securities Regulatory Commission (CSRC) had recently decided that the Changchun exchange would become a trading floor of the Beijing exchange, the newspaper said.</p>
+<p>The two exchanges have worked out details to implement the CSRC's order and will report to the securities authorities shortly for approval, the newspaper said.</p>
+<p>The merger &quot;is aimed at standardising our country's futures markets and promoting standard and high quality trading&quot;, the newspaper said.</p>
+<p>Analysts said the merger was the first of an expected series aimed at closing many of the smaller commodities exchanges around China which have been the focus of intense over-speculation.</p>
+<p>China has recently launched a sweeping crackdown on its futures markets and the authorities last month issued two documents stressing the need to further &quot;clean up&quot; the futures industry.</p>
+<p>Rumours have been circulating for weeks on the futures markets that the authorities would close most of the nation's 15 exisiting commodity exchanges, mainly by mergers, allowing only four or five of the largest and best-run to survive.  </p>
+<p>This is the second major crackdown in the history of modern China futures markets. In the first in 1993, Beijing closed dozens of futures exchanges, leaving only the 15 to run &quot;on a trial basis&quot;, after a bout of speculative booms and busts.</p>
+<p>The Financial Times said Changchun was selected as the first to be merged among the 15 because of rampant trading irregularities on the exchange between April and July last year.</p>
+<p>The CSRC suspended its trading for six months in October last year but the exchange failed to behave itself after trading resumed, the newspaper said. It gave no further details.</p>
+<p>&quot;The merger will greatly help the standardisation of our country's futures markets,&quot; the newspaper said. &quot;It will help the markets to move towards being real futures markets for hedging and pricing.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

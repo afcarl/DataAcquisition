@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31623" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Direct equity trades on the Czech PSE - Sept 4.</title>
+<headline>Direct equity trades on the Czech PSE - Sept 4.</headline>
+<dateline>PRAGUE 1996-09-04</dateline>
+<text>
+<p>The following is a list of direct equity trades reported on the Prague Stock Exchange:</p>
+<p> ISSUE		   Min. Price  Max. Price  Volume Turnover</p>
+<p>				(CZK)     (CZK)     (shares)(CZK 000's)</p>
+<p>1.IF ZIVNOBANKA	   498.00    502.98	2400    1201.176</p>
+<p>AERO			  160.00    160.00	5961     953.760</p>
+<p>ALPHA-EFFECT		564.59    564.59     14162    7995.724</p>
+<p>CESKA POJISTOVNA	 3905.00   4020.00	3000   11840.000</p>
+<p>CESKA SPORITELNA	  353.68    357.00     37800   13468.704</p>
+<p>CEZ			  1019.70   1053.43     91880   95864.564</p>
+<p>ELEKTRARNY OPATOV.     4600.00   4645.00	1025    4738.625</p>
+<p>ELMONT.ZAV.PRAHA	  375.00    375.00	6000    2250.000</p>
+<p>CHEMOPETROL GROUP	1300.00   1327.30     66725   87620.825</p>
+<p>CHLUMCAN.KER.ZAV.	4095.00   4095.00	 376    1539.720</p>
+<p>JIP VETRNI		  360.00    360.00     15000    5400.000</p>
+<p>KAUCUK GROUP	     1330.00   1330.00	2000    2660.000</p>
+<p>KOMERCNI BANKA	   2450.00   2470.00	7400   18194.400</p>
+<p>KOMERCNI BANKA IF	 704.00    704.00	5000    3520.000</p>
+<p>LECIVA PRAHA	     2490.00   2490.00	 800    1992.000</p>
+<p>MORAV.CHEMIC. ZAV.	660.00    660.00	4000    2640.000</p>
+<p>NOVA HUT		    595.00    595.00    135600   80682.000</p>
+<p>OKD			   130.00    138.00    118000   15787.100</p>
+<p>OSP C. BUDEJOVICE	  85.00     85.00	9432     801.720</p>
+<p>PARAMO		     1060.00   1060.00	1500    1590.000</p>
+<p>PF IKS KB PLUS	    155.50    160.00    118000   18808.000</p>
+<p>PLZEN. TEPLARENSKA	560.00    560.00	4829    2704.240</p>
+<p>PRAZSKA ENERGETIKA     2210.00   2210.00	6400   14144.000</p>
+<p>PRVNI SEVZAP.TEPL.     1350.00   1350.00	4000    5400.000</p>
+<p>PREROVSKE STROJ.	  486.00    497.99     14000    6887.930</p>
+<p>RIF			   890.00    890.00	2000    1780.000</p>
+<p>RYBARSTVI TREBON	  900.00    900.00	 806     725.400</p>
+<p>SPIF CESKY		  334.00    334.00	8000    2672.000</p>
+<p>SPT TELECOM		3400.00   3440.06     42150  143715.169</p>
+<p>SYNTHESIA		   450.00    453.00	1765     795.750</p>
+<p>SKODA PLZEN		1070.33   1080.00	8500    9125.825</p>
+<p>TABAK			6690.00   6690.00	1000    6690.000</p>
+<p>TMP-TEL. MONTAZE	 3005.00   3005.00	 400    1202.000</p>
+<p>TRINECKE ZELEZARNY	240.00    268.00     13936    3571.444</p>
+<p>VITKOVICE		   340.00    350.00     10404    3587.360</p>
+<p>ZC KAOLIN. ZAVODY	2400.00   2400.00	2527    6064.800</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

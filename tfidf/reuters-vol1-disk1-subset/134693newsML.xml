@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134693" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Canada's Prairies see little rain, cool weather.</title>
+<headline>Canada's Prairies see little rain, cool weather.</headline>
+<dateline>WINNIPEG 1996-10-22</dateline>
+<text>
+<p>Canada's Prairies saw little rain in the last 24 hours as temperatures cooled, Environment Canada said.</p>
+<p>None of Alberta's agricultural land saw rain in the last 24 hours while Saskatchewan's grainbelt only saw trace amounts of precipitation, meteorologist Henry Schmidt said.</p>
+<p>About 12 mm (0.5 inch) of rain fell within a 75-km radius west of Manitoba's Red River Valley extending to the North Dakota border, Schmidt said.</p>
+<p>An inch of rain within 24 hours is enough to delay harvest up to three days.</p>
+<p>Alberta should see highs of 0 to 10 Celsius with snow flurries expected in the far north.</p>
+<p>Saskatchewan should see highs of 0 to 8.0 Celsius with occasional showers or snow flurries forecast for the southwest.</p>
+<p>Manitoba should see highs of 0 to 7.0 Celsius with a mix of sun and cloud.</p>
+<p>--Gilbert Le Gras 204-947-3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

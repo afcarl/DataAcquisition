@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135857" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Niagara Mohawk reports loss after charge.</title>
+<headline>Niagara Mohawk reports loss after charge.</headline>
+<dateline>SYRACUSE, N.Y. 1996-10-23</dateline>
+<text>
+<p>Niagara Mohawk Power Corp Wednesday reported a third-quarter loss of $22.5 million, or $0.16 per share, after a charge of $68.5 million, or $0.31 per share, reflecting an increased reserve for uncollectible customer bills.</p>
+<p>The utility said reserve is necessary to properly recognize the increased risk of collecting significantly higher levels of past-due customer bills. In addition, $19 million of bad debts were written off in the third quarter 1996, compared with $10.4 million written off in the third-quarter 1995.</p>
+<p>Niagara Mohawk said it has seen a significant increase in past-due accounts receivable.</p>
+<p>The company said it believes a major factor in the rise has been the inability of residential customers to keep pace with higher electricity bills, citing higher electricity prices due principally to increasing payments to unregulated generators, a weak economy, and its existing collections practices. -- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYRACUSE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

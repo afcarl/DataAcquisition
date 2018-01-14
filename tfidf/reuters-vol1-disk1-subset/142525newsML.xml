@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142525" id="root" date="1996-10-25" xml:lang="en">
+<title>PAKISTAN: CRICKET-ZIMBABWE 2ND INNS 136-3 AT CLOSE V PAKISTAN.</title>
+<headline>CRICKET-ZIMBABWE 2ND INNS 136-3 AT CLOSE V PAKISTAN.</headline>
+<dateline>FAISALABAD, Pakistan 1996-10-25</dateline>
+<text>
+<p>Zimbabwe, 134 behind Pakistan on first innings, were 136-3 in their second innings at the close on the second day of the second and final test on Friday.</p>
+<p>Scores: Zimbabwe 133 and 136-3, Pakistan 267.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAISALABAD, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

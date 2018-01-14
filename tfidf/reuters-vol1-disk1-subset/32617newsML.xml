@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32617" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Hutchinson says operating at break-even.</title>
+<headline>Hutchinson says operating at break-even.</headline>
+<dateline>HUTCHINSON, Minn. 1996-09-04</dateline>
+<text>
+<p>Hutchinson Technology Inc said Wednesday that because of reduced demand through the first 10 weeks of its 14 week fiscal 1996 fourth quarter, the company is operating at break-even, compared with earnings of $1.55 a share in the year ago quarter.  </p>
+<p>The company said that quarter-to-date net sales are $65.5 million and the company has shipped on average 10.3 million suspension assemblies per week, compared to the 11 million it had previously planned.</p>
+<p>Hutchinson Technology will report results for the fiscal fourth quarter and year end on November 4, the company said.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUTCHINSON, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

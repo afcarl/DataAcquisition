@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25735" id="root" date="1996-08-31" xml:lang="en">
+<title>NETHERLANDS: CYCLING-TOUR OF NETHERLANDS FINAL RESULTS/STANDINGS.</title>
+<headline>CYCLING-TOUR OF NETHERLANDS FINAL RESULTS/STANDINGS.</headline>
+<dateline>LANDGRAAF, Netherlands 1996-08-31</dateline>
+<text>
+<p>Leading results of</p>
+<p>the 205-km sixth and final stage of the Tour of the Netherlands</p>
+<p>between Roermond and Landgraaf on Saturday:</p>
+<p> 1. Olaf Ludwig (Germany) Telekom	4 hours 48 mins 2 seconds</p>
+<p> 2. Giovanni Lombardi (Italy) Polti	    5 seconds behind</p>
+<p> 3. Tristan Hoffman (Netherlands) TVM	  same time</p>
+<p> 4. Erik Breukink (Netherlands) Rabobank     8 seconds</p>
+<p> 5. Jesper Skibby (Denmark) TVM		  9</p>
+<p> 6. Vyacheslav Ekimov (Russia) Rabobank	same time</p>
+<p> 7. Luca Pavanello (Italy) Aki		   11</p>
+<p> 8. Eleuterio Anguita (Spain) MX Onda </p>
+<p> 9. Michael Andersson (Sweden) Telekom</p>
+<p> 10. Johan Capiot (Belgium ) Collstrop	 all same time</p>
+<p>Final overall placings (after six stages):</p>
+<p> 1. Rolf Sorensen (Denmark) Rabobank	 20:36:54</p>
+<p> 2. Lance Armstrong (U.S.) Motorola	  2 seconds behind</p>
+<p> 3. Ekimov					   1:7</p>
+<p> 4. Marco Lietti (Italy) MG-Technogym	1:16</p>
+<p> 5. Erik Dekker (Netherlands) Rabobank     1:23</p>
+<p> 6. Ludwig					   1:25</p>
+<p> 6. Breukink					 same time</p>
+<p> 8. Maarten den Bakker (Netherlands) TVM   1:33</p>
+<p> 9. Andersson					1:34</p>
+<p> 10. Skibby					  1:45</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANDGRAAF, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

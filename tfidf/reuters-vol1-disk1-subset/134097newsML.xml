@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134097" id="root" date="1996-10-22" xml:lang="en">
+<title>NORWAY: Hydro fall burdens Oslo stock exchange.</title>
+<headline>Hydro fall burdens Oslo stock exchange.</headline>
+<dateline>OSLO 1996-10-22</dateline>
+<text>
+<p>Industrial giant Norsk Hydro, sliding the day after reporting disappointing third-quarter results, dragged down the Oslo Total index on Tuesday.</p>
+<p>The Oslo Total index fell 0.23 percent to 876.50 points in brisk trade worth 867 million crowns, including 223 million crowns in Hydro, which has a 20 percent weighting on the bourse.</p>
+<p>Hydro, which fell one percent to 301.50 crowns, on Monday announced it's third-quarter result was down 45 percent because of lower prices for aluminium and petrochemicals.</p>
+<p>&quot;But Hydro has not fallen as much as had been feared. The fall in aluminium prices was discounted for,&quot; one dealer said.</p>
+<p>Seven analysts polled by Reuters downgraded Hydro's projected Earnings Per Share for 1996 by 7.2 percent to 25.70 crowns following the presentation.</p>
+<p>A dealer said offshore group Awilco was up 1.67 percent at 61 crowns on an unconfirmed rumour that a solution was in sight with British Petroleum on problems linked to a delay in the production start at the Foinaven subsea installation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

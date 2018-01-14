@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135128" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia names head of petroleum association.</title>
+<headline>RTRS-Australia names head of petroleum association.</headline>
+<dateline>CANBERRA 1996-10-22</dateline>
+<text>
+<p>The Australian Petroleum Production and Exploration Association (APPEA) on Tuesday named Barry Jones as its executive director.</p>
+<p>Jones, who takes up his appointment in December, replaces Dick Wells who was head of APPEA from 1991 and left to head the Minerals Council of Australia from November 1.</p>
+<p>APPEA's deputy director Peter Cochrane will be acting executive director until December.  </p>
+<p>Jones has an extensive background in resources and energy policy in the federal public service, including three years as minister for agriculture and energy at the Australian Embassy in Paris.</p>
+<p>He is currently the executive director of the Pulp and Paper Manufacturers' Federation of Australia.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

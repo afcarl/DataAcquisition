@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18168" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Discount chain Target stops selling cigarettes.</title>
+<headline>Discount chain Target stops selling cigarettes.</headline>
+<dateline>MINNEAPOLIS 1996-08-28</dateline>
+<text>
+<p>Discount store giant Target, citing rising costs of carrying tabacco products, said Wednesday it will stop selling cigarettes in its 714 stores by the end of next month.</p>
+<p>Target, the nation's third-largest discount store chain, said the expense of complying with local restrictions on cigarette sales and declining profit margins caused it to remove the product from its shelves.</p>
+<p>&quot;It's really a business decision,&quot; said Susan Eich, a spokeswoman for Target, which is a unit of Dayton Hudson Corp .</p>
+<p>&quot;Obviously a lot of people are going to be happy or unhappy about this, regardless of the rationale,&quot; she said.</p>
+<p>Stores that Target has opened during the last year, or about 20 percent of the chain, do not carry cigarettes, she said.</p>
+<p>Cigarettes make up less than a half of one percentage point of Target's annual sales. &quot;Volume per store has been declining in recent years,&quot; said Eich.</p>
+<p>The steep cost of building special counters to control tabacco sales, along with a high theft rate, made it difficult to stick with the product.</p>
+<p>Snack foods and sports trading cards will be stocked where cigarettes once were displayed.</p>
+<p>Target said it informed distributors of its decision last month. Philip Morris Cos Inc. is the retailer's largest supplier of cigarettes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

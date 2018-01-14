@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136412" id="root" date="1996-10-23" xml:lang="en">
+<title>SUDAN: Sudanese military pilot diverts to Saudi Arabia.</title>
+<headline>Sudanese military pilot diverts to Saudi Arabia.</headline>
+<dateline>KHARTOUM 1996-10-23</dateline>
+<text>
+<p>A Sudanese military pilot abandoned a training mission and flew his plane to Jeddah in Saudi Arabia on Tuesday, state media said on Wednesday.</p>
+<p>&quot;On Tuesday morning at 8.23 a.m., during training with the aviation corps, First Lieutenant Ahmed Abdul-Gasim Ahmed, who was piloting a military F-16 aircraft, changed course and flew to Saudi Arabia and landed at Jeddah airport,&quot; the government newspaper al-Ingaz al-Watani said.</p>
+<p>State radio and other newspapers identified the plane as an F-6. The International Institute for Strategic Studies does not list F-16s among the planes operated by the Sudanese military. It does have Chinese J-6s, sometimes known as F-6s.</p>
+<p>The newspaper quoted an official spokesman for the Sudanese armed forces as saying Sudan had contacted the Saudi authorities, who agreed to let the plane go back to Sudan. The plane should fly home on Wednesday, it added.</p>
+<p>It did not mention the fate of the pilot or the motives for his flight to Jeddah. Investigations into the circumstances of the incident have begun, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KHARTOUM"/>
+<dc element="dc.creator.location.country.name" value="SUDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

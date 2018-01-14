@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134251" id="root" date="1996-10-22" xml:lang="en">
+<title>AFGHANISTAN: Afghan Ariana Airlines to fly to Islamabad.</title>
+<headline>Afghan Ariana Airlines to fly to Islamabad.</headline>
+<dateline>KABUL 1996-10-22</dateline>
+<text>
+<p>Afghanistan's state-owned Ariana Airlines will open flights between the capital Kabul and the Pakistan capital of Islamabad, official Radio Afghanistan said on Tuesday.</p>
+<p>It said a protocol was signed on Monday between the Taleban-appointed deputy minister of civil aviation, whose name was not given, and representatives of the Pakistan government.</p>
+<p>It said the flights would start soon, but did not give further details. The Islamic Taleban movement took control of Kabul last month.</p>
+<p>Ariana, badly hit by the country's civil war, has maintained a sporadic domestic service and international flights to Delhi and Dubai. It evacuated two of its Boeing 727 airliners on Sunday after ousted government forces rocketed Kabul airport.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KABUL"/>
+<dc element="dc.creator.location.country.name" value="AFGHANISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

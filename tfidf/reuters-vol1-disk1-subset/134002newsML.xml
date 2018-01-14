@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134002" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: Workers free Giat bosses held in job cuts protest.</title>
+<headline>Workers free Giat bosses held in job cuts protest.</headline>
+<dateline>TOULOUSE, France 1996-10-22</dateline>
+<text>
+<p>Eleven executives of state arms-maker Giat Industries were freed on Tuesday after being taken hostage the previous day at a plant in southwest France by workers protesting job cuts.</p>
+<p>&quot;The hostage-taking (at the Tarbes plant) is over,&quot; a spokeswoman for Giat said. She added the incident ended peacefully and that the police had not been called to intervene.</p>
+<p>The executives were locked in their offices on Monday by 200 workers who invaded the premises.</p>
+<p>Production was halted at the plant, which produces turrets for the Leclerc tanks, the spokeswoman said.</p>
+<p>The workers occupied the plant premises overnight but a union spokesman said they left after freeing the executives.</p>
+<p>The Giat spokeswoman said the company was appealing to workers &quot;to return to work as normal&quot; on Wednesday.</p>
+<p>The executives were released after union members voted massively in favour of freeing them, said Jean-Louis Naudet, secretary-general of the Federation des Travailleurs, affiliated with the communist-led CGT.</p>
+<p>But Naudet told Reuters the workers &quot;would keep up the fight&quot; against Giat's plans to axe 595 jobs out of a total of 1,800 at the Tarbes site.</p>
+<p>The company is planning to cut 2,569 out of 12,000 employees to focus on its core business of tanks, armoured vehicles and munitions.</p>
+<p>&quot;We want a withdrawal of the plan,&quot; Naudet said.</p>
+<p>It was the second time in less than a month that workers at the plant had taken such action. On October 3, they took the plant director hostage and occupied the plant.</p>
+<p>The Giat job cuts are part of a larger reform of the French defence industry, which has been hit by a drop in orders since the end of the Cold War and reduced defence budgets.</p>
+<p>Giat reported a net loss of 10 billion francs for 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOULOUSE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

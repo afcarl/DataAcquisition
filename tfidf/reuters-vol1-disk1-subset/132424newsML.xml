@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132424" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Cambridge SoundWorks Q1 Sept 29 full result.</title>
+<headline>Cambridge SoundWorks Q1 Sept 29 full result.</headline>
+<dateline>NEWTON, Mass. 1996-10-22</dateline>
+<text>
+<p>Sep 29, 1996	Oct. 1, 1995</p>
+<p> Net Sales			 $11,130,289	  $7,355,487</p>
+<p> Net income (loss)		    32,067	   (282,480)</p>
+<p>Net income (loss)</p>
+<p>  per share				  .01		 (.10)</p>
+<p>Weighted average number of common equivalent shares</p>
+<p>  outstanding			2,892,523	   2,888,824</p>
+<p>Note: Full company name is Cambridge SoundWorks Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

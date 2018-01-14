@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133043" id="root" date="1996-10-22" xml:lang="en">
+<title>ZAIRE: U.N. evacuates staff out of east Zairean town.</title>
+<headline>U.N. evacuates staff out of east Zairean town.</headline>
+<byline>Victor Antoine</byline>
+<dateline>BUKAVU, Zaire 1996-10-22</dateline>
+<text>
+<p>The United Nations on Tuesday evacuated 48 aid workers from the eastern Zairean town of Uvira, where they have been trapped in fighting between the Zairean army and Tutsi rebels.</p>
+<p>&quot;A total of 48 aid workers from United Nations agencies and international non-governmental organisations (NGOS) were evacuated from Uvira. They had been held-up for three days in aid agency compounds due to heavy fighting in the area,&quot; the spokesman for the U.N. World Food Programme (WFP) told Reuters.</p>
+<p>He also warned that humanitarian aid workers would not return until the security situation had improved. &quot;Food distributions will not begin until security conditions allow for WFP staff and other humanitarian workers to return,&quot; he said.</p>
+<p>WFP has been providing emergency food rations to all refugees in the 12 camps in Uvira.</p>
+<p>The refugees abandoned their camps because of fierce fighting between Zaire's ragged army and the Banyamulenge rebels -- ethnic Tutsis who came to Zaire from Rwanda at the end of the 18th century.</p>
+<p>Zaire accuses neighbouring Rwanda, controlled by a Tutsi-dominated military, of supporting the Banyamulenge. Kigali denies the charge.</p>
+<p>The food agency also warned that food supplies for refugees in south Kivu, where 221,000 Rwandan and Burundian Hutus are on the move, were running out and it only had enough for six days.</p>
+<p>WFP had brought in the plane, a Canadian-built Buffalo, into the Kivu region on Sunday to start evacuating staff from Uvira but it failed to land in Uvira due to heavy fighting.</p>
+<p>Another WFP spokesman told Reuters the agency had food supplies to last only six days in the south Kivu region.</p>
+<p>&quot;We do not have enough food to feed them. We are left with six days of food supply. We are facing a catastrophe. The future is bleak,&quot; the spokesman added.</p>
+<p>Tens of thousands of exhausted Hutu refugees and displaced Zaireans flooded towards the city of Bukavu in eastern Zaire on Tuesday, fleeing fighting between soldiers and the Banyamulenge further south.</p>
+<p>The U.N. refugee agency in Geneva warned of an impending humanitarian disaster.</p>
+<p>The Zairean army brought reinforcements of troops and artillery to Bukavu, where it set up a cannon outside the cathedral aimed in the direction of nearby Rwanda.</p>
+<p>The fighting has fuelled fears that the Tutsi and Hutu rivalry which triggered the 1994 genocide of almost a million Tutsis in Rwanda and the equally bitter civil war in Burundi could engulf the whole Central African Great Lakes region.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUKAVU, Zaire"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

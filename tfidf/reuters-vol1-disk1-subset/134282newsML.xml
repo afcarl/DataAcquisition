@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134282" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Dow down more than 50 points.</title>
+<headline>Dow down more than 50 points.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>The Dow Jones industrial average lost more than 50 points in afternoon trading Tuesday as the market was hit by profit-taking for a second day after rocketing to four record high closes last week.</p>
+<p>At 3:17 p.m., the Dow was off 50.31 points at 6,040.56, which activated the New York Stock Exchange's limits on program trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

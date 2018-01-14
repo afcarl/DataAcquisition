@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133188" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Greek president calms Polish unease over EU, NATO.</title>
+<headline>Greek president calms Polish unease over EU, NATO.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>Greek president Costis Stephanopoulos on Tuesday drove home the message that his country would welcome Poland into the European Union and NATO, soothing some apprehensions in Warsaw.</p>
+<p>&quot;We are convinced that the EU will never be a uniform whole unless all European countries who wish to participate in the EU's work become members,&quot; he said, singling out Poland.</p>
+<p>Stephanopoulos told a joint sitting of parliament's foreign affairs committees in Warsaw that Poland's entry might affect the economic interests of some members, including Greece.</p>
+<p>&quot;But we lay stress on political aspects of the broadening of the European Union,&quot; he said.</p>
+<p>Warsaw has been anxious that less wealthy EU members, such as Greece, might raise obstacles to its entry because Poland could become a rival for limited EU funds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G155">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

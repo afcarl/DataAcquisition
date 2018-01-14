@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32849" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Imatron welcomes Heart Association stand.</title>
+<headline>Imatron welcomes Heart Association stand.</headline>
+<dateline>SO. SAN FRANCISCO, Calif. 1996-09-04</dateline>
+<text>
+<p>Imatron Inc said the American Heart Association (AHA) expanded its position regarding Imatron's Ultrafast CT Electron Beam Tomography (EBCT) regarding coronary artery disease.</p>
+<p>AHA now acknowledges the role of EBCT in the diagnosis and management of coronary artery disease, the company said.</p>
+<p>The new position follows a May 31 AHA press release citing a study that concluded scanning by Ultrafast CT is a  powerful test in predicting heart attack and other coronary disease episodes, even in apparently healthy people.&quot;</p>
+<p>Imatron said the new position clearly places Ultrafast CT Scanner in the mainstream for the diagnosis of coronary artery disease.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SO. SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

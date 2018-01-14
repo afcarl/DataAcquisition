@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31357" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: RUGBY UNION-ENGLAND PLAYERS BOYCOTT TRAINING SESSION.</title>
+<headline>RUGBY UNION-ENGLAND PLAYERS BOYCOTT TRAINING SESSION.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>England manager Jack Rowell found himself without a team to coach on Wednesday when the 43-strong international squad carried out their threat to boycott the first training session of the new season.</p>
+<p>Only a handful of officials were present at Bisham Abbey near London when Rowell drove into the training ground with no players in sight.</p>
+<p>Instead the squad will attend a meeting called by the English Professional Rugby Union Clubs (EPRUC) to discuss the current contract war.</p>
+<p>The players' Rugby Football Union contracts expired at the weekend and the EPRUC, who plan to split from the union and run their own competitions, have taken the initiative.</p>
+<p>The clubs, who are currently the players' sole employers, want more money and power in the new professional era and have declared they will set up as an independent organisation in October.</p>
+<p>England also face expulsion from the Five Nations' championship next Monday after a row over television revenue.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

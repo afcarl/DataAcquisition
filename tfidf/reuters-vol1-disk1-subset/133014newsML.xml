@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133014" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Thunder Bay vessel clearances - Oct 22.</title>
+<headline>Thunder Bay vessel clearances - Oct 22.</headline>
+<text>
+<p>Daily vessel clearances at Thunder Bay, Ontario:</p>
+<p> Date	Vessel		Cargo (Tonnes) Destination</p>
+<p>Oct 20   Mantadoc		15,652 wheat   St. Lawrence Ports</p>
+<p>Oct 20   Canadian Mariner    25,249 wheat   St. Lawrence Ports</p>
+<p>Oct 20   Nanticoke	     11,266 wheat   Halifax, Windsor</p>
+<p>Oct 20   Nanticoke		8,941 canola  Halifax, Windsor</p>
+<p>Oct 20   Nanticoke		5,250 barley  Halifax, Windsor</p>
+<p>Oct 19   Ocean Leader	  19,800 oats    Foreign Port</p>
+<p>Oct 19   Canadian Ranger     15,714 wheat   St. Lawrence Ports</p>
+<p>Oct 19   Canadian Ranger	7,848 barley  St. Lawrence Ports</p>
+<p>Oct 18   Federal Agno	  12,000 solin   Foreign Port</p>
+<p>Oct 18   Federal Agno	   6,100 flax    Foreign Port</p>
+<p>Oct 18   Verily		  16,800 peas    Foreign Port</p>
+<p>Oct 18   Handy Laker	   17,152 wheat   Foreign Port</p>
+<p>Oct 17   Algowood		   coal	  Nanticoke</p>
+<p>Oct 17   Canadian Olympic	 coal	  Nanticoke</p>
+<p>Oct 17   John B. Aird	     coal	  Detroit</p>
+<p>Oct 16   Oakglen		 15,301 wheat   Goderich</p>
+<p>Oct 16   Oakglen		  3,467 barley  Goderich</p>
+<p>Source: Lake Shippers Clearance Assn. M=meal,P=pellets,O=oil</p>
+<p>--Gilbert Le Gras 204-947-3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

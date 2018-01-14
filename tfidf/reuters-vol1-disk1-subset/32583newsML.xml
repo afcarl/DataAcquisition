@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32583" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Calif. commission suspends Cherry Communications.</title>
+<headline>Calif. commission suspends Cherry Communications.</headline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>The California Public Utilities Commission (CPUC) said on Wednesday that it suspended the operations of Illinois-based Cherry Communications Inc for two years in the state.</p>
+<p>Cherry Communications, a long distance telephone company, was grounded for so-called &quot;slamming&quot; and other allegedly illegal business tactics, the commission said in a statement. All of Cherry Communication's present customers must find new long distance providers, the commission said.</p>
+<p>The company must also pay $20 to every customer who filed a complaint alleging he was slammed. Slamming occurs when long distance service is switched without proper authorization. More than 5,000 slamming complaints have been filed against Cherry Communications with local telephone companies.</p>
+<p>CPUC investigators said Cherry Communications violated state law with forged signatures on authorization forms to switch carriers and misrepresentions to consumers.</p>
+<p>Cherry Communications said a subcontractor was to blame for the alleged slamming. Cherry Communications spokesman Nicholas Danielides said Cherry immediately fired the firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

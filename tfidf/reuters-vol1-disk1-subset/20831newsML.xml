@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20831" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Late bond market prices.</title>
+<headline>Late bond market prices.</headline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>This is how major world bond markets were trading in late European business on Thursday.</p>
+<p>GERMANY - Bund futures ended slightly higher, resting at support near 97.30, with traders focusing clearly on the United States. The short end of the yield curve could get support from the mark. The September Bund future on the London International Financial Futures and Options Exchange (LIFFE) was trading at 97.43, up 0.09 from Wednesday's settlement price.</p>
+<p>BRITAIN - Gilt futures closed a touch higher, managing to resist the negative tone of U.S. Treasuries which were hit by strong upward revision to Q2 GDP. Gilt trade was increasingly focused on the rollover of the December contract. The September long gilt future on LIFFE was trading at 107-11/32, up 05/32 from Wednesday's settlement price.</p>
+<p>FRANCE - French 10-year bond futures settled higher but off their best levels following U.S. data showing the American economy was stronger than expected. &quot;Everyone was hoping for an upturn in the U.S. bond market, but the figures didn't deliver,&quot; said one trader. The September notional bond future on the MATIF in Paris settled at 123.08, up 0.12 from Wednesday's settlement price.</p>
+<p>ITALY - Italian bond futures edged higher throughout the afternoon watching the lira push up against the mark. The currency helped BTP futures outperform T-bonds and German bunds. BTPs managed to shrug off the fall in Treasuries which were hit by a strong upward revision of U.S. Q2 GDP. The September bond future on LIFFE was trading at 115.66, up 0.34 from Wednesday's settlement price.</p>
+<p>UNITED STATES - US Treasuries camped out in substantially lower territory after the GDP revision and jump in July new home sales. Fears of a strong Q3 are growing but traders favour a wait-and-see approach. The September Treasury bond future on the Chicago Board of Trade was trading at 108-13/32, down 0/12 from Wednesday's settlement price. The long bond was quoted to yield 7.02 percent.</p>
+<p>JAPAN - Key December Japanese Goverment Bonds (JGB) futures closed higher, with bullish sentiment triggered by this week's weaker-than-expected 'tankan' survey still a factor in the market. Technical short-covering of the September contract was also underpinning the market.In after hours trading the September future on LIFFE was trading at 122.20, up 0.39 from Wednesday's settlement price on the Tokyo Stock Exchange.</p>
+<p>EUROBONDS - The primary market remained busy on Thursday, with retail-targeted deals providing the bulk of activity. Late on Wednesday, the World Bank launched a $1.0 billion three-year bond aimed at the Japanese market. Sterling saw further issuance as Credit Local set a 100 million pound December 2001 bond and CSW Investments brought a 100 million pound 10-year deal. Two Canadian dollar bond surfaced for Eurofima and Sweden at C$100 million each. Australian dollars and Danish crowns were also tapped.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

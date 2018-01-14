@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132771" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Clark alkylation unit seen back this week.</title>
+<headline>Clark alkylation unit seen back this week.</headline>
+<dateline>HOUSTON 1996-10-22</dateline>
+<text>
+<p>Clark Refining and Marketing Co expects to return an alkylation unit at its Chicago-area refinery back to service on Wednesday following a fire that idled the unit over the weekend, traders said on Tuesday.</p>
+<p>A fire on a propane line shut the 6,400 barrel per day (bpd) alkylation unit at Clark's 80,515 bpd Blue Island, Ill., refinery early Saturday. The unit produces premium unleaded gasoline.</p>
+<p>A Clark spokeswoman was not available for comment.  </p>
+<p>The outage forced Clark into the spot market to buy unleaded gasoline barrels, and has fueled a modest upward move in Chicago gasoline differentials, traders said.</p>
+<p>Illinois Attorney General Jim Ryan on Monday said he plans to seek a court order to temporarily shut down the refinery until it is proven safe.</p>
+<p>Clark is a unit of Clark USA Inc which is 49 percent owned by The Horsham Corp of Canada.</p>
+<p>-- Houston Bureau 713 210-8508</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

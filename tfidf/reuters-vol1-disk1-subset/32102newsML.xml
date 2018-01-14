@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32102" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Georgia, S. Carolina ports close due to hurricane.</title>
+<headline>Georgia, S. Carolina ports close due to hurricane.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Ports from Savannah, Georgia, to Charleston, South Carolina have been closed to vessel traffic until the threat of Hurricane Fran passes, the Coast Guard said Wednesday.</p>
+<p>The Savannah Marine Safety Office said ports Savannah and Brunswick closed Tuesday afternoon followed by ports Royal and Charleston in South Carolina on Wednesday afternoon.</p>
+<p>The majority of traffic through the ports are container and bulk vessels. Officials said they did not know if any vessels carrying crude oil or bunker fuel have been affected.</p>
+<p>&quot;The Port of Charleston is closed but those north of it are not yet in the strike area and are still open,&quot; said a Savannah Coast Guard official.</p>
+<p>Earlier Wednesday, refineries along the Eastern Seaboard, especially in Delaware and Pennsylvania, said they were monitoring Hurricane Fran but have not yet taken any precautionary measures.</p>
+<p>As of 1823EDT, Hurricane Fran was about 410 miles southeast of Charleston, S.C., packing maximum sustained winds of 115 mph.</p>
+<p>The category three winds are traveling northwest at 12 mph and &quot;should stay on that course through the next day,&quot; said Mike Arellano of Weather Research Center.</p>
+<p>Arellano said hurricane-like conditions are likely to hit areas from north of Brunswick, Ga., to Cape Lookout, N.C., in 24 hours.</p>
+<p>-- Laney Salisbury, NY Energy Desk 212-859-1631</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

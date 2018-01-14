@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133974" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Rains entering US Midwest to slow corn/soy harvest.</title>
+<headline>Rains entering US Midwest to slow corn/soy harvest.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Rain was moving into the U.S. Midwest early Tuesday, largely halting the corn and soybean harvests, and progress should remain slow during the next few days, meteorologists said.</p>
+<p>&quot;We are expecting a moderate to heavy rain event covering most of the Midwest,&quot; said senior agricultural meteorologist Mike Palmerino, of Weather Services Corp, noting that as of 0700 CDT, there had been 0.25 to 0.50 inch of rain in central and eastern Iowa and less than 0.25 inch in western Illinois.</p>
+<p>Palmerino said that most of the Corn Belt would receive 0.50 to 2.00 inches of rain over the next 24 to 36 hours.  </p>
+<p>The only areas likely to avoid the current band of rain were eastern South Dakota, southwest Minnesota, northeast Nebraska and the extreme northwest of Iowa, he said.</p>
+<p>Palmerino said the current band of rain would be followed by only a brief dry spell, with more rains expected to enter the region over the weekend.</p>
+<p>He noted rains would return just as farmers begin to think about getting back into the fields. Estimated amounts ranged from 0.50 to 1.50 inches in the western Corn Belt and 0.25 to 1.00 inch in the eastern belt. The Ohio Valley may be the only area to escape the next band of rain, Palmerino said.  </p>
+<p>Smith Barney meteorologist Jon Davis also forecast that harvest progress would slow this week as rains sweep across the region and expected more precipitation later in the week.</p>
+<p>&quot;The interval between precip events is about two days or so, and this does not allow the fields to dry quickly or enough to allow for rapid commencement of harvest activity,&quot; Davis wrote in his daily weather outlook.</p>
+<p>&quot;These delays will persist intermittently until early next week,&quot; he added.</p>
+<p>USDA reported Monday that the corn harvest was 30 percent complete as of Sunday, behind a five-year average of 46 percent.</p>
+<p>The soybean harvest was 63 percent complete, also lagging the five-year average of 70 percent.</p>
+<p>&quot;This harvest season is going to be dragged out for a long, long time,&quot; Palmerino of Weather Services Corp said.</p>
+<p>--Nigel Hunt 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="145898" id="root" date="1996-10-27" xml:lang="en">
+<title>SPAIN: GOLF-LEADING EUROPEAN RYDER CUP POINTS STANDINGS.</title>
+<headline>GOLF-LEADING EUROPEAN RYDER CUP POINTS STANDINGS.</headline>
+<dateline>SOTOGRANDE, Spain 1996-10-27</dateline>
+<text>
+<p>Leading European Ryder</p>
+<p>Cup points standings after Sunday's Volvo Masters (Britain</p>
+<p>unless stated):</p>
+<p> 1. Colin Montgomerie		    295,696 points</p>
+<p> 2. Thomas Bjorn (Denmark)	     199,616</p>
+<p> 3. Costantino Rocca (Italy)	   176,247</p>
+<p> 4. Darren Clarke			  172,738</p>
+<p> 5. Sam Torrance			   147,947</p>
+<p> 6. Per-Ulrik Johansson (Sweden)     144,823</p>
+<p> 7. Miguel Angel Martin (Spain)	144,028</p>
+<p> 8. Paul Broadhurst			108,784</p>
+<p> 9. Jean Van de Velde (France)	 105,392</p>
+<p> 10. Peter Mitchell			 96,655</p>
+<p> 11. Lee Westwood			   95,721</p>
+<p> 12. Miguel Angel Jimenez (Spain)     91,557</p>
+<p> 13. Mark Davis			     81,076</p>
+<p> 14. Roger Chapman			  75,657</p>
+<p> 15. Andrew Coltart			 73,858</p>
+<p> 16. Seve Ballesteros (Spain)	   73,730</p>
+<p> 17. Ian Woosnam			    69,805</p>
+<p> 18. Ross Drummond			  67,064</p>
+<p> 19. Padraig Harrington (Ireland)     66,430</p>
+<p> 20. Paul Curry			     66,220</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOTOGRANDE, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

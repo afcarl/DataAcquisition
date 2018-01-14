@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132143" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: Rashid, DCB shares suspended.</title>
+<headline>Rashid, DCB shares suspended.</headline>
+<dateline>KUALA LUMPUR 1996-10-21</dateline>
+<text>
+<p>The shares of stockbrokerage Rashid Hussein Bhd and its banking subsidiary DCB have been suspended pending an announcement, the Kuala Lumpur Stock Exchange said on Monday.  </p>
+<p>Rumours about a restructuring that would see Rashid Hussein -- which owns a controlling 20 percent stake in DCB Bank's parent DCB Holdings Bhd -- being taken over by DCB bank -- have been circulating in the market for weeks.  </p>
+<p>Rashid's chairman Abdul Rashid Hussain said recently the company was open to merger proposals with other banks or a tie-up with a foreign bank.</p>
+<p>But he told reporters on October 4: &quot;There are no formal proposals being made.&quot;</p>
+<p>Rashid shares were last traded at 15.80 ringgit, and DCB at 8.65.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

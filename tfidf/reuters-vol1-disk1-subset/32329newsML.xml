@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32329" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Rubbermaid agrees to buy Graco for $320 mln.</title>
+<headline>Rubbermaid agrees to buy Graco for $320 mln.</headline>
+<dateline>WOOSTER, Ohio 1996-09-04</dateline>
+<text>
+<p>Rubbermaid Inc said on Wednesday it had signed a definitive agreement to acquire Graco Children's Products Inc for $320 million in cash.</p>
+<p>Graco is privately owned by a group of investors, including AEA Investors and management.</p>
+<p>Closing is expected no later than Oct 31, 1996 upon satisfaction of customary conditions, including required governmental filings under the Hart-Scott-Rodino Act.</p>
+<p>The acquisition will be funded with short-term debt and is expected to be treated for financial reporting purposes as a purchase transaction. No earnings dilution is expected.</p>
+<p>Graco is a leading manufacturer and marketer of juvenile products, such as infant strollers, portable play yards, swings, activity centers, high chairs and other infant products. Graco's net sales for full year 1996 are expected to be about $270 million.</p>
+<p>Graco is headquartered in Elverson, Pa., and has about 800 employees worldwide.</p>
+<p>Edward H. Cone, former chief executive, will be chairman. Derial Sanders will serve as president and general manager reporting directly to Charles A. Carroll, president and chief operating officer of Rubbermaid.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I48000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOOSTER, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

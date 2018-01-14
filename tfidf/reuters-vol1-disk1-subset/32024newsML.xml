@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32024" id="root" date="1996-09-04" xml:lang="en">
+<title>MOROCCO: Morocco trade deficit up 4.8 pct in first 5 months.</title>
+<headline>Morocco trade deficit up 4.8 pct in first 5 months.</headline>
+<dateline>RABAT 1996-09-04</dateline>
+<text>
+<p>Morocco's trade balance widened by 650 million dirhams ($75 million) to 14.262 billion dirhams in the first five months of 1966, the trade regulatory body said.</p>
+<p>From January to end May 1995 the trade deficit was 13.611 billion dirhams, the Office des Changes said in its latest bulletin.</p>
+<p>Imports rose in value to 29.836 billion dirhams for the five months, an increase of 3.4 percent over the 28.853 billion for the same period last year.</p>
+<p>Morocco's exports increased in value by 2.2 percent to reach 15.574 billion dirhams against 15.241 billion for the comparative five months.</p>
+<p>Exports of phosphates and its derivatives earned 3.522 billion dirhams, a drop of 6.4 percent from the previous 3.761 billion.</p>
+<p>Agricultural and food products made up 37 percent of the total exports, dominated by citrus fruit valued at 1.309 billion dirhams compared with 838 million in the first five months of 1995.</p>
+<p>Imports of agricultural equipment more than doubled, to 393 million dirhams against 192 million.</p>
+<p>Food, drinks and tobacco imports jumped over 29 percent to 5.315 billion dirhams against 4.113 billion, and accounting for nearly one-fifth of all imports.</p>
+<p>Imports of semi-finished products, accounting for nearly one-quarter of the total imports, rose only 0.5 percent, to 7.067 billion dirhams, against 7.031 billion in the five months of last year.</p>
+<p>($1= 8.6 dirhams)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

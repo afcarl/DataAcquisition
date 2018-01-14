@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133013" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Manitoba Pool grain prices - Oct 22 - 1000 CDT.</title>
+<headline>Manitoba Pool grain prices - Oct 22 - 1000 CDT.</headline>
+<text>
+<p>MPE cash bids, Canadian dollars per tonne, FOB elevator</p>
+<p>		Spot	  Nov	Dec	 Jan     Feb</p>
+<p>Wheat	 162.97	---	---	 ---     ---</p>
+<p>Oats	  140.11	---	---	 ---     ---</p>
+<p>Barley	127.26	---	---	 ---     ---</p>
+<p>Flax	  365.98	---	---	 ---     ---</p>
+<p>Canola	408.80	---	---	 ---     ---</p>
+<p>Rye	   176.00	---	---	 ---     ---</p>
+<p>Feed Peas   ---</p>
+<p>Source: Manitoba Pool Elevators cash bids. Basic price - plus premium. Note: Rye quoted less freight to Vancouver.</p>
+<p>--Winnipeg bureau 204-947-3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131737" id="root" date="1996-10-21" xml:lang="en">
+<title>NORWAY: Blue chip losses burden Oslo Total index.</title>
+<headline>Blue chip losses burden Oslo Total index.</headline>
+<dateline>OSLO 1996-10-21</dateline>
+<text>
+<p>Major industrial companies such as Norsk Hydro and Kvaerner fell on Monday to help depress the Norwegian stock exchange, dealers said.</p>
+<p>The Oslo Total index dropped 0.51 percent to 878.56 points in healthy trade worth 740 million crowns, including 194 million crowns in Norsk Hydro, Norway's largest listed company.</p>
+<p>Hydro slipped initially when the bourse opened after the industrial giant announced it's third-quarter result was down 45 percent because of lower prices for aluminium and petrochemicals. But the share recovered some lost ground to close 0.3 percent lower at 305 crowns.</p>
+<p>The third-quarter announcement had been preceded by selling of Hydro shares last week.</p>
+<p>Food-based conglomerate Orkla A shares were down 1.6 percent at 408.50 crowns in what a dealer attributed to profit-taking.</p>
+<p>Kvaerner B shares fell 2.3 percent to 210 crowns to continue a downward spin from last Friday when shipping group Storli said it had cancelled an order for two chemical carriers from Kvaerner's Floroe yard.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

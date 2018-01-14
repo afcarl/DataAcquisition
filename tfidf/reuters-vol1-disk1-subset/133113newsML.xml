@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133113" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Volvo opens bus plant in Poland.</title>
+<headline>Volvo opens bus plant in Poland.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>Sweden's Volvo opened a bus factory in Poland on Tuesday to produce about 250 vehicles annually, PAP news agency reported.</p>
+<p>&quot;Entering the Polish market we start with the production of buses. But in the future we plan to produce Volvo's other models,&quot; PAP quoted Heimo Ylenius, director general of the Volvo Bus Poland, as saying at the opening ceremony.</p>
+<p>The factory, based in the south-western city of Wroclaw, employs 200 people and will assemble 28 buses in 1996. Its annual output target is 250 vehicles.</p>
+<p>The plant will produce bus bodies but will import most techonologically advanced components from Sweden, PAP quoted factory's sales official Tymoteusz Skroban as saying.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700  </p>
+<p>The New Financial Stabilisation Fund, an investment fund set up under a government scheme to clear up the bad loan mess at failed mortgage firms seems to have bought about 15 billion yen worth of the new 10-year JGBs, the trader said.</p>
+<p>&quot;They seem to be investing much of their funds in short-term instruments, however. I heard that the fund invited offers to buy Treasury Bills yesterday morning,&quot; he said.</p>
+<p>A brokerage trader said traders will be watching a regular news conference by Yasuo Matsushita, the Bank of Japan governor, due at 3 p.m. (0600 GMT).</p>
+<p>-- Masayuki Kitano, Tokyo Treasury Desk, 81-5473-3748</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

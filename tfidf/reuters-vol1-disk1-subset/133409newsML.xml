@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133409" id="root" date="1996-10-22" xml:lang="en">
+<title>VENEZUELA: At least 20 dead in Venezuelan jail fire.</title>
+<headline>At least 20 dead in Venezuelan jail fire.</headline>
+<dateline>CARACAS 1996-10-22</dateline>
+<text>
+<p>At least 20 inmates were killed early on Tuesday when a fire apparently caused by prison guards broke out in a Venezuelan jail, Justice Minister Henrique Meier said.</p>
+<p>&quot;There are 20 dead, but it could be more,&quot; Meier told Reuters. He said the fire at the La Planta jail on the southwestern outskirts of the capital started when National Guardsmen closed off a wing of the prison and threw in tear gas canisters.  </p>
+<p>Meier said it was unclear why the guards had locked up the prisoners and said an investigation would be launched into the causes of the fire.</p>
+<p>&quot;It has to be studied. But it wouldn't make sense for the prisoners to start the fire themselves unless they wanted to commit suicide,&quot; he said.</p>
+<p>The minister could not confirm radio and television reports that guards had also opened fire on the prisoners but added that the situation at the jail was now under control.</p>
+<p>Venezuela's overcrowded and decaying prisons are frequent scenes of violence between inmates and clashes with guards. La Planta was built for 300 prisoners but currently holds about 900.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

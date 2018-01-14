@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136539" id="root" date="1996-10-23" xml:lang="en">
+<title>SLOVENIA: Slovenia forex reserves rise to $4.2 bln in August.</title>
+<headline>Slovenia forex reserves rise to $4.2 bln in August.</headline>
+<dateline>LJUBLJANA 1996-10-23</dateline>
+<text>
+<p>The Bank of Slovenia reported</p>
+<p>the following economic indicator details on Tuesday.</p>
+<p>FOREIGN EXCHANGE RESERVES</p>
+<p>    (in millions of dollars)	Aug    July     Aug '95</p>
+<p>    Total reserves		  4,211.6  3,752.2  3,178.4</p>
+<p>    Bank of Slovenia reserves   2,283.8  1,749.3  1,593.6</p>
+<p>NOTE: Total reserves are those held by the banking sector as a whole.</p>
+<p>-- Marja Novak, Ljubljana newsroom, 386-61-125-8439</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135196" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Germany's KfW launches 5.55% yen/A$ samurai bonds.</title>
+<headline>Germany's KfW launches 5.55% yen/A$ samurai bonds.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Germany's Kreditanstalt fuer Wiederaufbau (KfW) on Tuesday launched 20 billion yen worth of 5.55 percent yen/Australian dollar dual currency samurai bonds due on November 1999, lead manager Nikko Securities said.</p>
+<p>The bonds will be priced at par, with twice yearly coupon payments. The coupon will be paid in yen, while redemption will be in Australian dollars.</p>
+<p>Holders of the samurai bonds will receive A$5,562.04 for each 500,000 yen bond held at maturity.  </p>
+<p>The breakdown of the terms is as follows:</p>
+<p> AMT 20 bln yen    COUPON 5.55 pct   MATURITY Nov 8, 1999</p>
+<p>TYPE dual samurai ISS PRICE 100 yen PAY DATE Nov 8, 1996</p>
+<p>SUB PERIOD Oct 28 to Nov 7</p>
+<p>INTEREST PAYMENT May 8 and Nov 8</p>
+<p>LAST RATING Aaa(Moody's), AAA(S&amp;P)</p>
+<p>LEAD MANAGER Nikko Securities</p>
+<p>LEAD TRUSTEE Bank of Tokyo-Mitsubishi</p>
+<p>NOTES: Syndicate members are Nikko Securities, Daiwa</p>
+<p>Securities, Nomura Securities and Yamaichi Securities</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

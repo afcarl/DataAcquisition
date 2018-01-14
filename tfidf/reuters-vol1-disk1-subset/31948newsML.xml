@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31948" id="root" date="1996-09-04" xml:lang="en">
+<title>TAIWAN: Taiwan says near jet-making deal with Czechs.</title>
+<headline>Taiwan says near jet-making deal with Czechs.</headline>
+<dateline>TAIPEI 1996-09-04</dateline>
+<text>
+<p>Taiwan and the Czech Republic are near a deal to coproduce five- to nine-seat AE-270 commercial jets, a Taiwan government official said on Wednesday.</p>
+<p>&quot;We have been discussing the deal for quite a long time and, if things go smoothly this time, we should reach an agreement in the near term,&quot; said Jack Tang, deputy director of the Eonomics Ministry's Committee for Aviation and Space Industry.</p>
+<p>&quot;We are still finalising details such as the investment amount and the output,&quot; Tang said by telephone.</p>
+<p>A 23-member team comprising Taiwan officials and executives from aviation companies planned to visit the Czech Republic after the September 2-8 aviation exhibition in Britain, he said.</p>
+<p>&quot;The Czechs hope to manufacture the jets in their country. If we do that, some parts will be produced in Taiwan,&quot; he said.</p>
+<p>Taiwan has been seeking cooperation with foreign aerospace firms to produce regional passenger jets and boost its fledgling aerospace industry.</p>
+<p>In 1995, 35 percent government-owned Taiwan Aerospace led five local partners in forging a venture with U.S. maker Swearingen Aircraft Inc to produce six-seat SJ-30 passenger jets in the United States.  </p>
+<p>Other international aerospace deals also are in the works.</p>
+<p>Tang said Taiwan's military-controlled Aerospace Industrial Development Corp, during the British air show, would sign a deal with General Electric Aircraft Engines to jointly develop CT-7 engines for S-92 helicopters made by U.S.-based Sikorky.</p>
+<p>Aerospace Industrial Development was expected to take a 10 percent stake of the project, which would start production in 2000 with annual output of 80 CT-7 engines.</p>
+<p>Also, Taipei newspapers have said Taiwan would seek British help to spruce up the island's ageing F-5E fighters so they can be sent to developing countries as exports or aid.</p>
+<p>Taiwan has planned to export the refitted F-5E fighters since the early 1990s when it ordered 150 U.S.-made F-16s and 60 French-made Mirage 2000 fighters to replace them.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

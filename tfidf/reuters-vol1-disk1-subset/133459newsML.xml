@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133459" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-NAB sells Metway stake.</title>
+<headline>RTRS-NAB sells Metway stake.</headline>
+<dateline>MELBOURNE 1996-10-22</dateline>
+<text>
+<p>National Australia Bank Ltd (NAB) said on Tuesday it ceased to be a substantial shareholder in Brisbane-based Metway Bank Ltd on October 18.</p>
+<p>NAB held 90,501 converting preference shares in Metway which would convert to about five percent of Metway's ordinary shares.</p>
+<p>NAB bought the stake when St George Bank Ltd launched a takeover offer for Metway earlier this year.</p>
+<p>NAB, which also holds a 6.8 percent stake in St George, used its stake to block the bid.  </p>
+<p>St George has since announced plans to merge with Advance Bank Australia Ltd and Metway is involved in a merger with Suncorp Finance and Insurance and Queensland Industry Development Corp (QIDC) sponsored by the Queensland state government.</p>
+<p>NAB said it sold the preference shares at A$112 each for a total of A$10.14 million.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

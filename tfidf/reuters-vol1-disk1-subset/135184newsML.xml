@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135184" id="root" date="1996-10-22" xml:lang="en">
+<title>CHINA: China interbank market rates (CHIBOR) mixed.</title>
+<headline>China interbank market rates (CHIBOR) mixed.</headline>
+<dateline>SHANGHAI 1996-10-22</dateline>
+<text>
+<p>Following is the China Interbank Offered Rate (CHIBOR) for Tuesday issued by the official Xinhua news agency on behalf of the People's Bank of China, the central bank.</p>
+<p>The figures represent weighted averages and not closing</p>
+<p>prices and are annual percentage rates.</p>
+<p>The central bank does not post volumes.</p>
+<p>		 1DAY   7DAY  20DAY  30DAY  60DAY  90DAY  120DAY</p>
+<p> TUESDAY    11.201 11.461 11.359 11.383 11.470 11.719 no trade</p>
+<p> MONDAY     11.030 11.292 11.461 11.362 11.923 11.585 11.870</p>
+<p>Traders said the rates moved narrowly today with some major state-run banks lending out large amounts of money which were mainly absorbed by securities houses and brokerages who need money to speculate in the active domestic A shares.</p>
+<p>They believe the trend would not change in the short term but the rates were likely to fall slowly in the mid-term mainly due to an expected cut in bank reserve ratios.</p>
+<p>The People's Bank of China, the central bank, has said it would cut the ratios within this year and traders expect the cut to release large amounts of cash to the interbank market.</p>
+<p>-- Shanghai newsroom (86-21) 6279-7004</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

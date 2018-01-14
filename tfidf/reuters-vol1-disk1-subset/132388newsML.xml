@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132388" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Store price scanners found to err on side of buyer.</title>
+<headline>Store price scanners found to err on side of buyer.</headline>
+<byline>Robert Trautman</byline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>Price scanners widely used in supermarkets and other stores are fast but sometimes wrong, and the errors on average benefit consumers, according to a study released on Tuesday.</p>
+<p>The Federal Trade Commission study found grocery stores, which have used scanners the longest, to be the most accurate with an error rate of 3.47 percent and department stores the least accurate, with an error rate of 9.15 percent.</p>
+<p>On balance, said Jodie Bernstein, director of the FTC's Bureau of Consumer Protection, the study found a 95 percent accuracy rate. &quot;We also found that overall, when scanned prices did not match the shelf or sale prices, consumers were undercharged more times -- and for more money -- than they were overcharged.&quot;</p>
+<p>The study found the average overcharge at food stores was 53 cents and the undercharge 76 cents. At department stores, the overcharge was $7.62 and the undercharge $5.29.</p>
+<p>It said that while the amount of undercharges exceeded overcharges, &quot;consumers who are being overcharged are not likely to be molified by the knowledge that other consumers are being undercharged.&quot;</p>
+<p>Bernstein said the study was conducted by the FTC, seven states and the National Institutes of Standards and Technology over an 18-month period. Inspectors checked 17,000 randomly selected items at 294 stores including food, drug, home improvement, automotive, discount, department and toy stores.</p>
+<p>The FTC said the study suggested that scanner errors were more likely to result from inattentiveness or carelessness than from willfulness. It noted that a typical food, drug or discount store may stock as many as 40,000 different items and may change prices on hundreds of them every week. This can easily lead to the new prices not being posted on the shelf or not entered into a computer.</p>
+<p>It said the study was prompted by concerns that scanners were not accurate but it found that scanning resulted in fewer errors than manual price entry, which had an error rate ranging from 4.4 percent to 16 percent.</p>
+<p>The FTC said improved accuracy would help consumers make intelligent price comparisons and avoid hassles of complaining to store management. Because of net undercharges through errors, it added, &quot;better accuracy also can save retailers money.&quot;</p>
+<p>The study suggested that stores run periodic price checks and when errors were found correct them immediately and compensate consumers.</p>
+<p>&quot;We encourage consumers to do a little pushing as well whenever they find pricing errors,&quot; Bernstein said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132939" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: NWE oil products mixed with gasoline up on futures.</title>
+<headline>NWE oil products mixed with gasoline up on futures.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>NWE oil products were mixed on Tuesday with gasoline recovering from early losses to gain $1-$2 on the back of a rally in crude and gasoline futures.</p>
+<p>Gas oil eased with IPE futures amid little sign of German end user interest and mild weather. Heating oil premiums were steady while those for gas oil were unchanged to slightly firmer.</p>
+<p>High and low sulphur cracked fuel was steady at $116 and $125 fob NWE respectively for cargoes. Russian straight run continues to lurk in the background.</p>
+<p>Gasoline prices rebounded to post gains of $1-$2 on the back of strong NYMEX futures, signs of Polish demand and a tight barge market, traders said.</p>
+<p>Naphtha prices were steady to lower, whipsawed by gasoline and crude prices in a quiet market waiting for November programmes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

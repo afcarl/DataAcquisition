@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28477" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Magna to buy Homeland in $216 million deal.</title>
+<headline>Magna to buy Homeland in $216 million deal.</headline>
+<dateline>ST. LOUIS 1996-09-03</dateline>
+<text>
+<p>Magna Group Inc. has a definitive agreement to acquire Homeland Bankshares Corp., the second-largest banking company in Iowa, for about $216 million, the companies said Tuesday.</p>
+<p>Magna will issue 5,038,934 shares of its common stock and $91,966,970 in cash in exchange for all the outstanding Homeland common shares. Homeland shareholders may choose to exchange each of their shares for either about 1.55 Magna shares, a comparable amount in cash or a combination.</p>
+<p>Homeland's stock rose 50 cents to $34.50, while Magna edged down 25 cents to $24.625 early on Nasdaq.</p>
+<p>Waterloo, Iowa-based Homeland, with assets of $1.20 billion as of June 30, owns and operates four commercial banks and one savings bank and provides financial services through a network of 33 locations in Iowa.</p>
+<p>St. Louis-based Magna Group, with $5.35 billion in assets, is the third-largest banking institution in the St. Louis metropolitan area and the nation's 95th largest banking company. It has 106 banking locations throughout Illinois and Missouri and a trust and brokerage company.</p>
+<p>The deal is subject to approval by Homeland shareholders and regulators.</p>
+<p>Magna said it expects the acquisition to boost earnings within 12 months, and save about $8 million through centralization of systems and procedures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

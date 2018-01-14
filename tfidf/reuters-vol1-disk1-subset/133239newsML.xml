@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133239" id="root" date="1996-10-22" xml:lang="en">
+<title>KYRGYZSTAN: Kyrgyzstan has Jan-Sept $295.5 mln trade deficit.</title>
+<headline>Kyrgyzstan has Jan-Sept $295.5 mln trade deficit.</headline>
+<dateline>BISHKEK 1996-10-22</dateline>
+<text>
+<p>Kyrgyzstan posted a trade deficit of $295.5 million in the first nine months of this year after a $35.9 million surplus in the same period of 1995, the State Statistics Committee said.</p>
+<p>KYRGYZ MERCHANDISE TRADE  Jan-Sept 96 Jan-Aug 96 Jan-Sept 95</p>
+<p>    exports ($ million)	   344.6	 306.4	102.0</p>
+<p>    imports			   640.1	 540.1	 66.1</p>
+<p>    trade balance		  -295.5	-233.7	+35.9</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KIRGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BISHKEK"/>
+<dc element="dc.creator.location.country.name" value="KYRGYZSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

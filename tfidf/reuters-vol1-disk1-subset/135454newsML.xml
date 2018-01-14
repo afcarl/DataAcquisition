@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135454" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Building shares hit by Nichiei Finance liquidation.</title>
+<headline>Building shares hit by Nichiei Finance liquidation.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Shares in the construction sector were knocked lower on Tuesday morning after credit and financing company Nichiei Finance Co Ltd applied for liquidation, brokers said.</p>
+<p>With the problem of non-bank financial institutions' bad loans coming to light, investors believe the bad loan problem of construction firms will emerge as they are major clients of non-banks, and this invited selling, brokers said.</p>
+<p>By 0112 GMT, shares in Sato Kogyo Co Ltd had shed 13 yen to 581 yen, Fujita Corp had lost 10 yen to stand at 435 yen.</p>
+<p>Taisei Corp was eight yen lower at 711 yen and Shimizu Corp was down 20 yen at 1,060 yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

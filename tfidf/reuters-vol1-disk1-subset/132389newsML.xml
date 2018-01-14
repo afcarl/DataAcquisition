@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132389" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: New insulin pump shows promise, study finds.</title>
+<headline>New insulin pump shows promise, study finds.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>A hockey puck-sized insulin pump implanted in the abdomen appears able to control adult onset diabetes and in some ways may be better than daily insulin injections, researchers said on Tuesday.</p>
+<p>The pump, in use in four European countries but not commercially available in the United States, is a battery-operated device that can be refilled with a syringe every one to three months. It dispenses insulin at the patient's command through a beeper-type device held next to the skin.  </p>
+<p>Researchers at the Johns Hopkins University School of Medicine in Baltimore said tests of the pump at Veterans Affairs hospitals around the country found it to be effective in reducing the occurrence of insulin reactions and in &quot;eliminating weight gain and actually improving the quality of life for participating diabetics.&quot;</p>
+<p>The study said it was surprising some quality-of-life elements improved among patients given the pump compared to those on daily injections &quot;since use of an experimental device requiring elective surgical implantation might be expected to cause more worry and have a negative impact.  </p>
+<p>&quot;However, (the pump) does offer freedom from the two or more daily insulin injections, ease of use and predictability,&quot; said the report published in this week's Journal of the American Medical Association.</p>
+<p>The study said a &quot;relatively high incidence&quot; of insulin underdelivery with the pump still needs improvement.</p>
+<p>Unlike previous versions of insulin pumps, the one used in the test is implanted in the abdomen and has a battery life of about two years. Patients program the insulin flow by using the external telemetry unit.</p>
+<p>The pump is manufactured by MiniMed Technologies Inc of Sylmar, Calif., and will soon be evaluated by the Food and Drug Administration for U.S. use, the Department of Veterans Affairs said in a statement commenting on the study. The study's chief author has received research support from the manufacturer, the report disclosed.</p>
+<p>Adult onset diabetes is related to obesity. Of the 19 million diabetics in the United States, about 90 percent suffer from that form, 35 percent of whom require daily insulin treatment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133245" id="root" date="1996-10-22" xml:lang="en">
+<title>ROMANIA: Romanians too poor to die - newspaper.</title>
+<headline>Romanians too poor to die - newspaper.</headline>
+<dateline>BUCHAREST 1996-10-22</dateline>
+<text>
+<p>Romanians plunged into poverty by post-Communist economic change are also finding death beyond their means, the daily Cronica Romana said on Tuesday.</p>
+<p>&quot;Being a Christian nowadays is a decided handicap,&quot; the newspaper said in a report on the skyrocketing cost of funerals.</p>
+<p>&quot;A burial has become a luxury and a huge burden on family members left behind. The only solution is to pray for as long a life as possible.&quot;</p>
+<p>The daily said traditional Orthodox burials -- including bribes to speed up the issue of a death certificate, payment for undertakers and gravediggers, securing a plot and staging a lavish feast -- now cost on average the equivalent of $900.</p>
+<p>Average monthly salaries in the in the Balkan country stand at about $100. Pensioners by law receive an allowance of $40 to cover burial costs.</p>
+<p>Many elderly people buy coffins while still alive or arrange graveyard plots for surviving family members.</p>
+<p>Bucharest newspapers have reported that bodies have gone unclaimed in city morgues because relatives were unable to pay for funerals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

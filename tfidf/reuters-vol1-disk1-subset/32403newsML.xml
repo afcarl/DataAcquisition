@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32403" id="root" date="1996-09-04" xml:lang="en">
+<title>SWEDEN: Swedish shares end higher in buoyant market.</title>
+<headline>Swedish shares end higher in buoyant market.</headline>
+<dateline>STOCKHOLM 1996-09-04</dateline>
+<text>
+<p>Sweden's bourse ended higher on Wednesday as the market recouped some of its heavy losses from Tuesday.</p>
+<p>The general index rose 0.91 percent to 1,985.09 with shares worth 2.8 billion crowns changing hands.</p>
+<p>Brokers said cyclical stocks were the focus of the market with strong buying interest.</p>
+<p>&quot;There is a real draw to the cyclicals now,&quot; one broker said.</p>
+<p>Telecoms giant Ericsson rose 3.50 crowns to 153.50 crowns while car manufacturer Volvo gained 1.50 to 142 crowns.</p>
+<p>Appliance maker Electrolux climbed 3.50 crowns to 389 crowns.</p>
+<p>The best performing sector of the day was the banking and insurance sector that rose 1.65 percent. S-E-Banken gained 0.50 crown to 56.50 crowns and Handelsbanken rose 3.50 crowns to 138.50 crowns.</p>
+<p>The forestry sector also saw strong gains with the index rising 1.28 percent following a stronger performance on Wall Street overnight. MoDo rose 1.50 to 192 crowns and Stora closed 1.50 crowns higher at 93.50 crowns.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

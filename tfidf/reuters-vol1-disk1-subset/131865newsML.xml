@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131865" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS - Discovery rejects Premier bid.</title>
+<headline>RTRS - Discovery rejects Premier bid.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>Discovery Petroleum NL said on Monday it had formally rejected Premier Oil Plc's 70 cents per share takeover bid, saying it was inadequate and below the 77 cent to 95 cent range in an independent valuation.  </p>
+<p>&quot;The board of Discovery unanimously recommends that shareholders reject Premier's inadequate offer of 70 cents per share,&quot; Discovery said in its Part B response to the bid.</p>
+<p>Discovery said the bid was inadequate because;</p>
+<p>- Discovery shares had consistently traded above the offer price,</p>
+<p>- Oil Search Ltd had bought a 10.1 percent stake in Discovery at 75 cents a share,</p>
+<p>- Premier's offer did not contain an adequate premium for control, and,  </p>
+<p>- the offer did not recognise Discovery's strategic value to Premier.</p>
+<p>Discovery's shares were up one cent at 79 cents at 3.00 p.m. (0500 GMT).</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

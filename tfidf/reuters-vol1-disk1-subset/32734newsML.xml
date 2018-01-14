@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32734" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CenterPoint adds two industrial properties.</title>
+<headline>CenterPoint adds two industrial properties.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>CenterPoint Properties Corp said Wednesday it paid $35.7 million to acquire two Chicago-area industrial properties encompassing 2.1 million square feet.</p>
+<p>It said the transactions bring CenterPoint's 1996 total investments to more than four million square feet for a year-to-date portfolio increase of 35 percent.</p>
+<p>CenterPoint acquired the former AG Communications headquarters, a multi-tenant industrial complex on 130 acres in Northlake, Ill. It also said it added in a 256,510 square foot industrial building in Bedford Park, Ill.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

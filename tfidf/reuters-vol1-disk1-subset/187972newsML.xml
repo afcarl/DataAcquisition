@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="187972" id="root" date="1996-11-14" xml:lang="en">
+<title>FINLAND: Nokia's nine-month profits fall 44 percent.</title>
+<headline>Nokia's nine-month profits fall 44 percent.</headline>
+<dateline>HELSINKI, Finland</dateline>
+<text>
+<p>Telecommunications group Nokia Oy said Thursday that its profits for the first nine months of the year were down 44 percent, which was in line with expectations, but the stock jumped on news of strong sales of mobile phones.</p>
+<p>Nikia, the world's second largest mobile telephone maker, said its January-September profits before tax and minorities declined to 2.23 billion markka ($492 million) from 3.98 billion markka ($878 million).</p>
+<p>The company said, however, that its third-quarter profit jumped by 51 percent to 1.1 billion markka ($242.7 million) from 728 million ($111.4 million) on a 58 percent growth in mobile phone sales.</p>
+<p>The news sparked a jump in Nokia's stock, which closed up $7.50 at $58.50 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI, Finland"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

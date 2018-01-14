@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133912" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Monsanto posts 21 percent profit rise on record sales.</title>
+<headline>Monsanto posts 21 percent profit rise on record sales.</headline>
+<dateline>ST. LOUIS, Mo. 1996-10-22</dateline>
+<text>
+<p>Monsanto Co. said Tuesday that its profits rose by 21 percent in the third quarter as sales of pharmaceutical and agricultural products set records for the period.</p>
+<p>Monsanto said its net income for the three months ended Sept. 30 rose to $170 million, or 28 cents a share, from $140 million, or 23 cents a share.</p>
+<p>The company said revenues expanded to $2.18 billion from $2.05 billion as sales of its farm products soared 32 percent to a third-quarter record of $613 million and pharmaceuticals sales climbed 14 percent to $497 million, also a record.</p>
+<p>It said sales were paced by strong sales volumes of its Roundup herbicide in Western Europe and Latin America and by improved sales of Posilac bovine somatotropin, which increases milk production in cows.</p>
+<p>For the first nine months of the year Monsanto said net income rose to $795 million, or $1.33 a share, from $659 million, or $1.14 a share.</p>
+<p>Revenues for the period increased to $7.06 billion from $6.85 billion.</p>
+<p>Monsanto's stock gained 75 cents to $42.50 in afternoon trading on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

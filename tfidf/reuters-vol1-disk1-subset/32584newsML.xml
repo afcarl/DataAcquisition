@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32584" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Symbol Technologies acquires LIS Holdings.</title>
+<headline>Symbol Technologies acquires LIS Holdings.</headline>
+<dateline>HOLTSVILLE, N.Y. 1996-09-04</dateline>
+<text>
+<p>Symbol Technologies Inc said on Wednesday it has acquired LIS Holdings Ltd, a United Kingdom-based provider of logistics management systems.</p>
+<p>Terms of the acquisition include an initial payment of $20.9 million and subsequent payments ranging from zero to a total of $7.8 million, contingent upon LIS achieving 15 percent to 30 percent annual revenue growth over the next three years, Symbol said.</p>
+<p>Symbol will take an acquisition-related charge in the current quarter of approximately $13 million pre-tax, or $.30 per share after taxes, it said.  </p>
+<p>Symbol said LIS will continue to function as a separate business with its current management structure within the company.</p>
+<p>LIS, the largest of Symbol's value-added resellers in the United Kingdom, had 1995 revenue of $16 million, primarily in the United Kingdom.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOLTSVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

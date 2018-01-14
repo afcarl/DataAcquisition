@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13328" id="root" date="1996-08-25" xml:lang="en">
+<title>ITALY: Banco Napoli problems understated - report.</title>
+<headline>Banco Napoli problems understated - report.</headline>
+<dateline>MILAN 1996-08-25</dateline>
+<text>
+<p>The Bank of Italy has discovered that loss-making southern bank Banco di Napoli significantly under-stated problem loans in its 1994 accounts, Milan financia daily Il Sole 24 Ore reported on Sunday.</p>
+<p>The report said that central bank director-general Bruno Bianchi had written to the finance committee of the lower house of parliament saying that Banco di Napoli had provided unreliable information. He also defended the Bank of Italy's supervisory role in the affair.</p>
+<p>Some 3.9 trillion lire of non-performing loans appeared to have been concealed while other problem loans did not show up in the 1994 balance sheet.</p>
+<p>Central bank inspectors had found 7.6 trillion lire in non-performing loans and 5.9 trillion lire in other problem loans, compared with 3.7 trillion lire and 1.8 trillion lire, respectively, that were declared by Banco di Napoli.</p>
+<p>The stricken southern bank has been kept afloat by finance extended by a consortium of major Italian banks while a new management team sells off non-core assets.</p>
+<p>The authorities, which have said they are taking legal action against some of Banco di Napoli's former top managers, want the bank recapitalised in the hope that a suitable buyer can be found.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135954" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Supreme Industries says costs to hurt Q4.</title>
+<headline>Supreme Industries says costs to hurt Q4.</headline>
+<dateline>GOSHEN, Ind. 1996-10-23</dateline>
+<text>
+<p>Supreme Industries Inc said on Wednesday its fourth quarter results are likely to be hurt by costs associated with new facilities devoted to fiberglass reinforced panels and hardwood flooring.</p>
+<p>Expenses related to the expansion of its distribution network and two new product lines also are likely to hurt that quarter's results, it said.</p>
+<p>Those costs also proved to be a drag on its third quarter results, shrinking fully diluted earnings per share by $0.02 in the quarter and by $0.06 for the first nine months of the fiscal year, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOSHEN, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

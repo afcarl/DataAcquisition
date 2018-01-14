@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31058" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: OPTIONS - Strangles sold in Ladbroke Group.</title>
+<headline>OPTIONS - Strangles sold in Ladbroke Group.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Overall trading in UK stock options was light by mid-afternoon on Wednesday as traders seemed satisfied with current positions after recent market tensions, dealers said.</p>
+<p>But an unsatisfied deal from yesterday was behind the main trade in hotels and leisure company Ladbroke Group, with a fresh short strangle position.</p>
+<p>It involved selling 1,500 May 200 puts at 10-1/2p and 1,500 May 220 calls at 220p and followed Tuesday's 1,000 lots sold in both series at 13-1/2p and 11p each.</p>
+<p>By 1330 GMT, Ladbroke shares had added 3p to 210-1/2p.  </p>
+<p>Dealers believed the short strangles were linked to an over-the-counter position in Ladbroke.</p>
+<p>Meanwhile, in mobile 'phone company Vodafone, the main deal was the sale of 1,400 November 240 puts at 12-1/2p.</p>
+<p>If this was an opening position it implied the seller is either bullish of the underlying stock, believing it will get back above 240p by expiry, or he is prepared to buy the stock if the shares fall owing to the risk of assignment.</p>
+<p>If assigned at expiry, the options seller must buy 1.4 million Vodafone shares at 240p, less the 12-1/2p option premium.  </p>
+<p>Dealers noted that Vodafone options will expire on November 20, a day after the company announces its half-year results.</p>
+<p>Vodafone shares fell 7p to 231-1/2p, following a broker's downgrading.</p>
+<p>Over in supermarket chain J Sainsbury, the biggest deal concerned 900 October 360 puts, which were crossed at 3p.</p>
+<p>Sainsbury shares were down 5-1/2p to 381p following fears of a more aggressive price campaign expected to be announced by rival food retailer Tesco on Monday.</p>
+<p>-- Pradip Mishra, London Newsroom +44 171 542 7954</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

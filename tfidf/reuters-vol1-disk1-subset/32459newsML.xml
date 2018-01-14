@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32459" id="root" date="1996-09-04" xml:lang="en">
+<title>PAKISTAN: Pakistan State Bank operation gets 2.5 mln rupees.</title>
+<headline>Pakistan State Bank operation gets 2.5 mln rupees.</headline>
+<dateline>KARACHI, Pakistan 1996-09-04</dateline>
+<text>
+<p>The State (central) Bank of Pakistan said on Wednesday it had accepted 2.5 billion rupees in an open market operation in short-term federal bonds.</p>
+<p>Amounts in million rupees (figures in brackets show results of the last open market operation on August 28):</p>
+<p>		    Offered	 Accepted	Max cut-off</p>
+<p>Outright sales 3,200 (7,675) 2,500 (6,825) 13.40 pct/yr (13.20)</p>
+<p>Five-month repo  nil	   nil	     nil</p>
+<p>Three-month repo 100	   nil	     nil</p>
+<p>One-month repo   nil	   nil	     nil</p>
+<p>Total(million rupees)3,300	 2,500</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

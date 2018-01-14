@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133757" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Freeport Oil Trust again omits payout.</title>
+<headline>Freeport Oil Trust again omits payout.</headline>
+<dateline>HOUSTON 1996-10-22</dateline>
+<text>
+<p>Freeport-McMoRan Oil &amp; Gas Royalty Trust said Tuesday there will be no distribution for October 1996.</p>
+<p>It said net proceeds for the month of October 1996 totaled $153.113 or $0.01022 per unit, decreasing the cost carry-forward to $2,639,435. In addition, net current month Trust administrative expenses of $29.769 will be paid from the Trust administrative expense reserve resulting in about $2.0 million remaining in the expense reserve.</p>
+<p>The trust last payout was made on October 10, 1995.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

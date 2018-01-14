@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133330" id="root" date="1996-10-22" xml:lang="en">
+<title>COLOMBIA: Colombian peso ends slightly lower at 1,017.45.</title>
+<headline>Colombian peso ends slightly lower at 1,017.45.</headline>
+<dateline>BOGOTA 1996-10-22</dateline>
+<text>
+<p>Colombia's peso ended 45 centavos lower at 1,017.45 in a market wary of possible central bank intervention to halt the local currency's recent rise against the dollar.</p>
+<p>Interbank dealers said fears of central bank intervention were prompted by a bank announcement Monday that it was prepared to jump into the market and buy U.S. currency if the peso moved above resistance at 1,015.20 to the dollar.</p>
+<p>The peso hit an intraday high of 1,014.90 in trading Monday without any sign of bank intervention.  </p>
+<p>But traders said the mere threat from the bank had established a temporary ceiling for the peso that market players were reluctant to test.</p>
+<p>The central bank has been fiercely criticized by the government and leading exporters for allowing the peso to gain sharply since June, undercutting the value of export revenues and making Colombian goods less competitive aboard.</p>
+<p>Dealers reported 299 trades in Tuesday's session for a total of $108 million.</p>
+<p>-- Javier Mozzo, Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

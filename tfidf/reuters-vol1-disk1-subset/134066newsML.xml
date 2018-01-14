@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134066" id="root" date="1996-10-22" xml:lang="en">
+<title>BELGIUM: Belgium advises nationals to leave Zaire region.</title>
+<headline>Belgium advises nationals to leave Zaire region.</headline>
+<dateline>BRUSSELS 1996-10-22</dateline>
+<text>
+<p>Belgium advised its 350 nationals in the troubled Kivu region of Zaire on Tuesday to make arrangements to leave as fighting flared around the area.</p>
+<p>&quot;The 350 or so Belgians living in this province are advised to be extremely cautious and to make contact with the Belgian Embassy in Kinshasa to discover the safest route for leaving the region,&quot; s foreign ministry spokesman said.</p>
+<p>The ministry also strongly advised Belgians against travelling to the region.</p>
+<p>In Kigali, rumours circulated that up to 1,700 Rwandan soldiers were in the south Kivu area. On Monday, a Rwandan government spokesman denied its army had entered Zaire.</p>
+<p>The Zaire army had been battling the Banyamulenge Tutsis largely on the high plateau above Uvira, prompting a mass exodus of refugees.</p>
+<p>Clashes have spread to the plains, threatening settlements and closing most of the 100 km (60-mile) road between Uvira and Bukavu.</p>
+<p>Military authorities in Bukavu ordered all journalists without visas to leave. Air charter companies in the Kenyan capital Nairobi said they had been told not to take reporters to Zaire and described the airport at Bukavu as chaos.</p>
+<p>A senior official of the Tutsi-dominated Rwandan government said nearly 76,000 of the refugees displaced by the new fighting were Rwandan Hutus and should &quot;stop wandering and return home&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

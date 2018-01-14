@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135993" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Wellman Inc Q3 loss vs profit.</title>
+<headline>Wellman Inc Q3 loss vs profit.</headline>
+<dateline>SHREWSBURY, N.J. 1996-10-23</dateline>
+<text>
+<p>(in millions, except per share data)</p>
+<p>				Three months ended  Nine Months Ended</p>
+<p>				    September 30,	September 30,</p>
+<p>				     1996     1995     1996	1995</p>
+<p> Net sales		     $265.4   $274.6   $850.2    $844.6</p>
+<p>Loss on sale of</p>
+<p>  subsidiary(a)		     -	  -	  -	 5.5</p>
+<p> Net earnings (loss)	 ( 2.8)     21.1     20.6	65.5</p>
+<p>Net earnings (loss) per</p>
+<p>  common share		( 0.09)     0.63     0.62	1.94</p>
+<p> Average common shares	 32.4     33.7     33.3	33.7</p>
+<p>NOTE: 1996 Q3 reflects a strike at its Irish fiber operations, a $0.25 to $0.30 a share inventory chargedue to declines in raw materials costs and a higher tax rate.</p>
+<p>(a) Loss on sale of New England CRInc. subsidiary is $3.4 million, or $0.10 per share, on after-tax basis.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHREWSBURY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133185" id="root" date="1996-10-22" xml:lang="en">
+<title>MACEDONIA: Macedonia's Komercijalna Bank changes director.</title>
+<headline>Macedonia's Komercijalna Bank changes director.</headline>
+<dateline>SKOPJE 1996-10-22</dateline>
+<text>
+<p>Komercijalna Banka, Macedonia's second largest, has replaced its current director Alexander Manevski with the country's representative at the World Bank, Hari Kostov, the bank said in a statement.</p>
+<p>&quot;Komercijalna Bank's board of directors decided to appoint Hari Kostov as director general as of October 23,&quot; it said.</p>
+<p>Kostov was also deputy finance minister two years ago responsible for relations with multilateral lenders.</p>
+<p>Manevski came under attack from the central bank a few months ago for allegedly pressuring the currency, the denar, on the local interbank market by keeping foreign exchange reserves above the permitted minimum in banks abroad, local media said.</p>
+<p>Under a project signed with the European Bank for Reconstruction and Development, Komercijalna Banka has a 4.9 million European Currency Unit trade facility.</p>
+<p>-- Sofia Newsroom +359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MCDNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SKOPJE"/>
+<dc element="dc.creator.location.country.name" value="MACEDONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

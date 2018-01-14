@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31293" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. launches new attack on Iraq - officials.</title>
+<headline>U.S. launches new attack on Iraq - officials.</headline>
+<dateline>WASHINGTON 1996-09-03</dateline>
+<text>
+<p>The U.S. military on Tuesday night launched a second cruise missile attack on Iraq, administration officials said.  </p>
+<p>The officials, who asked not to be identified, provided no immediate details but said the new attack was authorized by President Bill Clinton.</p>
+<p>The Defense Department was expected to officially announce the second attack soon. Defense officials said privately that an attack launched earlier in the day had not done the damage expected against Iraqi missile defenses in the southern part of the country.</p>
+<p>That earlier strike involved 27 U.S. cruise missiles fired by U.S. Navy warships and B-52 bombers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

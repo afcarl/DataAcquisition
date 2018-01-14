@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131968" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: NEC, U.S. firm to develop next-generation LSI chip.</title>
+<headline>NEC, U.S. firm to develop next-generation LSI chip.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>NEC Corp said on Monday it had expanded its joint R&amp;D agreement with Lucent Technologies Inc of the United States for the development of next-generation system LSI (large scale integration) chips.</p>
+<p>NEC and Lucent will jointly develop 0.18 micron CMOS device process technology for use in multimedia personal computers and other information equipment by 1999, NEC said.</p>
+<p>The new &quot;system on a chip&quot; will be brought to the market in the early 21st century, NEC said.</p>
+<p>The two firms have previously jointly developed 0.25 and 0.35 micron CMOS process technologies under the R&amp;D agreement.</p>
+<p>Lucent Technologies was formed as a result of A T &amp; T's split into three separate publicly held companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

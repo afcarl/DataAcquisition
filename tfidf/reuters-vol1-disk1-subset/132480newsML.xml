@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132480" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Tel Offshore says units delisted.</title>
+<headline>Tel Offshore says units delisted.</headline>
+<dateline>HOUSTON 1996-10-22</dateline>
+<text>
+<p>Tel Offshore Trust said its units have been delisted by Nasdaq's SmallCap Market after it was denied a waiver of asset requirement rules.</p>
+<p>The company said last month that its units were slated to be delisted because the trust no longer met Nasdaq's total asset requirement.</p>
+<p>Tel Offshore said a Nasdaq panel determined that the trust would be unable to sustain long term compliance with Nasdaq continued listing standards.</p>
+<p>Tel Offshore said it has been advised by Nasdaq that the trust units may be eligible for trading on the OTC Bulletin Board.</p>
+<p>--New York Newsdesk, 212/859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

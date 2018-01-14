@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31476" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Canada spot natural gas prices turn lower on week.</title>
+<headline>Canada spot natural gas prices turn lower on week.</headline>
+<dateline>CALGARY 1996-09-04</dateline>
+<text>
+<p>Most Canadian spot natural gas prices for September eased from week-ago levels in Wednesday trade with marketers expecting prices to remain in recent ranges.</p>
+<p>Gas for September delivery at the AECO storage hub in Alberta was talked in the C$1.12/1.125 per gigajoule range, down from C$1.14/1.145 last week. One-year gas at Empress, Alberta out of November also dropped about two cents to C$1.36 per GJ.</p>
+<p>One Calgary trader said storage injections at all three Alberta facilities were at about 880 million cubic feet a day.  </p>
+<p>He said cooler temperatures in western Canada will likely keep prices in the C$1.12/1.16 range over the coming week as gas is stored at the low end of the range and withdrawn at the upper end. &quot;The cool weather will take some of the slop off the system,&quot; the trader said.</p>
+<p>At the borders, gas at Huntington, British Columbia was discussed in the US$0.99/1.02 range, about the same as last week. Kingsgate also saw little change despite cooler weather.</p>
+<p>A Vancouver-based marketer said that although prices would likely not increase much beyond current levels, Sumas pricing was exceeding expectations of earlier this year. -- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

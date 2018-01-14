@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134952" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: Goldman ups estimates for Dresdner Bank.</title>
+<headline>Goldman ups estimates for Dresdner Bank.</headline>
+<dateline>FRANKFURT 1996-10-22</dateline>
+<text>
+<p>Goldman Sachs said on Tuesday it had raised its recommendation of Dresdner Bank AG to &quot;market outperformer&quot; from &quot;market performer,&quot; after recent visits to the company.</p>
+<p>&quot;We think the company is doing more than the market realises to improve returns for shareholders,&quot; said Neil Crowder, banking analyst at Goldman Sachs.</p>
+<p>Crowder said Goldman had raised its estimate for 1997 earnings per share to three marks from 2.90 marks per share.</p>
+<p>Trade volume in Dresdner shares was the morning's heaviest, with the stock up over two percent on talk of the upgrade, rising 85 pfennigs to 40.80 marks.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

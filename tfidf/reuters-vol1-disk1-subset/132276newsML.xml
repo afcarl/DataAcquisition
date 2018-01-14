@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132276" id="root" date="1996-10-21" xml:lang="en">
+<title>ITALY: PRESS DIGEST - Italy - Oct 21.</title>
+<headline>PRESS DIGEST - Italy - Oct 21.</headline>
+<dateline>MILAN 1996-10-21</dateline>
+<text>
+<p>Following are some of the top headlines in leading Italian newspapers.</p>
+<p>----------</p>
+<p>TOP POLITICAL STORIES</p>
+<p>* Prime minister Romano Prodi, facing opposition from key hard-left allies over proposed income tax modifications, says the 1997 budget will not hit lower earners (all).</p>
+<p>* Opposition leader Silvio Berlusconi, commenting over clashes within the ruling coalition over the 1997 budget, says &quot;It looks like a comic story, but the future of the country is at stake&quot; (all).</p>
+<p>----------</p>
+<p>TOP BUSINESS STORIES</p>
+<p>* Finance minister Vincenzo Visco denies the special tax for Europe will hit car, motorcycle and mobile phone owners as reported by newspapers. &quot;The Eurotax will not hit consumer spending&quot; (Repubblica, Corriere della Sera).</p>
+<p>* Treasury minister Carlo Azeglio Ciampi says the 1997 budget should come out from Parliament &quot;strengthened, not diluted&quot; (La Stampa).</p>
+<p>* Analysts say the price for the second tranche sale of Eni (7,425 lire per share), which was fixed by the Treasury on Saturday, &quot;is higher than expected but there will be a rush&quot; (Repubblica).</p>
+<p>Reuters has not verified these stories and cannot vouch for their accuracy.</p>
+<p>--Milan bureau +39266129450</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

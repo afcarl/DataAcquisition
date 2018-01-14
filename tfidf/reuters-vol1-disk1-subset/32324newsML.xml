@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32324" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S corp bond issuance at standstill ahead of data.</title>
+<headline>U.S corp bond issuance at standstill ahead of data.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The slow pace of corporate bond issuance is expected to carry on through the week as market players focus on Friday's highly anticipated U.S. jobs report, dealers said.</p>
+<p>&quot;It's been very quiet; we're still operating with lower staff levels,&quot; said one syndicate source. &quot;Everyone is focusing on the employment numbers this week.&quot;</p>
+<p>On Friday, the U.S. Labor Department will release its August figures on employment at 0830 EDT/1230 GMT.  </p>
+<p>In a Reuter poll, U.S. economists predicted an increase of 244,000 in nonfarm payrolls and expect the unemployment rate to dip slightly to 5.3 percent from 5.4 percent.</p>
+<p>Thinner post-holiday staffing combined with upcoming key economic data have kept the new issue calendar up in the air, dealers said. A few deals are said to be in the pipeline although no official dates have been set, they added.</p>
+<p>Capital One Bank  COF.N is expected to price $200 million in 10-year debt via JP Morgan. The issue is puttable in the third year, syndicate sources said.  </p>
+<p>Commonwealth Aluminum Corp is expected to price $100 million in senior subordinated 144A notes via Morgan Stanley, sources said.</p>
+<p>Also, Euromax International is expected to isssue $125 million in 144A notes, they added.</p>
+<p>In the government market, the benchmark U.S. 30-year bond is trading off 12/32 at 95-25/32 to yield 7.09 percent.</p>
+<p>--Nancy Leinfuss, 212-859-1675</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

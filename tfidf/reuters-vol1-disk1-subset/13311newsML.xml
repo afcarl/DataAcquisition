@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13311" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Two teenagers killed in Texas pipeline explosion.</title>
+<headline>Two teenagers killed in Texas pipeline explosion.</headline>
+<dateline>DALLAS 1996-08-25</dateline>
+<text>
+<p>A gas pipeline explosion killed two teenagers and forced 50 families to evacuate their homes in a small Texas town Saturday, police said.</p>
+<p>The two 17-year-old victims, a boy and a girl, smelled liquid butane gas leaking from a pipeline in the town of Lively and jumped into their truck to warn people but their vehicle exploded in flames, apparently because of an ignition spark.</p>
+<p>Police said the pipeline was shut off but gas was still burning and would continue to do so for several hours.</p>
+<p>One home was destroyed and 50 others were evacuated. The residents were put up in shelters in and around Lively, which lies about 40 miles (60 km) southeast of Dallas.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

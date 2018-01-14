@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136065" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Vesta Insurance Group Inc Q3 net drops.</title>
+<headline>Vesta Insurance Group Inc Q3 net drops.</headline>
+<dateline>BIRMINGHAM, Ala. 1996-10-23</dateline>
+<text>
+<p>(dollars in millions, except per share amounts)</p>
+<p>    THIRD QUARTER				     1996	 1995</p>
+<p> Gross premiums written			    $173.9    $202.2</p>
+<p> Net premiums written				  67.6     150.2</p>
+<p> Net premiums earned				   88.3     125.6</p>
+<p> Total revenue					   94.5     130.5</p>
+<p> Net income						13.4	15.7</p>
+<p>Per Share of Common stock:</p>
+<p> Net operating income*				 0.71	0.83</p>
+<p> Net realized investment gains (after tax)     0.00	0.00</p>
+<p> Net income						0.71	0.83</p>
+<p>GAAP Operating Ratios:</p>
+<p> Loss and loss expense				52.7%     54.7%</p>
+<p> Underwriting expense				 28.5%     28.9%</p>
+<p> Combined ratio					 81.2%     83.6%</p>
+<p>Statutory Ratios:</p>
+<p> Loss and loss expense				52.7%     54.7%</p>
+<p> Underwriting expense				 34.1%     33.5%</p>
+<p> Combined ratio					 86.8%     88.2%</p>
+<p>NOTE: Net income is before net realized investment gains. The 1995 share and per share results reflect 3-for-2 stock split paid January 22, 1996.</p>
+<p>    NINE MONTHS ENDED SEPTEMBER 30		1996     1995**</p>
+<p>Income Statement Data:</p>
+<p> Gross premiums written			    $553.9    $429.5</p>
+<p> Net premiums written				 385.6     338.4</p>
+<p> Net premiums earned				  400.6     279.9</p>
+<p> Total revenue					  417.9     293.0</p>
+<p> Net income						39.1	35.2</p>
+<p>Per Share of Common stock:  </p>
+<p> Net operating income*				 2.06	1.87</p>
+<p> Net realized investment gains (after tax)     0.00	0.01</p>
+<p> Net income						2.06	1.88</p>
+<p> Book value					     16.72     14.42</p>
+<p>GAAP Operating Ratios:</p>
+<p> Loss and loss expense				57.4%     55.4%</p>
+<p> Underwriting expense				 30.4%     29.6%</p>
+<p> Combined ratio					 87.8%     85.0%</p>
+<p>Statutory Ratios:</p>
+<p> Loss and loss expense				57.4%     55.7%</p>
+<p> Underwriting expense				 33.0%     34.8%</p>
+<p> Combined ratio					 90.4%     90.5%</p>
+<p>Balance Sheet Data:</p>
+<p> Total investments and cash			 442.4     377.9</p>
+<p> Total assets					   925.4     796.7</p>
+<p> Stockholders' equity				 316.4     271.5</p>
+<p>NOTE: Net income is before net realized investment gains. The 1995 results reflect 3-for-2 stock split paid January 22, 1996.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIRMINGHAM, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

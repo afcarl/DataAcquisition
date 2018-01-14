@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133054" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: Eight fishermen drown as S.African trawlers sink.</title>
+<headline>Eight fishermen drown as S.African trawlers sink.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>Eight crewmen drowned and another six are presumed dead after two South African trawlers capsized in heavy seas near the Indian Ocean port of Port Elizabeth on Tuesday, port officials said.</p>
+<p>&quot;We have picked up eight bodies from the sea and there are six other fishermen who are now presumed to have drowned and died,&quot; a spokesman for the Port Elizabeth port authorities said.</p>
+<p>He said 19 survivors had been airlifted to safety before the two vessels went down.</p>
+<p>The National Sea Rescue Institute (NSRI) said that 12 crew members were rescued from a third trawler in difficulties in the same area.</p>
+<p>&quot;The sea around here is abnormal. I've never seen this in my entire life I've been involved in sea rescues,&quot; NSRI spokesman Colin Alexander said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

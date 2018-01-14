@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13249" id="root" date="1996-08-25" xml:lang="en">
+<title>ISRAEL: Phase One of Turkmenistan refinery gets financing.</title>
+<headline>Phase One of Turkmenistan refinery gets financing.</headline>
+<dateline>TEL AVIV 1996-08-25</dateline>
+<text>
+<p>Israel's Merhav Group announced the signing of $165 million in financial contracts for Phase One of the upgrading and modernisation programme for the Turkmenbashi Refinery in Turkmenistan.</p>
+<p>Merhav was contracted by the Turkmenistan government to structure the project, arrange financing and oversee implementation of the $500 million, three-phase programme.</p>
+<p>Phase I, awarded to Mannesman/KTI, is being financed by Deutsche Bank AG with coverage from the German credit agency Hermes. It involves the erection of a new lube oil complex with capacity for 80,000 tonnes a year.</p>
+<p>Merhav said in a statement that financial contracts for the second and third phases totalling $330 million will be signed by the end of September and the end of December, respectively.</p>
+<p>Merhav is active in several of the Commonwealth of Independent States in the areas of oil and gas, trading, project finance and agriculture. It is also co-developing the $1.3 billion Egyptian-Israeli refinery in Alexandria.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="TURKM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

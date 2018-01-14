@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15635" id="root" date="1996-08-27" xml:lang="en">
+<title>UK: Pearson, BSkyB lead media sector up.</title>
+<headline>Pearson, BSkyB lead media sector up.</headline>
+<dateline>LONDON 1996-08-27</dateline>
+<text>
+<p>The British media sector continued to rise, led by Pearson Plc and BSkyB amid stock shortages, traders said.</p>
+<p>By 1145 GMT, shares in Pearson rose 17-1/2p to 681-1/2, a nine-week high. Shares in BSkyB climbed 17p to 595p, after rising to a new record at 597p.</p>
+<p>BSkyB, up almost 22 percent since August 5, has led the rise in media shares on news last week that the company plans to provide Internet access via its digital satellite service when it is launched next year. Pearson, a longstanding bid rumour favorite, has risen by about 13.5 percent in the last month.</p>
+<p>--Debra Sherman, London newsroom +44 171 542 4026</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

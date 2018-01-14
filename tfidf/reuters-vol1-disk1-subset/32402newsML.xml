@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32402" id="root" date="1996-09-04" xml:lang="en">
+<title>BELGIUM: EU to review cereal/oilseed crop data on Thursday.</title>
+<headline>EU to review cereal/oilseed crop data on Thursday.</headline>
+<dateline>BRUSSELS 1996-09-04</dateline>
+<text>
+<p>The European Union cereals management committee will review the cereals, oilseeds and grain legume crop forecasts for the current season on Thursday, an EU official said.</p>
+<p>&quot;The experts group will review the estimates now that a more accurate picture is available and will try to make the first official Commission estimate of this year's (1996/97) crop,&quot; the official added.</p>
+<p>On August 8 the committee was given a total of 188.2 million tonnes for the EU cereals crop produced from trade figures.</p>
+<p>Since then member states have made higher crop forecasts.</p>
+<p>&quot;The figures submitted by member states are extremely high and it is hard to see how the increases have been arrived at in the past month,&quot; the official added.</p>
+<p>Latest figures forecast the United Kingdom wheat crop at 16 milion tonnes and France at 34 million tonnes. The total cereal crop for Germany is put at 41 million tonnes, the official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

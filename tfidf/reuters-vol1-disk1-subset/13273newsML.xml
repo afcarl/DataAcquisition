@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13273" id="root" date="1996-08-25" xml:lang="en">
+<title>ISRAEL: Koor sells stake in Sefen.</title>
+<headline>Koor sells stake in Sefen.</headline>
+<dateline>TEL AVIV 1996-08-25</dateline>
+<text>
+<p>Koor Industries Ltd said it has signed an agreement to sell its 66 percent stake in Sefen Ltd to another Israeli company called Etz Lavud Ltd for $12 million.</p>
+<p>Both Sefen and Etz Lavud are makers of formica and plywood.</p>
+<p>The price paid for Sefen values the entire company at $18 million, about double its current market value of $9.2 million.</p>
+<p>The sale is subject to approval from the anti-trust authority.</p>
+<p>Koor said the sale was part of its strategy of concentrating on its core businesses -- infrastructure, telecommunications, chemicals and tourism -- and divesting itself of holdings outside these sectors.</p>
+<p>Sefen employs 260 workers and has annual sales of $45 million, mostly exports. Plagued by losses, Sefen underwent a recovery programme and its return to profitability enabled its sale at an above-market price, Koor said.</p>
+<p>The recovery programme also paved the way for an initial public offering of Sefen shares in Tel Aviv in 1992.</p>
+<p>Koor, Israel's largest industrial holding concern, is also listed in New York.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

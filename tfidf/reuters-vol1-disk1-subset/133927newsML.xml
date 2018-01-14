@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133927" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: EDO wins sonar contract, sees Q4 backlog up.</title>
+<headline>EDO wins sonar contract, sees Q4 backlog up.</headline>
+<dateline>COLLEGE POINT, N.Y. 1996-10-22</dateline>
+<text>
+<p>EDO Corp said it won a contract to provide sonar equipment to an international naval customer through its Defense and Space Systems Division.</p>
+<p>EDO did not give terms of the contract, which is subject to receipt of a U.S. government export license, but said it will materially contribute to its order backlog in the fiscal 1996 fourth quarter. EDO made the announcement Monday.</p>
+<p>EDO shares rose 1/2 to 8-1/4 on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34340">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLLEGE POINT, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

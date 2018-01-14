@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133147" id="root" date="1996-10-22" xml:lang="en">
+<title>UKRAINE: Canadian Foreign Minister set to visit Ukraine.</title>
+<headline>Canadian Foreign Minister set to visit Ukraine.</headline>
+<dateline>KIEV 1996-10-22</dateline>
+<text>
+<p>Canadian Foreign Minister Lloyd Axworthy arrives in Ukraine on Wednesday for two days of talks focusing on the country's participation in NATO, closure of the Chernobyl nuclear power plant and increased trade links.</p>
+<p>Axworthy is expected to meet President Leonid Kuchma and Prime Minister Pavlo Lazarenko and will discuss NATO enlargement with Ukrainian Foreign Minister Hennady Udovenko.</p>
+<p>&quot;Canadian companies are well equipped to assist Ukraine's efforts to achieve political stability and economic progress in a variety of areas including nuclear safety,&quot; Axworthy said in a statement released ahead of his visit.</p>
+<p>Axworthy's delegation will include about 50 businessmen.</p>
+<p>Canada has been a prominent backer of Ukraine among the Group of Seven wealthy nations. Last year Kuchma signed a memorandum agreeing to close the Chernobyl plant by the year 2000 during a G7 meeting in Canada.</p>
+<p>The former Soviet republic has complained about the G7's slowness to deliver about $3 billion to shut Chernobyl, whose fourth reactor exploded 10 years ago and sent a radiation cloud over Russia, Belarus and Europe.</p>
+<p>Ukraine exported $10 million in goods to Canada during the first nine months of this year and imported $26 million. The two countries are due to sign contracts worth about $400 million in the energy and construction sectors during Axworthy's visit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

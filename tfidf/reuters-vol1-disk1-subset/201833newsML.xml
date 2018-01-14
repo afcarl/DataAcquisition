@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201833" id="root" date="1996-11-20" xml:lang="en">
+<title>SLOVAKIA: Slovak journalists protest government ban.  [CORRECTED]</title>
+<headline>Slovak journalists protest government ban.  [CORRECTED]</headline>
+<dateline>BRATISLAVA 1996-11-20</dateline>
+<text>
+<p>The biggest Slovak union for journalists on Wednesday protested over the barring of four reporters from government briefings and appealed to the International Federation of Journalists for support.</p>
+<p>The four were among a group of journalists who publicly denied allegations made by Prime Minister Vladimir Meciar that President Michal Kovac had told them at a news briefing in May that Meciar was suffering from a brain tumour.</p>
+<p>(Corrects to make clear the four were not banned merely for attending a meeting with Kovac.)</p>
+<p>The Slovak government on Tuesday said it had barred the four from regular government news conferences for &quot;personal reasons&quot;.</p>
+<p>The Slovak Syndicate of Journalists, in a statement on Wednesday, said: &quot;We appeal to all (Slovak) media not to bow to the pressure of the government. Freedom of information is guaranteed by the constitution and journalists are its medium.&quot;</p>
+<p>Kovac and Meciar, once allies, have been locked in a bitter political battle since Kovac called on parliament to hold a vote of confidence on Meciar in 1994.</p>
+<p>The government has come under scrutiny in the past two years for foot-dragging over promoting democratic reforms in Slovakia.</p>
+<p>The European Union and the United States have expressed concerns over the development of democracy in Slovakia and its treatment of minorities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

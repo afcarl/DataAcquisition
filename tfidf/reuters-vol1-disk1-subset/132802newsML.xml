@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132802" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Medaphis Corp Q3 pro forma shr loss rises.</title>
+<headline>Medaphis Corp Q3 pro forma shr loss rises.</headline>
+<dateline>ATLANTA 1996-10-22</dateline>
+<text>
+<p>(unaudited, in thousands, except per share data)</p>
+<p>		    Three months ended	  Nine months ended</p>
+<p>			  Sept. 30,		     Sept. 30,</p>
+<p>			  1996	  1995	 1996	    1995</p>
+<p> Revenue	 $ 126,731   $ 140,752  $ 465,551	$415,131</p>
+<p>  Net loss	(36,995)     (3,088)   (20,933)	 (3,505)</p>
+<p>Non-recurring</p>
+<p>pro forma</p>
+<p>adjustments,</p>
+<p>principally</p>
+<p>  income taxes	 625	   365	  979	 (3,849)</p>
+<p>Pro forma net</p>
+<p>   loss	   (36,370)     (2,723)   (19,954)	 (7,354)</p>
+<p>Pro forma net</p>
+<p>loss per</p>
+<p>  common share    (0.51)	(0.05)     (0.28)	  (0.13)</p>
+<p>Weighted average</p>
+<p>shares</p>
+<p>  outstanding     71,665	57,696     71,123	  55,962</p>
+<p>NOTE - Pro forma results were released to account for the effective tax rate of past acquisitions of S corporations, which were accounted for as a pooling of interests.</p>
+<p>-- New York Newsdesk, 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

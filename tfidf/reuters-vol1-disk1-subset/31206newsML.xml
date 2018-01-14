@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31206" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: McDonnell details planned MD-XX tri-jet.</title>
+<headline>McDonnell details planned MD-XX tri-jet.</headline>
+<dateline>FARNBOROUGH, England</dateline>
+<text>
+<p>McDonnell Douglas Corp. unveiled detailed plans for its proposed long-range MD-XX passenger and freight airliner on Wednesday, saying it would start offering the plane to airlines later this year.</p>
+<p>Production of the wide-bodied three-engined plane, intended to seat up to 375 passengers in its stretch version, would take approximately 44 months from the program's formal launch, the company said at a news conference at the Farnborough air show.</p>
+<p>&quot;Program plans aim at gaining approval from the McDonnell Douglas board to make formal MD-XX offers to airlines later this year,&quot; MD-XX programme Vice President Walt Orlowski said.</p>
+<p>If the orders needed for formal launch are then booked early in 1997, that would lead to deliveries before the end of 2000, he added.</p>
+<p>Although it will resemble the manufacturer's current MD-11 in many operational respects, the MD-XX will feature an advanced flightdeck with automatic system controllers doing much of the routine of flight.</p>
+<p>Currently, McDonnell Douglas is working with General Electric Corp, United Technologies' Pratt &amp; Whitney and Britain's Rolls Royce Plc to define optimum engine configurations.</p>
+<p>Two versions of the plane are currently envisaged, the firm told reporters. Alongside the stretch model, a long-range plane carrying 309 passengers in three-class configuration will also be offered.</p>
+<p>It is designed to fly 20 percent further than the MD-11 with a full load of passengers and baggage. The MD-11 currently has a typical range of about 8,000 miles with 298 passengers.</p>
+<p>Explaining the reasoning behind offering two variants, Orlowski said &quot;to meet future traffic growth, the carriers are demanding aircraft with more passenger capacity and also want more range capability than current jetliners.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARNBOROUGH, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

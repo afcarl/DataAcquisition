@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135513" id="root" date="1996-10-22" xml:lang="en">
+<title>DUBAI: Saudi king urges more jobs for Saudis.</title>
+<headline>Saudi king urges more jobs for Saudis.</headline>
+<dateline>DUBAI 1996-10-22</dateline>
+<text>
+<p>Saudi Arabia's King Fahd has urged the private sector to employ more Saudi nationals and said the government will ensure that 650,000 Saudis have private sector jobs by the end of the century.</p>
+<p>The official Saudi Press Agency said the king was addressing the weekly cabinet meeting on Monday night.</p>
+<p>&quot;Saudi Arabia will continue its efforts to strengthen the capabilities of Saudi citizens by improving their educational and training standards, offering them all job oppurtunities...,&quot; the king said.</p>
+<p>Saudi Arabia's 1995-2000 development plan set a target of creating 659,900 jobs for Saudis by the end of the century. Some 319,500 expatriate workers are to be replaced by Saudi citzens.</p>
+<p>It said private companies must increase the number of Saudi workers on their staff by five percent a year or face sanctions.</p>
+<p>About five million expatriates work in Saudi, which has a population of about 17 million. Fewer than seven percent of private sector employees are Saudi, economists and bankers say.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136164" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Centex sees record 97 for home building unit.</title>
+<headline>Centex sees record 97 for home building unit.</headline>
+<dateline>DALLAS 1996-10-23</dateline>
+<text>
+<p>Centex Corp said on Wednesday it expects its home building division to report a record performance for 1997 and results from its financial services operations should improve substantially over those for fiscal 1996.  </p>
+<p>Centex also said that, if interest rates &quot;remain at or near current levels, the company should report record earnings for fiscal 1997.&quot;</p>
+<p>However, it noted that slower home orders in the second quarter has continued in the first few weeks of the third quarter and could impact Home Building earnings later in the year.</p>
+<p>Earlier today, the company reported second quarter earnings of $0.96, compared with analysts' estimates of $0.83 and year-ago earnings of $0.50.</p>
+<p>The company said home building revenues rose 25 percent in the six months from the 1995 period. Revenues from financial services totaled $78.9 million in the six-month period, 32 percent higher $59.9 million a year ago, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

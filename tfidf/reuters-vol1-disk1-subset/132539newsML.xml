@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132539" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. mortgage-backeds slip, stuck in narrow range.</title>
+<headline>U.S. mortgage-backeds slip, stuck in narrow range.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>U.S. mortgage-backed securities drifted lower in narrow, range-bound trading on a very quiet Tuesday, traders said.</p>
+<p>Thirty-year pass-throughs generally were flat, while discounts traded 9/32 to 10/32 lower by late afternoon.</p>
+<p>An empty economic calendar resulted in slow-footed dealing, according to traders.</p>
+<p>&quot;On an average day, I probably write 50 or 60 trades,&quot; said one New York-based trader. &quot;I've written probably 15 today.&quot;  </p>
+<p>He said he expected upcoming activity in 30-year Freddie Mac Gold 7.0 percent coupons, which were off 9/32.</p>
+<p>&quot;It's not beginning to look like much is going to happen until we get some economic numbers,&quot; echoed another trader.</p>
+<p>By late Tuesday, current coupon spreads over Treasuries were modestly narrower by 2/32 to 5/32.</p>
+<p>Ginnie Mae 30-year 7.5 percent coupons were off 9/32 at 99-12/32, yielding 109 basis points over the 10-year Treasury note. Comparable Fannie Mae and Freddie Mac paper was off 9/32 as well, at 99-09/32 and 99-15/32, respectively.</p>
+<p>The 10-year Treasury note had slipped 11/32 at 99-17/32, yielding 6.56 percent.</p>
+<p>-- Jeff Coelho, 212-859-1562</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

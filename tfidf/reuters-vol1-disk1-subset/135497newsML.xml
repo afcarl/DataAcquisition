@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135497" id="root" date="1996-10-22" xml:lang="en">
+<title>ISRAEL: Chirac to protest at Israeli security measures.</title>
+<headline>Chirac to protest at Israeli security measures.</headline>
+<dateline>JERUSALEM 1996-10-22</dateline>
+<text>
+<p>French President Jacques Chirac will protest to Prime Minister Benjamin Netanyahu over heavy-handed Israeli security measures that marred his visit to Jerusalem's Old City on Tuesday, a spokeswoman said.</p>
+<p>Chirac's spokeswoman Catherine Colonna said a complaint about &quot;the behaviour of Israeli security forces (which) caused unacceptable agitation&quot; was being passed to Israel &quot;at this moment&quot; and the French leader would personally convey his protest to Netanyahu at a meeting later in the day.  </p>
+<p>Using his elbows, Chirac forced his way through a forest of Israeli security men and police during his Old City tour.</p>
+<p>Reaching the entrance to Haram al-Sharif, the site of Islam's third holiest shrine, a red-faced Chirac snapped at Israeli security men in English: &quot;No security now. I don't want you. Go away. You have no business here.&quot;</p>
+<p>The French leader tried to push them away from the gate to the compound but the security men would not be moved and accompanied him on to the site, known to Jews as the Temple Mount, witnesses said.</p>
+<p>Earlier, dozens of Israeli security guards surrounded Chirac as he entered the Church of the Holy Sepulchre, traditional burial place of Jesus. Security has been extremely tight for Israeli and visiting foreign leaders since the assassination almost a year ago of Prime Minister Yitzhak Rabin.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

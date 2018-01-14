@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133347" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: Mexico's Gutsa eyes natgas distribution permits.</title>
+<headline>Mexico's Gutsa eyes natgas distribution permits.</headline>
+<dateline>MEXICO CITY 1996-10-22</dateline>
+<text>
+<p>Mexican construction company Grupo Gutsa plans to bid in the government auctions for concessions to distribute natural gas in the northern Chihuahua state, the company said Tuesday.</p>
+<p>Juan Diego Gutierrez Cortina, chairman of Gutsa, said in a statement that the company, along with its partners U.S. NorAm Energy Corp. and TransCanada Pipelines Ltd., has submitted a letter of bidding intent to the Energy Ministry.</p>
+<p>Gutsa is also interested in bidding for other upcoming gas distribution concessions in the cities of Hermosillo in Sonora state, Tampico in Tamaulipas, Toluca in the State of Mexico and in Mexico City, the company said.</p>
+<p>Rights to gas distribution in Chihuahua include the state capital Chihuahua and the cities of Cuauhtemoc, Anahuac and Delicias.</p>
+<p>The Mexican government said the winning bidder will be expected to invest more than $50 million in the distribution project over five years.</p>
+<p>--Timna Tanners, Mexico City newsroom +525 728-7903</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

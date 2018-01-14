@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33137" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Dole says to make trade proposal, gives no details.</title>
+<headline>Dole says to make trade proposal, gives no details.</headline>
+<dateline>COLORADO SPRINGS, Colo. 1996-09-03</dateline>
+<text>
+<p>Republican presidential nominee Bob Dole said on Tuesday he would make a new proposal on trade, but gave no details of its substance or timing.</p>
+<p>&quot;We'll have one other proposal to make and that'll be on trade, because trade is important,&quot; Dole told a group of small businesspeople here, giving no further details.</p>
+<p>Dole-Kemp campaign spokesman Nelson Warfield declined comment on the substance of the proposal or the timing of its announcement.</p>
+<p>The Republican candidate made the remark on the second day of a four-day campaign swing that was taking him to seven states in the western and central parts of the country. He was scheduled to return to Washington on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLORADO SPRINGS, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132668" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: American Indemnity Financial Co Q3 net.</title>
+<headline>American Indemnity Financial Co Q3 net.</headline>
+<dateline>GALVESTON, Texas 1996-10-22</dateline>
+<text>
+<p>Three Months Ended Sept. 30,</p>
+<p>						     1996	     1995</p>
+<p> Net premiums written		 $16,171,401     $17,327,257</p>
+<p> Premiums earned			 16,634,182	17,243,770</p>
+<p> Net investment income		  1,179,821	   968,835</p>
+<p> Realized investment gains		425,092	    88,098</p>
+<p> Net income (loss)			  696,931	 (677,402)</p>
+<p>Earnings per share summary:</p>
+<p>    Net income (loss)		36 cts		(34) cents</p>
+<p> Avg shrs				   1,948,610	 1,946,843</p>
+<p>					    Nine Months Ended Sept. 30,</p>
+<p>						    1996		1995</p>
+<p> Net premiums written		 $52,049,069     $53,569,298</p>
+<p> Premiums earned			 49,644,191	51,158,487</p>
+<p> Net investment income		  3,411,671	 2,965,137</p>
+<p> Realized investment gains		648,917	     7,212</p>
+<p> Net income (loss)			  595,746     (3,745,872)</p>
+<p>Earnings per share summary:</p>
+<p>    Net income (loss)			31 cts	    (1.92)</p>
+<p>Weighted average shares outstanding</p>
+<p>						1,947,910	 1,946,754</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GALVESTON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

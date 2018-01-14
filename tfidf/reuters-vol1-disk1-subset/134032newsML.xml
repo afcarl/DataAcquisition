@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134032" id="root" date="1996-10-22" xml:lang="en">
+<title>UNITED NATIONS: U.N. oil deal monitors put off trip to Iraq.</title>
+<headline>U.N. oil deal monitors put off trip to Iraq.</headline>
+<dateline>UNITED NATIONS 1996-10-22</dateline>
+<text>
+<p>An advance team of three inspectors from a Dutch firm has postponed a visit to Iraq because of the unstable situation in the country's northern regions, diplomats said on Tuesday.</p>
+<p>The inspectors were pulled out of Iraq in September when fighting flared in the northern Kurdish provinces and the United Nations delayed implementing an oil-for-food plan.</p>
+<p>Diplomats said the oil monitors had been scheduled to go back this week to perform preliminary inspections ahead of a possible implementation of the plan.</p>
+<p>But their visit was further delayed further because of the situation in the north, where the United States is currently trying to implement a ceasefire between two Kurdish factions, the diplomats said.</p>
+<p>The oil-for-food deal allows Iraq to sell $2 billion of oil over six months, on a renewable basis, to buy food, medicine and other necessities to help offset the effect on ordinary Iraqis of sanctions imposed after Iraq's August 1990 invasion of Kuwait.</p>
+<p>In other developments, Secretary-General Boutros Boutros-Ghali said the United Nations was still trying to &quot;overcome all the difficulties because I believe it is a must to implement 986,&quot; a reference to the Security Council resolution that sets out the plan.</p>
+<p>&quot;The fact that there is a war going on has complicated our situation on the ground,&quot; he added.</p>
+<p>He said he was currently meeting with Gualtiero Fulcheri, the senior U.N. representative in Baghdad, who arrived in New York two days ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134369" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Steel of W. Va. sees no improvement soon.</title>
+<headline>Steel of W. Va. sees no improvement soon.</headline>
+<dateline>HUNTINGTON, W.Va. 1996-10-22</dateline>
+<text>
+<p>Steel of West Virginia Inc said on Tuesday that its third quarter earnings were hurt by a downturn in certain industries the company serves, as well as reduced sales, higher maintenance costs and a higher tax rate.</p>
+<p>&quot;The market demand for our products has softened and continues to be flat,&quot; company President and Chief Executive Robert Bunting said in a statement. &quot;We do not see any significant improvement in the near term.&quot;</p>
+<p>The company said a downturn in the truck trailer industry was a drag on its results.  </p>
+<p>Costs for natural gas and depreciation expenses also increased, contributing to the quarter's lackluster results.</p>
+<p>For the quarter, the company posted net income of $9,000, or $0.00 per share, on net sales of $22.23 million. In the same period the prior year, the company reported net income of $2.45 million, or $0.37 per share, on net sales of $32.55 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTINGTON, W.Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

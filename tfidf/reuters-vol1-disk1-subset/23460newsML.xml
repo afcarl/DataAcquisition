@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23460" id="root" date="1996-08-30" xml:lang="en">
+<title>UK: Oil price stays buoyant on high demand, low stocks.</title>
+<headline>Oil price stays buoyant on high demand, low stocks.</headline>
+<dateline>LONDON 1996-08-30</dateline>
+<text>
+<p>World oil prices remained buoyant near four-month highs on Friday, consolidating the week's gains amid strong demand and tight inventories.</p>
+<p>October London futures for international benchmark Brent Blend crude at 1621 GMT were trading one cent down from Thursday at $20.74 after earlier touching $21 a barrel. Brent is running some $4 in advance of this time last year but analysts said they saw no sign of any immediate significant retreat.</p>
+<p>They cited low stocks of heating oil and diesel (distillates), rising demand from major industrialised nations and a subdued supply outlook for the remainder of the year.</p>
+<p>&quot;Distillate fundamentals look tight in the next couple of months given the strong demand outlook diesel (harvest demand) and heating oil and the current situation of dangerously low stocks worldwide,&quot; said Washington-based Petroleum Finance Company.</p>
+<p>&quot;The demand picture in the third quarter looks much stronger than previously expected, especially in the OECD countries,&quot; Petroleum Finance said.</p>
+<p>Helping prices on Friday was renewed speculation that the resumption of Iraqi crude exports under an oil-for-food deal with the United Nations might get further delayed.</p>
+<p>A senior U.N. relief official in Baghdad said on Friday he was discussing with the Iraqis how to overcome a number of vital operational issues concerning humanitarian goods distribution in northern Iraq.</p>
+<p>&quot;There are still serious operational problems to look at,&quot; U.N. food programme director Holdbrook Arthur said.</p>
+<p>Analysts said any delays to Iraq's first exports for six years, agreed with the United Nations in May, would underpin prices at a time when some new oilfield projects were taking longer to come onstream than planned.</p>
+<p>&quot;Global oil supplies are now set to increase steadily throughout the rest of the year rather than surge in the next two months,&quot; said Petroleum Finance.</p>
+<p>&quot;A more subdued supply outlook has diminished the likelihood of a glut developing when Iraqi exports commence.&quot;</p>
+<p>Crude oil prices in dollars per barrel:</p>
+<p>						    Aug 30	 Aug 29</p>
+<p>						    (1600 GMT)   (close)</p>
+<p>    Dated Brent				 $20.95	 $21.00</p>
+<p>    IPE London Brent futures (Oct)	$20.74	 $20.75</p>
+<p>    NYMEX light crude futures (Oct)     $22.20	 $22.15</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

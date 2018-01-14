@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133839" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. bulk millfeeds - Prices mostly steady.</title>
+<headline>U.S. bulk millfeeds - Prices mostly steady.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>U.S. millfeed prices were mostly steady on Tuesday in quiet activity, dealers said.</p>
+<p>&quot;I am looking at the (mids) market being sideways. I do not see any further declines for the next three to four days,&quot; one dealer said.</p>
+<p>A St. Louis dealer agreed. &quot;This market is quiet with enough supply to take care of demand and vice versa,&quot; he said. &quot;As far as I can tell, there are no real aberrations either way,&quot; he said.</p>
+<p>One broker said he believed people were using both mids and corn and tying them into their programs.  </p>
+<p>&quot;I have not seen anything traded,&quot; a Carolinas dealer said.</p>
+<p>&quot;This market has a life of its own, despite lower corn prices. I do not see end-users buying anything. It appears the trading is going on between the merchants,&quot; he added.</p>
+<p>--Doris Frankel 312-983-7305</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

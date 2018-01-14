@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135420" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan trade chief calls for big extra budget - Jiji.</title>
+<headline>Japan trade chief calls for big extra budget - Jiji.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>A large-scale supplementary budget is needed for the current fiscal year to next March 31 in order to stimulate Japan's economy, Trade Minister Shunpei Tsukahara was quoted by Jiji news agency as saying at a news conference on Tuesday.</p>
+<p>Tsukahara also said it would be desirable for the government to form the supplementary budget in December, when a state budget for next fiscal year is to be drafted, it said.</p>
+<p>&quot;I personally want the government to consider adopting a large-scale supplementary budget,&quot; Tsukahara was quoted as saying.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33013" id="root" date="1996-09-04" xml:lang="en">
+<title>CYPRUS: Sequence of events in latest U.S.-Iraqi crisis.</title>
+<headline>Sequence of events in latest U.S.-Iraqi crisis.</headline>
+<dateline>NICOSIA 1996-09-04</dateline>
+<text>
+<p>The following is a sequence of some of the main military and diplomatic developments in the latest U.S.-Iraqi conflict since Tuesday morning.</p>
+<p>Sept 3</p>
+<p>--In the morning hours, U.S. forces fire 27 sea- and air-launched missiles at targets in southern Iraq in retaliation for an Iraqi military incursion into its Kurdish north at the weekend.</p>
+<p>--In a defiant speech, Iraqi President Saddam Hussein orders his forces to ignore no-fly zones declared by the West and shoot down intruders.</p>
+<p>--Iraq says strikes kill five and wound 19.</p>
+<p>--U.S. President Bill Clinton says: &quot;Our objectives are limited but clear: to make Saddam pay a price for the latest act of brutality, reducing his ability to threaten his neighbours and America's interests&quot;.</p>
+<p>--U.S. action receives qualified support from Washington's NATO allies but is strongly condemned by Russia and China. The Arab world's reaction is mixed, with some countries saying the strikes violated Iraq's sovereignty and raised tension in the Middle East.</p>
+<p>Sept 4</p>
+<p>--About midnight GMT, United States launches second wave of cruise missiles at Iraqi military targets. Pentagon says 17 missiles are fired from four U.S. ships in a &quot;mop-up&quot; operation.</p>
+<p>--An extended no-fly zone in southern Iraq, decreed by Washington, comes into force at 0800 GMT. The new zone reaches to the 33rd parallel, nearly all the way to Baghdad. A zone set up after the 1991 Gulf War went as far as the 32nd parallel.</p>
+<p>--Russian Foreign Minister Yevgeny Primakov says U.S. missile strikes could lead to &quot;catastrophic consequences&quot;, says Russia views second round of attacks &quot;very negatively&quot;.</p>
+<p>--Iraqi News Agency says second round of U.S. strikes kills one, injures seven. Saddam meets with air defense commanders. The official al-Qadissiya newspaper says Iraq's decision not to accept the no-fly zones is irrevocable.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

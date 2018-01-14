@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135733" id="root" date="1996-10-23" xml:lang="en">
+<title>AUSTRIA: SOCCER-AUSTRIA FIRST DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-AUSTRIA FIRST DIVISION RESULTS/STANDINGS.</headline>
+<dateline>VIENNA 1996-10-23</dateline>
+<text>
+<p>Results of Austrian first division</p>
+<p>soccer matches played on Wednesday:</p>
+<p> Austria Vienna	   0    Rapid Vienna	   2</p>
+<p> SV Salzburg		0    FC Linz		  2</p>
+<p> FC Tirol Innsbruck     1    SCN Admira/Wacker    1</p>
+<p> Linzer ASK		 2    Casino Graz	    1</p>
+<p> Sturm Graz		 3    SV Ried		  0</p>
+<p>Standings (tabulated under played, won, drawn, lost, goals</p>
+<p>for, goals against, points):</p>
+<p> SV Salzburg		 14  8  4  2   18   7  28</p>
+<p> Rapid Vienna		14  7  6  1   27  13  27</p>
+<p> FC Tirol Innsbruck	14  7  4  3   24  15  25</p>
+<p> Linzer ASK		  14  5  5  4   17  17  20</p>
+<p> Sturm Graz		  14  5  4  5   19  13  19</p>
+<p> Austria Vienna	    14  5  3  6   17  24  18</p>
+<p> Casino Graz		 14  4  5  5   15  18  17</p>
+<p> SV Ried		     14  4  2  8   17  25  14</p>
+<p> FC Linz		     14  2  5  7    7  16  11</p>
+<p> SCN Admira/Wacker	 14  1  6  7   12  25   9</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

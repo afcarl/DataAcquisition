@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32195" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: TV actor shot in LA traffic dispute.</title>
+<headline>TV actor shot in LA traffic dispute.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>Brandon Call, an actor who appeared in the television sitcom &quot;Step by Step,&quot; was shot in both arms during an apparent traffic dispute, police said on Wednesday.</p>
+<p>Call, 19, who played J.T. Lambert on the show starring Patrick Duffy and Suzanne Somers, was listed in good condition at UCLA Medical Centre. Police said he was driving home on Tuesday night when he was shot in the Mid-City section of Los Angeles. His car had at least four bullet holes in the driver's side and windscreen.</p>
+<p>A police spokesman said Call had tried to avoid a car that was pursuing him after an apparent dispute. He drove into a dead-end street and when he turned around he was shot by the occupants of the other car, a man and a woman.</p>
+<p>A hospital spokeswoman said Call had full movement in both arms despite the gunshot wounds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

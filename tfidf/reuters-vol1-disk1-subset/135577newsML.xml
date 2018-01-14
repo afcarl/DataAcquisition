@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135577" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: Sagem denies Thomson Multimedia bid plan.</title>
+<headline>Sagem denies Thomson Multimedia bid plan.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>French electronics firm Sagem strongly denied on Tuesday a newspaper report it was planning a bid for television maker Thomson Multimedia aimed at blocking its sale to Daewoo Electronics of South Korea.</p>
+<p>Thomson Multimedia is a wholly-owned subsidiary of electronics group Thomson SA.  </p>
+<p>&quot;Following erroneous information published in the daily newspaper Liberation this morning, Sagem denies any interest, and what is more, any negotiations or any contact concerning Thomson Multimedia,&quot; Sagem said in a statement.</p>
+<p>Liberation earlier reported that Sagem chairman Pierre Faure seemed to be putting together a group of industrial and financial partners to bid for Thomson Multimedia, to prevent its planned sale by Lagardere to Daewoo.</p>
+<p>Business daily La Tribune Desfosses reported on Monday an unnamed French businessman was planning a counterbid to Daewoo to keep Thomson Multimedia under French control.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

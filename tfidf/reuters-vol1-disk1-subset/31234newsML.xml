@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31234" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Czech Skoda offers barter in fighter bid.</title>
+<headline>Czech Skoda offers barter in fighter bid.</headline>
+<dateline>PRAGUE, Czech Republic</dateline>
+<text>
+<p>Czech engineering group Skoda a.s., a local agent for U.S.-based McDonnell Douglas Corp. is proposing a barter deal to encourage the Czech government to buy MD's F/A-18 &quot;Hornet&quot; fighter aircraft.</p>
+<p>Skoda's spokesman Karel Samec said Wednesday his firm would provide trucks made at Skoda's troubled Tatra a.s. and other goods in return for planes, which the cash-strapped Czech military is considering to upgrade its fleet.</p>
+<p>&quot;McDonnell Douglas chose us as intermediator, but it depends on the Czech government and the Defence Ministry which has to decide if they want to buy any planes at all,&quot; he said.</p>
+<p>&quot;It's a barter deal. They would supply the fighters, and we would supply Czech goods to the States, namely Tatras and other things... And I know from the American side that this project has the support of the U.S. government,&quot; Samec added.</p>
+<p>The Czechs along with former Warsaw Pact allies Poland and Hungary, all seen as frontrunners to join NATO, want to upgrade their fleets to be compatible with the military alliance.</p>
+<p>McDonnell Douglas is competing against Lockheed Martin, makers of the F-16, Sweden's SAAB, which makes the &quot;Gripen,&quot; France's &quot;Mirage,&quot; and others to update a fleet of ageing Soviet-made Mig-21 planes.</p>
+<p>However, the Czech government has delayed a decision on buying the planes because proposed cuts in defence spending have clouded the debate over the upgrading the army's ageing fighters. A spokesman at the Defence Ministry was not immediately avbailable for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE, Czech Republic"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

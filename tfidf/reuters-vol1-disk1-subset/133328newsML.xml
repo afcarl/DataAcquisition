@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133328" id="root" date="1996-10-22" xml:lang="en">
+<title>ARGENTINA: Argentine Banco del Suquia to sell $10 mln bond.</title>
+<headline>Argentine Banco del Suquia to sell $10 mln bond.</headline>
+<dateline>BUENOS AIRES 1996-10-22</dateline>
+<text>
+<p>Argentine bank Banco del Suquia's directors have approved the sale of $10 million in negotiable bonds, the bank said Tuesday.</p>
+<p>This will be the second issue under the bank's global debt program of $100 million approved in January. In August, the bank sold $25 million one year Euro-commercial paper.</p>
+<p>SBC Warburg will underwrite the new issue which will be placed on October 24. No further details were provided.</p>
+<p>-- Axel Bugge, Buenos Aires Newsroom, 541 3180668</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

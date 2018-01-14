@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135555" id="root" date="1996-10-22" xml:lang="en">
+<title>NORWAY: PRESS DIGEST - Norway - Oct 22.</title>
+<headline>PRESS DIGEST - Norway - Oct 22.</headline>
+<dateline>OSLO 1996-10-22</dateline>
+<text>
+<p>Following are some of the leading stories in Norwegian papers this morning:</p>
+<p>AFTENPOSTEN</p>
+<p>- In August Scandinavian Airline System found parts produced by non-authorised vendors in seven of the airliner's planes, including cables for controlling brakes. Arne Petter Clausen, SAS quality controller at Oslo's Fornebu airport, said this is the most serious incident in its kind at SAS. But he said there was no reason to believe the non-original parts were less safe.</p>
+<p>- The opposition parties in parliament accuse the ruling Labour Party of lacking a willingess to find new solutions regarding the 1997 state budget proposal. The opposition wants to increase spending by up to eight billion crowns in the proposed budget, but the government is fighting the effort.</p>
+<p>DAGENS NAERINGSLIV</p>
+<p>- Norway's largest listed company Norsk Hydro ASA blames lower prices for aluminium and petrochemicals for a 45 percent slump in third-quarter net profits.</p>
+<p>- One of Norway's largest investors, Terje Mikalsen, may list his and his partner Tarald Glastad's interests in shipping on the Oslo Bourse through Mosvold Shipping Ltd. Mosvold Shipping may merge with or take over Suezmax Invest, which is owned by the two investors.</p>
+<p>- Norwegian food-based conglomerate Orkla ASA and Denmark's Carlsberg may buy Volvo's shares in Pripps Ringnes. Volvo has 55 percent of the shares in Pripps Ringnes. According to players in the Norwegian brewery business this could be a necessary step to protect the Scandinavian beer market from large foreign breweries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

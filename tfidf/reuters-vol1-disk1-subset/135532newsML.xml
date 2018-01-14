@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135532" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: Dismal June ends poor H1 for German retailers.</title>
+<headline>Dismal June ends poor H1 for German retailers.</headline>
+<dateline>WIESBADEN, Germany 1996-10-22</dateline>
+<text>
+<p>A dismal June rounded off a poor first half for German retailers, who are gearing up for longer shopping hours next month amid weak consumer demand, data showed on Tuesday.</p>
+<p>The Federal Statistics Office said retail sales fell 1.3 percent in real terms in January-June 1996 compared with the first half of 1995. In June, seasonally adjusted sales shrank 4.4 percent from June 1995 after an easing of 3.4 percent in May.</p>
+<p>The gloomy outlook for the German retail sector -- into its fourth year of stagnation or declining turnover -- was confirmed by an operating statement released by Metro AG, the country's largest retail chain.</p>
+<p>Metro, announcing nine-month results, said slackness in consumer spending had continued into the third quarter. It also said it would revise down its medium-term sales forecasts to take account of expectations that there will be no improvement next year.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

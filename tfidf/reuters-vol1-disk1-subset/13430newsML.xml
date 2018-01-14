@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13430" id="root" date="1996-08-26" xml:lang="en">
+<title>INDIA: BOMBAY LEADING STOCKS CLOSING PRICES - Aug 26.</title>
+<headline>BOMBAY LEADING STOCKS CLOSING PRICES - Aug 26.</headline>
+<text>
+<p>Today's close	  Previous close</p>
+<p> Bombay 30-share index	  3,433.55		  3,431.40</p>
+<p> 100 Share national index     1,561.80		  1,563.29</p>
+<p> Associated Cement Cos	  2,121.00		  2,098.50</p>
+<p> Arvind Mills			 126.50		    127.50</p>
+<p> Bajaj Auto			  1018.25		   1014.00</p>
+<p> BHEL				   164.25		    166.50</p>
+<p> BSES				   185.75		    186.50</p>
+<p> Colgate				252.50		    252.75</p>
+<p> G E Shipping			  41.25		     41.00</p>
+<p> Glaxo India			  237.25		    238.00</p>
+<p> Grasim Industries		  448.75		    449.25</p>
+<p> Gujarat Ambuja		     305.75		    304.75</p>
+<p> Hindalco			     998.00		   1002.75</p>
+<p> Hindustan Lever		    847.25		    846.50</p>
+<p> HPCL				   352.00		    340.50</p>
+<p> ICICI				   74.50		     74.75</p>
+<p> IDBI				   118.00		    120.00</p>
+<p> Indian Hotels			797.75		    802.50</p>
+<p> IPCL				   129.00		    130.50</p>
+<p> ITC				    282.00		    288.75</p>
+<p> Larsen &amp; Toubro		    250.50		    246.75</p>
+<p> Mahindra &amp; Mahindra		352.00		    348.25</p>
+<p> MTNL				   191.50		    191.25</p>
+<p> Nestle				 276.00		    275.75</p>
+<p> Ranbaxy Laboratories	     615.25		    610.00</p>
+<p> Reliance Industries		209.50		    214.00</p>
+<p> SAIL				    26.50		     25.75</p>
+<p> SBI New				266.25		    267.25</p>
+<p> Tata Chemicals		     208.50		    210.00</p>
+<p> Tata Power			   150.50		    150.00</p>
+<p> Tata Engineering		   495.25		    495.25</p>
+<p> Tata Steel			   189.50		    188.25</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

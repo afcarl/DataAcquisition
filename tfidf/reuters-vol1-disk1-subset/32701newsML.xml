@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32701" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Western U.S. spot power steady amid slower demand.</title>
+<headline>Western U.S. spot power steady amid slower demand.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>West Coast spot power prices were largely steady Wednesday amid lower hydroelectric generation in the Northwest and moderate temperatures through much of the region.</p>
+<p>Weaker natural gas prices were also seen offsetting short-covering by power marketers in the Southwest.</p>
+<p>The Bonneville Power Administration withdrew from offering next-day pre-scheduled power during peak-demand hours, but did offer up to 600 megawatts during early morning hours on Thursday at $13.00 per megawatt hour (MWh).</p>
+<p>&quot;Until the end of August we were forced to generate more power than we needed,&quot; said Bonneville spokesman Hugh Moore.</p>
+<p>&quot;Now we are in water management mode and have no reason to market surplus power.&quot;</p>
+<p>Next-day firm prices at Mid-Columbia were quoted $18.50-19.00 per megawatt hour, down from $19.50 on Tuesday. California-Oregon border power was quoted little changed from Tuesday at $18.50-19.00 on Tuesday.</p>
+<p>Next-day Palo Verde was unchanged near $27.00.</p>
+<p>Cash PV for October was last seen at $16.55-16.80, while COB was at $15.70-16.20.</p>
+<p>&quot;Gas prices are coming off and loads are down,&quot; said one electricity trader. &quot;I expect prices to continue trending downward.&quot;</p>
+<p>He sees October COB prices falling to $14.00 or lower, with Palo Verde dropping as low as $13.00.</p>
+<p>Southwest spot natural gas prices are now seen near $1.60 per million British thermal units, compared with $2.00 in August, traders noted.</p>
+<p>&quot;Utilities are making a lot of money selling power at $26.00,&quot; said another trader.</p>
+<p>&quot;There seems to be more of a lack of water (for hydroelectric generation) than people expected.&quot;</p>
+<p>-- D Beasley, Los Angeles bureau + 213 955 6853</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

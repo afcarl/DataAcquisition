@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132906" id="root" date="1996-10-22" xml:lang="en">
+<title>CZECH REPUBLIC: CZECH BIOCEL 9MO RESULT SLUMPS.</title>
+<headline>CZECH BIOCEL 9MO RESULT SLUMPS.</headline>
+<dateline>PRAGUE 1996-10-22</dateline>
+<text>
+<p>Results for nine months ending</p>
+<p>September 30, 1996 (in millions of crowns):</p>
+<p> Gross result	  475 loss    vs    1,133 profit</p>
+<p> Operating result    430 loss    vs    1,218 profit</p>
+<p>Sales of own goods</p>
+<p> and services	1,924	   vs    3,222</p>
+<p> Production	  1,912	   vs    3,340</p>
+<p> Depriciation	  371	   vs	310</p>
+<p> Total assets	6,225	   vs    6,918</p>
+<p> Basic capital     3,319	   vs    3,319</p>
+<p>Note. Full company name is Biocel Paskov a.s.. The firm is a</p>
+<p>pulp and paper producer. The results, calculated according to</p>
+<p>Czech accounting standards, are preliminary. Figures were</p>
+<p>provided bu the company itself. Biocel is listed on the main</p>
+<p>market of the Prague Stock Exchange.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13337" id="root" date="1996-08-25" xml:lang="en">
+<title>BELGIUM: Belgium expells three Algerian children.</title>
+<headline>Belgium expells three Algerian children.</headline>
+<dateline>BRUSSELS 1996-08-25</dateline>
+<text>
+<p>Three Algerian children returning home to France with their parents were sent back to Algeria on Sunday by the authorities at southern Belgium's Charleroi airport, local media reported.</p>
+<p>After six hours of argument airport police put the children, the oldest of whom is 15, on a flight back to Algiers, where the family had just been on holiday.</p>
+<p>The police ruled that the parents' papers were in order but the childrens' French identity papers did not allow them to enter Belgium, Belgian news reports said.</p>
+<p>Air Algeria routes travellers to northern France through Charleroi since suspending flights to Paris in June.</p>
+<p>The Algerian family had intended to drive to their Paris home from the airport, Belgian media said. There was no immediate comment from the Algerian embassy or the airport police.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133251" id="root" date="1996-10-22" xml:lang="en">
+<title>GEORGIA: Georgian September inflation rises 0.5 pct.</title>
+<headline>Georgian September inflation rises 0.5 pct.</headline>
+<dateline>TBILISI 1996-10-22</dateline>
+<text>
+<p>Georgia's monthly consumer price inflation rose 0.5 percent in September after a 0.2 percent increase in August, the Department for Social and Economic Information said on Tuesday.</p>
+<p>    GEORGIAN CONSUMER PRICES   SEP 96    AUG 96    SEP 95</p>
+<p>    Month-on-month change	  +0.5	+0.2	+7.6</p>
+<p>    Year-on-year change	   +42.1     +47.1    +105.4</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TBILISI"/>
+<dc element="dc.creator.location.country.name" value="GEORGIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

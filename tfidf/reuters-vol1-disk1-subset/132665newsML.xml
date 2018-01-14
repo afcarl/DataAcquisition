@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132665" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: McMoRan Oil Q3 loss $0.15 vs loss $0.19.</title>
+<headline>McMoRan Oil Q3 loss $0.15 vs loss $0.19.</headline>
+<dateline>NEW ORLEANS, La. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		$   0.15     loss    $   0.19</p>
+<p> Net loss		    0.43     loss	  0.93</p>
+<p> Revs			   919		    1,029</p>
+<p> Avg shrs		  13,918		   13,770</p>
+<p>	   9 MONTHS</p>
+<p> Shr loss		 $  0.43     loss    $   0.92</p>
+<p> Net loss		   5,953     loss	12,636</p>
+<p> Revs			 2,941		    2,436</p>
+<p> Avg shrs primary	13,873		   13,770</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS, La."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

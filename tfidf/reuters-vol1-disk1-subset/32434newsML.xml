@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32434" id="root" date="1996-09-04" xml:lang="en">
+<title>SWITZERLAND: Swiss stocks end higher.</title>
+<headline>Swiss stocks end higher.</headline>
+<dateline>ZURICH 1996-09-04</dateline>
+<text>
+<p>Swiss shares ended on a higher note, but below the day's highs, on moderate volumes. Trading was dominated by Roche securities.</p>
+<p>The blue-chip Swiss Market Index ended at 3,634.2 points, up 10.3 points, or 0.28 percent, from Tuesday's close and the all-share Swiss Performance Index was up 7.46 points, or 0.28 percent, to 2,335.24.</p>
+<p>Roche certificates recovered from an early drop below 9,000 francs but still ended 15 francs lower at 9,040. Dealers said the stock was probably dragged down by a Merrill Lynch downgrade.</p>
+<p>But the bearer shares powered ahead 350 francs to 15,300 with BZ Bank said to be an active buyer.</p>
+<p>Dealers said the market generally shrugged off a second wave of U.S. air strikes against Iraq. Insecurity about interest rate developments kept the lid on the market ahead of U.S. jobless data due on Friday which may give the bourse some impetus, one trader added.</p>
+<p>Registered shares of machine manufacturer Sulzer shed almost two percent to end at 728 francs.</p>
+<p>Sulzer's 1996 first half profit rose to 43 million francs from last year's 22 million. But troubles at its the textile machine division and a cautious outlook triggered selling.</p>
+<p>CS Holding and Elektrowatt were gainers. CS Holding advanced two francs, or 1.64 percent, to 124. Elektrowatt rose three percent 484 francs.</p>
+<p>Recurring speculation that CS Holding might sell its stake in Elektrowatt may have helped the shares, one dealer said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

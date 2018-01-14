@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134333" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: RESEARCH ALERT - Cox Radio started.</title>
+<headline>RESEARCH ALERT - Cox Radio started.</headline>
+<text>
+<p>-- Morgan Stanley said it started coverage of Cox Radio Inc with an outperform.</p>
+<p>-- The stock rose 3/4 to 21-1/8 in early morning exchange trading.  </p>
+<p>-- In a research note, the analyst said Cox is soon to merge with NewCity Communications, a privately-held radio broadcaster, &quot;creating a portfolio of 42 radio stations clustered in 12 markets, with key positions in Los Angeles, Atlanta and Orlando.</p>
+<p>-- &quot;Station clustering, a strategic focus for Cox Radio, gives the company the leading revenue position in five of its 12 markets including Atlanta, Orlando, Birmingham, Tulsa and Syracuse. Given the company's strong balance sheet and acquisition strategy, we expect additional clusters in new and existing markets,&quot; the analyst said.</p>
+<p>-- Lehman Bros recently completed Cox's initial public offering of shares at $18.50 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

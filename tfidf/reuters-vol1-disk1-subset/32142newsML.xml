@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32142" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CBOT rice closes down as market remains rengebound.</title>
+<headline>CBOT rice closes down as market remains rengebound.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>CBOT rice futures closed lower and the market remained rangebound, traders said.</p>
+<p>&quot;The market is just marking time and waiting for the report,&quot; a trader said.</p>
+<p>USDA's September crop report is slated for release on September 11.</p>
+<p>The market remains underpinned by strong cash premiums with the narrow spread continuing to indicate near-term supply is tight. September/November traded at five cents, premium September, they said. Overseas markets remain quiet and are providing no direction.</p>
+<p>Rice futures volume was estimated at 100 contracts, up from 79 Tuesday. Rice options volume was estimated at 10 contracts, down from 16 Tuesday.</p>
+<p>Rice futures closed three to five cents per cwt lower, with September down three at $10.31 per cwt.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

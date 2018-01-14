@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133416" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: Brazil exports $844 million in October's 3rd week.</title>
+<headline>Brazil exports $844 million in October's 3rd week.</headline>
+<dateline>BRASILIA 1996-10-22</dateline>
+<text>
+<p>Brazilian exports in the third week of October totalled $844 million, down from $1.56 billion in the same week last month, the Industry and Commerce Ministry said.</p>
+<p>The daily average value of goods exported during October's third week, which had five working days, was $168.8 million, down from $211.2 million in the third week of September, which also had five working days, a ministry spokeswoman said.</p>
+<p>Brazilian exports in the first three weeks of October totalled $2.447 billion, with a daily average of $188.2 million. In September as a whole, exports totalled $4.115 billion and averaged $196 million per day, the spokeswoman said.</p>
+<p>-- William Schomberg, Brasilia Newsroom 5661 2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

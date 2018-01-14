@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134515" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: IPO PRICING - Alyn prices at top of range.</title>
+<headline>IPO PRICING - Alyn prices at top of range.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Company Name			    Alyn Corp</p>
+<p>   Priced At				    $13.50</p>
+<p>   Estimated Pricing Range	 $11.50-$13.50</p>
+<p>   Number of Shares			2,750,000</p>
+<p>   Lead Underwriter		    Furman Selz</p>
+<p>NOTE: The Irvine, Calif.-based company designs, develops, manufactures and markets consumer and industrial products using advanced metal matrix composite materials.  </p>
+<p>NOTE: Shares were increased to 2.75 million from 2.4 million Monday evening, underwriter Furman Selz said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

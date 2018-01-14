@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134090" id="root" date="1996-10-22" xml:lang="en">
+<title>SWEDEN: Swedish shares soften under Ericsson pressure.</title>
+<headline>Swedish shares soften under Ericsson pressure.</headline>
+<dateline>STOCKHOLM 1996-10-22</dateline>
+<text>
+<p>Sweden's bourse closed lower on Tuesday after coming under pressure from telecoms heavyweight Ericsson and with the market hesitant.</p>
+<p>Drugs major Astra had pulled the bourse higher by midday, rising on a bullish report in a U.S. finance magazine, but by the close it lost most its gains and the market dipped.</p>
+<p>The Stockholm general index slipped 0.09 percent to 2165.27 after shares worth 3.6 billion crowns changed hands.</p>
+<p>Brokers said a degree of uncertainty had infiltrated the market after hitting record highs in recent weeks and there was some concern the bourse could be heading for a correction.</p>
+<p>Ericsson closed the day 3.5 crowns lower at 183 crowns.</p>
+<p>Astra, after rising up to seven crowns during the day, closed just one crown higher at 306.5.</p>
+<p>ABB AB, the Swedish arm of international electrical engineering group, fell eight crowns to 741 after posting its results for the first nine months of 1996.</p>
+<p>Vehicle manufacturer Volvo was 0.5 crowns higher at 141 crowns ahead of the release of its nine month report Wednesday.</p>
+<p>The bank sector index rose 0.37 percent. Sweden's central bank cut its key repo rate by 10 basis points to 4.85 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

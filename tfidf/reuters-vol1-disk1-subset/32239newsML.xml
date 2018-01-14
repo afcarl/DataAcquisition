@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32239" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Wash. Public nuke boosts power toward full output.</title>
+<headline>Wash. Public nuke boosts power toward full output.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Washington Public Power Supply System's 1,112 megawatt WNP 2 nuclear power plant is boosting output after operating at reduced levels since mid-June, a company spokesman said.</p>
+<p>&quot;It's been a lengthy program, but we are getting almost to the conclusion of our power ascension testing program,&quot; spokesman Richard Romanelli said Wednesday.</p>
+<p>The Richland, Wash., unit could reach 100 percent production Thursday after some further testing of the unit's digital feedwater level control, Romanelli said. The unit was operating at about 90 percent and boosting power as of Wednesday afternoon, he added.</p>
+<p>The WNP 2 plant has not operated at full power since early this year. It was shut down for scheduled maintenance on April 13 but was already in an idling mode at that time due to an abundance of hydroelectricity in the Northwest.</p>
+<p>The unit resumed production in June but has held power output near 65 percent of capacity during extensive testing.</p>
+<p>The WNP 2 power increase this week was being done partly at the request of the Bonneville Power Administration (BPA), which controls electricity production and marketing in the Northwest, Romanelli said.</p>
+<p>&quot;We have had indications that BPA is interested in getting as much power as they can,&quot; Romanelli said.</p>
+<p>BPA reportedly was not offering peak-hour power and limiting off-peak power sales for Thursday due to lower hydroelectric production.</p>
+<p>A BPA trade source said the agency was declining to offer power to balance its own load demand with generation.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

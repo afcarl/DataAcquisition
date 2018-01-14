@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32846" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. Bioscience hires an operating chief.</title>
+<headline>U.S. Bioscience hires an operating chief.</headline>
+<dateline>WEST CONSHOHOCKEN, Pa. 1996-09-04</dateline>
+<text>
+<p>U.S. Bioscience Inc said Wednesday C. Boyd Clarke has been appointed president and chief operating officer of the company.</p>
+<p>A 19-year veteran of Merck &amp; Co, Clarke was vice president, strategy, alliance management and development at Merck Vaccines prior to joining U.S. Bioscience, it said.</p>
+<p>The company said Clarke succeeds Philip Schein who continues as chairman and chief executive and will assume day-to-day responsibility for the company's commercial and scientific operations. Clarke has also been elected to the company's board of directors.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST CONSHOHOCKEN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

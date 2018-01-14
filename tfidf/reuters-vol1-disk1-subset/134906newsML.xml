@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134906" id="root" date="1996-10-22" xml:lang="en">
+<title>SWEDEN: Swedish Q2 GDP rose 1.4 percent on Q2 1995.</title>
+<headline>Swedish Q2 GDP rose 1.4 percent on Q2 1995.</headline>
+<dateline>STOCKHOLM 1996-10-22</dateline>
+<text>
+<p>Sweden's central statistics bureau said on Tuesday the country's Gross Domestic Product (GDP) rose 1.4 percent on the same period a year ago and 0.7 percent from the first quarter of the year.  </p>
+<p>The figures were revised from preliminary data published in August when Q2 GDP was calculated to have risen 1.1 percent from a year ago.</p>
+<p>The revised figures are as follows with the previous figures in brackets.</p>
+<p> (PERCENTAGE CHANGE)		    Q1	  Q2</p>
+<p>Supply</p>
+<p> GDP in purchasers' values	  +1.9	 +1.4 (+1.1)</p>
+<p> Import/goods and services	  +3.6	 +2.4 (+2.9)</p>
+<p>Use</p>
+<p> Private consumption		  +1.0	 +0.8 (+1.1)</p>
+<p> Govt consumption		     -1.4	 -3.6 (-1.4)</p>
+<p> Gross Fixed Capital Form	  +11.2	+14.5 (+12.5)</p>
+<p> Change in Stocks*		    +0.2	 -1.8 (-2.5)</p>
+<p> Export/Goods and services	  +3.6	 +5.9 (+6.3)</p>
+<p>*=percentage of GDP Year/Year</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

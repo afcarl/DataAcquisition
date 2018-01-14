@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135102" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Boral sees second half profit jump.</title>
+<headline>RTRS-Boral sees second half profit jump.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Building materials and energy group Boral Ltd said on Tuesday it expected a significant profit improvement in the second half of the year to June 30 1997.</p>
+<p>&quot;The timing of the improvement in housing construction is not yet clear but the upturn, expected by most forecasters by early 1997, should result in a significant improvement in second half earnings over the comparable period,&quot; chairman Peter Cottrell said in the 1995/96 annual report.  </p>
+<p>&quot;Even though housing starts in Australia appear to have bottomed, the lag in construction means the current half year will remain challenging,&quot; Cottrell said.</p>
+<p>&quot;However, partly reflecting seasonal patterns and the benefits of the improvement programmes, profits in July and August are well ahead of the monthly rate earned in the last half of 1995/96,&quot; he said.</p>
+<p>Boral reported a 30 percent fall in net profit to A$205.69 million for 1995/96. The company mainly blamed the profit plunge on weakness in the Australian housing sector.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32484" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: Indian metals prices firm on low demand.</title>
+<headline>Indian metals prices firm on low demand.</headline>
+<dateline>BOMBAY 1996-09-04</dateline>
+<text>
+<p>Indian base metals were steady on low industrial demand and narrow trade on Wednesday, traders said.</p>
+<p>They said nickel was steady at 39,500 rupees per quintal on stray physical support, after falling by 400 rupees on Tuesday.</p>
+<p>Copper was unchanged at 12,300 rupees, so was zinc at 6,300 rupees and lead at 4,900 rupees, respectively. Aluminium was steady at 7,450 rupees on nominal trade.</p>
+<p>The markets are closed on Thursday for a local holiday and will reopen on Friday.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

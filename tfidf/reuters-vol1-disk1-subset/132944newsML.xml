@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132944" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: LME base metals barely budge from kerb closes.</title>
+<headline>LME base metals barely budge from kerb closes.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Base metal prices on the London Metal Exchange (LME) barely budged in late inter-office trade on Tuesday, with only copper edging back slightly in slow trade.</p>
+<p>Three month copper futures were indicated at $1,955/57 a tonne by 1800 GMT, down slightly from the afternoon kerb close of $1,960.</p>
+<p>Traders said banks still appeared to be unwinding long positions formerly owned by Sumitomo Corp, keeping a lid on prices and thwarting bullish sentiment coming from sizeable stock drawdowns.</p>
+<p>All other base metals were unchanged from the afternoon kerb closing levels. --London Newsroom +44 171 542 8057</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

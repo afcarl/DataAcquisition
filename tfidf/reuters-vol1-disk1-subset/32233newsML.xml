@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32233" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Bid non-conformity pushes Merrill out of Ill. deal.</title>
+<headline>Bid non-conformity pushes Merrill out of Ill. deal.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Non-conformity with bid requirements cost Merrill Lynch &amp; Co Inc a $185 million Illinois general obligation bond issue, a state official said Wednesday.</p>
+<p>Mike Colsch, Illinois deputy budget director, said although Merrill submitted the lowest bid of 5.715 percent, the firm failed to comply with new state bid requirements for the issue that mandated ascending coupons on the bonds.</p>
+<p>Colsh said the ascending coupon requirement was added to avoid deep discounts on term bonds.</p>
+<p>The competitive deal was won instead by Morgan Stanley &amp; Co with a true interest cost of 5.722 percent, Colsch said.</p>
+<p>The third bidder on Wednesday's competitive sale was Lehman Brothers, he added.</p>
+<p>Colsh said it was too early to tell if the state's new AA rating from Fitch Investors Service Inc resulted in more agressive bids for the bond issue.</p>
+<p>The AA rating, which Fitch assigned the state last week, was higher than the AA-minus rating affirmed by Standard &amp; Poor's Corp and A1 grade affirmed by Moody's Investors Service Inc on the bonds.</p>
+<p>The Fitch rating was its first for the state since the rating agency was recapitalized and reactivated in 1989.</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

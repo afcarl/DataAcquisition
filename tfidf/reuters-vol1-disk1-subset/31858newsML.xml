@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31858" id="root" date="1996-09-04" xml:lang="en">
+<title>Australia: Lloyds port conditions - Australia.</title>
+<headline>Lloyds port conditions - Australia.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>AUSTRALIA, Sept 2 - Coal - Queensland, Abbot Point - berth vacant. 7 vessels due by 29/9. No delays. Dalrymple Bay - one vessel loading, 3 waiting. 9 due by 17/9. Approx 2-3 days delay expected. Hay Point - berth no. 1 still undergoing repairs. Date of re-opening to be confirmed. One vessel loading, 3 waiting. 15 due by 22/9. Approx 2-3 days delay. Gladstone, R.G. Tanna - 1 vessel loading, 4 waiting. 23 due by 21/9. Approx 2-3 days delay. Barney Point - no shiploading/train unloading 8-25/10 due to maintenance shutdown of plant and equipment. Brisbane - berth vacant. 5 vessels due by 15/9. No delays.</p>
+<p>NSW - Newcastle - dykes 4+5 - 2 vessels loading, 6 waiting. 9 due by 11/9. Approx 5-6 days delay. Kooragang - 2 vessels loading, 7 waiting. 14 due by 12/9. Approx 5-6 days delay. Port Kembla - major breakdowns due to gale-force winds and heavy rain during the last 48 hours, bringing loading operations to a halt. One vessel loading, 1 waiting. 13 due by 15/10. Approx 1 days delay.</p>
+<p>IRON ORE - W.AUSTRALIA - Port Hedland - BHP iron ore pty Mt. Newman (Nelson Point) A Berth - 1 vessel loading, 1 anchored. 5 due by 11/9. Maintenance to shiploader no. 2 on 6/9. B Berth - 1 vessel loading, 1 anchored. 5 due by 10/9. 8 other vessels due by 21/9 - BHP iron ore - Goldsworthy (Finucane Island) - 3 vessels due by 9/9. 1 other vessel due by 12/9. Dampier - Parker Point - 1 vessel loading, 1 anchored. 2 due by 2/9. East Intercourse island - 1 vessel loading, 1 anchored. 3 due by 3/9. Dampier line-up - 8 vessels due by 15/9 of which 6 for Parker Point, 2 for East Intercourse Island. Port Walcott - one vessel loading, 1 waiting. 8 ue by 19/9.</p>
+<p>GRAIN - Sept 4 - Queensland - Mackay, Gladstone - no vessels due. Brisbane - three vessels due by 11/9. NSW - Newcastle - one wheat vessel in port. 7 vessels due by 25/9. Port Kembla - six wheat vessels due. Victoria - Geelong - four vessels due by 30/9. Portland - three vessels due by 23/9.</p>
+<p>South Australia - Port Pirie - three wheat vessels due by 15/9. Port Adelaide - five vessels due by 16/9. Thevenard - one wheat vessel due 11/9. Port Lincoln - two wheat vessels due by 16/9. Wallaroo, Ardrossan - no vessels due. Port Giles - one barley vessel due 4/9. W.Australia - Geraldton - four vessels due by 11/9. Kwinana - two wheat vessels in port. 7 due by 16/9. Grain terminal currently working dayshift Monday to Friday only due to industrial dispute. Albany - one wheat vessel in port. 1 vessel due 17/9. Esperance - one barley vessel due 10/9.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

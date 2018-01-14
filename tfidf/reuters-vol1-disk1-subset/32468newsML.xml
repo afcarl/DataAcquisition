@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32468" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: India's Bombay building collapse toll rises to 17.</title>
+<headline>India's Bombay building collapse toll rises to 17.</headline>
+<dateline>BOMBAY 1996-09-04</dateline>
+<text>
+<p>Rescue workers searching through the debris of a building that collapsed in the heart of India's commercial capital found 11 more bodies on Wednesday, taking the death toll to 17, fire brigade officials said.</p>
+<p>&quot;We have pulled out 17 bodies from the debris,&quot; a fire brigade spokesman said. He said the number of injured remained at 10 on Wednesday, a day after the three-storey office and residential building collapsed.  </p>
+<p>Officials said they were continuing their search through the rubble, although reports still were confused over the number of people believed to have been inside when the building collapsed shortly after noon on Tuesday.</p>
+<p>Officials had initially estimated more than 25 people had been trapped.</p>
+<p>&quot;There was a printing press on the ground floor, and a kind of dormitory and club on the first floor,&quot; Chief Fire Officer D.J. Kulkarni of the Bombay Fire Brigade told Reuters. &quot;None of the tenants can say exactly how many people were there.&quot;</p>
+<p>The building, Tawadia Chambers, housed offices and homes. It was in the centre of a dense cluster of old buildings close to the heart of Bombay's business district.</p>
+<p>Residents said the building was more than 40 years old. But neither they nor the authorities could say why it collapsed.</p>
+<p>Many of Bombay's buildings are poorly maintained because the city has frozen rents at 40-year-old levels, and landlords have no financial incentive to maintain them. Weakened by wind and heavy rains in the monsoons, many of them collapse each year.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

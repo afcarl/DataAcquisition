@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33169" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Gen des Eaux sees SFR breakeven in 1997.</title>
+<headline>Gen des Eaux sees SFR breakeven in 1997.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Compagnie Generale des Eaux chairman Jean-Marie Messier said on Wednesday that he expects the group's mobile telecommunications subsidiary SFR to break even next year and show a profit in 1998.</p>
+<p>&quot;SFR will reach breakeven in 1997 and will be profitable from 1998,&quot; he told a news conference.</p>
+<p>Cegetel, which groups Generale des Eaux's telecoms activities, will show positive operating cashflow from 1997 and a profit from 1999, he predicted.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

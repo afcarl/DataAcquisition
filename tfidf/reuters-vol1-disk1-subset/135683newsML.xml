@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135683" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: SOCCER-ENGLISH FOOTBALL LEAGUE CUP FOURTH ROUND DRAW.</title>
+<headline>SOCCER-ENGLISH FOOTBALL LEAGUE CUP FOURTH ROUND DRAW.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>Draw for the fourth round of the</p>
+<p>English Football League Cup made on Wednesday:</p>
+<p>Charlton or Liverpool v Stoke City or Arsenal</p>
+<p>West Ham v Stockport County</p>
+<p>Ipswich Town v Gillingham or Coventry</p>
+<p>Bolton v Tottenham</p>
+<p>Middlesbrough v Newcastle</p>
+<p>Wimbledon or Luton v Aston Villa</p>
+<p>Port Vale or Oxford v Southampton or Lincoln</p>
+<p>Leicester v Manchester United</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

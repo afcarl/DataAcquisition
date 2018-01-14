@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133377" id="root" date="1996-10-22" xml:lang="en">
+<title>EL SALVADOR: Seven found dead in El Salvador home.</title>
+<headline>Seven found dead in El Salvador home.</headline>
+<dateline>SAN SALVADOR, El Salvador 1996-10-22</dateline>
+<text>
+<p>Three women and four children were found dead at a home on the outskirts of San Salvador and some of the bodies had been dumped in a water tank, police said on Tuesday.</p>
+<p>One woman was found hanging from a wire and the rest of the dead were apparenly drowned, police said. They would not say whether the deaths involved murder or suicide. The killings took place over the weekend and the bodies were discovered late on Monday by the father of one of the dead children, police said.</p>
+<p>&quot;It is an abominable crime,&quot; a shaken Rodrigo Avila, director of the National Civilian Police, told reporters.</p>
+<p>Among the dead were a 70-year-old woman and her 2-year-old grandson. A 35-year-old woman, Linda Gaitan, was found hanging from the roof by a wire.</p>
+<p>Her three children, Linda, 11, Kimberly, 8, and Gladys, 6, along with 2-year-old Jose Alejandro Monterrosa, were thrown into an indoor water tank. The two other dead women, identified only as Esmeralda, 70, and Olga Gaitan, 55, were found inside the house.</p>
+<p>Although the official cause of death was not determined, police said they suspected they had been drowned in a sink. Neighbours heard no strange noises but were surprised to see the lights turned out for two days, police said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN SALVADOR, El Salvador"/>
+<dc element="dc.creator.location.country.name" value="EL SALVADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

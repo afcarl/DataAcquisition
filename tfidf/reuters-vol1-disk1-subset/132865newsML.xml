@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132865" id="root" date="1996-10-22" xml:lang="en">
+<title>NETHERLANDS: SOCCER-DUTCH FIRST DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-DUTCH FIRST DIVISION RESULTS/STANDINGS.</headline>
+<dateline>AMSTERDAM 1996-10-22</dateline>
+<text>
+<p>Result of Dutch first division</p>
+<p>soccer match on Tuesday:</p>
+<p> Utrecht     0  Willem II Tilburg    0</p>
+<p>Standings (tabulate under played, won, drawn, lost, goals</p>
+<p>for, goals against, points):</p>
+<p> PSV Eindhoven		11     7    3    1    33   10    24</p>
+<p> Feyenoord Rotterdam	11     7    2    2    22   16    23</p>
+<p> Graafschap Doetinchem    11     6    3    2    22   13    21</p>
+<p> Twente Enschede	    11     6    3    2    15    9    21</p>
+<p> Vitesse Arnhem	     11     5    3    3    16   10    18</p>
+<p> Ajax Amsterdam	     11     4    5    2    11    8    17</p>
+<p> Roda JC Kerkrade	   11     4    4    3    11   11    16</p>
+<p> Heerenveen		   11     3    6    2    19   14    15</p>
+<p> Sparta Rotterdam	   11     4    3    4    12   10    15</p>
+<p> NAC Breda		    11     4    2    5    10   17    14</p>
+<p> Fortuna Sittard	    11     3    3    5     8   16    12</p>
+<p> NEC Nijmegen		 11     2    5    4    12   17    11</p>
+<p> Volendam		     11     2    5    4    10   17    11</p>
+<p> Utrecht			12     1    8    3    16   18    11</p>
+<p> AZ Alkmaar		   11     3    1    7    10   13    10</p>
+<p> Willem II Tilburg	  12     2    4    6    13   21    10</p>
+<p> RKC Waalwijk		 11     2    3    6    11   20     9</p>
+<p> Groningen		    11     2    3    6    11   22     9</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

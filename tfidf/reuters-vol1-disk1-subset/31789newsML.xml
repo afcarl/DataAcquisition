@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31789" id="root" date="1996-09-04" xml:lang="en">
+<title>COLOMBIA: Colombian peso closes slightly lower at 1,044.50.</title>
+<headline>Colombian peso closes slightly lower at 1,044.50.</headline>
+<dateline>BOGOTA 1996-09-04</dateline>
+<text>
+<p>Colombia's peso closed slightly lower at 1,044.50 after a day of see-saw trading on the country's interbank market, dealers said.</p>
+<p>They said the peso hit an intraday high against the dollar of 1,042.25 and a low of 1,046 before settling just 20 centavos lower than Tuesday's close at 1,044.20.</p>
+<p>Dealers reported 459 trades for a total of $177 million and said dollar sales by oil exporters and demand for greenbacks by the corporate sector counteracted one another over the course of the trading day.</p>
+<p>-- Juan Guillermo Londono, Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

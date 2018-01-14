@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135613" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: PRESS DIGEST - Switzerland - Oct 22.</title>
+<headline>PRESS DIGEST - Switzerland - Oct 22.</headline>
+<dateline>ZURICH 1996-10-22</dateline>
+<text>
+<p>Here are the highlights from Swiss newspapers on Tuesday:</p>
+<p>NEUE ZUERCHER ZEITUNG</p>
+<p>- The university of the Italian-speaking part of Switzerland was opened Monday. The new institution has three faculties: economics, architecture and communication.</p>
+<p>- Some 50 percent of all 2,704 Swiss persons who became unemployed in September were between 15 and 24 years old, the Federal Office for Statistics said.</p>
+<p>TAGES ANZEIGER</p>
+<p>- Two leading Swiss trade unions, GBI and SMUV, announced plans to cooperate. They also said that they wished to cooperate with other trade unions as well.</p>
+<p>- Swissair ground staff is facing a three percent cut in wages in 1997, and bonuses will be reduced significantly. Weekly working hours will be reduced from 42 to 41 hours.</p>
+<p>- Swiss president Jean-Pascal Delamuraz met Luxembourg's Prime Minister Jean-Claude Junker in Berne to discuss bilateral negotiations between Switzerland and Europe.</p>
+<p>JOURNAL DE GENEVE</p>
+<p>- Representatives of the European Union expressed disappointment that Switzerland has not yet accepted a compromise with respect to free-flow of persons within Europe.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

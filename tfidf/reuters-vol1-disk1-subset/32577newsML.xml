@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32577" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Osicom to buy Cray unit.</title>
+<headline>Osicom to buy Cray unit.</headline>
+<dateline>SANTA MONICA, Calif. 1996-09-04</dateline>
+<text>
+<p>Osicom Technologies Inc said on Wednesday it has agreed to acquire Cray Communications, Inc., the U.S. division of UK-based Cray Electronics Holdings for $17 million.</p>
+<p>Osicom said the unit is currently profitable, and is expected to add approximately $28 million to Osicom's annual revenues, the company said.</p>
+<p>Under the acquisition agreement, the total purchase will consist of $14 million in cash and $3 million in Osicom preferred stock.</p>
+<p>The cash payment will be used to purchase the stock of the U.S. division and for repayment of debt to both the bank and the parent company, Osicom said.</p>
+<p>The acquisition will be accounted for as a purchase, with the allocation of the purchase price to be determined in the near future.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA MONICA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131921" id="root" date="1996-10-21" xml:lang="en">
+<title>SINGAPORE: SIMEX Brent rises as NYMEX hits five-year high.</title>
+<headline>SIMEX Brent rises as NYMEX hits five-year high.</headline>
+<dateline>SINGAPORE 1996-10-21</dateline>
+<text>
+<p>SIMEX Brent December futures traded to a contract high on Monday, taking their cue from a fresh five-year high on NYMEX crude trading on ACCESS.</p>
+<p>NYMEX prompt crude futures traded at $25.86 per barrel on ACCESS -- their highest since hitting $25.85 in New York trading on Friday which broke the five-year high of $25.70 that had stood since April.</p>
+<p>November last traded on ACCESS -- an after-hours dealings system -- at $25.85.  </p>
+<p>Brokers said the ACCESS high prompted SIMEX December Brent to trade at a contract high of $24.65 per barrel, 12 cents higher than the London settlement on Friday of $24.53.</p>
+<p>Worries about low heating oil stocks in Europe and the United States, heading into the cold winter season, has reignited a bull run, traders said.</p>
+<p>Fighting among Kurdish factions in Iraq and Russian President Boris Yeltsin sacking of his security advisor had added to the bullish tone late last week.</p>
+<p>-- Singapore Newsroom (+65 870 3081)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

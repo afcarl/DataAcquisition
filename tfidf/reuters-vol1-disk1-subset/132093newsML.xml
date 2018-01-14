@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132093" id="root" date="1996-10-21" xml:lang="en">
+<title>TAIWAN: Evergreen unit to issue T$1.4 bln bonds.</title>
+<headline>Evergreen unit to issue T$1.4 bln bonds.</headline>
+<dateline>TAIPEI 1996-10-21</dateline>
+<text>
+<p>Gloria Heavy Industrial Corp, a member of Taiwan shipping giant Evergreen Marine group, said on Monday it would issue T$1.4 billion in secured corporate bonds in late November to raise operating funds.</p>
+<p>&quot;We do plan to issue T$1.4 billion in unsecured corporate bonds in late November,&quot; a Gloria spokeswoman told Reuters.</p>
+<p>The five-year bonds will bear a semiannual interest rate of 6.45 percent, equivalent to 6.554 percent per year, she said.</p>
+<p>Gloria is an unlisted maker of stainless steel products.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

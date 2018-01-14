@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135299" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Argentina mulls 20-25 bln yen samurai bond issue.</title>
+<headline>Argentina mulls 20-25 bln yen samurai bond issue.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Argentina is considering launching approximately 20 billion to 25 billion yen worth of samurai bonds with a duration of seven to 10 years, underwriting sources said on Tuesday.</p>
+<p>&quot;Argentina informed several brokerage houses last Friday that it was intending to issue both Euroyen and samurai bonds,&quot; one underwriter said.</p>
+<p>It had yet to decide the lead manager, he said.  </p>
+<p>At that time, Argentina told them it was thinking of issuing about 20 to 25 billion yen worth of seven to 10-year samurai bonds, and 30 to 40 billion yen worth of Eurobonds, with durations of five to 10-years, they said.</p>
+<p>They said the samurai bonds might be lead-managed by Nikko Securities, whose subsidiary, Nikko Europe, was also named as lead manager of Euroyen bonds by Argentina. The bonds could be launched after the launch of Euroyen bonds.</p>
+<p>-- Tokyo Treasury Desk +81-3-3432-8785</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

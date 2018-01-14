@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135001" id="root" date="1996-10-22" xml:lang="en">
+<title>FINLAND: RAISIO JUMPS ON SWEDISH BUY.</title>
+<headline>RAISIO JUMPS ON SWEDISH BUY.</headline>
+<dateline>HELSINKI 1996-10-22</dateline>
+<text>
+<p>Shares in Finnish foodstuffs, animal feed and chemicals group Raision Tehtaat Oy rose sharply on Tuesday after it said it had bought a majority share in Swedish margarine maker Carlshamn Mejeri Ab.</p>
+<p>At 1110/0810 GMT, Raisio was up 7.50 markka or over two percent at 295.00 after earlier touching 299.00, up four percent, but volume was very thin at 6,500 shares.</p>
+<p>&quot;I don't think this price can hold because the stock has been under pressure recently,&quot; one broker said, adding that early buyers seemed to be domestic and news of the deal may encourage profit taking. -- Helsinki newsroom +35 89 6805 0247</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

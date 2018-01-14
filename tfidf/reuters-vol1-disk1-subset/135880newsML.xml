@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135880" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Elcotel Inc Q2 shr up.</title>
+<headline>Elcotel Inc Q2 shr up.</headline>
+<dateline>SARASOTA, Fla. 1996-10-23</dateline>
+<text>
+<p>ELCOTEL, INC.</p>
+<p>				    Operating Results</p>
+<p>		     (In thousands, except per share amount)</p>
+<p>			     Second Quarter Ended  Six Months Ended</p>
+<p>					  September 30,  September 30,</p>
+<p>				     1996     1995    1996	 1995</p>
+<p> Net Revenues		   $6,101  $5,484 $11,652    $11,304</p>
+<p> Net Profit before Inc. Taxes  503     127     805	  702</p>
+<p> Income Tax Provision	    177	44     282	  246</p>
+<p> Net Profit			  326	83     523	  456</p>
+<p> Net Profit per common share  0.04    0.01    0.06	 0.06</p>
+<p>Weighted Avg. number of common</p>
+<p>and common equivalent shares</p>
+<p>  outstanding		    8,310   8,226   8,294	8,219</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARASOTA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

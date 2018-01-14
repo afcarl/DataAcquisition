@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134896" id="root" date="1996-10-22" xml:lang="en">
+<title>VATICAN: Pope to celebrate public mass on Sunday.</title>
+<headline>Pope to celebrate public mass on Sunday.</headline>
+<dateline>VATICAN CITY 1996-10-22</dateline>
+<text>
+<p>Pope John Paul will celebrate public mass next Sunday for the first time since his appendix operation two weeks ago, the Vatican announced on Tuesday.</p>
+<p>It said the Pontiff, 76, would lead a service at St Peter's Basilica to mark the 350th anniversary of the 1646 Union of Uzhorod, which sealed the return of the Eastern Orthodox Ruthene Church to union with the Roman Catholic Church.</p>
+<p>Papal masses usually last about three hours.</p>
+<p>The Polish-born Pope had his appendix removed at Rome's Gemelli Hospital on October 8. His regular duties have been suspended during his convalescence though he has addressed pilgrims on both of the past two Sundays.</p>
+<p>Tuesday's Vatican statement said the Pope would celebrate Sunday's mass according to the Byzantine-Ruthene rite with bishops and priests of the Ruthene Church.</p>
+<p>It said the mass would offer an opportunity for prayers for unity among all Christians.</p>
+<p>The Pope has set Christian unity as a primary goal of his papacy in the run-up to the year 2000, when he hopes to lead celebrations of the start of Christianity's third millennium.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VATICAN CITY"/>
+<dc element="dc.creator.location.country.name" value="VATICAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

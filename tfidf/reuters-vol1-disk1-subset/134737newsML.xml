@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134737" id="root" date="1996-10-22" xml:lang="en">
+<title>TURKEY: Turkey insists on no Turks in casinos.</title>
+<headline>Turkey insists on no Turks in casinos.</headline>
+<dateline>ANKARA 1996-10-22</dateline>
+<text>
+<p>Turkey's Islamist-led government has demanded stricter implementation of its recent ban on Turks entering the country's casinos, an interior ministry spokesman said on Tuesday.</p>
+<p>He said Interior Minister Mehmet Agar had sent a note to all provincial governors warning them to tighten identity checks at casinos to keep Turks out.</p>
+<p>&quot;According to some press reports, customers' passports are not being checked when they enter the casinos,&quot; spokesman Ibrahim Saracoglu told Reuters.</p>
+<p>The government last month ordered that Turks be excluded from casinos, saying that families were being broken up by gambling. There are also wide concerns that the gambling industry is used for money laundering.</p>
+<p>Leading figures in the casino industry, which depends primarily on domestic gamblers, have protested at the ban.</p>
+<p>Casino revenues have already been hit by a previous order that restricted weekday opening hours and imposed a dress code.</p>
+<p>Casinos do good business in touristic areas on the Aegean and Mediterranean coast.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31699" id="root" date="1996-09-04" xml:lang="en">
+<title>SLOVAKIA: SLOVAK VSZ SIGNS DEAL WITH CZECH TRINECKE.</title>
+<headline>SLOVAK VSZ SIGNS DEAL WITH CZECH TRINECKE.</headline>
+<dateline>BRATISLAVA 1996-09-04</dateline>
+<text>
+<p>Slovak steel maker VSZ a.s. said it had signed a contract with Czech Trinecke Zelezarny and Trinecke's main shareholder Moravia Steel a.s., for cooperation in distribution and sales.</p>
+<p>The deal calls for the partners to use their trading channels for deliveries of each other's supplies, and their trade networks for sales of products which are not competing against those from the other company.</p>
+<p>Some analysts are suggesting that VSZ and Trinecke are possibly preparing some type of merger, but a statement did not mention any such plan, and company officials were not immediately available for further comment.</p>
+<p>-- Tatiana Vacova, Bratislava Nesroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

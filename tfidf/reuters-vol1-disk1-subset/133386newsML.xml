@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133386" id="root" date="1996-10-22" xml:lang="en">
+<title>CHILE: Chile's Copec sees higher Q3 earnings.</title>
+<headline>Chile's Copec sees higher Q3 earnings.</headline>
+<dateline>SANTIAGO 1996-10-22</dateline>
+<text>
+<p>Chilean forestry and industrial conglomerate Compania de Petroleos de Chile SA, or Copec, will show a slight improvement in its third quarter earnings over the second, due to a modest recovery in paper pulp prices, general manager Felipe Lamarca said.</p>
+<p>Lower sales of pulp, of which Copec subsidiary Celulosa Arauco is the country's largest producer, have had a negative impact on earnings this year compared with last year, despite the recent upturn, but the company's balance sheet will still look a little better, said Lamarca.</p>
+<p>''The results up to the third quarter are going to be a bit better,'' he told reporters.</p>
+<p>Copec, owned by Chile's Angelini group, reported net profits of 55 billion pesos on revenues of 308 billion pesos in the first half of the year, compared to profits of 112 billion on revenues of 265 billion pesos in the same period of 1995.</p>
+<p>Chilean companies have until October 31 to report their third quarter earnings.</p>
+<p>--Rodrigo Martinez/Roger Atwood, Santiago newsroom +56-2- 699-5595 x211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

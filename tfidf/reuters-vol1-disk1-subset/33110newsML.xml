@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33110" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Delta buys Fairchild loading system.</title>
+<headline>Delta buys Fairchild loading system.</headline>
+<dateline>CHANTILLY, Virginia 1996-09-03</dateline>
+<text>
+<p>Fairchild Corporation say it will install an automated cargo and baggage loading system in all 150 of Delta Airlines McDonnell Douglas MD-88 and MD-90 aircraft. Terms were not disclosed.</p>
+<p>The Sliding Carpet systems are manufacturered by Fairchild's Scandinavian Bellyloading Company AB.</p>
+<p>The system enables a single groundworker to load cargo and baggage from outside the aircraft and does away with the need to position an employee inside the belly of the aircraft to assist with loading. -Air Cargo Newsroom Tel+44 171 542 7706 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHANTILLY, Virginia"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

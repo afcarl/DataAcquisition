@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133975" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CME weekly pork belly out-of-town estimates.</title>
+<headline>CME weekly pork belly out-of-town estimates.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Analysts estimate Tuesday's CME weekly out-of-town cold storage report will show a net in movement of 500,000 to 1.0 million lbs.</p>
+<p>This compares with a net in-movement of 130,000 million a week ago and an out-movement of 627,000 a year ago.</p>
+<p>The report will be released at 1330 CDT.</p>
+<p>--Chicago newsdesk 312-408-8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136073" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Poughkeepsie Savings Bank FSB Q3 loss.</title>
+<headline>Poughkeepsie Savings Bank FSB Q3 loss.</headline>
+<dateline>POUGHKEEPSIE, N.Y. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.05   profit	 $0.07</p>
+<p> Net loss		     588   profit	   915</p>
+<p>	   9 MONTHS</p>
+<p> Shr profit		 $0.02   profit	 $0.33</p>
+<p> Net profit		   214   profit	 4,190</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: 1996 periods include a charge of $1.58 million, or $0.12 a share, from an assessment by the Federal Deposit Insurance Corp.  </p>
+<p>Total assets at Sept 30, 1996: $860.9 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="POUGHKEEPSIE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

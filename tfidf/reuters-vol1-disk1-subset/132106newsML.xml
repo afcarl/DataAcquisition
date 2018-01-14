@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132106" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Toshiba says to make, sell colour TVs in Vietnam.</title>
+<headline>Toshiba says to make, sell colour TVs in Vietnam.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Toshiba Corp said on Monday that it had set up a joint venture in Vietnam to produce and sell colour television sets.  </p>
+<p>The venture, called Toshiba Vietnam Consumer Products Co Ltd, was formed in Ho Chi Minh City on October 1, Toshiba said in a statement.</p>
+<p>The venture, capitalised at $2 million, is 64 percent owned by Toshiba unit Toshiba Singapore Pte Ltd and 36 percent by Viettronics Thu Duc Co, a Vietnamese consumer products maker, Toshiba said.</p>
+<p>Construction and manufacturing equipment costs will amount to about $6.7 million by March 1999, Toshiba said.</p>
+<p>Production is scheduled to begin in July 1997 and initial production capacity of 88,000 units a year is expected, it said.</p>
+<p>The company will make 14-inch, 20-inch and 21-inch colour TVs, Toshiba said.</p>
+<p>The venture will initially hire 140 employees, rising to 220 in 1999, Toshiba said.</p>
+<p>The venture's output will be sold in Vietnam and exported to other Asian countries as well, Toshiba said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

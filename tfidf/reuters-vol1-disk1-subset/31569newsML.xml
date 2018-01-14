@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31569" id="root" date="1996-09-04" xml:lang="en">
+<title>BURKINA FASO: Burkina Faso president shuffles cabinet.</title>
+<headline>Burkina Faso president shuffles cabinet.</headline>
+<dateline>OUAGADOUGOU 1996-09-04</dateline>
+<text>
+<p>Burkina Faso's President Blaise Compaore has shuffled his cabinet, putting Prime Minister Kadre Desire Ouedraogo in charge of the finance portfolio and bringing in three new ministers.</p>
+<p>Former finance minister Zephirin Diabre leaves the government, deputy minister for the budget Tertius Zongo becomes deputy minister for finance and economic development, and Daouda Bayili joins the government to replace Zongo, an official statement issued on Tuesday evening said.</p>
+<p>Compaore also named new labour and communication ministers.</p>
+<p>Ouedraogo, a former deputy governor of the Central Bank of West African States (BCEAO), took office in February. Burkina Faso is developing its mineral wealth and his government is aiming for annual gross domestic product growth of five percent between 1996 and 1999.</p>
+<p>Parliamentary elections are due in the West African country in the first half of next year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UPVOLA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OUAGADOUGOU"/>
+<dc element="dc.creator.location.country.name" value="BURKINA FASO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

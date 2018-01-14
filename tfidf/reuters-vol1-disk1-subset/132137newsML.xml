@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132137" id="root" date="1996-10-21" xml:lang="en">
+<title>TAIWAN: Taiwan Sept industrial output up 3.9 pct yr/yr.</title>
+<headline>Taiwan Sept industrial output up 3.9 pct yr/yr.</headline>
+<dateline>TAIPEI 1996-10-21</dateline>
+<text>
+<p>Taiwan's industrial output in September rose 3.90 percent from September 1995, the economics ministry said on Monday.  </p>
+<p>						  September     August</p>
+<p> Industrial output (pct yr/yr)	    +3.9	   +0.09</p>
+<p>In month-on-month terms, September industrial output was down 0.58 percent from August, the ministry said.</p>
+<p>The manufacturing index, including metals, machinery, information electronics, chemical and consumer products, rose 3.78 percent in September from September 1995.</p>
+<p>Real estate and construction industry output fell 0.59 percent from a year earlier. Mining industry put fell 11.09 percent compared with a year earlier.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

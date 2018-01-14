@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32853" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Fed seen adding reserves via overnight system RPs.</title>
+<headline>Fed seen adding reserves via overnight system RPs.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The Federal Reserve is expected to add temporary reserves to the U.S. banking system on Wednesday via overnight system repurchase agreements, market analysts said.</p>
+<p>&quot;We're looking for an overnight system RP,&quot; said Dana Saporta, economist at Stone &amp; McCarthy Research Associates Inc. &quot;In the remaining eight days of the current reserve period we put the Fed's daily average add need at $5.8 billion.&quot;</p>
+<p>Saporta said Tuesday's early intervention most likely resulted from a particularly large add-need for that day.  </p>
+<p>Analysts at Aubrey G. Lanston &amp; Co Inc were also calling for overnight system RPs on Wednesday.</p>
+<p>At 1100 EDT/1500 GMT, the federal funds rate was trading at 5-5/16 percent, slightly above the Fed's 5-1/4 percent target for the rate.</p>
+<p>-- N.A. Treasury Desk 212-859-1673</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

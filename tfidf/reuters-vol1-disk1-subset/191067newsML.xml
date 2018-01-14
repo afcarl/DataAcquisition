@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191067" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: The microprocessor celebrates its 25th birthday Friday.  [CORRECTED 00:25 GMT 20/11]</title>
+<headline>The microprocessor celebrates its 25th birthday Friday.  [CORRECTED 00:25 GMT 20/11]</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-11-14</dateline>
+<text>
+<p>The chips that today power 200 million personal computers and spurred the digital revolution began life 25 years ago as a start-up company's last ditch effort to retain one customer.</p>
+<p>With all the change wrought by Intel Corp.'s invention of the computer chip, some industry experts think the biggest impact is yet to come.</p>
+<p>In 1969, Intel, then a year old and with scant revenues, needed to make a simpler version of its logic semiconductor product to please Busicom Ltd., a calculator maker in Japan.</p>
+<p>&quot;I was aware of project cost targets. When I saw the design (for the Busicom semiconductor), I became concerned that the chip set might be too complex and too expensive,&quot; Marcian Tedd Hoff, the Intel engineer credited with inventing the microprocessor, wrote in a recent magazine article.</p>
+<p>&quot;I felt that a simpler, more cost-effective chip set could be made if a very simple but general purpose, single-chip computer would be programmed to perform the calculator functions.&quot; So Hoff and his team set to work.</p>
+<p>At first, according to various accounts, the chip design was rejected by Busicom and shrugged off by Intel.</p>
+<p>But after much urging by Hoff and his team, Intel on Nov. 15, 1971, introduced the 4004 microprocessor, a 4-bit chip with 2,300 transistors, as a product for the general market.</p>
+<p>Motorola Corp. and Texas Instruments Inc. soon developed their 6800 and TMS-1000 chips, which were seen as major advances in microprocessors.</p>
+<p>Intel Chairman Gordon Moore told Reuters recently that in 1971, Intel had no idea the microprocessor would help spawn the PC industry, today worth about $300 billion in total annual sales of hardware and software.</p>
+<p>&quot;We thought it would be useful in a lot of control applications like elevators. Frankly we didn't see the importance of putting a keyboard and display terminal with it,&quot; Moore said. The first PC is widely believed to be the &quot;Altair&quot;  introduced in 1975 by the MITS company, according to officials at the Boston  Computer Museum, the Computer Industry Almanac and other books). (Corrects  to show MITS introduced first personal computer not IBM).</p>
+<p>Moore had to develop marketing for the chip. &quot;Announcing a New Era of Integrated Electronics,&quot; read the first advertisement. Arresting as that was, it did not nearly capture how the microprocessor would change things.</p>
+<p>With nearly every worker in developed countries using a PC or chip-based communications device each day, microprocessors now govern how we work. They also influence how we bank, drive our cars and entertain ourselves.</p>
+<p>Nonetheless, many analysts and executives think society is only now beginning to be smart about uses for microprocessors.</p>
+<p>Michael Slater, president of MicroDesign Resources Inc. research firm, says that despite the powers of the PC they've mostly been used for the same mathematical and word processing purposes as older computers and typewriters before them.</p>
+<p>Only now with the Internet are microprocessors changing life. &quot;The deepest changes to result from microprocessors will derive from their use in communications devices,&quot; he said.</p>
+<p>Dan Klesken, senior semiconductor analyst at Robertson, Stephens &amp; Co. who was an engineer at Texas Instruments in 1971 said, &quot;The advances that have happened up to now, in 25 years of the microprocessor, will pale by comparison what we will see over the next 25 years.&quot;</p>
+<p>He said 25 years ago, the first microprocessor could do 60,000 instructions a second and you had to spend $1 million for a computer capable of doing a million instructions per second (MIP), a common measure of computing power. Today you spend about $10 for every MIP, but in 20 years you'll spend about 2/10 of a cent, Klesken estimated.</p>
+<p>That power, he said, will allow live video transmission for things such as PC-based phone calls and instantaneous language translation across networks.</p>
+<p>At the same time, the microprocessors being rolled off the production lines at Intel might be challenged in coming years. Many computer companies are promoting new network computer devices that won't need high powered Pentium microprocessors that fuel Intel profits. The simple devices are to run on simple microprocessors.</p>
+<p>Intel Executive Vice President Craig Barrett told Reuters that Intel was not daunted.</p>
+<p>&quot;Every year for the past 20 years we've had a serious challenge to our leadership. We've had the 6800, Sparc, MIPS, the PowerPC, Alpha, RS6000, the Japanese,&quot; he said, naming chips developed by Sun Microsystems, Silicon Graphics, Motorola, IBM and Digital Equipment Corp. &quot;Constant challenges and we work our tails off in response,&quot; he said.</p>
+<p>At next week's Comdex computer industry trade show, Intel Chief Executive Andy Grove is sheduled to give a keynote speech on the the microprocessor's past and future.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133133" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Polish shares fall in higher turnover.</title>
+<headline>Polish shares fall in higher turnover.</headline>
+<text>
+<p>1120 GMT - Polish shares extended a four-session fall in higher turnover but buying was stronger after price fixing. * The main market's WIG index fell 246.9 points, or 1.7 percent, to 14,133.4, the WIG 20 fell two percent to 1,456.0 and the parallel market's WIRR rose 2.2 percent to 2,576.6. * Turnover rose 5.3 percent to 103.2 million zlotys on both markets as 55 issues fell, 10 rose and 15 were flat. Buy orders for 21 and sell offers for two stocks were unmatched. Most active Elektrim fell 0.8 percent in a 7.4 -million -zloty turnover. NFI units rose 0.3 percent in 16.6-million-zloty trade. -- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

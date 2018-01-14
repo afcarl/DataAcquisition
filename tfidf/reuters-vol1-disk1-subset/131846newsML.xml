@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131846" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Grundy ups stake in AWA to 17.07 pct.</title>
+<headline>RTRS-Grundy ups stake in AWA to 17.07 pct.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>RG Investments (Australia) Ltd, a company associated with Australian television entrepreneur Reg Grundy, has increased its stake in electronics and gaming operator AWA Ltd to 17.07 percent from 14.96 percent.</p>
+<p>RG Investments said in a substantial shareholder notice to the Australian Stock Exchange that it now held 37.67 million AWA shares, compared with 33.01 million previously.</p>
+<p>AWA shares ended steady at 94 cents.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

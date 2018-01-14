@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31436" id="root" date="1996-09-04" xml:lang="en">
+<title>ROMANIA: ROMANIAN SERVICES RISE 13.9 PERCENT IN JULY.</title>
+<headline>ROMANIAN SERVICES RISE 13.9 PERCENT IN JULY.</headline>
+<dateline>BUCHAREST 1996-09-04</dateline>
+<text>
+<p>Commercial services in Romania saw a 13.9 percent real term rise in July, although they were 9.0 percent down year-on-year, a National Statistics Board report said.</p>
+<p>Data, adjusted by the number of working days, refers to services delivered mainly to the population and exclude transport, mail and telecoms.</p>
+<p>Services to consumers amounted to 351.4 billion lei in July, pushing the seven-month figure to 1.88 trillion lei, which was 2.7 percent up from the equivalent period of 1995.</p>
+<p>The private sector took 73.6 percent of seven-month services, up from 73.3 percent in the same period of 1995. -- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

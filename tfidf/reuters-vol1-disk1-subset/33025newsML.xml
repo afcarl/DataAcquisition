@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33025" id="root" date="1996-09-04" xml:lang="en">
+<title>ISRAEL: Israel provident funds can be used as collateral.</title>
+<headline>Israel provident funds can be used as collateral.</headline>
+<dateline>JERUSALEM 1996-09-04</dateline>
+<text>
+<p>Investors in Israeli provident funds will be able to use their savings in these funds as collateral to obtain bank loans, the central bank said in a statement.</p>
+<p>Provident funds are long-term saving funds that enjoy special tax breaks.</p>
+<p>The measure, which takes effect immediately, is aimed at encouraging investors to keep their money in the funds even after 15 years, when the savings are fully eligible for tax benefits.</p>
+<p>Until recently investors left their savings in the funds even after 15 years, but the funds' recent poor performances caused by falling stock and bond prices have triggered massive redemptions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

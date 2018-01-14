@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31616" id="root" date="1996-09-04" xml:lang="en">
+<title>POLAND: Poland sacks foreign trade minister.</title>
+<headline>Poland sacks foreign trade minister.</headline>
+<dateline>WARSAW 1996-09-04</dateline>
+<text>
+<p>Poland's president on Wednesday dismissed Foreign Trade Minister Jacek Buchacz after official probes showed irregularities in his ministry's handling of the Export Credit Guarantee Fund, a government statement said.</p>
+<p>&quot;The motion of the head of cabinet in this matter is linked with a need to guarantee better care over the interests of the state treasury,&quot; the statement said.  </p>
+<p>The statement said the minister's dismissal was &quot;closely bound up with the results of oversight activities&quot; of the Supreme Auditing Chamber and the Cabinet Supervision Office.</p>
+<p>It involved &quot;matters engaging the state treasury in ventures connected to export guarantees in which the state and private property were clearly divided.&quot;</p>
+<p>Buchacz, 48, is a member of the Polish Peasant Party, the smaller partner in the two-party ruling leftist coalition, which is dominated by the ex-communist Democratic Left Alliance (SLD).</p>
+<p>A source close to the government said SLD's Prime Minister Wlodzimierz Cimoszewicz had surprised the Peasant party with a motion to dismiss Buchacz. The two parties were said to be holding a crisis meeting over the dismissal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32884" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Oroamerica Q2 shr loss narrows to $0.10.</title>
+<headline>Oroamerica Q2 shr loss narrows to $0.10.</headline>
+<dateline>BURBANK, Calif. 1996-09-04</dateline>
+<text>
+<p>OroAmerica, Inc.</p>
+<p>			  Consolidated Statements of Income</p>
+<p>				     (Unaudited)</p>
+<p>		 (Dollar in thousands, except per share amounts)</p>
+<p>				  For the		   For the</p>
+<p>			     13 weeks ended	  26 weeks ended</p>
+<p>			   7/28/95     8/2/96    7/28/95     8/2/96</p>
+<p> Net sales	     $33,043    $29,747    $75,380    $74,662</p>
+<p>Cost of goods sold,</p>
+<p>exclusive of</p>
+<p>  depreciation	  28,226     24,691     63,382     61,360</p>
+<p> Gross profit	    4,817	5,056     11,998     13,302</p>
+<p>Selling, general and</p>
+<p>administrative expense</p>
+<p>			     6,043	5,354     12,434     12,272</p>
+<p>Operating (loss) income</p>
+<p>			   (1,226)	(298)	(436)	1,030</p>
+<p> Interest expense	  684	  645	1,359	1,433</p>
+<p>Loss before income taxes</p>
+<p>			   (1,910)	(943)    (1,795)	(403)</p>
+<p>Benefit for income taxes</p>
+<p>			     (802)	(298)	(754)	 (45)</p>
+<p> Net loss		(1,108)	(645)    (1,041)	(358)</p>
+<p> Net loss per share   (0.18)     (0.10)     (0.17)     (0.05)</p>
+<p>Weighted average shares</p>
+<p>  outstanding	6,248,378  6,265,893  6,248,378  6,265,226</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURBANK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

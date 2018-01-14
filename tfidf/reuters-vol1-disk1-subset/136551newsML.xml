@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136551" id="root" date="1996-10-23" xml:lang="en">
+<title>CROATIA: Croatia bank sells HRK 362 bills, rates unchanged.</title>
+<headline>Croatia bank sells HRK 362 bills, rates unchanged.</headline>
+<dateline>ZAGREB 1996-10-23</dateline>
+<text>
+<p>Bill volume increased to 362.0 million kuna from 170.8 million kuna in five- and 13-week bills at steady rates at a weekly auction on Wednesday.</p>
+<p>Five-week bills were issued on volume of 316 million kuna at 8.0 percent, unchanged for the past two weeks. The 13-week rate was also flat at 9.50 percent.</p>
+<p>There were no bids for 26-week paper last issued three</p>
+<p>months ago.</p>
+<p>-- Metka Jelenc, Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

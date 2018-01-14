@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132314" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: CaribGold reports Cuba gold results.</title>
+<headline>CaribGold reports Cuba gold results.</headline>
+<dateline>TORONTO 1996-10-22</dateline>
+<text>
+<p>CaribGold Resources Inc said on Tuesday that all the drilling results from its exploration program in Cuba have been received.</p>
+<p>Assay results from the Beatriz prospect indicate a geological resource of 1.1 million tonnes with a grade of 4.73 gram of gold per tonne or about 154,00 contained ounces of gold.</p>
+<p>The zone remains open along the strike and to the southeast, CaribGold said.</p>
+<p>Drill results from the South Elena project, near the Beatriz vein, showed gold values in four of eight of the last drill holes.</p>
+<p>Grades ranged from 0.99 grams per tonne to 4.33 grams per tonne of gold over intervals ranging from 5.2 metres to 13.2 metres, the company said.</p>
+<p>-- Reuters Toronto Bureau 416-941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133551" id="root" date="1996-10-22" xml:lang="en">
+<title>VIETNAM: Death toll climbs to 118 in Vietnam's Mekong Delta.</title>
+<headline>Death toll climbs to 118 in Vietnam's Mekong Delta.</headline>
+<dateline>HANOI 1996-10-22</dateline>
+<text>
+<p>Flooding in southern Vietnam's Mekong Delta has killed 118 people, most of them children, and left more than half a million others short of food, relief workers said on Tuesday.</p>
+<p>An official with the International Federation of Red Cross and Red Crescent Societies in Ho Chi Minh City said 100 children had died in the floods which had caused almost $100 million worth of damage across eight provinces.</p>
+<p>Official media reports said Prime Minister Vo Van Kiet, who visited the region last week, promised that surplus stocks of rice in flood-prone areas would be bought from farmers by the government.</p>
+<p>For some farmers, though, the damage has already been done.</p>
+<p>The Red Cross official said 46,513 hectares (114,930 acres) of paddy fields were under water, more than six percent of which had been completely destroyed.</p>
+<p>It said 3.98 million people were in need of relief, more than 507,000 were facing serious food shortages and nearly quarter of a million houses had been inundated or washed away.</p>
+<p>Relief workers said stagnant pools of water left by the flooding were increasing the risk of mosquito-borne dengue fever.</p>
+<p>Flooding of the lower stretches of the Mekong, one of Southeast Asia's major rivers, has become an annual problem. Last year, floods claimed 127 lives.</p>
+<p>Environmentalists say the situation is getting worse because of deforestation in upstream catchment areas and the diversion of natural water channels for farming in the heavily populated lower stretches of the river.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31290" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Spending on new construction fell sharply in July.</title>
+<headline>Spending on new construction fell sharply in July.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>Spending on new construction dropped sharply during July to its lowest rate in five months, the Commerce Department said Wednesday, as new-home building slumped at the steepest rate in more than a year.</p>
+<p>The 1.4 percent plunge in spending to a seasonally adjusted annual rate of $554.7 billion was the biggest monthly drop since a 2.6 percent decline in February. July's spending rate was the lowest since February, when it was running at a $544.6 billion rate.</p>
+<p>The falloff in July spending was much sharper than anticipated by Wall Street economists, who had forecast only a 0.2 percent decrease from June.</p>
+<p>Weaker spending on construction projects in July may offset some of the concern fanned by other recent reports that suggested the economy was not losing momentum quickly enough to head off interest-rate rises by the Federal Reserve to control inflation.</p>
+<p>Declines in July construction spending were across the board, affecting both privately and publicly financed projects, from new homes and offices to sewer systems and conservation projects.</p>
+<p>June construction spending rose a revised 0.7 percent instead of the 1.2 percent gain the department estimated a month ago.</p>
+<p>Privately financed construction spending dropped 1.6 percent in July to a rate of $415.4 billion following a 1.1 percent June increase. Spending on public, or taxpayer financed projects, was down 0.9 percent in July after a 0.5 percent June decrease.</p>
+<p>Among private projects, spending for new housing plummeted 1.6 percent to a rate of $174.7 billion, the biggest monthly drop since a 2.4 percent fall in May 1995, the department said.</p>
+<p>Private spending on non-residential buildings dropped 3.6 percent in July to a $132.3 billion rate after a 5.2 percent jump in June spending.</p>
+<p>After allowing for inflation, total construction spending was down 1.9 percent in July to a seasonally adjusted $481.3 billion annual rate after a slight 0.3 percent rise in June, the department said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E61">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

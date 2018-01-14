@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131957" id="root" date="1996-10-21" xml:lang="en">
+<title>THAILAND: Mitsui, NEC win Thai contract.</title>
+<headline>Mitsui, NEC win Thai contract.</headline>
+<dateline>BANGKOK 1996-10-21</dateline>
+<text>
+<p>Mitsui and Co Ltd and NEC Corp said on Monday they jointly received an order from TelecomAsia Corp to set up a personal handyphone system (PHS) in Thailand.</p>
+<p>The companies said in a statement the five-year contract includes construction and supply of the system that can handle a maximum of one million subscribers.  </p>
+<p>Under the first phase, worth about 20 billion yen, the companies will begin construction this year and install the system in a 1,500 square km area in Bangkok. It will be done with the support of NTT Central Personal Communications Network Inc, a PHS operator in Japan.</p>
+<p>Mitsui is the main contractor and NEC is the supplier of the system, the statement said.</p>
+<p>TelecomAsia is a private telephone company operating 2.6 million lines of public telephone service in the Bangkok area.</p>
+<p>The company is planning to offer an additional telephone service called personal cordless telephone. Japan's PHS has successfully been used for this service.</p>
+<p>The PHS service, begun in Japan in July last year, has more than four million subscibers, the statement said.</p>
+<p>It said the Japanese government, telecommunication operators and manufacturers are promoting the system outside Japan to make PHS a standard for personal communication systems around the world.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

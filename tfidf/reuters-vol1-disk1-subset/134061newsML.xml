@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134061" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Olivetti to sue Francesconi for 100bln lir.</title>
+<headline>Olivetti to sue Francesconi for 100bln lir.</headline>
+<dateline>MILAN 1996-10-22</dateline>
+<text>
+<p>Italian information and technology group Olivetti is to sue its ex-director general in charge of finance and auditing Renzo Francesconi for damages of 100 billion lire after he cast doubts on the group's accounts, Olivetti said in a statement.</p>
+<p>Francesconi resigned in early September after he questioned the accuracy of Olivetti's first half 1996 accounts just one day after the results were made public.</p>
+<p>Olivetti said the group was to seek damages after Francesconi's comments which led to the suspension of Olivetti share trading after excessive share price falls.</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

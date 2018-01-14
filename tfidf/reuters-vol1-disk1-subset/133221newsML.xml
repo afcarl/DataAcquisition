@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133221" id="root" date="1996-10-22" xml:lang="en">
+<title>CZECH REPUBLIC: Czech SPT to launch bond issue by year-end.</title>
+<headline>Czech SPT to launch bond issue by year-end.</headline>
+<dateline>PRAGUE 1996-10-22</dateline>
+<text>
+<p>Czech telephone operator SPT Telecom a.s. on Tuesday said it would issue up to seven billion crowns worth of seven-year bonds by the end of the year.</p>
+<p>&quot;SPT...intends to issue bonds in the Czech capital markets of up to seven billion crowns and a maturity of seven years. The bonds will be lead managed by Ceska Sporitelna and it is foreseen to issue the paper at the year-end 1996,&quot; an SPT statement said.  </p>
+<p>&quot;The issue will focus on the domestic investor, particularly the retail sector and will also be sold through branches of Sporitelna throughout the Czech Republic,&quot; it added.</p>
+<p>It said funds from the issue will be used to help finance the firm's extensive network development programme.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

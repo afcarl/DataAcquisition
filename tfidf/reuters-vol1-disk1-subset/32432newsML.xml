@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32432" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Low margins force Danish oil mill stoppage - paper.</title>
+<headline>Low margins force Danish oil mill stoppage - paper.</headline>
+<dateline>HAMBURG 1996-09-04</dateline>
+<text>
+<p>Scanola A/S, a leading Danish oilseeds crusher, plans to shut down its plant from November 1996 through August 1997, the German grain trade paper Ernaehrungsdienst (ED) said on Wednesday.</p>
+<p>Speakers and delegates at an ED harvest seminar on Wednesday in Hamburg also said they had heard the news but Scanola was not represented and management in Copenhagen could not immediately be contacted.</p>
+<p>ED said the mill cited unsatisfactory crush margins and competition in the oversupplied European vegetable oils markets.</p>
+<p>Scanola is a supplier of rapeseed and sunseed meal to northern European feed industries and has a monthly crushing capacity of 30,000 tonnes of seeds.</p>
+<p>A speaker at the ED seminar said crush margins in some parts of Europe of $15 a tonne were unacceptable and crushers expected nearer $40 to be able to operate profitably.</p>
+<p>This situation could result in further plant stoppages.</p>
+<p>Danish rapeseed output is expected to be down at 250,000 tonnes this year after 320,000 tonnes in 1995 so crushers will be short of material, according to the Oil World newsletter.</p>
+<p>--Vera Eckert, Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

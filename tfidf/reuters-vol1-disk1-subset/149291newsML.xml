@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149291" id="root" date="1996-10-29" xml:lang="en">
+<title>CYPRUS: Keo H1 results show loss. [CORRECTED]</title>
+<headline>Keo H1 results show loss. [CORRECTED]</headline>
+<dateline>NICOSIA 1996-10-29</dateline>
+<text>
+<p>Results to June 30, 1996</p>
+<p>(In thousands (corrects from millions) of Cyprus pounds - loss in brackets)</p>
+<p>					 1996	    1995</p>
+<p>    Sales			  14,881	  14,244</p>
+<p>    Repayments		    1,014	     905</p>
+<p>    Pre tax profit		(393)	     123</p>
+<p>    Earnings per share (cent) (1.9)	     0.3</p>
+<p>NOTE : Keo Ltd is a wine, beer and bottled water producer. A company announcement losses were due to economic difficulties in the industrial sector during the period under review and a decline in tourism, on which the company depends for a sizeable portion of its revenue.</p>
+<p>Eight monthly results until August show significant improvement and Keo is expected to make profits in the second half of the year, the company said.</p>
+<p>-- Nicosia newsroom 357 2 365089</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

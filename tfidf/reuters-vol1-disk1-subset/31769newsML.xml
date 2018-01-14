@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31769" id="root" date="1996-09-04" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar ends flat, cenbank sells dlrs.</title>
+<headline>Venezuela bolivar ends flat, cenbank sells dlrs.</headline>
+<dateline>CARACAS 1996-09-04</dateline>
+<text>
+<p>The Venezuelan bolivar closed unchanged at 475.50/476.50 per dollar Wednesday, as the central bank met strong dollar demand, traders said.</p>
+<p>&quot;The market was most active in the afternoon when demand (for foreign currency) from corporate clients was felt. But this pressure had no effect on price because at the same time the Central Bank came out to defend the bolivar by selling dollars,&quot; one trader said.</p>
+<p>A further rise in interest rates of over a point and a half at Wednesday's auction of monetary stabilization also helped take pressure off the bolivar, traders said.</p>
+<p>Traders said they expected the exchange rate to remain little changed or slightly lower Thursday as the Central Bank continues to control the bolivar's depreciation.</p>
+<p>-- Silene Ramirez, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

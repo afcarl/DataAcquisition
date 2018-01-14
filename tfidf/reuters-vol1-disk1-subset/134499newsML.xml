@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134499" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Bristol-Myers says Q3 drug sales up 11 pct.</title>
+<headline>Bristol-Myers says Q3 drug sales up 11 pct.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Bristol-Myers Squibb Co said its worldwide pharmaceutical products sales rose 11 percent in the third quarter, despite a sharp drop in U.S. sales of its Capoten heart drug following expiration of its patent.</p>
+<p>A key driver in the company's pharmaceutical sales was its cholesterol-lowering drug Pravachol, which jumped 35 percent in the quarter to $261 million, the company said.</p>
+<p>U.S. Capoten sales dropped 72 percent in the quarter, due to the loss of its U.S. patent in February 1996 and the onset of competition from cut-priced generics, Bristol-Myers said. It did not provide a dollar figure for Capoten sales.  </p>
+<p>The company reported third quarter earnings of $1.50 a share, up from $1.36 a year ago and topping the First Call consensus estimate of $1.48 a share.</p>
+<p>&quot;I am pleased to report that, despite the continuing negative impact of the Capoten patent expiration, the company experienced solid sales and earnings growth during the third quarter,&quot; said Charles Heimbold, Bristol-Myers chairman and chief executive officer.</p>
+<p>Sales of the anti-cancer drug Taxol rose 34 percent to $206 million in the quarter, the company said.</p>
+<p>Consumer product sales rose 12 percent in the quarter, driven by haircoloring and hair care products including Nice n Easy and Natural Instincts.</p>
+<p>Bristol-Myers said its nutritional product sales grew 10 percent in the third quarter, while its medical device product sales remained flat compared to prior year levels.</p>
+<p>--New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

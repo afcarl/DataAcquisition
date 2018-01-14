@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133523" id="root" date="1996-10-22" xml:lang="en">
+<title>VIETNAM: FORECAST - Vietnam budget gap to narrow this year.</title>
+<headline>FORECAST - Vietnam budget gap to narrow this year.</headline>
+<dateline>HANOI 1996-10-22</dateline>
+<text>
+<p>Vietnam expects a drop in its budget deficit to the equivalent of 3.0 percent of gross domestic product this year from 4.3 percent in 1995, the official magazine Dau Tu (Investment) said on Tuesday.</p>
+<p>The report, quoting a speech by Finance Minister Ho Te to the National Assembly, said budget revenues were projected to rise by 12.2 percent from 1995 and spending by 8.8 percent.</p>
+<p>However, it said spending growth would outstrip revenue growth in 1997, taking the budget deficit up to 3.5 percent of GDP.</p>
+<p>Hanoi does not publish data pertaining to government finances, but usually gives an update to the two closed-door sessions of the National Assembly in March and October.</p>
+<p>The International Monetary Fund said earlier this year that, by its system of calculation, Vietnam's 1995 budget gap was only 1.7 percent of GDP -- equivalent to $336 million -- and not 4.3 percent.</p>
+<p>Dau Tu said budget revenue growth for 1997 was targeted at 12.2 percent and spending, a quarter of which would be channeled into development investment, would rise by 15.6 percent.</p>
+<p>Economists say a tight fiscal policy has kept Vietnam's budget deficit in check. They say the fast-growing economy's increasing propensity to import goods, which has generated a record trade deficit, is of far greater concern.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

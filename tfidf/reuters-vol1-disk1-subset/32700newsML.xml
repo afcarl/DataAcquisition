@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32700" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Seitel producing 13th Yegua-Gas Well.</title>
+<headline>Seitel producing 13th Yegua-Gas Well.</headline>
+<dateline>HOUSTON 1996-09-04</dateline>
+<text>
+<p>Seitel Inc said Wednesday its 13th deep Yegua success in Wharton County, Texas, the Cox &amp; Perkins Lange No. 2 well, is producing after testing 2.1 million cubic feet of natural gas and 180 barrels of oil per day from selective perforations at 9,369 to 9,405 feet; total depth drilled was 9,700 feet.</p>
+<p>The Lange No. 2 well is expected to commercially produce at significantly higher rates than tested -- with stabilized flow anticipated to be 5 to 8 million cubic feet of natural gas and 500 to 800 barrels of oil daily.</p>
+<p>Seitel said its 50 percent working interest (38 percent net revenue interest) in the Lange No. 2 well should generate net revenue of about $3.8 million during the first 12 months of production, based on the Seitel subsidiary's 50 percent interest) and current wellhead prices.</p>
+<p>The well, located about 60 miles southwest of Houston, was tested into the sales line, the company said.</p>
+<p>Other working-interest partners include Parallel Petroleum Corp 20 percent, Tenneco Inc 10 percent; privately held Cox &amp; Perkins Exploration Inc, the operator, 10 percent. Unaffiliated individuals own the remaining 10 percent.</p>
+<p>A number of other Yegua and Frio leads in Wharton County are scheduled to be drilled in coming months,&quot; Seitel said.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

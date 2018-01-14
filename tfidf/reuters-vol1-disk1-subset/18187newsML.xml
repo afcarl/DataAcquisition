@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18187" id="root" date="1996-08-28" xml:lang="en">
+<title>SWEDEN: Stena Line says losses mount in first quarter.</title>
+<headline>Stena Line says losses mount in first quarter.</headline>
+<dateline>STOCKHOLM 1996-08-28</dateline>
+<text>
+<p>Swedish ferry operator Stena Line AB posted on Wednesday mounting losses for the first half of the year, blaming currency losses and delays in new ferry deliveries for its poor six-month performance.</p>
+<p>The company posted a loss of 560 million crowns for the first half of the year, down from a negative 350 million crowns in the same 1995 period.</p>
+<p>The loss for the first seven months to July had been 340 million crowns, Stena said in a statment.</p>
+<p>&quot;In addition, volume growth and price levels have not been strong enough to compensate for increasing capacity and market costs,&quot; Stena added.</p>
+<p>Passenger volumes grew eight percent in the first half of 1996 while the number of cars transported rose 10 percent. Freight volume fell by one percent.</p>
+<p>Passenger volumes on Stena's British lines rose by 9.0 percent and car traffic rose 12 percent. Virtually all the increase was attributed to higher demand on the Dover-Calais route as cross-Channel traffic rose sharply.</p>
+<p>Stena said its market share of car traffic volume -- including Eurotunnel -- rose by five percentage points to 18 percent in the six-month period.</p>
+<p>Stena said high-season traffic across the Channel had been dominated by heavy price discounting and this would effect third-quarter results.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

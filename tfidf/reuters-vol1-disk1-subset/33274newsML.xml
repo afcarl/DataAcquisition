@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33274" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Schmalbach acquires U.K. Ramel Ltd.</title>
+<headline>Schmalbach acquires U.K. Ramel Ltd.</headline>
+<dateline>FRANKFURT 1996-09-04</dateline>
+<text>
+<p>German packaging group Schmalbach-Lubeca/Continental Can Europe on Wednesday said it had acquired U.K. beverage can lid manufacturer Ramel Ltd from German Metallgesellschaft NE Producthandel GmbH.</p>
+<p>The price was not disclosed, Schmalbach-Lubeca AG, a division of diversified German utility group VIAG AG said in a statement.</p>
+<p>Schmalbach last month announced that it had made a net profit of 26 million marks in the first six months of the year. Group sales were at 2.145 billion marks.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32684" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: AFTER THE BELL - Kellogg shares tumble.</title>
+<headline>AFTER THE BELL - Kellogg shares tumble.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Traders said on Wednesday Kellogg Co shares fell sharply after hours in moderate volume, trading down 2-3/8 at 66-1/8, traders said.</p>
+<p>Minutes after the New York Stock Exchange closed, the company said it expected its third-quarter earnings to be 20 percent below the $1.05 per share it earned last year and its year-end results to fall below the $3.48 per share it recorded in fiscal year 1995.  </p>
+<p>The company said its decision to lower cereal prices brought the quarterly results below the previous year's results.</p>
+<p>The New York Stock Exchange said its session one volume was 14,900 shares compared to 5,700 shares on Tuesday. There was no session two volume compared to 12,238,481 shares on Tuesday, the NYSE said.</p>
+<p>The American Stock Exchange said there was no after-hours activity.</p>
+<p>-- Patricia Willens, 212-859-1727</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

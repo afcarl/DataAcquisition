@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31881" id="root" date="1996-09-04" xml:lang="en">
+<title>NEW ZEALAND: Brierley yr net profit falls to $310 mln.</title>
+<headline>Brierley yr net profit falls to $310 mln.</headline>
+<dateline>WELLINGTON 1996-09-05</dateline>
+<text>
+<p>Year to June 30</p>
+<p>			   (million NZ$ unless stated)</p>
+<p>    Net profit				310.33 vs 431.78</p>
+<p>    Shr (cents)				 11.2 vs 15.4</p>
+<p>    Div (cents)				  5.0 vs 5.0</p>
+<p>    Total div for yr (cents)		 9.0 vs 9.0</p>
+<p>    Turnover (billion)			2.88 vs 2.58</p>
+<p>    Pretax profit			   311.83 vs 381.36</p>
+<p>    Tax					   6.21 vs 1.88</p>
+<p>    Equity earnings			  67.59 vs 91.08</p>
+<p>    Shares outstanding (billion)	  2.67 vs 2.66</p>
+<p>Dividend carries 2.0 cps imputation credit.</p>
+<p>Pay date Nov 15</p>
+<p>Reg date Nov 1</p>
+<p>Note - Brierley Investments Ltd is an investment company. Analysts forecast a net profit of $320-350 million depending on the level of writedowns.</p>
+<p>Balance sheet (in billions unless stated)</p>
+<p>    Current assets			    1.38 vs 1.51</p>
+<p>    Total assets				9.61 vs 9.02</p>
+<p>    Current liabilities		     1.95 vs 0.84</p>
+<p>    Total liabilities			 4.75 vs 4.28</p>
+<p>    Shareholders' equity		    4.87 vs 4.74</p>
+<p>Cashflow from operations (millions) 173.2 vs 1584.9</p>
+<p>Cashflow from investing (millions) (628) vs (155)</p>
+<p>-- Wellington newsroom 64 4 473-4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

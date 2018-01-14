@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133721" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Calif says $500 mln bonds to fund capital projects.</title>
+<headline>Calif says $500 mln bonds to fund capital projects.</headline>
+<dateline>SACRAMENTO, Calif. 1996-10-22</dateline>
+<text>
+<p>California state Treasurer Matt Fong said Tuesday the state sold $500 million in new money and refunding general obligation bonds to fund a variety of capital projects.</p>
+<p>Of the $500 million, $129 million was new money while $371 million would refund outstanding commercial paper notes.</p>
+<p>Fong said the proceeds of the various purpose general obligation bonds would finance a variety of capital projects, including improvement of rail transportation, water reclamation, county correctional and juvenile facilities, and higher education and other school facilities.  </p>
+<p>The sale received bids from Lehman Brothers and Merrill Lynch &amp; Co. The bonds were awarded to Lehman Brothers with a lower true interest cost of 5.5094 percent. Merrill Lynch's bid was 5.5113 percent.</p>
+<p>&quot;These bonds will fund some of the most essential functions of government,&quot; Fong said.</p>
+<p>The bonds will be sold in $5,000 denominations, with maturities ranging from 1997 to 2026. Bonds maturing on or after June 1, 2008 are subject to optional redemption prior to maturity, Fong said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

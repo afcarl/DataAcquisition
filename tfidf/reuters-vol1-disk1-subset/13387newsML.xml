@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13387" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Amserv CEO resigns as Director after Star merger.  [CORRECTED 16:57 GMT 4/9]</title>
+<headline>Amserv CEO resigns as Director after Star merger.  [CORRECTED 16:57 GMT 4/9]</headline>
+<dateline>WASHINGTON 1996-08-26</dateline>
+<text>
+<p>(Corrects the headline and the text to clarify the position from which Mora resigned.)</p>
+<p>Eugene Mora said Monday he has resigned as  director of Amserv Healthcare Inc, though he remains its president and chief executive,  after the company consummated its merger with Star Multi Care  Services Inc.</p>
+<p>In a filing with the Securities and Exchange Commission, Mora said he resigned at the request Amserv and in accordance with the February 9 merger plan between the two companies.</p>
+<p>Following completion of the deal on August 23, Amserv, a La Jolla, Calif., provider of health services that operates in New Jersey and Ohio, became a unit of Star. Star provides healthcare services and staffing to hospitals in New York and Florida.</p>
+<p>In the merger, each outstanding Amserv share was converted into the right to receive 0.4090 share of Star's common stock, representing a ratio of one common share of Star for each 2.445 Amserv common shares, according to the filing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

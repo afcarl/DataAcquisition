@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136534" id="root" date="1996-10-23" xml:lang="en">
+<title>SLOVENIA: Slovenia C/A swings to $39.7 mln surplus in July.</title>
+<headline>Slovenia C/A swings to $39.7 mln surplus in July.</headline>
+<dateline>LJUBLJANA 1996-10-23</dateline>
+<text>
+<p>The Bank of Slovenia reported the following economic indicator details on Tuesday.</p>
+<p>CURRENT ACCOUNT BALANCE</p>
+<p>(figures in million of dollars)</p>
+<p>					     July     June   July 95</p>
+<p> Current account balance	     39.7     -0.4    -4.3</p>
+<p> Merchandise trade balance	  -48.0   -106.0  -115.0</p>
+<p>    Exports			     734.0    657.0   728.0</p>
+<p>    Imports			     782.0    763.0   843.0</p>
+<p>-- Marja Novak, Ljubljana newsroom, 386-61-125-8439</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

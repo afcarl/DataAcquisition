@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32630" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Art's-Way says buys equipment line.</title>
+<headline>Art's-Way says buys equipment line.</headline>
+<dateline>ARMSTRONG, Iowa 1996-09-04</dateline>
+<text>
+<p>Art's-Way Manufacturing Co Inc said it acquired the Logan potato farm equipment product line from Logan Harvesters Inc.</p>
+<p>The acquisition, which includes unsold Logan inventory, has been partly financed by the issuance of 145,000 shares of Art's-Way common stock to the seller, the company said.</p>
+<p>Further details of the terms were not disclosed.</p>
+<p>The acquisition is non-dilutive to existing shareholders, the company said.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARMSTRONG, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

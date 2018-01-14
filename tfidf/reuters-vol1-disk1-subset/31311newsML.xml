@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31311" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Frankfurt dollar fix 1.4849 marks.</title>
+<headline>Frankfurt dollar fix 1.4849 marks.</headline>
+<dateline>FRANKFURT 1996-09-04</dateline>
+<text>
+<p>The dollar was fixed at 1.4849 marks in Frankfurt on Wednesday, after 1.4866 marks on Tuesday.There was no Bundesbank intervention.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

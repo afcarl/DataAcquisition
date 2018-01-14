@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134383" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Ocean Reef seeks merger with Jan Bell.</title>
+<headline>Ocean Reef seeks merger with Jan Bell.</headline>
+<dateline>MIAMI 1996-10-22</dateline>
+<text>
+<p>Ocean Reef Management Inc said on Tuesday that it has proposed a friendly cash merger with Jan Bell Marketing Inc.</p>
+<p>No terms of the proposal were released, but Ocean Reef said the merger requires a definitive agreement between the companies, the receipt of satisfactory financing commitments and Jan Bell shareholder approval.  </p>
+<p>Jan Bell said the merger would give its shareholders $4.00 per share cash. It said its board would respond to the offer &quot;as promptly as practicable.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

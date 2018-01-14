@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135943" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Read-Rite sees higher Q1 shipments, revs.</title>
+<headline>Read-Rite sees higher Q1 shipments, revs.</headline>
+<dateline>MILPITAS, Calif. 1996-10-23</dateline>
+<text>
+<p>Read-Rite Corp said on Wednesday that it can increase product shipments and sales in the current quarter from levels achieved in its fourth quarter ended September 30.</p>
+<p>&quot;Based on our production plans, we have an opportunity to increase unit shipments and revenues sequentially for the first quarter of fiscal 1997,&quot; Read-Rite said in a statement.</p>
+<p>Earlier, the company posted a fiscal fourth quarter net loss of $63.9 million, or $1.37 a share, including a charge of $27 million. In the year ago quarter, the company reported a net profit of $46.7 million, or $0.95 a share.  </p>
+<p>Excluding the $27 million charge, Read-Rite would have reported a fiscal 1996 fourth quarter net loss of $36.9 million, or $0.79 a share.</p>
+<p>The charge resulted from writing off fixed assets that supported the production of older recording head technologies that are being phased out. It also includes the cost of 5,000 job cuts and plant closings in the Philippines.</p>
+<p>&quot;We exited the metal-in-gap recording head business and continued to incur high start-up costs (for) several major advanced inductive products and magnetoresistive products,&quot; Cyril Yansouni, chief executive, said in a statement.</p>
+<p>In the fourth quarter, Read-Rite shipped over 2.0 million magnetoresistive (MR) heads and about 1.5 million inductive heads. The company also began offering samples of its new planar technology recording heads to its customers.</p>
+<p>&quot;We enter the first quarter of fiscal 1997 having achieved major design wins at our key customers with significant orders for both Read-Rite's advanced inductive and magnetoresistive products,&quot; Yansouni said.</p>
+<p>Read-Rite manufactures disk drive recording heads and head stacking assemblies for the computer industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILPITAS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

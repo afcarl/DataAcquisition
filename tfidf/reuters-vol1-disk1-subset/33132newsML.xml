@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33132" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: NYMEX ACCESS oil prices ease after surging on Iraq - Sept 3.</title>
+<headline>NYMEX ACCESS oil prices ease after surging on Iraq - Sept 3.</headline>
+<dateline>LOS ANGELES 1996-09-03</dateline>
+<text>
+<p>U.S. energy futures prices softened in early ACCESS trade Tuesday, as traders began selling off contracts they had scrambled to buy Monday after the U.N. said it suspended Iraq's oil-for-food agreement.</p>
+<p>&quot;The quietness is because people are profit-taking a little bit and saying this is not the proper level for crude,&quot; one trader said.</p>
+<p>October NYMEX crude traded $23.35 a barrel on ACCESS, off five cents from the close with 500 lots trading early.</p>
+<p>October gasoline lost 0.11 cent to reach 62.85 cents a gallon on ACCESS on a very light four lots traded.</p>
+<p>October heating oil dropped 0.17 cent a gallon to trade at 64.90 cents on 40 lots exchanged.</p>
+<p>-- Los Angeles bureau +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

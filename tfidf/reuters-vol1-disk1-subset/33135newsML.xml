@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33135" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: California $1.2 bln rail project wins federal OK.</title>
+<headline>California $1.2 bln rail project wins federal OK.</headline>
+<dateline>OAKLAND, Calif. 1996-09-03</dateline>
+<text>
+<p>The Bay Area Rapid Transit (BART) District said on Tuesday the environmental impact report for a $1.2 billion transit project in northern California had received federal approval.</p>
+<p>BART Board President Dan Richard said the transit district has received the so-called &quot;record of decision&quot; from the Federal Transit Administration, completing the federal environmental process for the massive project.</p>
+<p>&quot;This is very exciting news because it represents achieving a critical milestone in moving the project forward and securing a full funding agreement from the federal government,&quot; Richard said.</p>
+<p>The project calls for building an 8.2 mile rail extension to improve transportation to the San Francisco International Airport. The total project cost is estimated to be $1.167 billion, including $750 million in federal funds.</p>
+<p>Under the plan, the airport would provide $200 million, the state some $108 million and the San Mateo County Transit District about $99 million.</p>
+<p>The next major step will be the issuance of a full funding grant agreement by the Federal Transit Administration, expected this fall, Richard said.</p>
+<p>&quot;At that point we are truly out of the starting gate and the next thing will be to break ground,&quot; Richard said.</p>
+<p>The extension is expected to be completed by the year 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I72101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

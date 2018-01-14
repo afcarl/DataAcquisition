@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133907" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Storm leaves trail of destruction in New England.</title>
+<headline>Storm leaves trail of destruction in New England.</headline>
+<byline>Allan Dowd</byline>
+<dateline>PORTLAND, Maine 1996-10-22</dateline>
+<text>
+<p>A storm that dropped more than 18 inches (45.7 cm) of rain on parts of New England left bridges destroyed, roads washed out and more than 100,000 people without drinking water on Tuesday.</p>
+<p>States of emergency remained in effect for parts of Maine, Massachusetts and all of New Hampshire. Maine state workers have been told to stay home.</p>
+<p>The rain had ended in the hardest hit areas by Tuesday morning but rivers continued to rise from the runoff and there was concern in Massachusetts and New Hampshire that the Concord, Nashua and Merrimack Rivers would overspill their banks when they crested later in the day.</p>
+<p>&quot;A Deluge of Misery&quot; read a banner headline in the Portland Press Herald. Portland received 12.27 inches (29.7 cm) of rain from the storm that began late on Sunday -- three times what it normally gets in the entire month of October.</p>
+<p>Rainwater runoff broke the primary supply pipe of the Portland Water District, leaving 140,000 residents of the state's largest city and a dozen surrounding communities without drinking water Tuesday.</p>
+<p>Residents of Massachusetts and New Hampshire continued to struggle from the effects of the storm. In Boston, portions of the subway system remained closed on Tuesday because of damage to Kenmore Square, an important junction, which was under 20 feet (6.1 metres) of water at one point.</p>
+<p>Highways and bridges were washed out in all three states. The Maine Turnpike was reopened on Tuesday but several major exits from the toll road remained closed due to high water.</p>
+<p>Many rivers and streams in Maine and New Hampshire continued to rise. The Saco River in Conway was expected to crest at 13 feet (3.9 metres) on Tuesday, well above its 9 foot (2.7 metres) flood stage.</p>
+<p>Massachusetts Gov. William Weld, Maine Gov. Angus King and New Hampshire Gov. Stephen Merrill all declared states of emergency on Monday. King was scheduled to tour flood-damaged areas by helicopter on Tuesday.</p>
+<p>Scores of schools in the region closed for the second day in a row as dangerous driving conditions and flooding made roads impassable. Some schools were being used to shelter those from a dozen different communities driven from their homes by the floods, the Massachusetts Red Cross said.</p>
+<p>The storm continued to batter central and Down East Maine with heavy rain and winds but the low pressure system that produced the foul weather was weakening and continued to move towards the Canadian Maritimes, according to the National Weather Service.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

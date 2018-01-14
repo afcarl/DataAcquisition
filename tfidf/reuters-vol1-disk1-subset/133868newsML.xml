@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133868" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BGE restores 646 MW Md. coal power plant.</title>
+<headline>BGE restores 646 MW Md. coal power plant.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Baltimore Gas &amp; Electric Co (BGE) said Tuesday its 646 megawatt (MW) coal-fired Brandon Shores unit 2 resumed full output after being shut on Sept 13 for seasonal maintenance.</p>
+<p>&quot;It came back on line over the weekend, and it's at 100 percent power,&quot; a BGE spokeswoman said.</p>
+<p>The Brandon Shores unit is in metropolitan Baltimore in Anne Arundale County, Md., and accounts for about 10 percent of BGE's installed generating capacity.</p>
+<p>Baltimore Gas &amp; Electric is the operator and sole owner of Brandon Shores.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

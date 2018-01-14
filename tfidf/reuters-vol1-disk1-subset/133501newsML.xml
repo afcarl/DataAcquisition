@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133501" id="root" date="1996-10-22" xml:lang="en">
+<title>MALAYSIA: PSCI to acquire Australian ship maker.</title>
+<headline>PSCI to acquire Australian ship maker.</headline>
+<dateline>KUALA LUMPUR 1996-10-22</dateline>
+<text>
+<p>Malaysian shipbuilding company PSC Industries Bhd said on Tuesday that it was acquiring an Australian ship designer and maker for 38 million ringgit.</p>
+<p>Cairns-based NQEA Australia Pty Ltd is involved in designing and constructing fast naval vessels, ferries, commercial vessels as well as providing specialised engineering services for the mining and sugar industries, PSC said in a statement.</p>
+<p>PSC is a subsidiary of Business Focus Sdn Bhd, which is controlled by tycoon businessman Amin Shah Omar Shah.</p>
+<p>PSC currently owns 70 percent of Wavemaster International Pty Ltd, also of Australia, which designs and manufactures high-speed aluminium ferries.</p>
+<p>The terms of the acquisition were not disclosed in the statement, and company officials could not be reached for comment.</p>
+<p>PSC shares have been suspended from trading since October 16, when they closed at 34 ringgit.</p>
+<p>-- Kuala Lumpur newsroom (603-201 4813)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

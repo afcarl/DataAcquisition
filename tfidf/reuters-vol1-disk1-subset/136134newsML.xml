@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136134" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Syratech plans merger with equity fund corp.</title>
+<headline>Syratech plans merger with equity fund corp.</headline>
+<dateline>EAST BOSTON, Mass. 1996-10-23</dateline>
+<text>
+<p>Syratech Corp said Wednesday it entered an agreement with Thomas H. Lee Equity Fund III LP to merge with a corporation formed by the fund.</p>
+<p>Syratech said its stockholders would get $32 in cash in the deal or could elect to receive a portion of their consideration by retaining stock of the surviving entity.  </p>
+<p>Syratech said it also will redeem preferred share purchase rights.</p>
+<p>Chief Executive Leonard Florence and other Syratech executive officers have agreed to retain equity interests with an aggregate value of at least $24 million, the company said.</p>
+<p>Syratech said it has about nine million shares outstanding on a fully diluted basis and Florence owns about 32 percent.</p>
+<p>Thomas H Lee Co is a private investment firm in Boston.</p>
+<p>The deal is expected to close in the first quarter of 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EAST BOSTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

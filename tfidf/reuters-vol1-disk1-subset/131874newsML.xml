@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131874" id="root" date="1996-10-21" xml:lang="en">
+<title>NEW ZEALAND: INP unit lifts W&amp;H stake to 13.89 pct.</title>
+<headline>INP unit lifts W&amp;H stake to 13.89 pct.</headline>
+<dateline>WELLINGTON 1996-10-21</dateline>
+<text>
+<p>Independent Press Communications Ltd, a subsidiary of Independent Newspapers Plc, on Monday said it had raised its stake in New Zealand publisher Wilson and Horton to 13.89 percent from 12.16 percent.</p>
+<p>IPCL is bidding for all of Wilson and Horton, offering NZ$11 or 1.375 exchangeable INP shares for each W&amp;H share.</p>
+<p>Independent Newspapers and family trusts linked to principal Tony O'Reilly held 45.15 percent of Wilson and Horton prior to the bid. --Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

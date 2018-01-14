@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132710" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Worldtex Inc Q3 net income rises.</title>
+<headline>Worldtex Inc Q3 net income rises.</headline>
+<dateline>HICKORY, N.C. 1996-10-22</dateline>
+<text>
+<p>Nine Months Ended     Quarter Ended</p>
+<p>			     September 30	  September 30</p>
+<p>			   1996	1995	 1996     1995</p>
+<p> Net Sales	    $155,189    $142,809  $50,150  $47,314</p>
+<p> Net Income	   $  8,407    $  4,893  $ 2,481  $   395*</p>
+<p> EPS		    $    .58    $    .34  $   .17  $   .03*</p>
+<p> Wgtd avg shrs	  14,620	14,558   14,669   14,613</p>
+<p>	    (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE:  *  Includes charge of $1,279 or 9 cents a share related to an increase in the French income tax-rate of which 6 cents is a one-time charge and 3 cents relates to the full nine months earnings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HICKORY, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

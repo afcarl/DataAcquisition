@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33223" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: INSTANT VIEW - Germany ind. orders rose in July.</title>
+<headline>INSTANT VIEW - Germany ind. orders rose in July.</headline>
+<dateline>BONN 1996-09-04</dateline>
+<text>
+<p>Following are analysts' reactions to data on German industrial orders, which rose 0.6 percent in July from the prior month.</p>
+<p>Consensus expectations were for a 0.3 percent rise.</p>
+<p>Adolf Rosenstock, Industrial Bank of Japan, Frankfurt:</p>
+<p>The figure is &quot;a little better than I thought, but just barely. Looking at output and orders data, output was below expectations, so this compensates.</p>
+<p>&quot;The trend development is rather stable, so this should not have policy or market implications.  </p>
+<p>Rosenstock also said: &quot;West Germany seems to have stabilised. We are on a moderate upward trend, but nothing spectacular. There is still ground to recover, as we are still below last year's levels.</p>
+<p>&quot;The improvement is there, but we are not out of the woods yet. In the east, there are clouds on the horizon.</p>
+<p>&quot;In east Germany, both output and orders were quite weak. It seems that east Germany is going through a difficult summer period. That is very disappointing, and points to more difficulties to come.  </p>
+<p>Gerhard Grebe, Bank Julius Baer in Frankfurt:</p>
+<p>&quot;At first glance the figures disappoint me, because I had expected a stronger number following last week's Ifo survey and machinery manufacture data.</p>
+<p>&quot;The 4.7 percent fall in east Germany may have missed large orders or have been caused by the holidays, but I expect it to be revised up.</p>
+<p>&quot;My outlook is for a strong economic recovery in the second quarter, followed by a continuation at a slower pace in the third quarter.&quot;</p>
+<p>-- Bonn newsroom, 49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

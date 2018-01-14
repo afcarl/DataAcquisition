@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25779" id="root" date="1996-08-31" xml:lang="en">
+<title>LATVIA: SOCCER-SWEDEN BEAT LATVIA IN EUROPEAN UNDER-21 QUALIFIER.</title>
+<headline>SOCCER-SWEDEN BEAT LATVIA IN EUROPEAN UNDER-21 QUALIFIER.</headline>
+<dateline>RIGA 1996-08-31</dateline>
+<text>
+<p>Sweden beat Latvia 2-0 (halftime 0-0) in a European under-21 soccer championship qualifier on Saturday.</p>
+<p>Scorers: Joakim Persson 81st minute, Daniel Andersson (89th)</p>
+<p>Attendance: 300</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

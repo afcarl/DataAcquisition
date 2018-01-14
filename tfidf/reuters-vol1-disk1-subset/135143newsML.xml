@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135143" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-AGL says trading in line with budget.</title>
+<headline>RTRS-AGL says trading in line with budget.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Gas utility and energy group Australian Gas Light Co (AGL) said on Tuesday that trading to date in the year to June 30, 1997 was in line with budget.</p>
+<p>&quot;The record profit for 1995/96 was not a 'one-off' and the performance of the group in the  current year to date is in line with AGL's profit predictions,&quot; chairman Richard Mason told shareholders at the annual meeting.</p>
+<p>AGL reported a 32 percent rise in net profit of A$124.3 million for the year to June 1996.  </p>
+<p>AGL said in August after it announced its 1995/96 results it was targetting earnings growth of 10 percent.</p>
+<p>At 10.40 p.m. (0040 GMT), AGL shares were 14 cents or 2.12 percent up at A$6.74 on a volume of about 53,500 shares.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135082" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Canberra says enterprise bargain data in line.</title>
+<headline>RTRS-Canberra says enterprise bargain data in line.</headline>
+<dateline>CANBERRA 1996-10-22</dateline>
+<text>
+<p>Australian Industrial Relations Minister Peter Reith said on Tuesday figures published in an industrial relations research and training report on Tuesday were broadly in line with federal enterprise bargaining wage figures for the June quarter.</p>
+<p>&quot;These (federal figures) showed that the average annualised wage increase (AAWI) per employee across the federal system was 5.6 percent in the June quarter, up from 4.7 percent in the March quarter,&quot; Reith said in a statement.  </p>
+<p>&quot;However, excluding the three major bank agreements which were certified in the June quarter, AAWI would have been 4.5 percent,&quot; Reith said.</p>
+<p>The Australian Centre for Industrial Relations Research and Training (ACCIRT) said in its report released on Tuesday that the average annual wage increase for enterprise bargaining agreements registered in the June quarter was 6.1 percent, down from 6.5 percent for agreements in the March quarter.</p>
+<p>The average annual wage increase in all current agreements on ACIRRT's database was 5.7 percent.  </p>
+<p>Reith said the two series were not directly comparable as ACIRRT's estimates were per agreement while the federal figures, released by the Department of Industrial relations last month, were produced on a more representative, per employee basis.</p>
+<p>But both sets of data showed there was no substantive evidence of a slowing in enterprise bargaining wage outcomes, he said.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

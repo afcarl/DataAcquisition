@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25828" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: Paper says Thatcher's office consulted astrologer.</title>
+<headline>Paper says Thatcher's office consulted astrologer.</headline>
+<dateline>LONDON 1996-09-01</dateline>
+<text>
+<p>A British newspaper said Margaret Thatcher was so shaken by an IRA attempt on her life when she was prime minister in 1984 that an astrologer was asked to warn her against future threats.</p>
+<p>The Sunday Telegraph quoted Majorie Orr as saying she did a horoscope chart for Thatcher, a Libran, after she narrowly escaped death in the Irish guerrilla bombing of a hotel during the Conservative Party conference more than a decade ago.</p>
+<p>Orr said Thatcher's press secretary Bernard Ingram asked her to telephone if she saw any threatening indications in the future.</p>
+<p>&quot;Bernard Ingham told me that if I ever heard anything that indicated danger I was to let him know,&quot; Orr said.</p>
+<p>Orr said she never had to telephone. She added that the horoscope was purely for security purposes and she was never consulted about political moves.</p>
+<p>Ingram was quoted as telling the newspaper he thought astrology was &quot;a load of rubbish&quot; and that he could not recall asking Orr to keep a watch on Thatcher's stars.</p>
+<p>Thatcher, dubbed the &quot;Iron Lady&quot; for her driven, forceful personality, was never known to have an interest in the occult and in fact has a university degree in chemistry.</p>
+<p>Former U.S. president Ronald Reagan's wife, Nancy, admitted in her biography My Turn that she regularly consulted an astrologer to help her plan her husband's schedule.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

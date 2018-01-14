@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32987" id="root" date="1996-09-04" xml:lang="en">
+<title>YEMEN: Yemen 91-day treasury bills yield average 26.21pct.</title>
+<headline>Yemen 91-day treasury bills yield average 26.21pct.</headline>
+<dateline>SANAA 1996-09-04</dateline>
+<text>
+<p>The Central Bank of Yemen said on Wednesday its latest issue of 91-day treasury bills yielded an average of 26.21 percent, down from the average 27.13 percent at the August 10 auction for 91-day bills.</p>
+<p>Of the 2.5 billion rials worth of bills on offer, the issue attracted subscriptions worth 2.3 billion rials.</p>
+<p>The average price was 9,386.59 rials and the lowest price accepted was 9,380. Yields ranged from 24.20 percent to 26.51 percent.</p>
+<p>The latest issue of 182-day bills yielded an average 23.56 percent, down from last month's average 27.62 percent.</p>
+<p>Of the 1.5 billion rials worth of 182-day bills on offer, the issue attracted subscriptions worth 1.4 billion rials.</p>
+<p>The average price was 8,948.84 rials and the lowest price accepted was 8,810. Yields ranged from 13.37 percent to 27.09 percent.</p>
+<p>The Bank said the next auction would be held on October 8.</p>
+<p>($1=100 rials)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

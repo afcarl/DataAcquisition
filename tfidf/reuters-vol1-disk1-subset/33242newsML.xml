@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33242" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRIA: Wienerberger to expand Vienna office project.</title>
+<headline>Wienerberger to expand Vienna office project.</headline>
+<dateline>VIENNA 1996-09-04</dateline>
+<text>
+<p>Austrian building materials maker Wienerberger Baustoffindustrie said on Wednesday it would expand its &quot;Wienerberger City&quot; office project in Vienna for a total cost of four billion schillings by the year 2002.</p>
+<p>Chief executive Erhard Schaschl said plans included a new twin office tower with 45,000 square meters of space, adding to the existing 66,000 square meters in the development. It would also include 1,200 appartments, schools and sports facilities.</p>
+<p>Wienerberger said it was seeking a financing partner for the new office tower, but declined to give further details.</p>
+<p>&quot;This hasn't been decided yet. But the question is whether Wienerberger shouldn't rather invest in industrial projects and leave real estate investments to a partner,&quot; chief financial officer Wolfgang Reithofer said. -- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8500021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136105" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Outback Steakhouse Inc Q3 net rises.</title>
+<headline>Outback Steakhouse Inc Q3 net rises.</headline>
+<dateline>TAMPA, Fla. 1996-10-23</dateline>
+<text>
+<p>(IN THOUSANDS, EXCEPT FOR PER SHARE DATA)</p>
+<p>				Three Months ended  Nine Months ended</p>
+<p>					 September 30,  September 30,</p>
+<p>				   1996	 1995    1996	1995</p>
+<p> REVENUES		  $ 236,730   $191,259 $689,313 $536,605</p>
+<p> NET INCOME		   17,712     14,133  52,805    41,199</p>
+<p> EARNINGS PER SHARE	   0.36	 0.29   1.07	 0.85</p>
+<p>WEIGHTED SHARES OUTSTANDING</p>
+<p>				  49,200     48,876  49,500    48,410</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

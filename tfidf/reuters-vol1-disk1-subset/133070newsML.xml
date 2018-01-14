@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133070" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: JCI gold mines profit, output rises.</title>
+<headline>JCI gold mines profit, output rises.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>JCI Ltd said profit after tax at its three gold mines rose to 128.24 million rand in the three months to end-September from 109.71 million in the preceding quarter.</p>
+<p>Gold output increased to 11,049 kg from 10,608 kg, although tonnes milled fell to 2,713,000 tonnes from 2,733,000. The average yield was 4.07 grams per tonnes against 3.88.</p>
+<p>Average unit costs rose to 46,961 rand per kg from 44,624, while average revenue was 54,982 rand per kg from 51,479.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

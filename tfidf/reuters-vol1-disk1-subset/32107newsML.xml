@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32107" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: DoubleClick unveils Internet ad tracking product.</title>
+<headline>DoubleClick unveils Internet ad tracking product.</headline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>DoubleClick Inc, an Internet advertising network, on Wednesday said it was introducing proprietary software and a service to allow customers to track the performance of advertisements on the World Wide Web.</p>
+<p>Jeff Dickey, vice president of business development at the New York-based company, said a new technology called Spotlight enables customers to monitor the number of pages &quot;clicked through&quot; by an individual user and to determine the point at which the user seeks more information or makes a purchase.  </p>
+<p>Dickey and David Henderson, vice president of North American sales, said the technology would improve the ability of advertisers to target individual consumer tastes and produce qualified leads and purchases.</p>
+<p>&quot;Our business is not just eyeballs,&quot; or the number of people who use their mouse to click on banner advertisements to view -- or eyeball -- an advertiser's site on the Internet's World Wide Web, Dickey said.</p>
+<p>The two executives said the technology matches a shift in advertising on the Web from general branding to more specific targeting to produce responses.  </p>
+<p>While the survey found that most Internet advertisers are still high-tech companies advertising on one another's sites, DoubleClick has detected a big increase in Web advertising plans by the consumer product companies -- among the biggest advertisers in national magazines and on television and radio.</p>
+<p>&quot;The reality is that the Internet is the greatest empowerment tool in history,&quot; Dickey said of the allure of using the medium for advertising to individuals.</p>
+<p>DoubleClick Network was launched less than six months ago. The company was formed in March after the merger of a division of Bozell Worldwide's Poppe Tyson advertising agency with the Atlanta-based Internet Advertising Network.</p>
+<p>Last month, the company surpassed the 10 million-user mark, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

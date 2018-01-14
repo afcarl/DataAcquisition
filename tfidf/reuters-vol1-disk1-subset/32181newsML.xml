@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32181" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: NYCE cotton ends lower on pre-storm profit taking.</title>
+<headline>NYCE cotton ends lower on pre-storm profit taking.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>NYCE cotton futures retrenched on light profit taking as a key market prop -- fear about hurricane damage to crops -- was considered overstated, traders said.</p>
+<p>Floor sources said there was heavy speculative and options-related selling along with some profit taking.</p>
+<p>&quot;It was buy the rumor and sell the fact -- all our support was based on damage that's not really going to happen,&quot; a floor source said. &quot;I expect that we are still going to be in somewhat of an uptrend. The technicals are looking strong.&quot;</p>
+<p>December cotton closed down 1.63 cents at 75.62 cents a lb.</p>
+<p>National Hurricane Center said Hurricane Fran was heading toward the Carolinas, due to arrive Thursday.</p>
+<p>A dealer said only three percent of the U.S. cotton crop was grown in South and North Carolina, noting that USDA said earlier this week only 20 percent of the Carolinas' cotton crop had opened and was thus vulnerable to moisture.</p>
+<p>But some trader sources said more than four inches of rain would cause damage to crops, and Fran was expected to dump at least four to six inches of water on land.</p>
+<p>--Huw Jones, New York Commodities 212-859-1646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

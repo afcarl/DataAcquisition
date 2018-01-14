@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133762" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: American Electric forms communications unit.</title>
+<headline>American Electric forms communications unit.</headline>
+<dateline>COLUMBUS, Ohio 1996-10-22</dateline>
+<text>
+<p>American Electric Power Co Inc said it has formed a subsidiary called AEP Communications Inc.</p>
+<p>It said Peter R. Thomas has joined the company as vice president of the new unit responsible for planning, implementing and managing activities and coordinating its communications services with those offered or needed by AEP.</p>
+<p>Previously Thomas was responsible for integrating local and long distance services with Sprint Corp's regulated local telephone companies as president of United Telephone Long Distance.  </p>
+<p>AEP said the non-regulated subsidiary will offer services to new wireless personal communications services license holders for the establishment and maintenance of their PCS networks. The services may include location and construction of antenna facilities, as well as management of PCS sites.</p>
+<p>AEP Communications may also participate in the development of fiber optic systems for use in providing utility communications services and energy management services.</p>
+<p>The subsidiary may also provide long-haul fiber optic phone and data lines capacity on a wholesale basis to non-affiliated companies. Other services being considered include mobile radio communications services, remote meter reading, real-time pricing, load control and coordination, transmission of data between service vehicles and home offices, and similar uses.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

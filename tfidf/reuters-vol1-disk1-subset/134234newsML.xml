@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134234" id="root" date="1996-10-22" xml:lang="en">
+<title>PAKISTAN: Pakistan rupee plunges in kerb after devaluation.</title>
+<headline>Pakistan rupee plunges in kerb after devaluation.</headline>
+<dateline>KARACHI, Pakistan 1996-10-22</dateline>
+<text>
+<p>The Pakistani rupee opened 1.95 rupees down at 42.50 to the dollar on Tuesday in the kerb market after the central bank devalued the rupee 7.86 percent against the dollar, dealers said.</p>
+<p>The State (central) Bank of Pakistan (SBP) moved the rupee to 40.1200/40.3206 to the dollar from 36.9700/37.1549. It last changed the rate on September 10.</p>
+<p>&quot;The market is very volatile at the moment,&quot; dealer Owais Kalia said, adding that the rupee could slide further, but profit-taking in dollars was also expected.</p>
+<p>-- Ovais Subhani 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

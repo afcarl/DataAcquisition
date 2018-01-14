@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32061" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. stock index futures rebound to close higher.</title>
+<headline>U.S. stock index futures rebound to close higher.</headline>
+<text>
+<p>Sept 4 - U.S. stock index futures rebounded to finish the day higher. Sept S&amp;Ps rose through the GLOBEX high of 656.75. Locals pushed the market higher, traders said, despite earlier hedge fund and dealer selling. Sept still held within Tuesday's range and seen rising slightly on Thursday. -Derivatives Desk(312)408-8750/E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

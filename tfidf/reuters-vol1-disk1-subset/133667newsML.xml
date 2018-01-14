@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133667" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Motorola wins $100 million Philippine contract.</title>
+<headline>Motorola wins $100 million Philippine contract.</headline>
+<dateline>ARLINGTON HEIGHTS, Ill.</dateline>
+<text>
+<p>Motorola Inc. said Tuesday that its Asia Pacific Cellular Infrastructure unit has signed a contract worth more than $100 million to install a fixed wireless telephone network in the southern and western Mindanao regions of the Philippines.</p>
+<p>The contract is part of a so-called build-and-transfer arrangement between the Pilipino Telephone Corp. or Piltel, and Japan's Marubeni Corp., which calls for Marubeni to build the network for Piltel to operate it.</p>
+<p>The Motorola network will fulfil part of Piltel's commitment to provide 400,000 additional telephone lines in southern regions of the Philippines, Motorola said.</p>
+<p>The network will provide service for residential and business subscribers in cities such as Davao, General Santos, Pagadian, Zamboanga and Dipolog.</p>
+<p>Installation will begin during the fourth quarter of this year with commercial service scheduled to begin in the second quarter of 1997, Motorola said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON HEIGHTS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

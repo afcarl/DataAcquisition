@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132222" id="root" date="1996-10-21" xml:lang="en">
+<title>SPAIN: S&amp;P assigns Mapfre unit A+ claims paying ability.</title>
+<headline>S&amp;P assigns Mapfre unit A+ claims paying ability.</headline>
+<dateline>MADRID 1996-10-21</dateline>
+<text>
+<p>The ratings agency Standard &amp; Poor's said on Monday it has assigned Spain's Mapfre Re, Compania de Reaseguros SA an A+ claims paying ability.</p>
+<p>Mapfre Re is part of the Mapfre insurance group.  </p>
+<p>S&amp;P said the rating was based on its strong position as leader in the Spanish reinsurance market and its presence in Latin American and European markets.</p>
+<p>Furthermore the unit benefitted as 100 percent reinsurer of Mapfre units Mapfre Mutualidad, Seguros Generales and Caucion y Credito.</p>
+<p>S&amp;P also highlighted a &quot;solid balance sheet&quot; and Mapfre Re's conservative investment policy.</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

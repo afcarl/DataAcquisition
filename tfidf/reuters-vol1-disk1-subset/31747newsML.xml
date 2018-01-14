@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31747" id="root" date="1996-09-04" xml:lang="en">
+<title>BRAZIL: Bolivia-Brazil pipeline takes big step.</title>
+<headline>Bolivia-Brazil pipeline takes big step.</headline>
+<byline>William Schomberg</byline>
+<dateline>BRASILIA, Brazil</dateline>
+<text>
+<p>A major gas pipeline project, linking Bolivia's Andean gasfields with Brazil's industrial heartlands, took a big step forward on Wednesday when the two countries signed an accord to begin construction.</p>
+<p>The $1.8-billion, 1,900-mile (3,000-km) pipeline, involving some of the world's biggest energy companies, is considered crucial to the development of Bolivia's mostly untapped gas reserves and to staving off energy shortages in Brazil.</p>
+<p>&quot;This is the realisation of a dream,&quot; said Brazilian President Fernando Henrique Cardoso, who attended the signing of the accord in Cochabamba, Bolivia, where Latin American heads of state were gathered for a summit of the regional Rio Group.</p>
+<p>The project had been stuck at various stages of planning since the 1950s but is now expected to come online late 1998. First tenders for the purchase of 500,000 metric tons of steel pipe were due to be published Thursday.</p>
+<p>The project still has to win over financial backers, including the World Bank, and would-be customers who fear the price of the gas may prove too high.</p>
+<p>Under the terms of the agreement, Brazil will buy 8 million cubic meters (280 million cubic feet) of gas daily in the first year of the pipeline's operation, rising to 16 million cubic meters after eight years (560 million cubic feet) and possibly 30 million cubic meters (1 billion cubic feet) thereafter.</p>
+<p>Brazil will pay Bolivia a price averaging $1 per million British Thermal Units (BTUs) over 20 years.</p>
+<p>Brazil's state-owned energy giant Petrobras has also agreed to effectively loan its Bolivian counterpart Yacimentos Petroliferos Fiscales Bolivianos nearly $280 million of the estimated $430 million cost of work on the Bolivian leg.</p>
+<p>That agreement, struck in August to avoid further delays to the project, puts Petrobras in control of construction of the Bolivian as well as the Brazilian legs.</p>
+<p>Petrobras has lined up British Gas, Tenneco Inc. and BHP Power as minority partners in the project. YPFB is associated with Enron Corp. which hopes to snap up the Bolivian company's tranportation operations when it is &quot;capitalized&quot; later this year.</p>
+<p>A foreign energy executive involved in the project cautioned that negotiations to secure financing for the Brazilian side were only just beginning.</p>
+<p>He said the World Bank, the Inter-American Development Bank and the Eximbanks of several countries would be asked to fund 70 percent of the Brazilian leg of the project, with the rest being provided as equity by the companies involved.</p>
+<p>However, the World Bank is known to have reservations about financing a project controlled by a state-owned company, Petrobras, and has yet to determine Bolivia's long-term gas-producing potential.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA, Brazil"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

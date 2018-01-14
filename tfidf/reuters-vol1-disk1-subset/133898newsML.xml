@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133898" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CME traders say USDA data neutral for pork bellies.</title>
+<headline>CME traders say USDA data neutral for pork bellies.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>CME analysts and traders said Tuesday's U.S. Agriculture Department Cold Storage Report, which showed 12.68 million lbs of frozen bellies in storage as of October 1, appeared neutral to CME pork belly futures.</p>
+<p>However, the increase in frozen ham supplies since September 1, as shown in the report, could be slightly bearish for live hog futures at Wednesday's opening.  </p>
+<p>&quot;To me that is a neutral number,&quot; said Chuck Levitt, analyst with Alaron Trading Corp, of the pork belly figure.</p>
+<p>The 12.68 million lbs in storage October 1 was down from 18.996 million September 1, but greater than the 6.255 million in storage a year ago. Also, the 12.68 million was near the midday point of analysts' estimates, which ranged from 11.9 million to 13.7 million.</p>
+<p>Although larger-than-a-year ago, Levitt said the 12.68 million lbs is a relatively low amount and is about four million lbs less than the 10-year average for October 1.</p>
+<p>&quot;The (belly) number was no surprise as the average guess was about 12.3 million. I think it was mostly neutral, particularly after the bounce off the lows we had (in CME futures Tuesday),&quot; said Dan Vaught, analyst with A.G. Edwards and Sons Inc.</p>
+<p>&quot;The nine-million-lb increase in hams stocks was a little bearish towards the hogs,&quot; said Vaught.</p>
+<p>USDA reported October 1 ham supplies at 92.428 million lbs versus 83.437 million on September 1.</p>
+<p>Levitt said the October 1 ham supplies are the lowest since 1992. But, although historically low, Levitt said the increase from September show supplies may be building.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

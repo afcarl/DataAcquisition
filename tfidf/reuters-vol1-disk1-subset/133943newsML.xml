@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133943" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Nebraska fed cattle market roundup - USDA.</title>
+<headline>Nebraska fed cattle market roundup - USDA.</headline>
+<dateline>OMAHA 1996-10-22</dateline>
+<text>
+<p>Trade Monday was slow, virtually non-existent, USDA said. Steers and heifer prices were not established on a dressed basis delivered (paid on hot carcass weights). Dressed Basis Steers - No confirmed sales.  Dressed Basis Heifers - No confirmed sales.</p>
+<p>Steer and heifer prices also were not established on a live basis. Buyer inquiry and demand light, seller interest light. Live basis sales - Equivalent 3 percent shrink delivered and FOB, some FOB 4% shrink.</p>
+<p>Slaughter Steers -  Few Select and Choice 2-3 1225 lbs 70.00.</p>
+<p>Slaughter Heifers - Few Select and Choice 2-3 1225 lbs 70.00.</p>
+<p>Confirmed -    100  Last Week - 6,900  Last Year - 1,100</p>
+<p>Wk To Date - 3,500 Sm Pd Lst Wk- 10,500 Sm Pd Lst Yr- 3,000</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

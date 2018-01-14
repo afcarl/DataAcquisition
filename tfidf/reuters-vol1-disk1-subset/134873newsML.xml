@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134873" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: Total says strike did not stop production.</title>
+<headline>Total says strike did not stop production.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>A 24-hour strike by some workers at French oil company Total SA's Gonfreville and Dunkirk refineries did not stop production at the two plants, a company spokesman said on Tuesday.</p>
+<p>&quot;Not a single unit has stopped production in Gonfreville or Dunkirk,&quot; the spokesman said. But he could not say whether there had been any reduction in output.</p>
+<p>Trade sources on Monday said there had been a reduction in the Gonfreville refinery's 300,000 barrels per day (bpd) production. They said on Monday the strike might also have affected output at Total's 120,000 bpd Dunkirk plant.</p>
+<p>The plant spokesman said between 30 and 40 percent of the workers at the Gonfreville plant in Le Havre took part in the strike that was due to end at 1000 GMT on Tuesday. He did not have figures for the participation rate at the Dunkirk refinery.</p>
+<p>A union official said the strike action was confined to Total. She said the strike involved salary and other demands but could not give any details.</p>
+<p>An Elf Aquitaine spokesman said its refineries had not been affected by the strike.</p>
+<p>-- Paris Newsroom +33 1 4221 5452 pmc/cct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

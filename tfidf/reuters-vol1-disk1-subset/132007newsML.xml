@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132007" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Aderans - 96/97 parent forecast.</title>
+<headline>Aderans - 96/97 parent forecast.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Year to February 28, 1997</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    ACTUAL</p>
+<p> (Parent)	     FORECAST	  YEAR-AGO</p>
+<p> Sales		 42.90		36.71</p>
+<p> Current		8.80		 6.71</p>
+<p> Net		    4.60		 3.32</p>
+<p> EPS		  111.80 yen	  86.37 yen</p>
+<p> Ord div	     20.00 yen	  16.00 yen</p>
+<p>NOTE - Aderans Co Ltd is a large hairpiece maker for men.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

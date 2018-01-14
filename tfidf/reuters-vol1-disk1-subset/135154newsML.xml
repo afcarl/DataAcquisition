@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135154" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Canon down on profit-taking at midday.</title>
+<headline>Canon down on profit-taking at midday.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Shares in Canon Inc sank in the Tuesday morning session due to profit-taking, brokers said.</p>
+<p>At midday, the shares were down 60 yen at 2,220 yen.</p>
+<p>&quot;The shares renewed their yearly high on October 18, hitting 2,370,&quot; one broker said.</p>
+<p>&quot;The weakening of the yen seems to be taking a breather and the market atmosphere in general is not very bright, prompting those who bought to sell early,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

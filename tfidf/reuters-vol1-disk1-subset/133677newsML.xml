@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133677" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Kansas feedlot cattle market no sales - USDA.</title>
+<headline>Kansas feedlot cattle market no sales - USDA.</headline>
+<dateline>DODGE CITY 1996-10-22</dateline>
+<text>
+<p>Trade was quiet, with no sales slaughter steers or heifers confirmed. Inquiry moderate and demand light. Sales confirmed for the week to date on 3,300 head of previously contracted or formulated cattle.</p>
+<p>Confirmed -  none   last week - 3,900   last year - none</p>
+<p>Wk to date - 1,700  last week - 6,700   last year - 1,100</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DODGE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

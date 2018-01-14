@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134874" id="root" date="1996-10-22" xml:lang="en">
+<title>BELGIUM: EU experts expected to approve U.S. grain quota.</title>
+<headline>EU experts expected to approve U.S. grain quota.</headline>
+<dateline>BRUSSELS 1996-10-22</dateline>
+<text>
+<p>The European Union's rice management committee may decide on Thursday details of export certificates need for the import of U.S. rice under GATT quota arrangements, a European Union (EU) official said on Tuesday.</p>
+<p>&quot;The arrangements of the GATT world arrangement were delayed because the U.S. had not sorted out their own administrative arrangements. A vote is expected,&quot; the official said.</p>
+<p>The quota arrangement will allow the United States to export to the EU 38,721 tonnes of milled and semi-milled rice, 7,642 tonnes of husked rice and 5,461 tonnes of broken rice.</p>
+<p>If adopted the quota will be open for bids five days after the regulation comes into force which will be three days after publication in the EU Official Journal. -- Brussels Newsroom 32 2 287 6800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

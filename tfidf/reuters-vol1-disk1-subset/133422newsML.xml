@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133422" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: Key Mexico commission OKs new petrochemical plan.</title>
+<headline>Key Mexico commission OKs new petrochemical plan.</headline>
+<dateline>MEXICO CITY 1996-10-22</dateline>
+<text>
+<p>A key Mexican legislative commission Monday approved the government's new plan for selling off petrochemical assets belonging to state oil monopoly Petroleos Mexicanos (Pemex), officials said.</p>
+<p>The lower house Chamber of Deputies' Energy Commission approved the plan and passed it onto the full Chamber for further debate.</p>
+<p>The plan entails offering a stake of 49 percent to private and foreign investors in the 61 petrochemical plants on the block, and modifies the government's original plan to open the sale 100 percent to foreigners and private investors.</p>
+<p>The original plan sparked fierce political opposition from the left, from private business and from the ranks of the ruling Institutional Revolutionary Party.</p>
+<p>Energy Minister Jesus Reyes Heroles, in comments to legislators Monday, said the book value of the 61 plants as of July this year was 18.029 billion pesos or about $2.33 billion.</p>
+<p>They also require about $500 million in new investment to modernise them and eliminate bottlenecks, he said.</p>
+<p>&quot;The idea is to take that amount (for new investment) from the proceeds of the placement of the 49 percent,&quot; he said. &quot;The placement of the 49 percent should give a result higher than that amount.&quot;</p>
+<p>The government had previously been reluctant to put a cash figure on the expected revenues from the sell-off.</p>
+<p>--Martin Langfield, Mexico City newsroom 525 728-9558</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

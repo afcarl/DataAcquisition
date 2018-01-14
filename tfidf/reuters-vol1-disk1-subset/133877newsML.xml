@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133877" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. lawsuits move ahead despite Sumitomo comments.</title>
+<headline>U.S. lawsuits move ahead despite Sumitomo comments.</headline>
+<byline>Huw Jones</byline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Lawsuits alleging that Sumitomo Corp, its former star trader Yasuo Hamanaka and two U.S. traders manipulated the copper market will go ahead despite Sumitomo's reiteration Tuesday there was no evidence of market rigging, a lawyer said.</p>
+<p>&quot;We think there is evidence that Sumitomo and Hamanaka manipulated the copper market,&quot; said Chris Lovell of Lovell &amp; Skirnick law firm in New York.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

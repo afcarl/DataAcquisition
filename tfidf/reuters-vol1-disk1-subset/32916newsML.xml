@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32916" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Semiconductor in Singapore wafer deal.</title>
+<headline>Semiconductor in Singapore wafer deal.</headline>
+<dateline>MAMARONECK, N.Y. 1996-09-04</dateline>
+<text>
+<p>Semiconductor Packaging Materials Co Inc said it had established a jointly owned Singapore corporation, International Semiconductor Products Pte Ltd, to develop a silicon wafer polishing and reclaiming facility in Singapore.</p>
+<p>ISP will be 50.1 percent owned by the company and 49.9 percent owned by a holding company, Semiconductor Alliance Pte Ltd.</p>
+<p>It is expected that the facility will be operational, and will begin to ramp up its production capabilities, in the second quarter of 1997.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAMARONECK, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

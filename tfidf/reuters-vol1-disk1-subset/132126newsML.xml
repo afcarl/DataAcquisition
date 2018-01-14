@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132126" id="root" date="1996-10-21" xml:lang="en">
+<title>SOUTH KOREA: Korean Air to supply parts to Boeing.</title>
+<headline>Korean Air to supply parts to Boeing.</headline>
+<dateline>SEOUL 1996-10-21</dateline>
+<text>
+<p>Korean Air Co Ltd said on Monday it had agreed to supply $600 million worth of aircraft parts to Boeing Co until 2006.</p>
+<p>A formal contract on the supply of wing tips and flap track fairings would be signed on Wednesday in Seoul, according to a statement by South Korea's national flagcarrier.  </p>
+<p>It said the parts would be for Boeing's 500-seat passenger aircraft B747-500X/600X currently in development. Boeing expects to sell approximately 1,000 planes until 2006, it added.</p>
+<p>Korean Air, the flagship of Hanjin Group  HANJ.CN, plans to start designing the parts in January 1997 for production in June 1998, it said.</p>
+<p>First supplies to Boeing are scheduled for June 1999.</p>
+<p>--Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3640007">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32505" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: Indian castor prices extend gains, arrivals fall.</title>
+<headline>Indian castor prices extend gains, arrivals fall.</headline>
+<dateline>BOMBAY 1996-09-04</dateline>
+<text>
+<p>Indian castor prices for December delivery extended gains on Wednesday on fresh speculative buying and lower arrivals, dealers said.</p>
+<p>&quot;Fresh export enquiries for castoroil also triggered fresh bull buying,&quot; one dealer said.</p>
+<p>Castorseed arrivals from Gujarat region fell to 6-7,000 bags (75 kg each) against 10-12,000 bags on Tuesday. Groundnut oil rose to 435/437 rupees per 10 kg from 432/433 on buying for the festival season. In Rajkot spot oil was steady at 680/685 rupees per 15 kg. The castor trade is shut on Thursday for a local holiday. Trading will resume on Friday.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

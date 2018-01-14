@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133622" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Milken probation extended six months.</title>
+<headline>Milken probation extended six months.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Former junk bond chief Michael Milken, who pleaded guilty to securities-related crimes in 1990, agreed to a six-month extension of his probation that was to end Friday, his lawyer said Tuesday.</p>
+<p>This marks the fourth extension sought by the government to allow the Securities and Exchange Commission to continue its probe into his work on several high-profile business deals.</p>
+<p>The extention to April 25, 1997, was approved by U.S. District Judge Kimba Wood.</p>
+<p>The SEC has been investigating Milken's role in several transactions including MCI Communications Corp.'s agreement to invest as much as $2 billion in News Corp.</p>
+<p>He also gave advice in Time Warner Inc.'s purchase of Turner Broadacsting System and Ronald Perelman's purchase of New World Entertainment.</p>
+<p>After pleading guilty to six felonies, Milken served two years in prison and paid more than $1 billion in fines and restitution.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

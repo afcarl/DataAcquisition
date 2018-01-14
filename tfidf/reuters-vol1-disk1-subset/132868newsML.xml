@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132868" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: TENNIS-MEDVEDEV PULLS OUT OF PARIS OPEN.</title>
+<headline>TENNIS-MEDVEDEV PULLS OUT OF PARIS OPEN.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>Andrei Medvedev, finalist in 1993, has withdrawn from the Paris Open next week with a shoulder injury, organisers said on Tuesday.</p>
+<p>The Ukrainian will be replaced by Italian Renzo Furlan in Friday's draw for the tournament at Bercy starting on Monday. </p>
+<p>The organisers also announced they had granted wild cards to former French Open champion Sergi Bruguera of Spain, ranked 68th in the world, French Davis Cup players Guy Forget and Guillaume Raoux and their compatriot Lionel Roux.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

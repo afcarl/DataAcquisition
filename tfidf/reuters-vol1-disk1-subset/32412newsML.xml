@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32412" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: German industry orders rise again in July.</title>
+<headline>German industry orders rise again in July.</headline>
+<byline>Douglas Busvine</byline>
+<dateline>BONN 1996-09-04</dateline>
+<text>
+<p>German July industrial orders data published on Wednesday showed the second consecutive monthly gain, encouraging economists to predict solid overall economic growth in the third quarter after a robust spring.</p>
+<p>Industrial orders grew by a monthly 0.6 percent after a 1.9 percent gain in June, the economics ministry said.</p>
+<p>A rise of 0.9 percent in western Germany was undermined by what economists called a worrying 4.7 percent drop in the &quot;new states&quot; of former communist eastern Germany.</p>
+<p>They said the picture emerging from early indicators for July, along with last week's business confidence survey by the Ifo institute, pointed to continued growth at a slower pace following a leap during the spring.</p>
+<p>&quot;The economy is going well, and will do well in the second half,&quot; said economist Holger Schmieding at Merrill Lynch in Frankfurt. &quot;The monthly figures are distorted by major orders, but if you look at the trend it is dramatically upward.&quot;</p>
+<p>Second quarter gross domestic product figures are due on Thursday. They are expected by economists to show a gain of 1.0-1.5 percent over the first quarter when Germany suffered from bad winter weather and output fell 0.4 percent.</p>
+<p>The industrial orders figures came in above a plus 0.3 percent consensus forecast in a Reuter survey -- but within expectations. They followed industrial output data on Tuesday which also showed a slowdown in month-on-month growth in July from June although the growth trend extended back five months.</p>
+<p>Pan-German industrial orders were down by 0.1 percent in July on the same month a year earlier, after a two percent rise in June, according to calculations based on Bundesbank data.</p>
+<p>Economists said the slump in east German orders could have either been caused by a gap in major orders or problems due to the summer holidays.</p>
+<p>&quot;The improvement is there, but we are not out of the woods yet. In the east, there are clouds on the horizon,&quot; Rosenstock said.</p>
+<p>Data across the board showed strong growth of over seven percent in foreign orders, while domestic orders were sluggish and slipped back by nearly three percent against June.</p>
+<p>The fledgling economic upturn is unlikely to help employment, however. Economists expect August unemployment data due on Thursday to show continued stagnation at close to post-war record highs of just under four million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

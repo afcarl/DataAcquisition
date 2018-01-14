@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33108" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Most Americans upbeat on economy - poll.</title>
+<headline>Most Americans upbeat on economy - poll.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Most Americans say the economy is getting better, the first time under President Clinton the outlook has been that positive, USA Today reported Wednesday.</p>
+<p>According to a USA Today/CNN/Gallup poll, 50 percent of Americans feel the United States is on the right track for the 21st century, against 41 percent who say it is not.</p>
+<p>In addition, 45 percent are satisfied with the way things are going in the United States, sharply up from 14 percent in June 1992.</p>
+<p>Fifty-nine percent say the economy is getting better, up from 39 percent in May and 29 percent in September 1992, when George Bush was seeking a second term. Thirty-seven percent say the economy is getting worse.</p>
+<p>Only 31 percent of those interviewed said they supported Republican presidential candidate Bob Dole's economic plan, which includes a tax cut. That is down from 51 percent on Aug 18.</p>
+<p>The poll involved 1,009 registered voters interviewed by telephone from Aug 30 to Sept 1. It has a margin of error of 3 percentage points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

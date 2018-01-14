@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136011" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: California Micro Devices Corp Q2 net falls.</title>
+<headline>California Micro Devices Corp Q2 net falls.</headline>
+<dateline>MILPITAS, Calif. 1996-10-23</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>					 Three Months	Six Months</p>
+<p>					     Ended		Ended</p>
+<p>					   Sept. 30,	  Sept. 30,</p>
+<p>					  1996    1995     1996    1995</p>
+<p>Revenues:</p>
+<p>  Net product sales	     $7,738 $ 9,322  $17,033 $17,666</p>
+<p>  Technology related revenues    380     307	680     610</p>
+<p>     Total revenues		8,118   9,629   17,713  18,276</p>
+<p>Costs and expenses:</p>
+<p>  Cost of sales		    4,921   5,314   11,145  10,067</p>
+<p>  Research and development     1,214     795    2,201   1,661</p>
+<p>Selling, marketing and</p>
+<p>   administrative		  2,009   2,729    4,161   5,203</p>
+<p>     Total costs and expenses  8,144   8,838   17,507  16,931</p>
+<p> Operating income (loss)	  (26)     791	206   1,345</p>
+<p> Other (income) expense, net   (166)    (45)    (266)     (8)</p>
+<p> Income before income taxes	140     836	472   1,353</p>
+<p> Income taxes			   --	--	 --	--</p>
+<p> Net income			    140     836	472   1,353</p>
+<p> Net income per share	     0.01    0.08     0.04    0.13</p>
+<p>Weighted average common shares</p>
+<p>and share equivalents</p>
+<p>  outstanding		     10,908  10,866   10,964  10,324</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILPITAS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132544" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Minntech Corp Q2 net higher.</title>
+<headline>Minntech Corp Q2 net higher.</headline>
+<dateline>MINNEAPOLIS 1996-10-22</dateline>
+<text>
+<p>Second Quarter    Six Months</p>
+<p>					   1996    1995    1996    1995</p>
+<p>Revenues</p>
+<p>    Net sales products	 $ 15,845$ 16,316$ 32,530$ 31,761</p>
+<p>    Contract revenues		  --	--	--	--</p>
+<p>	Total revenues	     15,845  16,316  32,530  31,761</p>
+<p>Operating costs and expenses</p>
+<p>   Cost of product sales	  9,077   9,505  18,460  18,658</p>
+<p>   Research and development	 829     926   1,654   1,681</p>
+<p>   Selling/gen'l/administrative 4,306   3,631   8,407   7,210</p>
+<p>Amortization of intangible assets</p>
+<p>					    212     155     423     295</p>
+<p>Loss due to fiber production</p>
+<p>    scale-up				0     936	 0     936</p>
+<p>Total oper costs/expenses  14,424  15,153  28,944  28,780  Earnings from operations	 1,421   1,163   3,586   2,981</p>
+<p> Other income/(expense), net     (21)	 2    (94)	47</p>
+<p> Earnings before income taxes   1,400   1,165   3,492   3,028</p>
+<p> Provision for income taxes	 680     418   1,551   1,088</p>
+<p>Minntech Japan minority interest</p>
+<p>					   (61)	--   (131)	--</p>
+<p> Net earnings			   781     747   2,072   1,940</p>
+<p> Net earnings per share	     .12     .11     .30     .29</p>
+<p> Average shares		     6,662   6,835   6,812   6,759</p>
+<p>	     (In thousands except per share amounts)</p>
+<p>		    Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

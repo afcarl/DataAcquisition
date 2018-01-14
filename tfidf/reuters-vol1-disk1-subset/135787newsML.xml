@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135787" id="root" date="1996-10-23" xml:lang="en">
+<title>BULGARIA: ONLY TREASURY PAPER TRADES ON BULGARIAN BOURSE.</title>
+<headline>ONLY TREASURY PAPER TRADES ON BULGARIAN BOURSE.</headline>
+<dateline>SOFIA 1996-10-23</dateline>
+<text>
+<p>Two repo deals were struck on the Bulgarian Stock Exchange (BSE) on Wednesday but no corporate stocks traded and the RABSI (Reuter All Bulgaria Stock Index) was unchanged from Tuesday's 41.28 points, brokers said.</p>
+<p>Repo turnover amounted to 8.850 million levs. The paper yields 3.77-3.89 percent for the seven-day period until repurchase.</p>
+<p>Treasury paper yield fell after the central bank cut its key interest rate to 240 percent annualy from 300 last week.</p>
+<p>The Sofia-based Sofia Stock Exchange, the country's second largest, suspended daily sessions on Monday and probably would not resume trading before a planned merger with the BSE is carried out, brokers said.</p>
+<p>-- Dessislava Popova, Sofia Newsroom, 359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31598" id="root" date="1996-09-04" xml:lang="en">
+<title>BOSNIA: Bosnian court opens trial of rebel Moslem leader.</title>
+<headline>Bosnian court opens trial of rebel Moslem leader.</headline>
+<dateline>SARAJEVO 1996-09-04</dateline>
+<text>
+<p>A Bosnian court opened proceedings on Wednesday against rebel Moslem leader Fikret Abdic on charges connected with his armed rebellion against the Sarajevo government.</p>
+<p>A judge for the Moslem-led Bosnian government read out a lengthy indictment against Abdic, who is being tried in his absence in a court in the northwest town of Bihac, state radio reported.</p>
+<p>It included allegations that Abdic orchestrated the shelling and detention of civilians, pressed men into military service and ordered a blockade of humanitarian aid to the Bihac region.</p>
+<p>Abdic has registered a political party to contest Bosnia's post-war elections and analysts said it was no accident that authorities began the trial less than two weeks before the September 14 polls.</p>
+<p>Abdic, a businessman-turned-politician and an arch rival of Bosnian President Alija Izetbegovic, led a rebellion against the Sarajevo government in 1993 and declared the Bihac enclave &quot;an autonomous region&quot;.</p>
+<p>He armed his troops by reaching deals with Croat and Serb armies fighting the government, which recaptured the enclave in 1995. Abdic and his followers then fled to Croatia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

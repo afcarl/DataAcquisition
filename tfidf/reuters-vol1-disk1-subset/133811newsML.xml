@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133811" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. postpones diplomatic mission to Kabul.</title>
+<headline>U.S. postpones diplomatic mission to Kabul.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>The United States has postponed a plan to send an envoy to Kabul to talk to Taleban authorities because of renewed fighting near the Afghan capital, the U.S. State Department said on Tuesday.</p>
+<p>&quot;We may send someone in the future but right now we're not sending anybody in because there's fighting all around Kabul,&quot; said State Department spokesman Nicholas Burns.</p>
+<p>Burns announced three weeks ago that a U.S. diplomat, who was not named, would arrive in Kabul &quot;in a couple of days&quot; to discuss a range of issues with the Taleban, including the possible reopening of the U.S. embassy there.</p>
+<p>When no such mission took place, State Department officials explained that Taleban, which captured Kabul in September and gained control of three quarters of Afghanistan, had not so far set up a full government structure.</p>
+<p>Since then forces of Ahmad Shah Masood, military chief in the organisation of President Burhanuddin Rabbani, have staged a comeback and advanced towards the capital.</p>
+<p>&quot;The situation has changed appreciably in the last three weeks. We now have Mr Masood at the gates of Kabul,&quot; Burns said.</p>
+<p>Islamic restrictions imposed on women by the purist Taleban movement have been extensively reported in the U.S. media. The State Department had said this was one issue its envoy planned to discuss with Taleban leaders.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31792" id="root" date="1996-09-04" xml:lang="en">
+<title>VENEZUELA: Caracas shares closed mixed, cross trades dominate.</title>
+<headline>Caracas shares closed mixed, cross trades dominate.</headline>
+<dateline>CARACAS 1996-09-04</dateline>
+<text>
+<p>Share prices on the Caracas Stock Exchange closed mixed, with the index hitting its fifth successive fall Wednesday in action dominated by large cross trades, brokers said.</p>
+<p>The market's 19-share index fell 0.09 percent to 4,580.37, as 20 stocks closed higher, 16 lower and eight unchanged.</p>
+<p>Trading volume was twice that on Tuesday at 8.614 billion bolivars ($18.1 million) in a session again dominated by cross trades, or trades between portfolios in the same brokerage.  </p>
+<p>&quot;The volume was so high because of the number of cross trades,&quot; said Ricardo Marino of the Intervalores brokerage.</p>
+<p>Brokers said foreign buyers appeared to be behind most of the cross trades.</p>
+<p>Among leading stocks, benchmark Electricidad de Caracas fell 3.00 bolivars to 391.00 bolivars, steel company Sivensa rose 0.50 bolivar to 289.75 bolivars and agro-industrial company Mavesa rose 1.50 bolivars to 122.00.</p>
+<p>-- Silene Ramrez, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131963" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: Bank Negara Malaysia official to be IMF director.</title>
+<headline>Bank Negara Malaysia official to be IMF director.</headline>
+<dateline>KUALA LUMPUR 1996-10-21</dateline>
+<text>
+<p>Malaysia's central bank announced on Monday that its assistant governor Zamani Abdul Ghani was being appointed as an executive director in the International Monetary Fund from November 1, this year.</p>
+<p>It said in a statement that Zamani would serve a two-year term in the IMF, based in Washington DC.</p>
+<p>He would represent members of the Southeast Asian Voting Group comprising Brunei, Cambodia, Fiji, Indonesia, Laos, Malaysia, Myanmar, Nepal, Singapore, Thailand, Tonga and Vietnam.</p>
+<p>Zamani, who joined the central bank, Bank Negara, in 1971, had served in various departments and was responsible for establishing the Bank's representative offices in New York and London.</p>
+<p>-- Kuala Lumpur newsroom (603-230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

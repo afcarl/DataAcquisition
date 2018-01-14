@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13386" id="root" date="1996-08-26" xml:lang="en">
+<title>SWITZERLAND: Tamils demonstrate outside U.N. headquarters.</title>
+<headline>Tamils demonstrate outside U.N. headquarters.</headline>
+<dateline>GENEVA 1996-08-26</dateline>
+<text>
+<p>Thousands of Tamils demonstrated outside the United Nations' European headquarters in Geneva on Monday to appeal for U.N. recognition of their fight for independence from Sri Lanka.</p>
+<p>The demonstrators, said by police to number 6,000, also urged the release of Nadarajah Muralidaran, Swiss-based leader of the the Tamil Tiger guerrillas, who has been held in a Zurich jail since April on charges of extortion.</p>
+<p>The demonstrators delivered an appeal to the U.N. human rights centre demanding an immediate end to &quot;state terrorism&quot; against Tamils and the Liberation Tigers of Tamil Eelam (LTTE).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

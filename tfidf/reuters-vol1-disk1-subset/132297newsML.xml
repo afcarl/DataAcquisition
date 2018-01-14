@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132297" id="root" date="1996-10-21" xml:lang="en">
+<title>DENMARK: SAS says plans South African link.</title>
+<headline>SAS says plans South African link.</headline>
+<dateline>COPENHAGEN 1996-10-21</dateline>
+<text>
+<p>Scandinavian Airlines System (SAS) says it plans to form an alliance with South African Airways (SAA) to gain a foothold on the African continent.</p>
+<p>In an interview published on Monday in the Danish business magazine Economic Weekly, SAS director Curt Lundqvist said the deal would not take effect immediately.</p>
+<p>&quot;For the moment talks with the South Africans on, among other things code-sharing are on standby because we are using many resources to develop the other major alliances,&quot; he said.</p>
+<p>SAS has existing strategic partnerships with Lufthansa, United Airlines, Thai Airways International and Air Canada.</p>
+<p>Deregulation has brought the Scandinavian carrier competition on short-haul European services and some domestic routes, notably from British Airways Express and Virgin Express.</p>
+<p>Virgin last month announced a code-sharing agreement with South Africa's Sun Air.</p>
+<p>--Soeren Linding Jakobsen, Copenhagen newsroom +45 33969653</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

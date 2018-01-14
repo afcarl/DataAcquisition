@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26161" id="root" date="1996-09-01" xml:lang="en">
+<title>UK: CRICKET-ENGLAND V PAKISTAN SCOREBOARD.</title>
+<headline>CRICKET-ENGLAND V PAKISTAN SCOREBOARD.</headline>
+<dateline>NOTTINGHAM, England 1996-09-01</dateline>
+<text>
+<p>Scoreboard of the</p>
+<p>third and final one-day cricket international between England</p>
+<p>and Pakistan on Sunday:</p>
+<p>England</p>
+<p> N.Knight not out				     125</p>
+<p> A.Stewart c and b Wasim Akram			3</p>
+<p> M.Atherton c Shahid Nazir b Wasim Akram	 30</p>
+<p> M.Maynard b Shahid Nazir			    24</p>
+<p> G.Lloyd c Shadab Kabir b Saqlain Mushtaq	15</p>
+<p> R.Irani b Shahid Nazir				 0</p>
+<p> A.Hollioake c Ijaz Ahmed b Saqlain Mushtaq    13</p>
+<p> D.Gough b Wasim Akram				  5</p>
+<p> R.Croft b Waqar Younis				 0</p>
+<p> P.Martin run out					 6</p>
+<p> A.Mullally b Waqar Younis			    2</p>
+<p> Extras (b-2 lb-8 w-9 nb-4)			  23</p>
+<p> Total (50 overs)				     246</p>
+<p>Fall of wickets: 1-10 2-108 3-137 4-139 5-178 6-216 7-226</p>
+<p>8-231 9-240.</p>
+<p>Bowling: Wasim Akram 10-1-45-3, Waqar Younis 10-1-49-2,</p>
+<p>Shahid Nazir 10-0-47-2, Asif Mujtaba 5-0-27-0, Saqlain Mushtaq</p>
+<p>10-0-35-2, Aamir Sohail 5-0-33-0.</p>
+<p>Pakistan</p>
+<p> Saeed Anwar b Martin				61</p>
+<p> Shahid Anwar lbw b Martin			 37</p>
+<p> Ijaz Ahmed c Lloyd b Gough			59</p>
+<p> Aamir Sohail b Croft				29</p>
+<p> Shadab Kabir c Irani b Hollioake		 0</p>
+<p> Asif Mujtaba b Hollioake			   2</p>
+<p> Wasim Akram lbw b Hollioake			5</p>
+<p> Rashid Latif not out				31</p>
+<p> Saqlain Mushtaq c Maynard b Hollioake	 12</p>
+<p> Waqar Younis not out				 0</p>
+<p> Extras (lb-5 w-6)				   11</p>
+<p> Total (for 8 wickets, 49.4 overs)	    247</p>
+<p>Fall of wickets: 1-93 2-114 3-177 4-182 5-187 6-199 7-219</p>
+<p>8-240.</p>
+<p>Did Not Bat: Shahid Nazir. </p>
+<p>Bowling: Gough 10-1-43-1, Mullally 9-0-66-0, Martin</p>
+<p>10-0-38-2, Croft 10-0-38-1, Irani 2-0-12-0, Hollioake</p>
+<p>8.4-0-45-4.</p>
+<p>Result: Pakistan won by two wickets.</p>
+<p>First match: England won by five wickets</p>
+<p>Second: England by 107 runs.</p>
+<p>England won series 2-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOTTINGHAM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

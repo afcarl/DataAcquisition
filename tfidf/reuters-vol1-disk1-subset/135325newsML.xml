@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135325" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's winter energy demand seen rising 9.4 pct.</title>
+<headline>S.Korea's winter energy demand seen rising 9.4 pct.</headline>
+<dateline>SEOUL 1996-10-22</dateline>
+<text>
+<p>South Korea's total energy demand is expected to rise 9.4 percent to 94.79 million tonnes of oil equivalent (TOE) this winter (October 1996-March 1997) from 86.61 million a year ago, the Ministry of Trade, Industry and Energy said on Tuesday.</p>
+<p>Breakdown of expected demand for energy resources during the period, compared with the figures for the same period last year (In brackets are year-on-year growth in percentage):</p>
+<p>			     Oct 1996-Mar 1997   Oct 1995-Mar 1996</p>
+<p>				Amount		  Amount</p>
+<p> Total			94,788   (9.4)	86,607  (10.8)</p>
+<p>(in 1,000 TOE)</p>
+<p> Petroleum products    435,000   (8.9)     399,402   (9.1)</p>
+<p>(in 1,000 barrels)</p>
+<p> LNG			   6,785  (39.1)	 4,879  (23.8)</p>
+<p>(in 1,000 tonnes)</p>
+<p> Hard coal		   2,550 (-13.9)	 2,961 (-19.1)</p>
+<p>(in 1,000 tonnes)</p>
+<p> Bituminous coal	  22,609   (9.1)	20,724  (14.2)</p>
+<p>(in 1,000 tonnes)</p>
+<p> Nuclear power	    33,877  (-3.2)	35,009  (15.2)</p>
+<p>(in gigawatt hours)</p>
+<p> Hydroelectric power     2,512   (8.1)	 2,325  (32.3)</p>
+<p>(in gigawatt hours)</p>
+<p>(Source: Ministry of Trade, Industry and Energy).</p>
+<p>--Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1610107">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

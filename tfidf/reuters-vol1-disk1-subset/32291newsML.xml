@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32291" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Ford unit sets $400 mln in two-year notes.</title>
+<headline>Ford unit sets $400 mln in two-year notes.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The following debt issue was</p>
+<p>priced on Wednesday via lead manager Merrill Lynch &amp; Co.</p>
+<p>BORROWER ASSOCIATES CORP OF NORTH AMERICA</p>
+<p>AMT $400 MLN		 COUPON  6.50 PCT  MATURITY 09/09/98</p>
+<p>TYPE NOTES		   ISS PRICE 99.954  PAY DATE 09/09/96</p>
+<p>LAST MOODY AA3	     REOFFER N.A.	PAY FREQ SEMI</p>
+<p>LAST S&amp;P AA-MINUS	  YIELD  6.525 PCT  FULL FEES N.A.</p>
+<p>INDUSTRY AUTOS	     SPREAD +17 BPS    CALLABLE NO</p>
+<p>NOTE: FORD UNIT</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

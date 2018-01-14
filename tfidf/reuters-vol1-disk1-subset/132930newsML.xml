@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132930" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: London's Millennium Wheel gets approval.</title>
+<headline>London's Millennium Wheel gets approval.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Plans to build a 10 million pound ($15 million) Millennium wheel in London to mark the year 2000 were approved on Tuesday.</p>
+<p>Lambeth Borough Council in south London gave the go-ahead for the 500-foot (150 metre) high project which will be the world's biggest ferris wheel.</p>
+<p>The Millennium wheel, sponsored by British Airways, will be built on the Thames river opposite the Houses of Parliament and is expected to attract two million visitors each year.</p>
+<p>&quot;It will be for the millennium what the Crystal Palace was for the 1851 Great Exhibition,&quot; said Bob Ayling, chief executive of British Airways.</p>
+<p>The wheel is expected to take up to two years to build and will weigh 1,800 tons. Once it is completed it will carry 2,500 passengers an hour in 60 enclosed capsules for a 20-minute ride which will give sweeping views over the British capital.</p>
+<p>Described as London's answer to the Eiffel Tower or Empire State building, the wheel will remain on its original site for five years before being dismantled and moved to another location.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

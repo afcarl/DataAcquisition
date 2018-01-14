@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131988" id="root" date="1996-10-21" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's eigth month energy demand up 9.7 pct.</title>
+<headline>S.Korea's eigth month energy demand up 9.7 pct.</headline>
+<dateline>SEOUL 1996-10-21</dateline>
+<text>
+<p>South Korea's energy demand grew 9.7 percent to 105.79 million tonnes of oil equivalent (TOE) in the first eight months of 1996 from 96.45 million a year ago, the Ministry of Trade, Industry and Energy said on Monday.</p>
+<p>Energy consumption rose on the back of increasing use of liquefied natural gas (LNG) in the residential market and hydroelectric power, a ministry statement said.</p>
+<p>Oil product demand growth lagged, however, due to an industrial slowdown, it said.</p>
+<p>Breakdown of South Korea's demand for energy resources in the first eight months, compared with the same period last year. (Figures in brackets are year-on-year growth in percentage):</p>
+<p>				Jan-Aug 1996	 Jan-Aug 1995</p>
+<p>				Amount		  Amount</p>
+<p> Total		     105,788   (9.7)	96,445   (9.6)</p>
+<p>(in 1,000 TOE)</p>
+<p> Petroleum products    464,721   (7.2)     433,541   (9.6)</p>
+<p>(in 1,000 barrels)</p>
+<p> LNG			   5,853  (32.8)	 4,407  (20.6)</p>
+<p>(in 1,000 tonnes)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

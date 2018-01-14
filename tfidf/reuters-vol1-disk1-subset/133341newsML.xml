@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133341" id="root" date="1996-10-22" xml:lang="en">
+<title>VENEZUELA: Venezuela M-0 rises 7.89 percent in week to Oct 4.</title>
+<headline>Venezuela M-0 rises 7.89 percent in week to Oct 4.</headline>
+<dateline>CARACAS 1996-10-22</dateline>
+<text>
+<p>Venezuela's monetary base rose 7.89 percent, or  83 billion bolivars, to 1.134 trillion bolivars in the week to October 22, the central bank said.</p>
+<p>At the beginning of 1996, base money stood at 873 billion bolivars.</p>
+<p>-- Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

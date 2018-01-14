@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131985" id="root" date="1996-10-21" xml:lang="en">
+<title>SINGAPORE: India tenders to buy kerosene for December arrival.</title>
+<headline>India tenders to buy kerosene for December arrival.</headline>
+<dateline>SINGAPORE 1996-10-21</dateline>
+<text>
+<p>State-owned Indian Oil Corp (IOC) has issued a tender to buy superior kerosene for delivery in December, traders said on Monday.</p>
+<p>The tender seeks 30,000-tonne cargoes for delivery to Bombay on the Indian west coast, and 45,000-tonne cargoes for delivery to Madras or Haldia on the east coast.</p>
+<p>The tender closes on October 31 and offers will be valid for two days.  </p>
+<p>In its last tender, IOC bought one 45,000-tonne cargo of kerosene for November delivery from U.S. major Mobil at a $2.08-per-barrel premium over Singapore spot quotes, on a cost-and-freight basis to the east coast.</p>
+<p>-- Singapore Newsroom (+65-870 3084)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

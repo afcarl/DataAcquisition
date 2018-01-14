@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132954" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: Late bond market prices.</title>
+<headline>Late bond market prices.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>This is how major world bond markets were trading in late European business on Tuesday.</p>
+<p>GERMANY - Bunds erase losses but remain caught in dull range-trade between 99.40-99.70, lacking new market-moving factors. The December Bund future on the London International Financial Futures and Options Exchange (LIFFE) was trading at 99.83, up 0.27 from Monday's settlement price.</p>
+<p>BRITAIN - Gilts locked in a 22/32 gain, buoyed by strong demand at five-year auction and evidence of muted price pressures in the CBI survey. Retail sales tops agenda on Wednesday with small monthly fall expected. The December long gilt future on LIFFE was trading at 110-05/32, up 25/32 from Monday's settlement price.</p>
+<p>FRANCE - December bond futures got a late boost to break through 126.60 resistance. 10-yr OATs outperform Bunds. Franc above 3.38. The December notional bond future on the MATIF in Paris settled at 126.64 up 0.32 from Monday's settlement price.</p>
+<p>ITALY - Italian bond futures rose sharply after preliminary CPI data from seven Italian cities indicated a final October inflation figure of 3.0 percent. Analysts had seen a 3.1 percent Oct rate after the first three cities' figures on Monday. The Dec LIFFE BTP contract rose by around half a point as the futures market looked forward to a interest rate cut during November. The December bond future on LIFFE was trading at 124.22, up 1.03 from Monday's settlement price.</p>
+<p>UNITED STATES - US Treasuries weakened in early trade. Treasury to sell $18.25 billion in two-year notes. When-issued yield 5.935 pct. The December Treasury bond future on the Chicago Board of Trade was trading at 111-01/32, down 01/32 from Monday's settlement price. The long bond was quoted to yield 6.82 percent.</p>
+<p>JAPAN - Key December Japanese government bond futures ended sharply higher and set a new high in late afternoon trade. In after hours trading, the December future on LIFFE was trading at 123.92, up 0.31 from Monday's settlement price on the Tokyo Stock Exchange.</p>
+<p>EUROBONDS - The active five-year dollar sector in the Eurobond market saw further supply as Bayerische Landesbank launched a $1 billion deal. The issue will be priced this afternoon to yield 13 basis points over U.S. Treasury notes, a level which many market players considered on the tight side considering the size of the transaction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

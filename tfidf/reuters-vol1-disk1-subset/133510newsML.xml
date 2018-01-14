@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133510" id="root" date="1996-10-22" xml:lang="en">
+<title>THAILAND: Thais detain American woman with 3.6 kgs of heroin.</title>
+<headline>Thais detain American woman with 3.6 kgs of heroin.</headline>
+<dateline>BANGKOK 1996-10-22</dateline>
+<text>
+<p>Thai anti-narcotics police said on Tuesday they had detained an American woman on suspicion of possessing about 3.6 kgs (7.9 lbs) of heroin for export.</p>
+<p>Police alleged that Lisa Ann Padilla, 26, was carrying a suitcase with two plastic bags of heroin stashed inside when she was stopped at the departure lounge of Bangkok's Don Muang airport around midnight on Monday.</p>
+<p>Police estimated the Thai price of the seized heroin at 2.54 million baht ($100,000) but said it could fetch 10 times more overseas.</p>
+<p>The American could face a death sentence if convicted although a Thai court normally commutes such a penalty to a long jail term.</p>
+<p>Police said they were holding Padilla pending a formal charge in court of illegal possession of narcotics for trafficking and export. It was not immediately known how she would plead in court.</p>
+<p>Padilla told police she was resident of Upland, California.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

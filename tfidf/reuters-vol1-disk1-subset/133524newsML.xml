@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133524" id="root" date="1996-10-22" xml:lang="en">
+<title>SINGAPORE: Guangzhou Singapore IPO sold 1.12 times.</title>
+<headline>Guangzhou Singapore IPO sold 1.12 times.</headline>
+<dateline>SINGAPORE 1996-10-22</dateline>
+<text>
+<p>Guangzhou Investment Co Ltd said on Tuesday the 6.8 million shares in its Singapore initial public offer (IPO) had been subscribed 1.12 times.  </p>
+<p>Guangzhou said in a statement its 54.4 million placement shares had also been fully taken up.</p>
+<p>Total application moneys received amounted to approximately HK$158.4 million.</p>
+<p>&quot;To satisfy all successful applications for the offer shares, the company has decided to exercise its right to increase the number of offer shares...and will issue an additional 802,000 new shares, increasing the total number of shares to be issued to 62 million,&quot; it said.</p>
+<p>It said it had provisionally set October 28 as the commencement date for trading of the shares on a &quot;ready&quot; basis.  </p>
+<p>Guangzhou's primary listing is in Hong Kong. Shares for its secondary listing in Singapore were offered at HK$2.555 each.</p>
+<p>-- Singapore newsroom (65 8703199)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

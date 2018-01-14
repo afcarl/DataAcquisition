@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134409" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Stein Mart Q3 net rises.</title>
+<headline>Stein Mart Q3 net rises.</headline>
+<dateline>JACKSONVILLE, Fla. 1996-10-22</dateline>
+<text>
+<p>STEIN MART INC.</p>
+<p>			    Statement of Income</p>
+<p>				(Unaudited)</p>
+<p>		(In Thousands Except Per Share Amounts)</p>
+<p>				    For The		  For The</p>
+<p>			    Three Months Ended    Nine Months Ended</p>
+<p>			     Sep 28,   Sep 30,    Sep 28,   Sep 30,</p>
+<p>				 1996	 1995	 1996	1995</p>
+<p> Net Sales		$131,264  $108,221   $389,181  $312,460</p>
+<p>	Net Income	   2,411     1,565	9,559     5,533</p>
+<p>Weighted Average Shares</p>
+<p>   Outstanding	    23,750    23,508     23,537    23,493</p>
+<p> Net Income Per Share     0.10	0.07	 0.41	0.24</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSONVILLE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

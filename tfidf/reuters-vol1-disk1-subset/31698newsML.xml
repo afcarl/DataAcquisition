@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31698" id="root" date="1996-09-04" xml:lang="en">
+<title>SLOVAKIA: Slovak PM opens frank discussions with economists.</title>
+<headline>Slovak PM opens frank discussions with economists.</headline>
+<dateline>PIESTANY, Slovakia 1996-09-04</dateline>
+<text>
+<p>Slovak Prime Minister Vladimir Meciar on Wednesday opened a four-day, no-holds-barred meeting of economic and financial experts to discuss the country's economic policies to the year 2000.</p>
+<p>&quot;All opinions are allowed, there is no pulling of rank at this meeting,&quot; Meciar was quoted by his spokeswoman Magda Pospisilova as saying at the start of the closed-door meeting.</p>
+<p>The conference at this spa town northeast of the capital Bratislava is to discuss, in part, the restructuring of credit portfolios of commercial banks with heavy state involvement.</p>
+<p>Last year Slovakia's commercial banks had classified debts estimated at some 90 billion crowns, much of it carried over from the communist period. They are required to provision reserves of around 30 billion crowns to cover them.</p>
+<p>Other subjects include meeting problems of Slovakia's exports, the development of industry, agriculture and infrastructure, and the targetting of research and development programmes.</p>
+<p>-- Jan Krcmar, Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PIESTANY, Slovakia"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18149" id="root" date="1996-08-28" xml:lang="en">
+<title>TURKEY: Turkish shares slightly lower in quiet trade.</title>
+<headline>Turkish shares slightly lower in quiet trade.</headline>
+<dateline>ISTANBUL 1996-08-28</dateline>
+<text>
+<p>Istanbul shares slipped slightly on Wednesday amid selective and quiet trade, brokers said.</p>
+<p>The IMKB-100  .ISEC lost 0.08 percent or 52.66 points to end at 64,066.89. The market has lost a total of 1.4 percent this week. Daily volume rose to 6.2 trillion lira ($71.9 million) from 5.2 trillion ($60.3 million) on Tuesday.</p>
+<p>&quot;Profit-taking sales start when the market approaches the 65,000 level. It has difficulty breaching that due to the lack of fresh cash entry,&quot; said Bulent Onder from Acar Securities.</p>
+<p>&quot;But I also don't expect the market to ease strongly,&quot; he added.</p>
+<p>Brokers said the market had entered a downward trend as expectations were over after firms had announced half-year profits and as political and economic uncertainty persisted.</p>
+<p>They said some buyers had emerged today after players emptied out their portfolios on Monday and Tuesday, preferring to tie their cash to three-day repos ahead of a long weekend starting from Friday, a national holiday.</p>
+<p>Players who sold on Tuesday can get their cash on Thursday due to the Exchange's two-day settlement rule. SA</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

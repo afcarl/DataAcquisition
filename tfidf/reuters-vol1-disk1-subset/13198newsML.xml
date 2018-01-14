@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13198" id="root" date="1996-08-25" xml:lang="en">
+<title>THAILAND: Two Thai border police wounded by Burma gunmen.</title>
+<headline>Two Thai border police wounded by Burma gunmen.</headline>
+<dateline>MAE SOT, Thailand 1996-08-25</dateline>
+<text>
+<p>Two Thai border policemen were seriously wounded on Sunday when members of a Burmese rebel splinter faction ambushed their patrol in northwest Thailand, security officers said.</p>
+<p>The two were wounded in the early hours of Sunday when some 30 members of the Democratic Karen Buddhist Army (DKBA) ambushed their patrol on the Thai side of the border with Burma, to the north of the town of Mae Sot.</p>
+<p>The Thai army commander in the area, Col Suvit Maenmuan, told reporters the DKBA, which is allied with the Rangoon military government and based in southeast Burma, had recently stepped up cross-border infiltration.</p>
+<p>Suvit said the motive for their intrusions was not clear but he had ordered reinforcements to beef up security along the porous frontier.</p>
+<p>The DKBA was formed in late 1994 by hundreds of guerrillas who split from the anti-Rangoon Karen National Union (KNU) and allied themselves with Burmese government army, their former enemies.</p>
+<p>DKBA members have since launched intermittent cross-border attacks on Karen refugee camps in Thailand, where the majority of inhabitants are KNU supporters, and on Thai villages and police posts near the border.</p>
+<p>Bangkok has complained to Rangoon about the raids but Burmese military authorities say they have no contol over the faction.</p>
+<p>Thai army commanders reject the explanation, saying they have evidence the Burmese army supplies and directs the renegade ethnic minority splinter faction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAE SOT, Thailand"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

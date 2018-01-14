@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133729" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. late spot propane edges back up in slow trade.</title>
+<headline>U.S. late spot propane edges back up in slow trade.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>U.S. late spot propane prices were higher in late trade on Tuesday after gaining strength on the short-lived rise of NYMEX November crude oil futures.</p>
+<p>NYMEX November crude oil spiked in late afternoon trade on news of a catalytic cracker outage at the Amuay refiner in Venezuela before ending down 17 cents.</p>
+<p>&quot;Propane started running with NYMEX and stayed high,&quot; said one Houston trader.</p>
+<p>Support also came from rumors that a major producer was short of propane and that many players are expecting bullish data in Wednesday's government inventory report.</p>
+<p>In the U.S. Gulf Coast, Mont Belvieu spot propane gained a quarter cent to between 53.25 cents and 53.50 cents a gallon, with TET spot trading for 54.00 cents.</p>
+<p>Spot propane in the Midwest was traded a half cent higher at 53.00 cents after falling 0.75 cent earlier in the day.</p>
+<p>Activity was light particulary in the Midwest due to industry functions that will take many players out of their offices until Wednesday afternoon.</p>
+<p>-- Laney Salisbury, New York Energy Desk +1 212 859 1631</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

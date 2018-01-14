@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13357" id="root" date="1996-08-25" xml:lang="en">
+<title>PAKISTAN: Pakistan to auction federal investment bonds.</title>
+<headline>Pakistan to auction federal investment bonds.</headline>
+<dateline>KARACHI, Pakistan 1996-08-25</dateline>
+<text>
+<p>The State (central) Bank of Pakistan said on Sunday it had invited bids up to Tuesday for the auction of three-year, five-year and 10-year maturity federal investment bonds.</p>
+<p>The result of the auction would be announced on Wednesday with settlement set for Thursday, the bank said. It set no pre-auction target.</p>
+<p>In the previous auction on July 11, the bank accepted bids worth 300 million rupees at par for three-year maturity bonds, 44.5 million rupees at par for five-year bonds and 782.588 million rupees at par for the 10-year maturity bonds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

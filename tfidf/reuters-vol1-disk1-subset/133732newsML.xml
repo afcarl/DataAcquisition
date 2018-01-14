@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133732" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CBOT rice closes lower on long liquidation.</title>
+<headline>CBOT rice closes lower on long liquidation.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>CBOT rice futures closed lower on long liquidation and small lot net new sales as the market continued to track lower values in Asian markets, traders said.</p>
+<p>&quot;It was just long liquidation with a few new shorts,&quot; a trader said.</p>
+<p>Traders said the U.S. cash market now has sagged to nearly even with the CBOT futures. &quot;Farmer selling dried up at $9.80,&quot; he said.</p>
+<p>Rice closed four to seven cents per cwt lower, with November down five at $9.83 per cwt.</p>
+<p>Rice futures volume was estimated at 550 contracts, up from 483 Monday, according to the CBOT.</p>
+<p>Rice options volume was estimated at 30 contracts, up from 19 Monday.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

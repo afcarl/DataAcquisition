@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31561" id="root" date="1996-09-04" xml:lang="en">
+<title>SOUTH AFRICA: Enviroserv head suicide after son's death.</title>
+<headline>Enviroserv head suicide after son's death.</headline>
+<dateline>JOHANNESBURG 1996-09-04</dateline>
+<text>
+<p>Heinz Heuser, chairman of Enviroserv Holdings Ltd, committed suicide after his son's death last week in a car accident, the firm said on Wednesday.</p>
+<p>The group said in a statement that Heuser's suicide was motivated by the tragedy in his family and should not be taken as a sign that the firm was in any difficulty.</p>
+<p>&quot;The board expects the company to continue to perform as stated at the time of the interim results,&quot; Enviroserv said.</p>
+<p>At its interim results Enviroserv, which in May became the first waste company to be listed on the Johannesburg Stock Exchange, said that its forecast earnings per share for the year to December 31 of 20.6 cents was expected to be comfortably exceeded.</p>
+<p>The firm also said it had recruited Stan Jewaskiewitz as its new chief executive. He will take up his post from October 1 after leaving his job as deputy managing partner of A.A. Louden and Partners, a civil engineering consultancy.</p>
+<p>-- Johannesburg newsroom + 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

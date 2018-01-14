@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135707" id="root" date="1996-10-23" xml:lang="en">
+<title>SLOVAKIA: SOCCER-SLOVAKIA BEAT FAROE ISLANDS 3-0 IN WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-SLOVAKIA BEAT FAROE ISLANDS 3-0 IN WORLD CUP QUALIFIER.</headline>
+<dateline>BRATISLAVA 1996-10-23</dateline>
+<text>
+<p>Slovakia beat the Faroe</p>
+<p>Islands 3-0 (halftime 2-0) in a World Cup European group six</p>
+<p>qualifier on Wednesday.</p>
+<p>Scorers: Peter Dubovsky 20, Tibor Jancula 44, Julius Simon</p>
+<p>57, penalty</p>
+<p>Attendance 5,500</p>
+<p>Standings (tabulate under - played, won, drawn, lost, goals</p>
+<p>for, against, points):</p>
+<p> Yugoslavia	     3   3   0   0  17   2   9</p>
+<p> Slovakia		 3   3   0   0  11   1   9</p>
+<p> Czech Republic	 2   1   1   0   6   0   4</p>
+<p> Spain		    2   1   1   0   6   2   4</p>
+<p> Faroe Islands	  5   0   0   5   5  22   0</p>
+<p> Malta		    3   0   0   3   0  18   0</p>
+<p>Next match: Nov 10 Yugoslavia v Czech Republic</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

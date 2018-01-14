@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132182" id="root" date="1996-10-21" xml:lang="en">
+<title>DUBAI: British minister holds talks with Bahrain's Emir.</title>
+<headline>British minister holds talks with Bahrain's Emir.</headline>
+<dateline>DUBAI 1996-10-21</dateline>
+<text>
+<p>Britain's minister for the armed forces held talks on Monday with Bahrain's emir as part of a two-day visit, the official Gulf News Agency reported.</p>
+<p>It said Nicholas Soames and the Emir Sheikh Isa bin Sulman al-Khalifa discussed bilateral relations and regional developments.</p>
+<p>Soames, who arrived in the Gulf Arab state on Sunday, was scheduled to go to Saudi Arabia on Monday night, a British embassy spokesperson said earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

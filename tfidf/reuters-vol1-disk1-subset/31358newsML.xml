@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31358" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: MOTOR RACING-FRENTZEN SIGNED TO REPLACE HILL.</title>
+<headline>MOTOR RACING-FRENTZEN SIGNED TO REPLACE HILL.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>German driver Heinz-Harald Frentzen was named on Wednesday as the replacement for current Grand Prix leader Damon Hill in the Williams Formula One team next season.</p>
+<p>Briton Hill, who has been with Williams for the past six years, could clinch the drivers' title in Sunday's Italian Grand Prix at Monza.</p>
+<p>A statement from Williams on Wednesday said Frentzen, 29, would join Canadian driver Jacques Villeneuve next year.</p>
+<p>Hill was dropped from the Williams' team after contract negotiations broke down last week and he now looks likely to move to the British Jordan team.</p>
+<p>Frentzen, now with Sauber, has not won a Grand Prix, but is regarded as one of the fastest drivers on the circuit.</p>
+<p>&quot;Damon has contributed greatly to the team both as a test and a race driver,&quot; Williams team director Frank Williams said on Wednesday.</p>
+<p>&quot;I think his record speaks for itself as very few drivers have ever approached his record of 20 wins in 64 starts.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

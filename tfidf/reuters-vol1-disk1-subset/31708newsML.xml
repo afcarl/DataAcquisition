@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31708" id="root" date="1996-09-04" xml:lang="en">
+<title>MACEDONIA: PRESS DIGEST - Macedonia - Sept 4.</title>
+<headline>PRESS DIGEST - Macedonia - Sept 4.</headline>
+<dateline>SKOPJE 1996-09-04</dateline>
+<text>
+<p>These are the leading stories in the Skopje press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>DNEVNIK</p>
+<p>- Macedonia and Yugoslavia are a step closer to a free trade zone agreement while talks on the deliniation of the mutual border are at the start.</p>
+<p>- Clinton drew out a double edged sword in a move he believes will help him retain his position but also punish Iraq.</p>
+<p>NOVA MAKEDONIJA</p>
+<p>- Yugoslavia and Macedonia are giving priority to economic cooperation and if some questions are resolved both countries expect to sign an agreeement on a free trade zone.</p>
+<p>- The sitatuion in the Gulf escalated to such a point the Americans had to intervene.</p>
+<p>VECER</p>
+<p>- The opposition Liberal Party threatens to boycott elections this fall if the government is not ready to compromise on certain changes in the local elections law and accept the opposition's suggestions.</p>
+<p>-- Skopje newsroom +389 91 201196</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MCDNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SKOPJE"/>
+<dc element="dc.creator.location.country.name" value="MACEDONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

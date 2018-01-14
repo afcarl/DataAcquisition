@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31908" id="root" date="1996-09-04" xml:lang="en">
+<title>JAPAN: Sanwa to hold briefing on reports of embezzlement.</title>
+<headline>Sanwa to hold briefing on reports of embezzlement.</headline>
+<dateline>TOKYO 1996-09-05</dateline>
+<text>
+<p>Sanwa Bank Ltd  8320 T said on Thursday that it would hold a news conference at 10.30 a.m. (0130 GMT) on newspaper reports of alleged embezzlement by a former employee.  </p>
+<p>Police on Wednesday started investigating a former branch manager of Sanwa Bank in connection with allegations that 550 million yen had been stolen from a customer's account, the Japanese daily Yomiuri Shimbun reported on Thursday.</p>
+<p>Yomiuri said that a former chief of a branch of the bank in Tokyo's Ota ward used part of the money to repay loans while another daily, Tokyo Shimbun, said that he gave the money to two of the bank's customers.</p>
+<p>Kyodo news agency said the money in question was believed to have been used for loans to bank clients, including some with ties to gangsters.  </p>
+<p>The Yomiuri said the former branch manager may have taken a total of more than two billion yen from customers' accounts between the spring of last year and April this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31555" id="root" date="1996-09-04" xml:lang="en">
+<title>TANZANIA: Tanzania shilling stable against dollar.</title>
+<headline>Tanzania shilling stable against dollar.</headline>
+<dateline>DAR ES SALAAM 1996-09-04</dateline>
+<text>
+<p>The Tanzanian shilling was stable against the dollar on Wednesday, commercial dealers said.</p>
+<p>They posted the shiling at a commercial mean of 590.337 on the dollar compared to 590.475 on Tuesday. Against the pound, the shilling traded at a mean of 925.6496 compared to 921.5278 on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

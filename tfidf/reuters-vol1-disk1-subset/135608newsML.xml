@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135608" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: ABB still sees higher 1996 net.</title>
+<headline>ABB still sees higher 1996 net.</headline>
+<dateline>ZURICH 1996-10-22</dateline>
+<text>
+<p>ABB Asea Brown Boveri AG repeated that it still expects net profit for 1996 to exceed 1995's net profit on a comparable basis.  </p>
+<p>&quot;As stated previously, on a comparable basis, net income for the full year of 1996 is expected to increase over 1995,&quot; ABB said in its nine month report.</p>
+<p>ABB reported a 1995 net profit of $1.315 billion, but this result was inflated by a one-time payment of $250 million from Daimler-Benz in connection with the creation of a joint venture in rail transportation.</p>
+<p>ABB has made it clear that its forecast for a higher 1996 profit &quot;on a comparable basis&quot; refers to this payment.</p>
+<p>Excluding this payment, ABB would have reported a net profit of $1.065 billion in 1995.</p>
+<p>-- Peter Nielsen, Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

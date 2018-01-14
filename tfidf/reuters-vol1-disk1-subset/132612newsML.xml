@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132612" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Urohealth Systems Inc Q2 oper profit.</title>
+<headline>Urohealth Systems Inc Q2 oper profit.</headline>
+<dateline>NEWPORT BEACH, Calif. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Oper shr profit	  $0.12     loss	 $0.29</p>
+<p> Oper net profit	  1,794     loss	 3,482</p>
+<p> Sales		     21,220		   13,511</p>
+<p>	  6  MONTHS</p>
+<p> Oper shr profit	  $0.20     loss	 $0.54</p>
+<p> Oper net profit	  2,949     loss	 6,222</p>
+<p> Sales		     38,112		   26,494</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE - Q2 1996 net excludes previously announced one-time $25.5 million write-off of purchased research and development, and $4 million restructuring charge.</p>
+<p>Periods ended September 30.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWPORT BEACH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

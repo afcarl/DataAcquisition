@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142526" id="root" date="1996-10-25" xml:lang="en">
+<title>INDIA: CRICKET-TITAN CUP TRIANGULAR ONE-DAY SERIES STANDINGS.</title>
+<headline>CRICKET-TITAN CUP TRIANGULAR ONE-DAY SERIES STANDINGS.</headline>
+<dateline>FARIDABAD, India 1996-10-25</dateline>
+<text>
+<p>Titan Cup triangular</p>
+<p>one-day series standings after Friday's match (tabulate under</p>
+<p>played, won, no result, lost, points):</p>
+<p> South Africa   4  4  0  0  8</p>
+<p> India	    3  1  0  2  2</p>
+<p> Australia	3  0  0  3  0</p>
+<p>Next match: Oct 27 - India v Australia (in Cuttack)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARIDABAD, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

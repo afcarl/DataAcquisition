@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134703" id="root" date="1996-10-22" xml:lang="en">
+<title>TURKEY: Islamists charged with insulting Turk commander.</title>
+<headline>Islamists charged with insulting Turk commander.</headline>
+<dateline>ANKARA 1996-10-22</dateline>
+<text>
+<p>A state prosecutor brought charges against two Islamist journalists on Tuesday for an article that allegedly insulted a leading commander of the Turkish armed forces, the semi-official Anotalian news agency said.</p>
+<p>The agency said the office of the state prosecutor responsible for the media demanded up to 16 months imprisonment each for a columnist and an editor at the Islamist daily Akit, under two separate articles of the Penal Code.</p>
+<p>&quot;This is the first I've heard of this&quot;, Ali Karahasanoglu, responsible editor of the daily, told Reuters. &quot;I only know that there has been an inquiry into it and I gave my testimony,&quot;</p>
+<p>The prosecutor's office refused to comment on the case.</p>
+<p>Anatolian said the office charged the reporters for insulting Teoman Koman, head of Turkey's paramilitary gendarme forces, in the article headlined &quot;Worship, morale and the army&quot;.</p>
+<p>The editor said that the commander's name was not mentioned in the article nor were any direct or indirect imputations made about him in it.</p>
+<p>&quot;We only criticised a note from the Turkish army which reorganised mosques for soldiers. But at that time no one knew who ordered it, so there was no name in the article,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

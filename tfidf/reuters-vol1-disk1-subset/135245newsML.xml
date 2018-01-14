@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135245" id="root" date="1996-10-22" xml:lang="en">
+<title>THAILAND: Union Asia Finance Q3 net up 51 pct.</title>
+<headline>Union Asia Finance Q3 net up 51 pct.</headline>
+<dateline>BANGKOK 1996-10-22</dateline>
+<text>
+<p>Results for nine months ended</p>
+<p>September 30, 1996.</p>
+<p>		   (in millions of baht unless stated)</p>
+<p>				 Third quarter</p>
+<p>    Shr (baht)		 1.45	 vs	   0.96</p>
+<p>    Net			118.13	 vs	  78.05</p>
+<p>				 Nine months</p>
+<p>    Shr (baht)		 4.75	 vs	   3.57</p>
+<p>    Net			385.84	 vs	 290.04</p>
+<p>NOTES: Results are unaudited. Company's full name is Union Asia Finance Plc, a finance and securities firm.</p>
+<p>-- Bangkok newsroom 662-652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

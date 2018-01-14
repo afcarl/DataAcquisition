@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132142" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Japan EPA Minister Tanaka loses parliament seat.</title>
+<headline>Japan EPA Minister Tanaka loses parliament seat.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Economic Planning Agency (EPA) Minister Shusei Tanaka lost his seat in the Lower House of Japan's parliament in Sunday's general elections.</p>
+<p>Tanaka became EPA minister in January, when Prime Minister Ryutaro Hashimoto formed his cabinet.</p>
+<p>A strong advocate of administrative reforms and deregulation, Tanaka has been pushing for sweeping deregulation in six major areas, including financial markets, communications and employment. The Economic Council, an advisory panel to Hashimoto, is currently drawing up a new set of deregulation measures based on Tanaka's proposals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

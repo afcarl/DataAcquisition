@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133771" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. West spot power market firm amid BPA meeting.</title>
+<headline>U.S. West spot power market firm amid BPA meeting.</headline>
+<dateline>LOS ANGELES 1996-10-22</dateline>
+<text>
+<p>The spot power market in the western U.S. was firm Tuesday amid the start of a 2-day schedulers meeting held by the Bonneville Power Administration (BPA), trade sources said Tuesday.</p>
+<p>Portland, Ore.-based BPA said Monday that western utilities agreed to pre-schedule through Thursday in advance of the meetings.</p>
+<p>BPA is meeting today with Northwest utilities to discuss electronic bulletin board information on scheduling. Meetings will take place Wednesday with other western utilities and power marketers, a Bonneville trader said.</p>
+<p>Another BPA source confirmed Tuesday that capacity cutbacks on the DC segment of the Pacific Intertie will be capped at just over 1,000 megawatts (MW) at least through Thursday.</p>
+<p>The line had been expected to return to 2,000 MW this week after being shut for maintenance since mid-October.</p>
+<p>But market sources said the constraints were having little impact on spot market prices, with loads fairly evenly balanced with generation in most regions.</p>
+<p>Next-day prices at the California-Oregon border (COB) were last quoted at $19.00-19.50 per megawatt hour (MWh), little changed from Monday.</p>
+<p>But COB for November was quoted $19.40-19.75, up from $18.75-18.95 on Monday.</p>
+<p>Next-day Mid-Columbia prices were also little changed at $17.25-18.00 for peak power and $15.25-16.00 for off-peak. November Mid-Columbia was quoted $18.50-18.80.</p>
+<p>In the Southwest, next-day Palo Verde power was quoted $17.50-19.50 per MWh, little changed from Monday. November Palo Verde was quoted $18.40-18.75.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

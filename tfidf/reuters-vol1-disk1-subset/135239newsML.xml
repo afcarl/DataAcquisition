@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135239" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Philippine province says plans $100 mln bond issue.</title>
+<headline>Philippine province says plans $100 mln bond issue.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>Palawan governor Salvador Socrates said on Tuesday the southwestern Philippine island province is planning to float $100 million worth of bonds to finance infrastructure and development projects.  </p>
+<p>Socrates told a news conference the province will use as a guarantee for the bond its share of revenues from Shell Philippines Exploration, operator of the Camago-Malampaya field, the country's biggest gas find.</p>
+<p>Shell Philippines, a unit of the Royal Dutch Shell Group, has estimated the field has recoverable reserves of 2.5 trillion cubic feet.</p>
+<p>The Department of Energy has said that the government is entitled to 60 percent of the field's net proceeds and the local government unit is entitled to 40 percent of the national government's share.</p>
+<p>&quot;We are now finalising papers and looking at the terms of the bond or whether it will require national government guarantees,&quot; Socrates told the news conference, broadcast live on national radio.</p>
+<p>No other details were disclosed of the proposed bond float.</p>
+<p>President Fidel Ramos, on a visit to Palawan, told the same news conference that local governments units who are corporate entities under the Local Government Code of 1991 are encouraged to borrow to finance their programmes.</p>
+<p>- Manila newsroom 63 2 8418939 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

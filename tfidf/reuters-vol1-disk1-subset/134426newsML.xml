@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134426" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Arrow Electronics Inc Q3 net falls.</title>
+<headline>Arrow Electronics Inc Q3 net falls.</headline>
+<dateline>MELVILLE, N.Y. 1996-10-22</dateline>
+<text>
+<p>Three Months Ended	Nine Months Ended</p>
+<p>			    September 30	     September 30</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p> Sales		$1,597,379 $1,459,591 $4,902,348 $4,358,157</p>
+<p>Costs and expenses:</p>
+<p>Cost of products sold</p>
+<p>			 1,353,394  1,202,797  4,111,210  3,592,195</p>
+<p>   SG&amp;A expenses     147,377    140,580    454,592    427,591</p>
+<p>Depreciation and</p>
+<p>     amortization	9,254	8,135     27,608     23,687</p>
+<p>			 1,510,025  1,351,512  4,593,410  4,043,473</p>
+<p> Operating income     87,354    108,079    308,938    314,684</p>
+<p>Equity in earnings of</p>
+<p>   affiliated company  (391)	  398	(419)	2,168</p>
+<p> Interest expense	8,813     12,455     29,963     34,641</p>
+<p>Earnings before taxes</p>
+<p>and minority interest 78,150     96,022    278,556    282,211</p>
+<p> Provision for taxes  31,419     38,414    110,591    114,787</p>
+<p>Earnings before minority</p>
+<p>   interest	     46,731     57,608    167,965    167,424</p>
+<p> Minority interest     2,975	6,650     13,304     19,863</p>
+<p> Net income	     43,756     50,958    154,661    147,561</p>
+<p>Net income per share:</p>
+<p>	Primary	     0.85	 1.07	 3.01	 3.12</p>
+<p>	Fully diluted     0.85	 1.01	 3.01	 2.94</p>
+<p>Average shares and share</p>
+<p>equivalents outstanding:</p>
+<p>	Primary	   51,446     47,740     51,465     47,268</p>
+<p>	Fully diluted   51,446     51,519     51,465     51,264</p>
+<p>(In thousands except per share data)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

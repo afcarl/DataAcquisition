@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136536" id="root" date="1996-10-23" xml:lang="en">
+<title>CZECH REPUBLIC: Czech police charge 25 with bank credit fraud.</title>
+<headline>Czech police charge 25 with bank credit fraud.</headline>
+<dateline>PRAGUE 1996-10-23</dateline>
+<text>
+<p>A total of 25 people were charged on Wednesday with attempting to defraud 10 Czech banks between 1992 to 1994 of millions of crowns in unsecured loans, the interior ministry said.</p>
+<p>Ministry spokesman Jan Subert said in a statement that a coordinated police operation throughout the country resulted in the arrests early on Tuesday.</p>
+<p>The suspects were all transported to Prague where they were officially charged on Wednesday with committing &quot;fraud resulting in major damages&quot;.</p>
+<p>Subert said that those charged received &quot;through fraudulent means, large unsecured loans from 10 Czech banking institutions&quot;.</p>
+<p>He declined to list the banks, but said the credits ranged from five million crowns to 450 million czech crowns ($16.5 million), and total damages were in the &quot;hundreds of millions of crowns&quot;.</p>
+<p>Subert declined to offer further details on how the frauds were carried out.</p>
+<p>&quot;Among those charged are, other than businessmen, former professional soldiers, former policemen, and former officers of the (prison authority),&quot; the statement said.</p>
+<p>The largest number of those arrested were from the northern Czech cities of Liberec, Jablonec and Nisou.</p>
+<p>The spokesman said the arrests resulted from a more than year-long investigation by detectives of the Division for Investigation of Organised Crime (UOOZ).</p>
+<p>($1=27.16 Czech Crown)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134517" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: First Merchants Acceptance Q3 full results.</title>
+<headline>First Merchants Acceptance Q3 full results.</headline>
+<dateline>DEERFIELD, Ill. 1996-10-22</dateline>
+<text>
+<p>Unaudited Financial Highlights</p>
+<p>	   (Amounts in thousands, except net earnings per share</p>
+<p>		    and number of installment contracts)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					 Sept. 30,	   Sept. 30,</p>
+<p>				     1996	1995     1996     1995</p>
+<p>Revenues:</p>
+<p>Interest income - finance</p>
+<p>   contracts		   $17,292  $10,256  $52,771  $24,744</p>
+<p>  Other portfolio income	 520	337    1,486	816</p>
+<p>Gain on sale of finance</p>
+<p>   receivables		   6,795	---   14,887	---</p>
+<p>Servicing fee and other</p>
+<p>   income			  1,574	---    2,443	---</p>
+<p> Total revenues:		26,181   10,593   71,587   25,560</p>
+<p>Expenses:</p>
+<p>  Interest expense	     5,353    3,092   15,024    7,460</p>
+<p>Provision for credit losses</p>
+<p>				     4,300	525   12,000	650</p>
+<p>Operating expenses:</p>
+<p>Employee compensation and</p>
+<p>    related costs		6,655    2,761   17,424    6,769</p>
+<p>   Other			   4,467    1,512   11,549    3,892</p>
+<p> Total expenses:		20,775    7,890   55,997   18,771</p>
+<p>Earnings before income taxes</p>
+<p>				     5,406    2,703   15,590    6,789</p>
+<p> Income taxes		    2,108    1,026    6,080    2,579</p>
+<p> Net earnings		    3,298    1,677    9,510    4,210</p>
+<p> Net earnings per share	 0.49     0.37     1.41     0.94</p>
+<p>Weighted average common and</p>
+<p>common equivalent shares</p>
+<p>  outstanding		    6,727    4,489    6,743    4,471</p>
+<p>NOTE: Full co name is First Merchants Acceptance Corp.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEERFIELD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

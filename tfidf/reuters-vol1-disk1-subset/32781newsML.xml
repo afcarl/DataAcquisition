@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32781" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Paper stocks strong on steady price.</title>
+<headline>Paper stocks strong on steady price.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Paper stocks rallied across the board on Wednesday afternoon as lumber prices held steady, much to the surprise of industry observers, analysts said.</p>
+<p>Georgia-Pacific Corp was up 1-1/8 at 75-1/8, International Paper Co was up 1/2 at 40-5/8, Champion International Corp was up 5/8 at 43-7/8, Potlatch Corp was up 1-1/8 at 38-1/4, Weyerhaeuser Co was up 3/4 at 45-1/2, Boise Cascade Corp 5/8 at 34-1/4 and James River Corp was up 1/2 at 26-3/8.  </p>
+<p>&quot;Lumber prices are holding above where they were in the second quarter which surprised most industry observers,&quot; said Michael Metz, chief investment strategist at Oppenheimer &amp; Co.</p>
+<p>He added that there was anecdotal evidence that exports to Asia and Latin America were stronger than expected.</p>
+<p>Lumber dealers let inventories run low this summer in anticipation of lower lumber prices. Instead prices stayed firm and an unusual late-season building surge had dealers scrambling for wood to supply homebuilders.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I47000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132196" id="root" date="1996-10-21" xml:lang="en">
+<title>DUBAI: Saudi SAFCO profit rises in first nine months.</title>
+<headline>Saudi SAFCO profit rises in first nine months.</headline>
+<dateline>DUBAI 1996-10-21</dateline>
+<text>
+<p>Saudi Arabian Fertiliser Company (SAFCO) had a 504.41 million riyal net profit in the first nine months of 1996, compared with 412.44 million riyals during the same period last year, a newspaper said on Monday.</p>
+<p>A company official told the London-based Asharq al-Awsat newspaper that higher international petrochemicals prices were behind the 22 percent rise in profit.</p>
+<p>SAFCO, 41 percent of whose shares are owned by Saudi's industrial giant Saudi Basic Industries Corp (SABIC), produces ammonia, urea, sulphuric acid and melamine.</p>
+<p>($=3.75 riyals)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

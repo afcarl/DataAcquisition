@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132422" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Dade Intl to distribute for Cardiovascular.</title>
+<headline>Dade Intl to distribute for Cardiovascular.</headline>
+<dateline>DEERFIELD, Ill. 1996-10-22</dateline>
+<text>
+<p>Dade International said it signed a five-year development and distribution agreement with Cardiovascular Diagnostics Inc in point-of-care hemostasis testing.</p>
+<p>Under the agreement, Dade will distribute Cardiovascular's Thrombolytic Assessment System (TAS) for the arrest of bleeding to hospital and non-hospital laboratories.</p>
+<p>The companies estimated that the agreement, which calls for increasing annual sales volumes, should result in total sales of more than $100 million in instruments and test cards over the next five years.</p>
+<p>The TAS technology analyzes blood-clot formation and dissolution.</p>
+<p>Dade manufactures reagents, controls and analyzers for hemostasis testing. Cardiovascular Diagnostics, based in Raleigh, N.C., manufactures systems designed to rapidly deliver blood-test results at the point of care.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEERFIELD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

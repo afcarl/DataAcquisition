@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28474" id="root" date="1996-09-03" xml:lang="en">
+<title>TAIWAN: Acer, Texas Instruments in patents deal.</title>
+<headline>Acer, Texas Instruments in patents deal.</headline>
+<dateline>TAIPEI, Taiwan</dateline>
+<text>
+<p>Taiwan computer giant Acer Inc. said Tuesday it agreed to a patents cross-licence with Dallas-based Texas Instruments.</p>
+<p>The licence would cover Acer's personal computers, peripherals and display devices, Acer said in a statement.</p>
+<p>&quot;This cross-licence serves the interests of both parties in further developing new technology in the PC area,&quot; Acer's general controller George Huang said in the statement.</p>
+<p>Acer and Texas Instruments had formed a semiconductor joint venture, TI-Acer Inc., in Taiwan's Hsinchu Science-Based Industrial Park to manufacture dynamic random access memory.</p>
+<p>Acer already has patents cross-licences with International Business Machines Corp. and Intel Corp., it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI, Taiwan"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

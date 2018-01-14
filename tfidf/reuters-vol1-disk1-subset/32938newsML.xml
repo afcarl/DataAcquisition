@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32938" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Reuters buys majority in French health firm.</title>
+<headline>Reuters buys majority in French health firm.</headline>
+<dateline>PARIS</dateline>
+<text>
+<p>Reuters Holdings Plc said Wednesday it took a 75 percent stake in Distal, France's leading supplier of electronic health information services for doctors.</p>
+<p>Distal sells software used by about 6,000 doctors to record information about patients and their own professional data on personal computers. The French government is encouraging doctors to computerize their records as part of a drive to control healthcare costs.</p>
+<p>Reuters, which has a wholly owned subisidiary, Value Added Medical Products, providing similar health information services in Britain, did not disclose the price but said it was &quot;not material in the context of Reuters group net assets.&quot;</p>
+<p>The world supplier of news and information said Geoffrey Sanderson, managing director of Reuters Health Information, would become chairman of Distal. The original owners, David and Meyer Benchetrit, will stay on as managers.</p>
+<p>&quot;We want to provide our expertise in data management also to professionals outside our traditional markets of finance and the media,&quot; said Jean-Claude Marchand, Reuters managing director for Continental Europe, the Middle East and Africa.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134395" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: First Boston ups Brazil stocks, cuts Mexico.</title>
+<headline>First Boston ups Brazil stocks, cuts Mexico.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>CS First Boston said on Tuesday it had upgraded Brazilian stocks to overweight from neutral in its model portfolio of Latin American shares.</p>
+<p>The firm said in a report it was cutting Mexican equities from overweight to slight underweight.</p>
+<p>Brazilian stocks were increased to 48 from 43 percent in the portfolio and Mexico fell to 23 from 28 percent, analysts Stefano Natella and James Upton wrote in a report.  </p>
+<p>&quot;We estimate the upside in Brazilian equities to be around 15 percent by year-end 1996 (Bovespa equivalent of $27.50) and 30-40 percent more by year-end 1997 (Bovespa equivalent of $37),&quot; they wrote.</p>
+<p>&quot;For Mexico, we are projecting a seven percent upside in U.S. dollars from now until year end&quot; with the Mexican stock exchange index at 3,650 and the monetary exchange rate at eight pesos to the dollar &quot;and an additional 10-20 percent in 1997&quot; with the index at 4,700 and the exchange rate at nine pesos to the dollar.</p>
+<p>Reasons for the boost in Brazil's rating were:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

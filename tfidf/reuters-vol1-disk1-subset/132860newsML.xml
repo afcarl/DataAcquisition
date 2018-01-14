@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132860" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BASEBALL-BRAVES WIN GAME 2 OF WORLD SERIES.</title>
+<headline>BASEBALL-BRAVES WIN GAME 2 OF WORLD SERIES.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>Result of the second game of</p>
+<p>the World Series on Monday:</p>
+<p> Atlanta Braves	4    New York Yankees	0</p>
+<p>(Braves lead best-of-seven series 2-0)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

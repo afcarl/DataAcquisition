@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135643" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: UK shares slip from record levels after weaker Dow.</title>
+<headline>UK shares slip from record levels after weaker Dow.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>UK shares failed to hold Monday's record levels at the opening as a late turnaround in prices on Wall Street put the London market under early pressure, traders said. But news of a special dividend payout from UK foods and household products group Reckitt &amp; Coleman and of a merger of Cable &amp; Wireless's UK operations with Nynex and Bell Cablemedia provided early bright spots.</p>
+<p>Reckitt shares added 21-1/2p to 734-1/2p and Cable 19p to 460p, bucking early weakness in the FTSE 100 which slipped 4.7 points from Monday's record high to 4,068.4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13183" id="root" date="1996-08-25" xml:lang="en">
+<title>JAPAN: Japan Aug 1st 10 days trade surplus 235.61 bln yen.</title>
+<headline>Japan Aug 1st 10 days trade surplus 235.61 bln yen.</headline>
+<dateline>TOKYO 1996-08-26</dateline>
+<text>
+<p>Japan's customs-cleared trade posted a 235.61 billion yen surplus in the first 10 days of August, compared with a revised 205.48 billion yen surplus in the same period a year earlier, the Finance Ministry said on Monday.  </p>
+<p>This compared with a trade deficit of 25.21 billion yen in the first 10 days of July.</p>
+<p>Free on board (FOB) exports rose 11.1 percent to 1.26 trillion yen from a year earlier, while cost, insurance and freight (CIF) imports rose 10.3 percent to 1.03 trillion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135160" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan prosecutors arrest copper trader Hamanaka.</title>
+<headline>Japan prosecutors arrest copper trader Hamanaka.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Tokyo prosecutors said on Tuesday they had arrested Sumitomo Corp's former chief copper trader Yasuo Hamanaka on charges that he falsified documents in connection with what was the largest ever financial scandal.</p>
+<p>Prosecutors also raided Hamanaka's suburban Tokyo home, according to an eyewitness report from a Reuters Television journalist.</p>
+<p>The Tokyo prosecutors' office said Sumitomo filed formal legal charges against Hamanaka, who it blamed for a massive $2.6 billion loss from unauthorised copper trades.</p>
+<p>Hamanaka, once dubbed &quot;Mr Five Percent&quot; due to his rumoured control of a huge five percent share of the global copper market, was fired in mid-June when Sumitomo first announced it had discovered the trading losses.</p>
+<p>The giant trading house said last month it was preparing for legal action against its former copper chief.</p>
+<p>A top Sumitomo official was to hold a news conference later on Tuesday regarding the Hamanaka case.</p>
+<p>It was unclear where the arrest was made, although Hamanaka had been sighted in recent weeks near his home. He has repeatedly refused to comment on the affair.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

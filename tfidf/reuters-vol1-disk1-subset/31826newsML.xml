@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31826" id="root" date="1996-09-04" xml:lang="en">
+<title>PERU: Peru's August oil output falls 6.1 pct vs yr ago.</title>
+<headline>Peru's August oil output falls 6.1 pct vs yr ago.</headline>
+<dateline>LIMA 1996-09-04</dateline>
+<text>
+<p>Peru produced an average of 120,614 barrels per day (bpd) of crude oil in August, down 6.1 percent from 128,382 bpd the same month last year, the Energy and Mines Ministry said Wednesday.</p>
+<p>Peru's average production in the first eight months of 1996 was 119,262 bpd, the ministry added without giving a comparative figure for 1995.</p>
+<p>Natural gas output in August averaged 24.213 million cubic feet per day (mmcfd), the ministry said.</p>
+<p>Oil production in Peru dropped 4.36 percent last year to an average of 121,762 bpd.</p>
+<p>Officials have said the drop in Peru's oil output is due to  the depletion of old wells and poor drilling results looking for new oil.</p>
+<p>-- Andrew Cawthorne, Lima newsroom 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

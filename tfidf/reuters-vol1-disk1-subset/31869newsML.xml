@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31869" id="root" date="1996-09-04" xml:lang="en">
+<title>NEW ZEALAND: BIL declines comment on Coles intentions.</title>
+<headline>BIL declines comment on Coles intentions.</headline>
+<dateline>WELLINGTON 1996-09-05</dateline>
+<text>
+<p>Brierley Investments Ltd chief executive Paul Collins on Thursday declined to reveal the company's intentions with regard to Australian retailer Coles Myers.</p>
+<p>BIL revealed its stake was 6.8 percent but Collins told a news briefing he would not say any more about the investment company's intentions.</p>
+<p>&quot;It's too early in the stage of our investment. We are not going to say,&quot; he said.</p>
+<p>He also declined comment on whether BIL would seek board representation.  </p>
+<p>Collins said the Coles share price would react to any disclosure of BIL's intentions.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31423" id="root" date="1996-09-04" xml:lang="en">
+<title>POLAND: DELOITTE &amp; TOUCHE MERGES WITH POLISH AUDITING FIRM.</title>
+<headline>DELOITTE &amp; TOUCHE MERGES WITH POLISH AUDITING FIRM.</headline>
+<dateline>WARSAW 1996-09-04</dateline>
+<text>
+<p>The Polish unit of Deloitte &amp; Touche Tohmatsu International has merged with a regional Polish auditing firm Providum, its head said on Wednesday.</p>
+<p>&quot;As a result of the merger we would like to gather all the features which clients value in local auditing firms, such as Providum, and those for which they respect international auditors,&quot; Laslaw Paga told a news conference.</p>
+<p>Providum was created in 1991 and employs 35 people. It has officies in Konin, Elblag, Kalisz, Lublin and Legnica.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

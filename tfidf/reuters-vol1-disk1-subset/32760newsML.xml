@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32760" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Wallace Computer FY96 topped expectations.</title>
+<headline>Wallace Computer FY96 topped expectations.</headline>
+<dateline>LISLE, Ill. 1996-09-04</dateline>
+<text>
+<p>Wallace Computer Services Inc said its July 31 fourth-quarter and year-end results exceeded street expectations and company forecasts.</p>
+<p>&quot;The results are a payoff for the sizable investments we have made in systems and technology,&quot; said president Bob Cronin in a statement.</p>
+<p>For the full year, Wallace posted earnings after takeover expenses of $73 million or $1.60 per share, up from $55.3 million or $1.23 per share. Sales rose to $862.3 million from $712.8 million.</p>
+<p>Wallace added that its outlook for fiscal 1997 was &quot;very positive.&quot;</p>
+<p>The company said reduced costs of paper were passed on to its customers and did not affect revenue growth. Wallace said it expects paper price increases will be announced by the industry for October, but it cannot predict market reaction.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

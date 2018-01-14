@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131993" id="root" date="1996-10-21" xml:lang="en">
+<title>SOUTH KOREA: Samsung wins General Electric licence.</title>
+<headline>Samsung wins General Electric licence.</headline>
+<dateline>SEOUL 1996-10-21</dateline>
+<text>
+<p>South Korea's Samsung Aerospace Industries Co said on Monday it had won a licence from General Electric Co of the United States to make gas turbines for use in industrial machinery and power generation.  </p>
+<p>Samsung will begin making General Electric's LM series of turbines in South Korea from early 1998, Samsung spokesman Shin Sang-yong said.</p>
+<p>Samsung Aerospace, a unit of the Samsung Group  SAGR.CN, expects to produce about 10 turbines in 1998 mainly for domestic sales, he said.</p>
+<p>&quot;The technology that we will obtain from the cooperation agreement will be applied to our production of airplane engines in the future,&quot; he said.</p>
+<p>He declined to give commercial terms on the deal.</p>
+<p>-- Seoul Newsroom (822) 727-5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

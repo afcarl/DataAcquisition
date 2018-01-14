@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31730" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Czechs say they &quot;understand&quot; U.S. Iraq action.</title>
+<headline>Czechs say they &quot;understand&quot; U.S. Iraq action.</headline>
+<dateline>PRAGUE 1996-09-04</dateline>
+<text>
+<p>The Czech Republic, which hopes to join the NATO defence alliance, understands the U.S. attack on Iraq, Prime Minister Vaclav Klaus said.</p>
+<p>Speaking after meeting President Vaclav Havel on Tuesday evening, Klaus stopped short of explicitly supporting the action although he put the blame on Iraqi leader Saddam Hussein.</p>
+<p>&quot;Saddam Hussein has caused the present situation by his completely absurd attack on the Kurdish positions in northern Iraq,&quot; Klaus said on Czech Radio.</p>
+<p>&quot;Naturally, he bears full responsibility,&quot; Klaus said. &quot;I can also say that the president and I have agreed on the phrase that in the situation that has arisen we understand the action taken by the United States.&quot;</p>
+<p>Prague has warm relations with the United States and the Czech army sent troops to the U.S.-led coalition which drove Iraq from Kuwait five years ago.</p>
+<p>The Czech Republic, along with Poland and Hungary, is considered a front runner to become the first post-communist country to join the Western defence alliance.</p>
+<p>In December NATO foreign ministers are expected to tackle the issues of which countries from the former communist bloc will join the alliance, and when.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

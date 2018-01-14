@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135111" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-WMC says commodities suffer in qtr.</title>
+<headline>RTRS-WMC says commodities suffer in qtr.</headline>
+<dateline>KALGOORLIE, Western Australia 1996-10-22</dateline>
+<text>
+<p>Base metals and gold producer WMC Ltd said on Tuesday prices for its principal commodities continued to decline in the September quarter, with some average prices down about 20 percent from year-ago levels.</p>
+<p>Further weakness in the stainless steel markets, combined with increases in London Metal Exchange inventories of nickel, has had a &quot;significant negative influence on market sentiment&quot; for nickel, WMC said in its September quarter production report.  </p>
+<p>Longer term, WMC said the outlook for stainless steel and nickel demand remained positive.</p>
+<p>Supply overhangs and overcapacities in production pressured aluminium prices in the quarter, with the LME average price down about US$100 a tonne to US$1,480 from the previous quarter, the company said.</p>
+<p>Conditions in aluminium and smelter-grade alumina continue to encourage aggressive pricing in the marketplace, WMC said.  </p>
+<p>The market for smelter-grade alumina remained weak in the latest quarter, with spot market prices declining to around US$150 a tonne at the end of September from US$210 in late March, the company said.  </p>
+<p>Production of nickel contained in concentrate from WMC's Kambalda nickel mine slipped to 8,553 tonnes in the September quarter from 9,917 tonnes in the previous quarter, due to fewer miners working the mine, WMC said.</p>
+<p>WMC earlier this month layed off 445 miners, almost all immediately, in favour of switching to independent contract mining. The company warned at the time that production would suffer slightly, most notably in the September and December quarters.</p>
+<p>Overall nickel production in concentrate reached 25,350 tonnes, slightly below the previous quarter.  </p>
+<p>Alumina production was also slightly down at 2.5 million tonnes as the company's planned curtailment of production went into effect, WMC said.</p>
+<p>Gold production on an equity basis totalled 186,428 ounces in the September quarter, down from 197,420 ounces in the June period, it added.</p>
+<p>The St Ives mine in Western Australia recorded its highest output level ever, but this was offset by lower output from other mines, WMC said.  </p>
+<p>Copper production from the Olympic Dam mine in South Australia and Nifty in Western Australia was slightly down in the quarter at 22,003 tonnes compared to the June period.</p>
+<p>In exploration, WMC said further drill holes were completed on the Helmut ore zone southern extension of Kambalda.</p>
+<p>Also at Kambalda, within the Durkin North property, two significant intersections were identified on a north-south cross section, WMC said.  </p>
+<p>At Leinster, further drilling was carried out during the quarter on the eastern contact of the Perseverance Ultramific in a position about 700 metres south-east of the limit of current underground development on the Perseverance ore body, WMC said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KALGOORLIE, Western Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

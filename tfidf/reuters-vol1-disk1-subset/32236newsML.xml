@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32236" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: NYMEX crude falls after Iraqi troop withdrawal.</title>
+<headline>NYMEX crude falls after Iraqi troop withdrawal.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>NYMEX crude prices, having been stuck in a slimly higher range most of the day, abruptly fell late in Wednesday's session on news that Iraqi forces had withdrawn from northern Iraq.</p>
+<p>&quot;The market had lost momentum, and this story was an added influence in a market that looked vulnerable,&quot; said John Saucer, an analyst with Smith Barney.</p>
+<p>October crude fell 20 cents to $23.20 a barrel.</p>
+<p>October heating oil fell 0.37 cent to 64.70 cents a gallon and October unleaded gasoline fell 0.26 cent to 62.70 a gallon.  </p>
+<p>During a press conference at 1330 EDT/1730 GMT, President Bill Clinton said the U.S. mission in Iraq &quot;has been achieved&quot; by missile attacks and that Iraq had withdrawn its forces from a northern Kurdish area in Iraq for the time being.</p>
+<p>Still, traders said events in Iraq seemed unpredictable, and limited crude's price fall. Many players wanted to retain long positions in case an unforeseen event in Iraq turned crude's price sharply higher, dealers said.</p>
+<p>&quot;There are a lot of longs out there. You never know what will happen. Crude could suddenly go up,&quot; said a trader.</p>
+<p>-- Harry Milling, New York Energy Desk, +1 212-859-1761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

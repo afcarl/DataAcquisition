@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132778" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Glendale Federal Bank Q1 loss vs profit.</title>
+<headline>Glendale Federal Bank Q1 loss vs profit.</headline>
+<text>
+<p>GLENDALE, Calif., Oct 22 (Reuter)</p>
+<p>		     Sept 30 1996	  Sept 30 1995</p>
+<p> Shr loss	  $0.50	  profit  $0.21</p>
+<p> Net loss	  19,985	 profit  13,811</p>
+<p> Avg shrs	  47,166		   40,742</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note - Latest Q1 includes charge of $37.6 million for Federal Deposit Insurance Corp to recapitalize Savings Assoc. Insurance Fund. Without the charge, and certain preferred stock conversions, Q1 oper net was $17.6 million or $0.27 a share.</p>
+<p>Assets $15.1 billion vs $15.9 billion</p>
+<p>Loans $11.2 billion vs $9.58 billion</p>
+<p>Deposits $8.82 billion vs $8.88 billion</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

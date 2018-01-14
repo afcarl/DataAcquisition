@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32940" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: German industrial orders grow for second month.</title>
+<headline>German industrial orders grow for second month.</headline>
+<dateline>BONN</dateline>
+<text>
+<p>German industrial orders rose in July for the second month in a row, picking up by 0.6 percent after a 1.9 percent gain in June, the economics ministry said Wednesday.</p>
+<p>An increase of 0.9 percent in western Germany was partly offset by a 4.7 percent drop in the so-called &quot;new states&quot; of former communist eastern Germany.</p>
+<p>Pan-German industrial orders were down by 0.1 percent in July against the same month a year earlier, after a two percent rise in June, according to calculations based on Bundesbank data.</p>
+<p>Orders in the west were down by 1 percent year-on-year, while in the east they were still up by a rampant 21 percent.</p>
+<p>The month-on-month orders number was just above a consensus forecast of plus 0.3 percent from economists polled by Reuters -- but within overall expectations.</p>
+<p>Data across the board showed strong growth of over seven percent in foreign orders, while domestic orders were sluggish and slipped back by nearly three percent against June.</p>
+<p>The orders figures follow industrial output figures issued on Tuesday that also showed a deceleration in month-on-month growth in July from June in a growth trend stretching back five months.</p>
+<p>Gross domestic product figures for the second quarter are due to be published on Thursday and economists expect them to show a strong rebound after a weather-hit first quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

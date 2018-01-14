@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135129" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Pasminco sees Budel licence extension.</title>
+<headline>RTRS-Pasminco sees Budel licence extension.</headline>
+<dateline>MELBOURNE 1996-10-22</dateline>
+<text>
+<p>Pasminco Ltd said on Tuesday it was optimistic of receiving an extension of the waste dumping licence for its Budel Zinc smelter in the Netherlands, to accommodate a delay in its crucial supply project in Australia.</p>
+<p>Referring to the hold-up in the Century zinc project in north-west Queensland, chairman Mark Rayner said he hoped the appointment of former Australian governor-general Bill Hayden as a mediator would resolve the native title dispute between aborigines and mine owner CRA Ltd/RTZ Plc.  </p>
+<p>&quot;Despite these uncertainties, the board remains optimistic that the extension to the jarosite licence will be granted and Budel zinc will be able to accommodate the delay to the Century project provided that this is not extended further,&quot; Rayner said at Pasminco's annual meeting.</p>
+<p>Budel, which is wholly-owned by lead and zinc producer Pasminco, has a licence to store waste jarosite until July 1998 but has sought a two-year extension from the Dutch Government.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

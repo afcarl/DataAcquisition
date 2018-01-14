@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133869" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: AIG offers policy for aircraft part makers.</title>
+<headline>AIG offers policy for aircraft part makers.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>American International Group Inc said its member companies will offer a property-casualty insurance package for aircraft component parts manufacturers and service providers.</p>
+<p>The package, called Aeroparts+, is targeted to insureds with both aircraft product and non-aircraft product exposures, such as metals, plastics and electronics manufacturers, as well as providers of manuals, procedures and testing.</p>
+<p>The policy provides aircraft products and grounding liability and non-aviation general liability coverages.  </p>
+<p>Insureds also can package Aeroparts+ with property coverage.</p>
+<p>Limits of liability are available up to $50 million. Coverage is underwritten by AIG member companies.</p>
+<p>Aeroparts+ will be offered through AIG's domestic regional company network.</p>
+<p>&quot;Manufacturers and service providers with both aviation and non-aviation product exposures have been confined to purchasing general liability, aircraft products liability and property coverages on separate policies and usually from different carriers,&quot; Theodore Rupley, chairman of AIG domestic regional company network said in a statement.</p>
+<p>&quot;Aeroparts+ enables these companies to consolidate these coverages with one package, with the added benefit of working with a local representative from an AIG regional company,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

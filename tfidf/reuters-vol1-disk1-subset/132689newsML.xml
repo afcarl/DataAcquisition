@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132689" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Kimberly-Clark Mexican outlook &quot;clouded&quot;.</title>
+<headline>Kimberly-Clark Mexican outlook &quot;clouded&quot;.</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>Kimberly-Clark Corp said on Tuesday that the outlook for its operations in Mexico was still clouded by an unstable economy there.</p>
+<p>&quot;It is too early to say if there has been an observable turnaround in Mexico,&quot; Chief Financial Officer Jack Donehower told a conference call. &quot;The buying power of the average Mexican consumer has been reduced and political uncertainty continues to cloud results there.&quot;  </p>
+<p>In the third quarter 1996, the company said the operating profit and sales of its Mexican affiliate were hurt by depressed economic conditions there.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

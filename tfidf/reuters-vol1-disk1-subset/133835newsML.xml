@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133835" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: S. Calif. home sales increased in Q3 - report.</title>
+<headline>S. Calif. home sales increased in Q3 - report.</headline>
+<dateline>ANAHEIM, Calif. 1996-10-22</dateline>
+<text>
+<p>An improving economy and lower mortgage rates helped to boost home sales in southern California, according to a report Tuesday.</p>
+<p>Between July and September, more than 54,000 escrows closed on single family homes and condominium purchases in the six-county region compared to less than 49,000 in the same period a year ago, Experian, a real estate information company, said in a report.</p>
+<p>The largest gain was recorded in Orange County, where sales increased by 19 percent in the third quarter, followed by San Diego County, Experian said.  </p>
+<p>So far this year, home sales are up by 16 percent compared to last year. Sales, however, still lag behind the level in 1994, when 156,000 were recorded, Experian said.</p>
+<p>&quot;While it is true that southern California's housing market has grown healthier so far in 1996, the improvements are relative to 1995, which was not a particularly good market,&quot; said Nima Nattagh, Experian's market analyst.</p>
+<p>Home sales in southern California, the nation's largest housing market, are running at about 40 percent below the rate in the real estate boom period of the late 1980's, Experian, formerly TRW Information Systems and Services and TRW REDI, said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

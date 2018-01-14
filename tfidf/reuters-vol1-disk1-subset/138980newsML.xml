@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138980" id="root" date="1996-10-24" xml:lang="en">
+<title>ITALY: SOCCER-ZAMORANO SCORES BUT INTER SQUANDER LEAD.</title>
+<headline>SOCCER-ZAMORANO SCORES BUT INTER SQUANDER LEAD.</headline>
+<dateline>CAGLIARI, Sardinia 1996-10-24</dateline>
+<text>
+<p>Chilean striker Ivan Zamorano scored at last for Inter on Thursday but his team squandered a two goal lead in the last five minutes and were held 2-2 by Cagliari in an Italian Cup tie.</p>
+<p>Zamorano, under fire for failing to find the net so far in the league after signing from Real Madrid over the summer, headed Inter 2-0 up in the 67th minute of the third round match played in the Sardinian capital</p>
+<p>England midfielder Paul Ince earlier put Inter ahead with another header in the 56th minute.</p>
+<p>But Cagliari pulled a goal back through a Giuseppe Pancaro penalty in the 85th minute.</p>
+<p>Pancaro was then sent off seconds later for spitting in goalkeeper Gianluca Pagliuca's face during a goalmouth altercation in which Pagliuca appeared to butt Pancaro.</p>
+<p>Dario Silva equalised for Cagliari two minutes from time to complete a remarkable night for veteran coach Carlo Mazzone, making his first appearance on the Cagliari bench since the club sacked Uruguayan Gregorio Perez this week.</p>
+<p>The other third round matches were played on Wednesday with European champions Juventus held to a 0-0 draw at third division Nocerina in the major surprise of the round.</p>
+<p>Bologna also ensured there would be a new winner this season after knocking out holders Fiorentina 3-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAGLIARI, Sardinia"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

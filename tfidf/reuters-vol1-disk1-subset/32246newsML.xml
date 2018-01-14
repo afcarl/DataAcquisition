@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32246" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Amoco says to build power plant in Colombia.</title>
+<headline>Amoco says to build power plant in Colombia.</headline>
+<dateline>HOUSTON 1996-09-04</dateline>
+<text>
+<p>Amoco Corp said its Amoco Power Resources unit will build, own and operate a 200-megwatt electric power generating plant in central Colombia.</p>
+<p>The plant will be constructed at the Opon natural gas field about 125 miles north of Bogota. The plant will use gas produced by the company's Amoco Colombia Petroleum unit.</p>
+<p>Construction is scheduled to start in the third quarter and end by November 1997, Amoco said.</p>
+<p>Amoco Power will develop the project with an initial interest of 100 percent, but will sell down its interest to 50 percent prior to commercial operation to comply with Colombian law. The remaining 50 percent will be acquired by  Termo Santander de Colombia ESP, which Amoco said it has formed to build, own and operate the plant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

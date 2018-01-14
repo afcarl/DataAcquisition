@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13180" id="root" date="1996-08-25" xml:lang="en">
+<title>JAPAN: PRESS DIGEST - Top Japan business news - Aug 26.</title>
+<headline>PRESS DIGEST - Top Japan business news - Aug 26.</headline>
+<text>
+<p>NIHON KEIZAI SHIMBUN:</p>
+<p>The Construction Ministry and Post Ministry, in cooperation with Nippon Telegraph and Telephone Corp (NTT) and other firms, plan to test a new large-capacity optical fibre telecommunications network from September.</p>
+<p>-------</p>
+<p>Fujitsu Ltd has decided to shut down part of a production line for static random access memory (SRAM) microchips at its plant in Iwate prefecture, northern Japan, within this fiscal year ending March 31.</p>
+<p>-------</p>
+<p>Fuji Bank Ltd will start offering consulting services for pension fund management this fiscal year. Dai-Ichi Kangyo Bank Ltd (DKB) and Sanwa Bank Ltd are also considering launching similar services.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

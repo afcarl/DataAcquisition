@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132477" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Giant Cement Q3 shr rises to $0.52.</title>
+<headline>Giant Cement Q3 shr rises to $0.52.</headline>
+<dateline>SUMMERVILLE, S.C. 1996-10-22</dateline>
+<text>
+<p>GIANT CEMENT HOLDING, INC.</p>
+<p>			(In thousands, except per share data)</p>
+<p>			     Three Months Ended  Nine Months Ended</p>
+<p>				 September 30,	September 30,</p>
+<p>				   1996	1995	1996	1995</p>
+<p> Operating revenues     $29,335   $28,800   $82,540   $76,037</p>
+<p>Operating cost and</p>
+<p>expenses:</p>
+<p>Cost of sales and</p>
+<p>   services		  19,636    19,287    58,909    56,355</p>
+<p>Selling, general and</p>
+<p>   administrative	   1,820     1,792     6,036     5,425</p>
+<p>  Operating income	  7,879     7,721    17,596    14,257</p>
+<p>Other income (expense):</p>
+<p>  Interest expense	  (242)	(39)     (820)     (181)</p>
+<p>  Other, net		    207	  32	 144	 145</p>
+<p>  Income before taxes     7,844     7,714    16,920    14,221</p>
+<p>Provision for</p>
+<p>  income taxes	    (2,746)   (2,699)   (5,923)   (4,977)</p>
+<p>   Net income		 5,098     5,015    10,997     9,244</p>
+<p>Net income per</p>
+<p>  common share		 0.52	0.50	1.11	0.92</p>
+<p>Weighted average</p>
+<p>number of</p>
+<p>common shares</p>
+<p>  outstanding		 9,818    10,000     9,871    10,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUMMERVILLE, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132232" id="root" date="1996-10-21" xml:lang="en">
+<title>SPAIN: Madrid bourse suspends trade in Cantabrico.</title>
+<headline>Madrid bourse suspends trade in Cantabrico.</headline>
+<dateline>MADRID 1996-10-21</dateline>
+<text>
+<p>Trade in Spanish electricity firm Hidrocantabrico shares were suspended, the Madrid stock exchange commission CNMV said on Monday.  </p>
+<p>Earlier today, the CNMV also suspended trade in Electra de Viesgo and Saltos del Nansa pending further information on press reports.</p>
+<p>The reports said Cantabrico was studying purchases of Electra de Viesgo and Saltos del Nansa from Endesa.</p>
+<p>The CNMV also said earlier the bourse had suspended trade in Electricidad de Sevillana and in Fuerzas Electricas de Catalunya (Fecsa). Endesa is launching a buy offer for up to 75 percent of the two groups.</p>
+<p>Neither Endesa nor Cantabrico was available for comment.</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

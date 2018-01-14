@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135136" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Anaconda aims to expand Murrin Murrin.</title>
+<headline>RTRS-Anaconda aims to expand Murrin Murrin.</headline>
+<dateline>KALGOORLIE, Western Australia 1996-10-22</dateline>
+<text>
+<p>Anaconda Nickel NL said on Tuesday it was looking at expanding capacity at its proposed Murrin Murrin nickel project in Western Australia by 50 percent to 150 million pounds a year.</p>
+<p>Chief executive Andrew Forrest told Reuters the increase was based on the availability of more water for the project.  </p>
+<p>Forrest also said he would announce in a speech to the Australian Nickel conference here later on Tuesday that he had received &quot;firm bids&quot; from an international mining house and international investment group over possible joint venture agreements for Murrin Murrin.</p>
+<p>He said the market could bear the additional production and that the company could currently contract for sales in execess of 150 million pounds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KALGOORLIE, Western Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

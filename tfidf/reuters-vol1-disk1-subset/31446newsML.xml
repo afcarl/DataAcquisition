@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31446" id="root" date="1996-09-04" xml:lang="en">
+<title>BELGIUM: BELGIAN CAMPINE H1 1996 PROFIT PLUNGES.</title>
+<headline>BELGIAN CAMPINE H1 1996 PROFIT PLUNGES.</headline>
+<dateline>BRUSSELS 1996-09-04</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>(in millions of Belgian francs unless stated)</p>
+<p>    Non-cons net profit	   6.6 vs   42.3</p>
+<p>    Non-cons cash flow	   32.0 vs   79.0</p>
+<p>    Non-cons EPS (francs)	  44 vs    282</p>
+<p>    Non-cons turnover	   773.0 vs  865.0</p>
+<p>    Non-cons current	     14.0 vs   53.8</p>
+<p>    Exceptional loss		8.0 vs    0.0</p>
+<p>NOTE - Belgian lead and antimony producer Campine NV, which also recycles waste containing lead, said turnover dropped 10.6 percent mainly due to lower antimony oxide prices.</p>
+<p>It said it expected full-year 1996 non-consolidated profit to be lower than that of 1995. It added it also expected a weak 1996 consolidated result.</p>
+<p>-- Brussels Newsroom +32 2 287 6815, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

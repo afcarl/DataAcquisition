@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33007" id="root" date="1996-09-04" xml:lang="en">
+<title>DUBAI: Oman stocks mixed as trading value drops.</title>
+<headline>Oman stocks mixed as trading value drops.</headline>
+<dateline>DUBAI 1996-09-04</dateline>
+<text>
+<p>Shares on Oman's stock exchange were mixed in the week to Wednesday with bank shares in the limelight for the second week running, a market report said.</p>
+<p>The Muscat Securities Market said its index was fractionally lower at 183.56 points from last week's 184.45.</p>
+<p>Bank shares accounted for 63 percent of total trading value of 4.15 million rials from 5.17 million rials the week before.</p>
+<p>Of the 51 companies traded in the week, shares of 17 rose, 21 fell and 13 were unchanged, the report said.</p>
+<p>Oman International Bank ended the week lower at 2.400 rials from 2.480 rials last week while National Bank of Oman ended higher at 3.150 from a previous 3.020 rials.</p>
+<p>-- Dubai Newsroom 9714-626990</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

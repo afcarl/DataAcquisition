@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132077" id="root" date="1996-10-21" xml:lang="en">
+<title>SINGAPORE: Sinar, Singapore CISCO in security deal.</title>
+<headline>Sinar, Singapore CISCO in security deal.</headline>
+<dateline>SINGAPORE 1996-10-21</dateline>
+<text>
+<p>Singapore's leading security company, CISCO, has formed a joint venture with Indonesia's PT Sinar Mas Multiartha to provide commercial security services in Indonesia, CISCO said on Monday.</p>
+<p>The new company, PT CISCO Mas Security, is 60 percent owned by PT Sinar Mas and 40 percent by CISCO, and will have an initial investment of Singapore $2 million.</p>
+<p>PT CISCO Mas will begin operations in early 1997 and will provide a full range of commercial security services to banks and departments stores in Jakarta.  </p>
+<p>It plans to expand operations to other regional capitals such as Surabaya, Medan and Bandung after two years.</p>
+<p>The project is CISCO's third foreign venture. CISCO is owned by the Singapore government and for the fiscal year 1995/1996 it repored group sales of S$110.6 million with an operating surplus of S$14.2 million.</p>
+<p>CISCO's other investments are in Beijing and Sri Lanka.</p>
+<p>PT Sinar Mas Multiartha is part of Indonesia's Sinar Mas conglomerate.</p>
+<p>--Singapore Newsroom (+65-870-3093)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

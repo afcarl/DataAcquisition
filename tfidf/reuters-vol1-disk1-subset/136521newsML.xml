@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136521" id="root" date="1996-10-23" xml:lang="en">
+<title>RUSSIA: Russia 6-mth T-bill yield rises to 56.96 pct.</title>
+<headline>Russia 6-mth T-bill yield rises to 56.96 pct.</headline>
+<dateline>MOSCOW 1996-10-23</dateline>
+<text>
+<p>The average yield on an issue of six-month GKO discount Treasury bills rose to 56.96 percent at an auction on Wednesday from 56.00 percent at the previous auction of six-month paper on October 16, the central bank said.</p>
+<p>Full details of the auction follow:  </p>
+<p>				     Oct 23	    Oct 16</p>
+<p>    Series number		22055	     22054</p>
+<p>    Issue volume		 8.00 trln rbls  7.50 trln rbls</p>
+<p>    Denominations		1.00 million	  1.00 million</p>
+<p>    Bids (nominal)	     9.65 trln	10.54 trln</p>
+<p>    Sold (nominal)	     6.97 trln	 6.93 trln</p>
+<p>    Proceeds		     5.43 trln	 5.04 trln</p>
+<p>    Average price	     77.88 pct	 72.68 pct</p>
+<p>    Lowest accepted price   77.52 pct	 71.29 pct</p>
+<p>    Average yield	     56.96 pct	 56.00 pct</p>
+<p>    Highest accepted yield  58.16 pct	 60.00 pct</p>
+<p>    Tenor			  182 days	  245 days</p>
+<p>    Maturity date		April 23, 1997  June 18, 1997</p>
+<p>On October 23 the finance ministry raised 1.30 trillion roubles by selling 1.45 trillion rouble worth of two-year OFZ interest-bearing bond (series 24009), taking total proceeds from today's auctions to 6.73 trillion.</p>
+<p>It has also repaid about 6.73 trillion roubles in maturing six-month T-bills (series 22030).</p>
+<p>--Julie Tolkacheva, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

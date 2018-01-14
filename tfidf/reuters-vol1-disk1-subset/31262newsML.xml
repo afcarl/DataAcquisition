@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31262" id="root" date="1996-09-04" xml:lang="en">
+<title>JAPAN: Tokyo stocks mixed in early morning, eyes on Iraq.</title>
+<headline>Tokyo stocks mixed in early morning, eyes on Iraq.</headline>
+<dateline>TOKYO 1996-09-04</dateline>
+<text>
+<p>Tokyo stocks were mixed in early Wednesday morning trade, as the market cast a wary eye over tension in the Middle East and its impact on currencies and oil prices, brokers said. They said however that they expected the Nikkei average to stay near the 20,000 level.</p>
+<p>At 0014 GMT, the 225-issue Nikkei average was up 50.64 points or 0.25 percent to 20,248.79. Its September futures were down 10 points at 20,240.</p>
+<p>&quot;The U.S. missile attack on Iraq won't last for long,&quot; an analyst at Dai-ichi Securities said. &quot;During the Gulf War, oil prices soared, but the rise has been limited so far.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

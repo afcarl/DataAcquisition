@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133326" id="root" date="1996-10-22" xml:lang="en">
+<title>COLOMBIA: Colombia's Granahorrar eyes U.S. bond issue.</title>
+<headline>Colombia's Granahorrar eyes U.S. bond issue.</headline>
+<dateline>BOGOTA 1996-10-22</dateline>
+<text>
+<p>Corporacion Colombiana de Ahorro y Vivienda S.A. (Granahorrar) -- Colombia's third-largest savings and loan -- plans to raise $100 million in financing from institutional investors in the United States through a bond issue set for January, its president said Tuesday.</p>
+<p>Jorge Enrique Amaya said Bear Stearns had provided guidance for the planned flotation of the peso-denomimated bonds, which would be backed by Granahorrar's loan portfolio and could be traded on secondary markets in the United States.</p>
+<p>Th operation will be the first of its kind by a Colombian savings and loan, or thrift, and could lead to more bond issues in the near future, Amaya told Reuters in a telephone interview.  </p>
+<p>Granahorrar is owned by a group of about 100 private sector businessmen and investors. Amaya said interest on the bonds would vary, depending on the rate of repayment of the company's outstanding loans.</p>
+<p>&quot;Risk will be carried by the financial entity and not the investor,&quot; he added, saying the $100 million would be used to expand Granahorrar's loan capacity.</p>
+<p>-- Javier Mozzo, Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

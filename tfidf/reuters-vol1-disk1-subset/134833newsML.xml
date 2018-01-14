@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134833" id="root" date="1996-10-22" xml:lang="en">
+<title>SPAIN: First Boston upgrades Endesa to strong buy.</title>
+<headline>First Boston upgrades Endesa to strong buy.</headline>
+<dateline>MADRID 1996-10-22</dateline>
+<text>
+<p>CS First Boston has upgraded its recommendation on Spanish electric utility Endesa to &quot;strong buy&quot; from &quot;buy&quot; after news the firm is to buy up to 75 percent of Fecsa and Sevillana, a CSFB research note said on Tuesday.</p>
+<p>CSFB said it was upgrading its target price for Endesa to 9,200 pesetas from 8,500.</p>
+<p>&quot;The deal could enhance pre-tax earnings by 15 billion pesetas (assuming an eight percent cost of debt) and net profits by 25-40 pesetas per share.&quot;</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20803" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Stocks end sharply lower.</title>
+<headline>Stocks end sharply lower.</headline>
+<dateline>NEW YORK 1996-08-29</dateline>
+<text>
+<p>Blue-chip stocks ended sharply lower Thursday as Wall Street was increasingly nervous about the rally in long-term interest rates above 7 percent.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended down 64.73 points at 5,647.65 after being down nearly 90 points. In the broader market, declining issues beat advances 16-7 on moderate volume of 323 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

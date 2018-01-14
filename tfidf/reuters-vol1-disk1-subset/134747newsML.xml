@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134747" id="root" date="1996-10-22" xml:lang="en">
+<title>JORDAN: World Bank to lend Jordan $120 million.</title>
+<headline>World Bank to lend Jordan $120 million.</headline>
+<dateline>AMMAN 1996-10-22</dateline>
+<text>
+<p>The World Bank is set to approve a $120 million loan for Jordan to expand a social safety net for its poor during IMF-guided structural reforms, an official from the bank said on Tuesday.</p>
+<p>&quot;Jordan has recently successfully negotiated the loan and it should be going to the (World Bank's) board soon for approval,&quot; a World Bank official told Reuters.</p>
+<p>Inder Sud is currently reviewing with Jordanian officials progress in existing World Bank programmes undertaken in the kingdom, including a $40 million export development loan approved last March, the bank official said.</p>
+<p>Jordan launched a three year IMF-directed structural reform programme in 1996 building on successful monetary stabilisation since an economic crisis in 1989 wiped out its reserves.</p>
+<p>The current plan includes privatisation of state utilities, an overhaul of economic laws to boost foreign investment, development of the domestic capital market and major stock market reform.</p>
+<p>But the government is under pressure in the wake of riots which flared after it doubled bread prices under the IMF-sanctioned plan. Unemployment and poverty were widely blamed for the bread riots</p>
+<p>Officials say the World Bank and the IMF have pledged support to expand a safety net for Jordan's poor during the reforms to prevent social upheaval.</p>
+<p>In the aftermath of the riots Jordan pledged a two-pronged policy of encouraging private sector investment and reinforcing a safety net to cushion Jordan's poor -- a majority of its 4.2 million population -- during the transition period.</p>
+<p>The government says it is pushing ahead with laws to boost export industries and attract foreign investment to create jobs.</p>
+<p>The World Bank says 15 percent of Jordan's population are below the absolute poverty line. Officials say 18 percent of the 900,000-strong labour force is unemployed but economists believe unemployment is at least 25 percent.</p>
+<p>World Bank aid until mid-1996 covered 10 projects totalling $500 million, which are still in progress. Total lending commitments since 1962 have approached $1.4 billion, the official said.</p>
+<p>The bank is extensively involved in every sector of the Jordanian economy and its current loans include an $80 million agriculture loan to help farmers switch to higher value crops, health schemes and developing infrastructure in poorer areas.</p>
+<p>-- Amman Newsroom +9626-623776</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

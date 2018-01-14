@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134042" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: France unveils cost-cutting medical document.</title>
+<headline>France unveils cost-cutting medical document.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>France unveiled on Tuesday an individual health record book to be distributed to 45 million adults in an effort to help rein in snowballing medical costs that are fuelling state welfare deficits.</p>
+<p>Social Affairs Minister Jacques Barrot introduced the small yellow, white and blue booklet that will be mailed by the end of the year to every French citizen over 16 years old.</p>
+<p>The &quot;carnet de sante&quot; will record patients' visits to doctors and treatments with an aim to avoiding unnecessary duplication of consultations that are costly for the state.</p>
+<p>Barrot told a news conference the booklet would provide each patient a personal and confidential medical record. &quot;It is first of all a way of obtaining better health care,&quot; he said.</p>
+<p>It will also allow doctors to &quot;order medically adequate and economically justified treatment (so that) some of today's waste can be radically cut.&quot;</p>
+<p>The idea is to discourage patients from visiting several doctors in search of alternative diagnoses and treatments.</p>
+<p>But, at least for the moment, the system does not provide any penalty for patients who refuse to show it to doctors.</p>
+<p>The state welfare system reimburses patients a large part of their medical expenses.</p>
+<p>Official statistics show that French medical spending reached 11,540 francs ($2,220) per person last year, totalling 9.8 percent of Gross Domestic Product, compared with 8.6 percent in Germany and 7.1 percent in Britain.</p>
+<p>Conservative Prime Minister Alain Juppe has announced a series of measures to slow down the rise in medical spending and plug the welfare system's losses as France struggles to cut its budget deficit to help it qualify to join the single European currency from 1999.</p>
+<p>Barrot insisted the individual medical record would be confidential and only patients and doctors would have access to it. Employers who tried to gain access would face punishment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

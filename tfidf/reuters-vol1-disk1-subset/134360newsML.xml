@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134360" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: New England coast pounded by rain.</title>
+<headline>New England coast pounded by rain.</headline>
+<byline>Leslie Gevirtz</byline>
+<dateline>BOSTON 1996-10-21</dateline>
+<text>
+<p>A vicious storm dumped up to 18 inches (45.7 cm) of rain in parts of New England on Monday and led the governors of Massachusetts, New Hampshire and Maine to declare states of emergency in flood-ravaged areas.</p>
+<p>The slow-moving storm began to hammer the northeastern United States on Saturday and over the next three days killed at least four people, forcing evacuations and sending rivers over their banks in at least five states.</p>
+<p>Two bridges were destroyed on the Stroudwater River and another on the Presumpscot River closed in Westbrook, Maine, which received nearly 16 inches (40.6 cm) in less than 24 hours, according to police and the National Weather Service.</p>
+<p>Weather forcasters said 18 inches (45.7 cm) of rain had been recorded by Monday evening in Camp Ellis, Maine, and 16.87 inches (42.8 cm) in Gorham, Maine, with moderate to heavy rainfall expected to continue in the area until Tuesday morning.</p>
+<p>The torrential rains closed roads in eastern Massachusetts, New Hampshire and southern Maine -- including the Maine Turnpike -- and prompted voluntary evacuations in several communities, according to emergency officials.</p>
+<p>Water overspilled several dams in northeast Massachusetts and officials spotted several minor breaches, MEMA spokeswoman Arlene Margolis said.</p>
+<p>Officials released enough water from one dam to lower a pond's level by 10 inches (25 cm) in hopes of avoiding a total collapse as the fast running water forced people to abandon their cars and turn to canoes to evacuate.</p>
+<p>Boston Edison spokesman Mike Monahan said Winchester, a small city north of Boston, asked to cut power to its downtown area because of concerns of overspilling from the nearby dam.</p>
+<p>The Red Cross set up eight shelters housing hundreds of residents from various Massachusetts northshore communities that were especially hard hit, including Newburyport, which was submerged in 12.5 inches (32.25 cm) of rain.</p>
+<p>Thousands found their homes flooded, their furniture floating, their cars submerged and streets and roads buried under several feet of water.</p>
+<p>&quot;We could use a few more pumps,&quot; MEMA's Margolis said, as the high water stretched thin the state's resources.</p>
+<p>The National Weather Service said Boston Logan International Airport had 7.92 inches (19.8 cm) of rain. The previous record, of 4.92 inches (12.26 cm) was in October 1895.</p>
+<p>Portland, Maine, also set a new record for rainfall in a 24- hour period with 10.53 inches (26.75 cm) - breaking a record of 7.75 inches (19.3 cm) in 1991 set by Hurricane Bob, the weather service reported.</p>
+<p>Major sections of Boston's subway system were closed when the station at Kenmore Square, an important junction, was under 20 feet (6.1 meters) of water, a state Emergency Management Agency spokeswoman said. Transportation officials said they did not expect to have the station pumped out until Tuesday at the earliest.</p>
+<p>Massachusetts Gov. William Weld declared a state of emergency earlier on Monday and Maine Gov. Angus King followed a few hours later after the brutal storm continued to lash that state's southern coastline. New Hampshire also announced an emergency because of the storms.</p>
+<p>The weather service predicted the rain would subside in northern New England later on Monday night and clear through Tuesday. Flooding was expected to continue in Maine and New Hampshire Tuesday as the rivers crested.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

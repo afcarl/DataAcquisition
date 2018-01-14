@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135433" id="root" date="1996-10-22" xml:lang="en">
+<title>HONG KONG: Semi-Tech interim net profit HK$121 mln.</title>
+<headline>Semi-Tech interim net profit HK$121 mln.</headline>
+<dateline>HONG KONG 1996-10-22</dateline>
+<text>
+<p>Six months ended July 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   34.0    vs 135.0</p>
+<p>    Dividend (H.K. cents)    23.0    vs 23.0</p>
+<p>    Exceptional items	  nil     vs 388.0 gain</p>
+<p>    Net			    121.0   vs 468.0</p>
+<p>    Turnover		     2,944.0 vs 2,028.0</p>
+<p>    Company name		 Semi-Tech (Global) Co Ltd</p>
+<p>    Books close		  November 27-December 3</p>
+<p>    Dividend payable	   December 5</p>
+<p>NOTE - Semi-Tech (Global) manufactures and distributes sewing machines, electronics and computer systems.</p>
+<p>Share earnings are based on a weighted average of 359.6 million shares vs 345.6 million.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

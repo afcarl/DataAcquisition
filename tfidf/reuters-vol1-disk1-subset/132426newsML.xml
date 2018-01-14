@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132426" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Statewide Financial Q3 full results.</title>
+<headline>Statewide Financial Q3 full results.</headline>
+<dateline>JERSEY CITY, N.J. 1996-10-22</dateline>
+<text>
+<p>Selected Operating Data	   For the Three    For the Nine</p>
+<p>(dollars in thousands)	     Months Ended    Months Ended</p>
+<p>					 September 30,    September 30,</p>
+<p>					  1996     1995    1996    1995</p>
+<p>Interest Income		  $11,853   $8,569 $34,135 $25,542</p>
+<p>Interest Expense		   6,365    4,697  18,033  13,298</p>
+<p>Net Interest Income		5,488    3,872  16,102  12,244</p>
+<p>Provision for Loan Losses	  125	125     375     264</p>
+<p>Net Interest Income After</p>
+<p>   Provision for Loan Losses   5,363    3,747  15,727  11,980</p>
+<p>Non-Interest Income		  432	699   1,612   1,554</p>
+<p>Net (Loss) on Sales of Investment</p>
+<p>   Securities		     (1,095)     -0-  (1,095)    -0-</p>
+<p>Foreclosed Real Estate Expense, Net:</p>
+<p>					  17	(2)	74     124</p>
+<p>FDIC SAIF Assessment	    2,651	-0-   2,651     -0-</p>
+<p>Other Non-Interest Expense    3,955    3,650  11,757  10,179</p>
+<p>(Loss) Income Before Income Taxes:</p>
+<p>				     (1,923)     798   1,762   3,231</p>
+<p>Income Tax (Benefit) Expense (1,431)     298    (105)  1,213</p>
+<p>Net (Loss) Income		$(492)    $500  $1,867  $2,018</p>
+<p>(Loss) Earnings Per Share    $(.11)     n/a   $ .39     n/a</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERSEY CITY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

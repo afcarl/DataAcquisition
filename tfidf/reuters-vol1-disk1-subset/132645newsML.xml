@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132645" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Lawrence Savings Q3 net rises.</title>
+<headline>Lawrence Savings Q3 net rises.</headline>
+<dateline>NORTH ANDOVER, Mass. 1996-10-22</dateline>
+<text>
+<p>CONDENSED CONSOLIDATED INCOME STATEMENT</p>
+<p>			 (In thousands, except per share data)</p>
+<p>				Three months ended  Nine months ended</p>
+<p>				 Sep 30,   Sep 30,   Sep 30,  Sep 30,</p>
+<p>				    1996	1995	1996     1995</p>
+<p> Interest income	   $ 5,790   $ 4,984   $16,797  $14,620</p>
+<p> Interest expense	    3,341     2,820     9,629    7,917</p>
+<p> Net Interest income	 2,449     2,164     7,168    6,703</p>
+<p> Provision for loan losses    --	 125     (600)	525</p>
+<p>Net interest income after</p>
+<p>provision for loan losses</p>
+<p>				   2,449     2,039     7,768    6,178</p>
+<p> Non-interest income	   318	 304	 827	888</p>
+<p> Non-interest expense	1,415     1,962     5,447    5,800</p>
+<p>Net income before</p>
+<p>  income taxes		 1,352	 381     3,148    1,266</p>
+<p> Income tax benefit	    100	 150	 300	450</p>
+<p> Net income		    1,452	 531     3,448    1,716</p>
+<p> Net income per share	 0.34	0.13	0.81     0.41</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORTH ANDOVER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32145" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CME to launch butter contract amid tight supplies.</title>
+<headline>CME to launch butter contract amid tight supplies.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>A sharp drop in U.S. butter stocks should motivate trading in the Chicago Mercantile Exchange's new butter futures contract, which will be launched Thursday, said exchange sources.</p>
+<p>&quot;Butter stocks keep going lower and lower,&quot; said Bob Prosi, one of the contract's developers and a vice president at Smith Barney.</p>
+<p>The U.S. Agriculture Department reported 31.72 million lbs of butter in private and government warehouses as of August 1 versus 245.89 million lbs two years ago.  </p>
+<p>Also, supplies of government-owned butter have shrunk, which should allow greater cash-price volatility and encourage use of the futures contract as a price-control tool, said Jack Cook, a CME senior research analyst.</p>
+<p>In years past, huge stockpiles of government-owned butter overhung the market. When cash prices rose to a designated trigger level, butter would be released from government stocks, effectively halting a further rise in prices.</p>
+<p>Now, with government butter stocks at 797,000 lbs, versus 21.2 million lbs a year ago, they no longer threaten to keep a lid on prices, said Cook.  </p>
+<p>&quot;Essentially, there is no ceiling to price,&quot; he said.</p>
+<p>Butter futures traded at the CME from 1919 to 1976, and the new contract is similar to the previous one.</p>
+<p>CME leaders expect the butter futures to attract interest from bakeries, restaurants and food processors, as well as distributers like  Land O'Lakes Inc, a farmer-owned cooperative, and the largest butter retailer in the United States.</p>
+<p>A Land O'Lakes, Inc., official is scheduled to join other guests in ringing the bell at the butter market's inaugural opening at 1000 CDT/1500 GMT Thursday.</p>
+<p>After Thursday, regular daily trading will be from 0800 to 1310 CDT (1300 to 1810/GMT).</p>
+<p>The new contract will involve physical delivery and be traded in 40,000-lb units of Grade AA butter and quoted in dollars per lb. The daily price limit will be 2.5 cents per lb. Contract months will be February, April, June, July, September and November.</p>
+<p>--Bob Burgdorfer, 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

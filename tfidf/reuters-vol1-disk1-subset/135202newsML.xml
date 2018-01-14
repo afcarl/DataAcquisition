@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135202" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: C&amp;W unit says 9-mth revenues up 31 pct.</title>
+<headline>C&amp;W unit says 9-mth revenues up 31 pct.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>Eastern Telecommunications Philippines Inc (ETPI), an affiliate of Cable &amp; Wireless plc, said on Tuesday it posted a net revenue of 1.03 billion pesos in the first nine months of 1996.</p>
+<p>ETPI chairman Melquiades Gutierrez said in a statement this was 31 percent over the 789.8 million peso net revenue generated in the same period last year, and nine percent higher than its target of 952.6 million pesos.</p>
+<p>&quot;The company's year-end net revenues are expected to exceed targets by 5.0 percent this year. Its gateway services are expected to continue their strong showing until the end of the year and are expected to exceed revenue targets by about 10 percent,&quot; the statement said.</p>
+<p>ETPI said it has yet to complete its full income statement and therefore is unable to give its net income figures.</p>
+<p>ETPI is an international telecommunications firm providing text and video transmission services.</p>
+<p>- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

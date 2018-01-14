@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13184" id="root" date="1996-08-25" xml:lang="en">
+<title>JAPAN: Fujitsu to stop SRAM chip production by end-March.</title>
+<headline>Fujitsu to stop SRAM chip production by end-March.</headline>
+<dateline>TOKYO 1996-08-26</dateline>
+<text>
+<p>Fujitsu Ltd said on Monday it would withdraw from production of static random-access memories (SRAMs) and two other types of chips by the end of next March in order to focus on production of dynamic random-access memory (DRAM) chips and flash memories.  </p>
+<p>By March 31, Fujitsu will close one of the lines at its plant in Iwate, northern Japan, which produces SRAM chips as well as erasable programmable read-only memories (EPROM) and mask ROM chips, a company spokeswoman said.</p>
+<p>It does not make these types of semiconductors at its other plants, she said.</p>
+<p>Fujitsu formed a plan at the beginning of last year to scrap the line by the end of March 1997, the spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31428" id="root" date="1996-09-04" xml:lang="en">
+<title>ROMANIA: ROMANIAN SHIPPING - DRY CARGO, CONSTANTA PORT.</title>
+<headline>ROMANIAN SHIPPING - DRY CARGO, CONSTANTA PORT.</headline>
+<dateline>BUCHAREST 1996-09-04</dateline>
+<text>
+<p>The following ships were</p>
+<p>loading, discharging in the Black Sea port of Constanta on</p>
+<p>Wednesday, port authorities said.</p>
+<p>   SHIP		     COMMODITY    OPERATION   TONNES</p>
+<p> - Agnita		    phosphate     dsg	 11,565</p>
+<p> - Sammarina		 nitrate	 ldg	  8,535</p>
+<p> - Samra		     nitrate	 ldg	  5,030</p>
+<p> - Bumbesti		  phospate	dsg	 23,100</p>
+<p> - Fortune Beta	    iron sheet    ldg	 13,800</p>
+<p> - Super Spirit	    raw sugar     dsg	 16,500</p>
+<p> - Wind Star		 raw sugar     dsg	 14,000</p>
+<p> - Kyklades		  soymeal	 dsg	 20,295</p>
+<p> - Irene		     concrete iron ldg	 10,000</p>
+<p> - Helmos		    cement	  ldg	 14,600</p>
+<p> - Dumbraveni		cement	  ldg	  4,700</p>
+<p> - Tg Ocna		   cement	  ldg	 17,000</p>
+<p> - Maramures		 bauxite	 dsg	 12,600</p>
+<p> - Marc			cement	  ldg	  5,500</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

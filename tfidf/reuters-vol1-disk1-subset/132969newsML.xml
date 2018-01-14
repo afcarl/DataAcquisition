@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132969" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: Visa hopes secure cybercard will debut in 1998.</title>
+<headline>Visa hopes secure cybercard will debut in 1998.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>Visa Europe said on Tuesday it is testing a payment card designed for secure use in commerce across the Internet, and hopes to bring it to market early in 1998.</p>
+<p>&quot;We are announcing today the launch of a large scale pilot of our new card for secure electronic commerce, with 38 banks around Europe in 16 countries,&quot; Steve Schapp, executive vice-president marketing of Visa Europe said in an interview.</p>
+<p>Schapp said the card allowed deals in cyberspace to be as secure as regular face-to-face transactions in stores.</p>
+<p>&quot;To be accepted, cards for electronic commerce must have privacy, they must be encrypted so that no interloper can read or interpret the transaction,&quot; Schapp said.</p>
+<p>&quot;The merchant must be confident, so must the customer; and the cards must be globally interoperable, the Internet is by definition global,&quot; Schapp said.</p>
+<p>Information technology analysts say that by 2000 shoppers will be able to buy most of the goods they need sitting at home in front of their personal computers.</p>
+<p>Many big retailers have already launched virtual shopping malls on the World Wide Web, accessible across the global network of personal computers linked by telephone lines.</p>
+<p>Would be shoppers call up an Internet site, which can include a range of different stores from bookshops, flower shops, travel agencies. They click the computer mouse onto the symbol for the store they want to browse.</p>
+<p>Currently if they want to buy, credit card details have to transmitted across public telphone wires. Nervousness over the security of such transactions is said to have dampened enthusiasm for cyberspace deals.</p>
+<p>Users of this card by Visa, an association of bank credit card issuers, would register with an issuing bank and receive an electronic digital certificate. Every time they bought an article across the Internet they would use this certificate.</p>
+<p>&quot;The first banks to use the card will be up and running in six months. Most of the other banks would start within a few months after that,&quot; Schapp said.</p>
+<p>&quot;In the first quarter of 1998, we expect full commercial rollout in Europe and soon in other regions of the world.&quot;</p>
+<p>Schapp said the secure Visa card would help ignite electronic commerce across the world.</p>
+<p>&quot;We expect Internet commerce to range from between $7 billion and $32 billion a year by 2000 world-wide, extending Visa payment service into a new environment,&quot; Schapp said.</p>
+<p>Visa says it is the world's largest consumer payment system with over 12 million merchants world wide accepting its credit cards.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

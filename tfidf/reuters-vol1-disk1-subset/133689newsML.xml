@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133689" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PRESALE - North Texas Muni Wtr Dist..</title>
+<headline>PRESALE - North Texas Muni Wtr Dist..</headline>
+<text>
+<p>AMT: 3,000,000	DATE: 10/24/96	NYC Time: 1200	CUSIP: 662835</p>
+<p>ISSUER: North Texas Municipal Water District		    ST: TX</p>
+<p>ISSUE: Regional wastewater system, Series 1996		  TAX STAT:Exempt-REV</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 10/15/96							     SURE BID: N</p>
+<p>DUE: 6/1/98-16						SR MGR:</p>
+<p>1ST CPN: 06/01/97</p>
+<p>CALL: 6/1/06 @ par					  TIC</p>
+<p>DELIVERY: 11/26/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: Texas Commerce Bank National Association, Dallas</p>
+<p>L.O.: McCall, Parkhurst &amp; Horton, Dallas</p>
+<p>F.A.: First Southwest Co., Dallas</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		     90,000</p>
+<p>1999		    100,000</p>
+<p>2000		    100,000</p>
+<p>2001		    110,000</p>
+<p>2002		    110,000</p>
+<p>2003		    120,000</p>
+<p>2004		    125,000</p>
+<p>2005		    135,000</p>
+<p>2006		    140,000</p>
+<p>2007		    150,000</p>
+<p>2008		    160,000</p>
+<p>2009		    170,000</p>
+<p>2010		    180,000</p>
+<p>2011		    190,000</p>
+<p>2012		    200,000</p>
+<p>2013		    210,000</p>
+<p>2014		    225,000</p>
+<p>2015		    235,000</p>
+<p>2016		    250,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

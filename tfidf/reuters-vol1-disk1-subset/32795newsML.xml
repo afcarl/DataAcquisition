@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32795" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Teltrend sees growth via new products.</title>
+<headline>Teltrend sees growth via new products.</headline>
+<dateline>ST. CHARLES, Ill. 1996-09-04</dateline>
+<text>
+<p>Teltrend Inc's transition to newer products enhances its prospects for continued solid growth in fiscal 1997, president Howard Kirby said in a statement.</p>
+<p>&quot;Teltrend's growth continues to be driven not only by our established products, but also by new products in each of our four business areas,&quot; Kirby said.</p>
+<p>Earlier Wednesday Teltrend, which designs and manufactures products used by telephone companies to provide voice and data services over the telephone network, reported July 27 yearend earnings of $1.86 per share on sales of $85.9 million.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. CHARLES, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

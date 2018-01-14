@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133560" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Philippines seen as better investment site-survey.</title>
+<headline>Philippines seen as better investment site-survey.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>The Philippines has improved as an investment destination but is still plagued by bad traffic, poor infrastructure, bureaucratic red tape, and law and order problems, according to a survey by the Economist Intelligence Unit (EIU).</p>
+<p>The survey, released on Tuesday, found positive sentiment had increased among the multinational firms polled because of the government's economic reform programme.</p>
+<p>This was confirmed by plans by 35 firms to pour 140.4 billion pesos into new and expansion projects over the next three years, seven times more than the 20.6 billion pesos cited in 1994, the survey said.</p>
+<p>Some 90 percent of respondents saw their Philippine operations as on a par or even better than their units elsewhere in southeast Asia and other parts of the world, the survey found.</p>
+<p>The respondents gave the following major recommendations: a rapid improvement in infrastructure, taming the peace and order situation and allowing foreign ownership of land.</p>
+<p>The survey covered 48 firms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

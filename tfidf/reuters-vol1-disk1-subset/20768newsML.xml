@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20768" id="root" date="1996-08-29" xml:lang="en">
+<title>FINLAND: R.KONEVUOKRAAMO SEES 1996 PROFIT DOUBLING.</title>
+<headline>R.KONEVUOKRAAMO SEES 1996 PROFIT DOUBLING.</headline>
+<dateline>HELSINKI 1996-08-29</dateline>
+<text>
+<p>Finnish construction machinery leasing company Rakentajain Konevuokraamo Oy said in a statement on Thursday it expected its profit before extraordinaries, reserves and taxes doubling on 4.31 million markka of 1995.</p>
+<p>&quot;The board expects profit before extraordinaries, reserves and taxes to double on the previous year,&quot; Rakentajain Konevuokraamo said.  </p>
+<p>Konevuokraamo said earlier its January-June result after financial items rose to a 1.2 million markka profit from a 1.2 million markka loss in H1 1995.</p>
+<p>-- Helsinki newsroom +358-0-6805 0248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I84200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

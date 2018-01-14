@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32705" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Nasdaq slightly higher, Staples down.</title>
+<headline>Nasdaq slightly higher, Staples down.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Nasdaq stocks closed slightly higher on Wednesday with action focusing on Staples Inc and its planned acquisition of Office Depot Inc.</p>
+<p>The Nasdaq Composite Index was up 1.52, or 0.13 percent, at 1143.81 at its unofficial close while advancers led decliners 2030 to 1945 on volume of about 443 million shares.</p>
+<p>The most actively traded Nasdaq issue was Staples down 3/4 at 18-3/4. The company said it was buying Office Depot Inc Office Depot shares rose 4-5/8 to 20-3/8 and topped the NYSE most active list.</p>
+<p>Shares of Matrix Pharmaceuticals Inc were down 3-1/2 at 7-7/8 after Cowen &amp; Co said it cut its rating on the company to buy from strong buy and reduced its 1997 and 1998 earnings per share estimates.</p>
+<p>3Com Corp was up 1-1/4 at 48-1/8 after SoundView Financial raised its short-term rating on the stock to buy from hold. SoundView kept its long-term buy rating.</p>
+<p>Intuit Inc was down 3-3/4 at 32-1/2. Morgan Stanley cut its 1997 earnings per share view on the company.</p>
+<p>-Andrej Gustincic Wall Street desk 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

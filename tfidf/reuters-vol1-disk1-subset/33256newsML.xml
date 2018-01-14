@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33256" id="root" date="1996-09-04" xml:lang="en">
+<title>PORTUGAL: Portuguese bond report.</title>
+<headline>Portuguese bond report.</headline>
+<dateline>LISBON 1996-09-04</dateline>
+<text>
+<p>Portuguese cash bonds opened steady and dealers expected them to spend the day consolidating at current levels while the futures market followed the higher Spanish trend.</p>
+<p>&quot;Now that fears of an imminent rise in U.S. interest rates have faded European bonds are taking advantage,&quot; said one dealer, but he said there were insufficient investors in the market for domestic cash bonds to benefit much.</p>
+<p>Traders said roll-overs had boosted liquidity slightly in the futures market.  </p>
+<p>&quot;Today we'll see futures heading higher and cash bonds consolidating without much volatility. Spreads (with 10-year Bonos) will be around -10 basis points,&quot; said another dealer.</p>
+<p>Overnight/tomorrow next rates eased to 7.17/7.27 percent from 7.22/7.24 percent on the first day of a new accounting period for commercial bank cash reserves. The Bank of Portugal left rates unchanged.</p>
+<p>The escudo was steady and was expected to remain in a range between 102.45 and 102.50 per mark today after closing at 102.40/43.</p>
+<p>--LISBON BUREAU 3511-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

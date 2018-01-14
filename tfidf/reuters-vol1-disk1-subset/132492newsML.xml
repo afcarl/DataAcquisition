@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132492" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: i2 Technologies Q3 shr $0.06 vs $0.05.</title>
+<headline>i2 Technologies Q3 shr $0.06 vs $0.05.</headline>
+<dateline>IRVING, Texas 1996-10-22</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					   1995    1996    1996    1995</p>
+<p> Total revenues		     7,309  21,530  16,686  49,792</p>
+<p> Net income			   1,162   1,747   2,825   3,434</p>
+<p> Net income per share		0.05    0.06    0.11    0.13</p>
+<p>Weighted average common and</p>
+<p>common equivalent shares</p>
+<p>  outstanding			25,030  28,102  24,836  26,970</p>
+<p>Note: Company's full name is i2 Technologies Inc.</p>
+<p>-- New York newsdesk, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

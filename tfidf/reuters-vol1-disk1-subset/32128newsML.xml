@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32128" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Riverside, Calif. seeks plan to avert more defaults.</title>
+<headline>Riverside, Calif. seeks plan to avert more defaults.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>Riverside County, Calif. finance officials are developing a plan to restructure a troubled bond issue to avert future payment problems following a default this week, a county official said on Wednesday.</p>
+<p>Gregg Marrama, deputy county executive officer, said a team was working on a plan to avert future defaults. The plan could include refundings. &quot;The county is committed to resolving the problems,&quot; he said.</p>
+<p>Riverside County Community Facilities District 88-8 sold about $24 million of Mello-Roos bonds in 1990 to finance street, water, storm-drain and sewer improvements.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26756" id="root" date="1996-09-02" xml:lang="en">
+<title>USA: NFL AMERICAN FOOTBALL-STANDINGS AFTER SUNDAY'S GAMES.</title>
+<headline>NFL AMERICAN FOOTBALL-STANDINGS AFTER SUNDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-09-01</dateline>
+<text>
+<p>National Football League</p>
+<p>standings after games on Sunday (tabulate under won, lost,</p>
+<p>tied, points for and points against):</p>
+<p>		     AMERICAN FOOTBALL CONFERENCE</p>
+<p>		     EASTERN DIVISION</p>
+<p>			W   L  T   PF   PA</p>
+<p> BUFFALO	    1   0  0   23   20</p>
+<p> INDIANAPOLIS     1   0  0   20   13</p>
+<p> MIAMI		1   0  0   24   10</p>
+<p> NEW ENGLAND	0   1  0   10   24</p>
+<p> NY JETS	    0   1  0    6   31</p>
+<p>		     CENTRAL DIVISION</p>
+<p>			W   L  T   PF   PA</p>
+<p> BALTIMORE	  1   0  0   19   14</p>
+<p> JACKSONVILLE     1   0  0   24    9</p>
+<p> CINCINNATI	 0   1  0   16   26</p>
+<p> HOUSTON	    0   1  0   19   20</p>
+<p> PITTSBURGH	 0   1  0    9   24</p>
+<p>		     WESTERN DIVISION</p>
+<p>			W   L  T   PF   PA</p>
+<p> DENVER	     1   0  0   31    6</p>
+<p> KANSAS CITY	1   0  0   20   19</p>
+<p> SAN DIEGO	  1   0  0   29    7</p>
+<p> OAKLAND	    0   1  0   14   19</p>
+<p> SEATTLE	    0   1  0    7   29</p>
+<p>		     NATIONAL FOOTBALL CONFERENCE</p>
+<p>		     EASTERN DIVISION</p>
+<p>			W   L  T   PF   PA</p>
+<p> PHILADELPHIA     1   0  0   17   14</p>
+<p> DALLAS	     0   0  0    0    0</p>
+<p> ARIZONA	    0   1  0   13   20</p>
+<p> NY GIANTS	  0   1  0   20   23</p>
+<p> WASHINGTON	 0   1  0   14   17</p>
+<p>		     CENTRAL DIVISION</p>
+<p>			W   L  T   PF   PA</p>
+<p> GREEN BAY	  1   0  0   34    3</p>
+<p> MINNESOTA	  1   0  0   17   13</p>
+<p> CHICAGO	    0   0  0    0    0</p>
+<p> DETROIT	    0   1  0   13   17</p>
+<p> TAMPA BAY	  0   1  0    3   34</p>
+<p>		     WESTERN DIVISION</p>
+<p>			W   L  T   PF   PA</p>
+<p> CAROLINA	   1   0  0   29    6</p>
+<p> SAN FRANCISCO    1   0  0   27   11</p>
+<p> ST LOUIS	   1   0  0   26   16</p>
+<p> ATLANTA	    0   1  0    6   29</p>
+<p> NEW ORLEANS	0   1  0   11   27</p>
+<p>MONDAY, SEPTEMBER 2 SCHEDULE</p>
+<p>DALLAS AT CHICAGO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

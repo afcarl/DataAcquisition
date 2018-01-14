@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134574" id="root" date="1996-10-22" xml:lang="en">
+<title>FINLAND: HELIBOR INTEREST RATES MIXED AT FIX.</title>
+<headline>HELIBOR INTEREST RATES MIXED AT FIX.</headline>
+<dateline>HELSINKI 1996-10-22</dateline>
+<text>
+<p>Helibor interest were mixed at</p>
+<p>the Bank of Finland's daily fixing on Tuesday. The three-month</p>
+<p>rate rose one basis point to 3.06 percent.</p>
+<p>				     Oct 22 fix	     Oct 21 fix</p>
+<p> 1-mth Helibor		     3.06 pct		3.02 pct</p>
+<p> 2-mth Helibor		     3.05 pct		3.03 pct</p>
+<p> 3-mth Helibor		     3.06 pct		3.05 pct</p>
+<p> 6-mth Helibor		     3.14 pct		3.14 pct</p>
+<p> 9-mth Helibor		     3.23 pct		3.23 pct</p>
+<p> 12-mth Helibor		    3.33 pct		3.33 pct</p>
+<p>-- Helsinki newsroom  +358 - 0 - 680 50 240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

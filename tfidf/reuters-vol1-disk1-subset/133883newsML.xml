@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133883" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Eveleth, Minn., housing bonds Baa by Moody's.</title>
+<headline>Eveleth, Minn., housing bonds Baa by Moody's.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Moody's Investors Service - Rating Announcement As of 10/11/96.</p>
+<p>    Issuer		: Eveleth Multi-fam. hsg. rev. (Phoenix</p>
+<p>				Hsg., Inc. Proj.) ser. '96</p>
+<p>    State		 : MN</p>
+<p>    Rating		: Baa</p>
+<p>    Sale Amount	 : 2,440,000</p>
+<p>    Expected Sale Date: 10/15/96</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

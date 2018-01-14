@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134249" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: India HDFC cuts interest on housing loan.</title>
+<headline>India HDFC cuts interest on housing loan.</headline>
+<dateline>BOMBAY 1996-10-22</dateline>
+<text>
+<p>India's Housing Development Finance Corporation Ltd (HDFC) said on Tuesday it cut interest rates on housing loans of 100,001-200,000 rupees by 1.50 percentage points to 16.5 percent per annum.</p>
+<p>HDFC said for loan amounts upto 100,000 rupees it dropped the interest rate by one percentage point to 16 percent, and for amounts of 200,001-500,000 rupees and above 500,000 by one percentage point to 17 and 18 percent respectively.</p>
+<p>The revised rate takes effect from October 22, HDFC said in an advertisement issued in national newspapers.</p>
+<p>The cut in the interest rate came after the Reserve Bank of India (RBI) announced a reduction in cash reserve ratio (CRR) requirements for banks on Saturday in its monetary policy for the second half of 1996/97 (April-March).</p>
+<p>The RBI announced a cut in CRR to 10 percent from 12 percent in four stages of 50 basis points each. These take effect from October 26, November 9, 1996,  January 4, 1997 and January 18.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

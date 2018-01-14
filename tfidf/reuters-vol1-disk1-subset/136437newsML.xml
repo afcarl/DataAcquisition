@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136437" id="root" date="1996-10-23" xml:lang="en">
+<title>BULGARIA: Siemens offers to upgrade Bulgaria reactors.</title>
+<headline>Siemens offers to upgrade Bulgaria reactors.</headline>
+<dateline>SOFIA 1996-10-23</dateline>
+<text>
+<p>Germany's Siemens is discussing with Bulgaria's National Electricity Company (NEC) the upgrading of its Soviet-designed old nuclear reactors at Kozloduy based on its experience at Slovakia's Jaslovske Bohunice plant.</p>
+<p>Siemens said in a statement on Wednesday discussions were taking place in Kozloduy and Sofia until Friday.</p>
+<p>Siemens said its work on the reconstruction of Bohunice's two reactors could be a model for the remaining VVER Soviet-designed reactors from this generation, such as the four 440-megawatt reactors at Kozloduy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

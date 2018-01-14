@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31368" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: SOCCER-TIGER CUP RESULT/STANDINGS.</title>
+<headline>SOCCER-TIGER CUP RESULT/STANDINGS.</headline>
+<dateline>SINGAPORE 1996-09-02</dateline>
+<text>
+<p>Result of a Tiger Cup soccer</p>
+<p>tournament match on Wednesday:</p>
+<p>Group B</p>
+<p> Malaysia   7    Philippines    0    (halftime 2-0)</p>
+<p>Standings (tabulated under played, won, drawn, lost,</p>
+<p>points):</p>
+<p>Group A </p>
+<p> Indonesia	     1   1   0   0   3</p>
+<p> Vietnam		 1   1   0   0   3</p>
+<p> Cambodia		1   0   0   1   0</p>
+<p> Laos		    1   0   0   1   0</p>
+<p> Myanmar		 0   0   0   0   0</p>
+<p>Next matches: Sept 5, Laos v Vietnam, Myanmar v Cambodia.</p>
+<p>Group B</p>
+<p> Malaysia		2   1   1   0   4</p>
+<p> Singapore	     2   1   1   0   4</p>
+<p> Thailand		1   1   0   0   3</p>
+<p> Brunei		  1   0   0   1   0</p>
+<p> Philippines	   2   0   0   2   0</p>
+<p>Top two teams from each group qualify for semifinals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

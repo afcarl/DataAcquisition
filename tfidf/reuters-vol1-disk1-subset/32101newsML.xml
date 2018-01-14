@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32101" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Mississippi high court hears tobacco case.</title>
+<headline>Mississippi high court hears tobacco case.</headline>
+<dateline>JACKSON, Miss 1996-09-04</dateline>
+<text>
+<p>Mississippi's highest court heard arguments on Wednesday in a power struggle between the state attorney general and Gov. Kirk Fordice over authority to sue the tobacco industry.</p>
+<p>Fordice, a Republican, filed suit to stop the state Attorney General Mike Moore, a Democrat, from moving against the tobacco companies, one of more than a dozen actions taken by state governments to try and recover Medicaid payments to sick smokers.</p>
+<p>The court gave no indication of how soon it might issue a ruling.</p>
+<p>Lawyers for the governor told the Mississippi Supreme Court that state laws give the Republican governor sole authority to decide whether to file a lawsuit for recovery of Medicaid payments to sick smokers. The governor is head of the state's division of Medicaid.</p>
+<p>But Moore said the state supreme court's own rulings over the decades have placed the authority to decide whether to sue in the hands of the attorney general.</p>
+<p>&quot;For 90 years in this state, consistently all the decisions of the Mississippi Supreme Court have held the attorney general has sole authority,&quot; Moore said in court.</p>
+<p>Chief Justice Dan Lee asked Moore if he sought the governor's permission to file the lawsuit.</p>
+<p>&quot;Neither sought, your honor, nor needed his permission,&quot; Moore replied.</p>
+<p>Wayne Drinkwater, a Jackson lawyer representing Fordice, claimed the attorney general was trying to &quot;usurp the authority the legislature has placed in the governor.&quot;</p>
+<p>The issue is purely a matter of authority, Drinkwater maintained, not whether the lawsuit against the tobacco industry was good or bad public policy.</p>
+<p>Moore filed the original lawsuit in Jackson County Chancery Court.</p>
+<p>Six members of the state's nine-member supreme court heard arguments in the case.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSON, Miss"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

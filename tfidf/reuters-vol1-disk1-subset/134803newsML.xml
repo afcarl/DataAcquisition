@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134803" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Florida executes killer of manufacturing heiress.</title>
+<headline>Florida executes killer of manufacturing heiress.</headline>
+<dateline>TALLAHASSEE, Fla. 1996-10-21</dateline>
+<text>
+<p>One of four men convicted for the 1982 convenience store murder of Evinrude heiress Frances Julia Slater was executed on Monday in Florida's electric chair, prison officials said.</p>
+<p>John Earl Bush, 38, was pronounced dead at 7:09 p.m. EDT (2309 GMT) at Florida State Prison near Starke, Florida, according to Florida Department of Corrections spokesman Eugene Morris. The execution came a day after the U.S. Supreme Court refused to stop the death sentence originally scheduled to be carried out on Oct. 17.</p>
+<p>Bush, dressed in blue pants and white shirt, made no comment before he died, Morris said. His last meal was steak, fried shrimp, baked potatoes, lemon pie and orange juice.</p>
+<p>Bush was one of three men facing death for the April 27, 1982, robbery and murder of the 18-year-old Slater, granddaughter of Evinrude Motors Co. founder Ralph Evinrude. A fourth accomplice, Terry Wayne Johnson, was serving a life sentence.</p>
+<p>Evinrude is a builder of motors for boats, snowmobiles and other recreational vehicles.</p>
+<p>One of 368 death row inmates in Florida, Bush was the 37th to die in the state's electric chair since executions were resumed in 1979.</p>
+<p>Parker, the trigger man, was also on death row. Cave, who was originally condemned to death, was awaiting resentencing due next month after his death sentence was overturned.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLAHASSEE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

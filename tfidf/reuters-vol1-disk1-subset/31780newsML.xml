@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31780" id="root" date="1996-09-04" xml:lang="en">
+<title>BRAZIL: Brazil's CST plans $550 mln debt issue.</title>
+<headline>Brazil's CST plans $550 mln debt issue.</headline>
+<dateline>SAO PAULO 1996-09-04</dateline>
+<text>
+<p>Brazilian steel slab maker Companhia Siderurgica Tubarao (CST) said it was drawing up a plan to issue $550 million of seven-year notes backed by export receivables.</p>
+<p>&quot;We expect the plan to be ready no later than November,&quot; Antonio Lima Filho, CST's market relations director, told reporters at a news conference.</p>
+<p>Filho said the securities will be offered to U.S., Japanese and European institutional investors.</p>
+<p>The operation will be coordinated abroad by Goldman Sachs and Japan's Daiwa bank. In Brazil, Bozano Simonsen and Unibanco banks are leading the deal, he said.</p>
+<p>Filho said the debt issue will back part of the firm's investment plan of $1.2 billion through the year 2000.</p>
+<p>-- Romina Nicaretta, Sao Paulo newsroom, 5511 232-4411</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

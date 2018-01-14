@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132318" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Doman Industries Ltd Q3 turns to loss.</title>
+<headline>Doman Industries Ltd Q3 turns to loss.</headline>
+<dateline>VANCOUVER 1996-10-22</dateline>
+<text>
+<p>1996			    1995</p>
+<p> Shr     loss	    C$0.24   profit	C$0.38</p>
+<p> Net     loss	     8,723   profit	13,915</p>
+<p> Revs		     184,748		  224,877</p>
+<p>	   9  MONTHS</p>
+<p> Shr     loss	    C$1.29   profit	C$1.23</p>
+<p> Net     loss	    47,119   profit	44,994</p>
+<p> Revs		     495,906		  644,107</p>
+<p> Avg shrs			NA			 NA</p>
+<p>		(All data above 000s except per share numbers)</p>
+<p>Note: 1996 nine-months results include C$39 million in costs related to pulp production shutdown and inventory writedowns. Production curtailment reduced production by 70,000 air dried metric tonnes.</p>
+<p>-- Reuters Vancouver Bureau (604) 664-7314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

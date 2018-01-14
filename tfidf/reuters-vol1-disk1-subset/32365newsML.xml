@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32365" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: G10 deputies to review IMF emergency funds Friday.</title>
+<headline>G10 deputies to review IMF emergency funds Friday.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Group of 10 deputies will meet in Paris on Friday to review plans to double an emergency financing fund available to the IMF to help countries facing financial crises, an international financial source said on Wednesday.</p>
+<p>Group of 10 countries agreed in principle earlier this year to double the IMF's so-called General Arrangements to Borrow (GAB) to be used in exceptional circumstances such as the financial crisis, which hit Mexico at the end of 1994.</p>
+<p>But a number of technical issues remain to be resolved ahead of ministerial discussions at the International Monetary Fund's annual meeting in Washington in October, the source said.</p>
+<p>The G10 -- actually 11 nations comprising Britain, Belgium, Canada, France, Germany, Italy, Japan, the Netherlands, Sweden, Switzerland and the United States -- already provide the IMF with $25 billion in emergency credit lines through the GAB.</p>
+<p>A number of other rich industrialised countries are expected to join the G10 in contributing to the enlarged fund. Friday's meeting will be chaired by Italian Treasury head Mario Draghi.</p>
+<p>-- Myra MacDonald  Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GTEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132545" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Odetics Q2 net rises. [CORRECTED 20:55 GMT]</title>
+<headline>Odetics Q2 net rises. [CORRECTED 20:55 GMT]</headline>
+<dateline>ANAHEIM, Calif. 1996-10-22</dateline>
+<text>
+<p>(In thousands, except earnings per share)</p>
+<p>					Quarter Ended  Six Months Ended</p>
+<p>				   9/30/96  9/30/95  9/30/96  9/30/95</p>
+<p> Commercial Sales		$30,819 $21,681 $59,123  $40,848</p>
+<p> Contract Sales		    2,774   2,804   5,273    5,074</p>
+<p> Total Sales			33,593  24,485  64,396   45,922</p>
+<p> Cost of Sales		    21,604  15,959  41,082   29,503</p>
+<p>					11,989   8,526  23,314   16,419</p>
+<p>Selling, General and</p>
+<p>  Administrative Expense	 6,742   5,625  13,635   10,768</p>
+<p> Research &amp; Development	  3,019   1,654   5,307    3,384</p>
+<p> Interest Expense		    444     603     937    1,283</p>
+<p>					10,205   7,882  19,879   15,435</p>
+<p> Pretax Income		     1,784     644   3,435	984</p>
+<p> Income Tax			    696     245   1,340	374</p>
+<p> Net Income			  1,088     399   2,095	610</p>
+<p> Earnings Per Share		 0.17    0.07    0.32     0.10</p>
+<p>(Corrects Quarter Ended 9/30/95 EPS figure from 1.17)</p>
+<p>Weighted Average Number of</p>
+<p>  Shares Outstanding	     6,580   6,058   6,515    6,011</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

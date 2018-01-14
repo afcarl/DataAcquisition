@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32082" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PRESALE-State of Wisconsin.</title>
+<headline>PRESALE-State of Wisconsin.</headline>
+<text>
+<p>AMT: 115,230,000    DATE: 09/11/96	NYC Time: 1100	CUSIP: 977056</p>
+<p>ISSUER: Wisconsin							 ST: WI</p>
+<p>ISSUE: General Obligation Bonds of 1996, Series C	    TAX STAT: Exempt-FFC</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 09/01/96							     SURE BID: Y</p>
+<p>DUE: 5/1/98-17						SR MGR:</p>
+<p>1ST CPN: 05/01/97</p>
+<p>CALL: 5/1/07 @ par					  TIC</p>
+<p>DELIVERY: 10/2/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: State Treasurer's Office, Madison</p>
+<p>L.O.: Foley &amp; Lardner, Milwaukee</p>
+<p>F.A.: None</p>
+<p>LAST SALE: $158,080,000 1/18/96 @ 4.88700% TIC; 10yrs 11mos avg; BBI-5.50%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		  3,170,000</p>
+<p>1999		  4,205,000</p>
+<p>2000		  4,385,000</p>
+<p>2001		  4,570,000</p>
+<p>2002		  4,770,000</p>
+<p>2003		  4,545,000</p>
+<p>2004		  4,755,000</p>
+<p>2005		  4,970,000</p>
+<p>2006		  5,205,000</p>
+<p>2007		  5,465,000</p>
+<p>2008		  5,425,000</p>
+<p>2009		  5,700,000</p>
+<p>2010		  5,995,000</p>
+<p>2011		  6,310,000</p>
+<p>2012		  6,650,000</p>
+<p>2013		  7,010,000</p>
+<p>2014		  7,390,000</p>
+<p>2015		  7,800,000</p>
+<p>2016		  8,225,000</p>
+<p>2017		  8,685,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

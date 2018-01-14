@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32276" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Run-off to be held for congressional seat in Fla..</title>
+<headline>Run-off to be held for congressional seat in Fla..</headline>
+<dateline>TAMPA, Fla. 1996-09-04</dateline>
+<text>
+<p>Former Tampa Mayor Sandy Freedman won a spot Tuesday in a runoff election among Democrats seeking the seat of long-time Democratic U.S. Representative Sam Gibbons, who will retire this year, elections officials said Wednesday.</p>
+<p>Because no Democrat won more than 50 percent of the votes, the top two candidates will face each other in a runoff election Oct 1. The winner will face Republican Mark Sharpe in the Nov. 5 general election for the seat.</p>
+<p>Freedman finished first, followed by state Representative Jim Davis, who was just 71 votes ahead of Hillsborough County Commissioner Phyllis Busansky. The board of elections supervisors planned to meet later Wednesday to release official results and determine if a recount would be required of the results for Davis and Busansky.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

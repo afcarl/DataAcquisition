@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32852" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: BankAtlantic sets divs for Class A, B shrs.</title>
+<headline>BankAtlantic sets divs for Class A, B shrs.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-09-04</dateline>
+<text>
+<p>Class A Quarterly</p>
+<p>		   Latest		    Prior</p>
+<p> Amount		$ 0.0405		$  0.0405</p>
+<p> Pay		     Oct 21</p>
+<p> Record		   Oct 7</p>
+<p>			     Class B Quarterly</p>
+<p>		   Latest		    Prior</p>
+<p> Amount	     $  0.0364		 $ 0.0364</p>
+<p> Pay		     Oct 21</p>
+<p> Record		   Oct 7</p>
+<p>Note: Full co name is BankAtlantic Bancorp Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

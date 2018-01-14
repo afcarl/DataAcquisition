@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131702" id="root" date="1996-10-21" xml:lang="en">
+<title>PORTUGAL: Ex-premier doubts Lisbon in EMU without Spain.</title>
+<headline>Ex-premier doubts Lisbon in EMU without Spain.</headline>
+<dateline>LISBON 1996-10-21</dateline>
+<text>
+<p>Former Prime Minister Anibal Cavaco Silva said on Monday that it would be unrealistic to think of Portugal joining the first group of European Union countries to form monetary union without Spain.</p>
+<p>&quot;It would be politically unrealistic to think of Portugal joining without Spain,&quot; Cavaco Silva told a banking conference.  </p>
+<p>The official line of the Socialist government, which took over from Cavaco Silva's Social Democrats after elections in October 1995, is that Portugal should join the first wave of countries moving to economic and monetary union (EMU), regardless of what happens to Spain.</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

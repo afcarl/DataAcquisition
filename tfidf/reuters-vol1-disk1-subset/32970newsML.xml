@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32970" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Cerus says no change on Valeo stance.</title>
+<headline>Cerus says no change on Valeo stance.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Italian industrialist Carlo De Benedetti's resignation from Olivetti has not altered his French holding company Cerus's view on its stake in car parts firm Valeo, a Cerus spokesman said on Wednesday.</p>
+<p>Cerus has said since February that it was entertaining offers for its 28 percent stake in Valeo and would sell at the right price which it calculated at around 400 francs per share, given Valeo's strong growth prospects.</p>
+<p>&quot;There's no change in that position,&quot; a Cerus spokesman told Reuters.</p>
+<p>Shares in Valeo and Cerus rose on Wednesday on revived expectations of a stake sale that might attract a takeover bid.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

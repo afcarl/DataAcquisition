@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33009" id="root" date="1996-09-04" xml:lang="en">
+<title>DUBAI: Saudi Aramco raises bunker prices.</title>
+<headline>Saudi Aramco raises bunker prices.</headline>
+<dateline>DUBAI 1996-09-04</dateline>
+<text>
+<p>Saudi Aramco said it increased the price of its A-960 bunker fuel oil to $126 a tonne ($19.34 a barrel) from $114 ($17.50) fob Ras Tanura and Dammam.</p>
+<p>The state oil company increased the price of its A-888 from these ports and Jubail and Yanbu to $205 a tonne from $200.</p>
+<p>A-960 bunker fuel oil prices fob Jeddah and Yanbu were $120 a tonne ($18.42 a barrel) from a previous $112 ($17.19).</p>
+<p>The prices are effective September 5.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

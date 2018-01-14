@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131701" id="root" date="1996-10-21" xml:lang="en">
+<title>GERMANY: German consumer confidence rises in Aug/Sept - Icon.</title>
+<headline>German consumer confidence rises in Aug/Sept - Icon.</headline>
+<dateline>BONN 1996-10-21</dateline>
+<text>
+<p>German consumer confidence rose for the first time in four months in August and September to touch the highest level this year, according to the Icon Business Consulting GmbH research group index published on Monday.</p>
+<p>The Icon index, which covers a two month period, rose to 90 in August and September combined, from 87 in June and July.</p>
+<p>On a monthly basis, the consumer confidence index was unchanged in September from August and rose one percent from the same month a year earlier.</p>
+<p>&quot;The question is whether this development turns out to be a temporary high or represents the start of a fundamental change in attitudes,&quot; Icon said in a statement.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

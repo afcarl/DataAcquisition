@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131848" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Result of ANI meeting to be known Monday.</title>
+<headline>RTRS-Result of ANI meeting to be known Monday.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>Australian National Industries Ltd said it should know some time later on Monday the result of an election calling for the removal of two directors.</p>
+<p>The chairman of the heavy engineering firm, Ted Harris, told reporters after the annual meeting the result of the election should bring stability to the company's board of directors.</p>
+<p>Harris said he could not comment on whether managing director Peter Stancliffe would remain with the company if rebel director Ross Palmer was re-elected to the board.</p>
+<p>Palmer has the largest personal shareholding in ANI with a stake of five percent.  </p>
+<p>His re-election has been opposed by fellow director Peter Joseph, who in turn is being opposed by Palmer.</p>
+<p>Palmer has become a minority voice on the board since his decision last month to publicly reveal that he was in charge of an investigation over the purchase of a business by ANI's German subsidiary, Holter, of another environmental engineering business, ABT.</p>
+<p>Harris and Stancliffe have supported the re-election of Joseph, who has the supported of most institutional investors in ANI. The re-election votes require a majority of 50.1 percent, with institutions holding more than 68 percent of the company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

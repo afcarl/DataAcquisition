@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131782" id="root" date="1996-10-21" xml:lang="en">
+<title>FINLAND: PARTEK JAN-AUG PROFIT FALLS 29 PCT.</title>
+<headline>PARTEK JAN-AUG PROFIT FALLS 29 PCT.</headline>
+<dateline>HELSINKI 1996-10-21</dateline>
+<text>
+<p>Eight months to August 31,</p>
+<p>				    (million markka unless stated)</p>
+<p> Profit after fin items		   81.5 vs 115.4</p>
+<p> Earnings per share (markka)	    1.38 vs 1.93</p>
+<p> Net sales				 4,014.4 vs 4,020.6</p>
+<p> Operating profit			  137.4 vs 207.9</p>
+<p>NOTE - Analysts' median forecast profit after financial</p>
+<p>items, before extraordinaries was 70 million markka (mean 71</p>
+<p>million) in a 61 million to 84 million markka range.</p>
+<p> Share in associated companies   gain 13.0 vs 52.6 gain</p>
+<p> Net financial items	     charge 68.9 vs 145.0 charge</p>
+<p> Extraordinary items		gain 458.1 vs nil</p>
+<p> Profit before minorities, taxes     539.5 vs 115.4</p>
+<p> Minorities			   charge 5.6 vs 12.2 charge</p>
+<p> Taxes					  22.8 vs 28.9</p>
+<p> Net profit				  511.1 vs 74.4</p>
+<p> Equity to assets ratio (percent)	 44 vs 30 (end-1995)</p>
+<p>NOTE - Full name of Finnish construction materials and cargo</p>
+<p>equipment group is Partek Oy Ab.</p>
+<p>-- Helsinki newsroom +35 89 6805 0248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

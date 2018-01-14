@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33113" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Reed lawyer faults West merger.</title>
+<headline>Reed lawyer faults West merger.</headline>
+<dateline>PALO ALTO, Calif. 1996-09-03</dateline>
+<text>
+<p>Lawyers for the Anglo-Dutch publishing and information group Reed Elsevier Inc on Tuesday issued a letter to the U.S. Department of Justice (DOJ) faulting approval of a $3.4 billion legal print merger.</p>
+<p>Silicon Valley antitrust lawyer Gary Reback, representing Reed Elsevier, said insufficient safeguards had been added to preserve competition following the merger of Thomson Corp and West Publishing that had been conditionally approved in April.</p>
+<p>&quot;Consumers will pay for this reduced competition through increased prices, reduced choice and reduced innovation,&quot; Reback wrote in the letter to the DOJ dated August 29 and released late Tuesday.</p>
+<p>Reed Elsevier is the owner of electronic publisher Lexis- Nexis, the principle rival to the merger, which the letter said combines West as the largest publisher of legal research materials with the second largest, Thomson, &quot;in an industry that is already highly concentrated.&quot;</p>
+<p>The letter said it was almost certain the combination would lessen competition for legal materials in the markets.</p>
+<p>The DOJ and several states had filed suit to block the purchase due to similar reasoning.</p>
+<p>The proposed conditions, due to be approved by a U.S. district court judge later this month, include the divestiture of 58 West-owned legal publications worth around $275 million.</p>
+<p>Reback argues that the proposed DOJ agreement required the companies to spin off only the weakest overlapping products, and which he wrote would offer essentially &quot;no chance&quot; of enabling a competitor to integrate these into rival products.</p>
+<p>&quot;Under these circumstances, the proposed acquisition never should have permitted to be consummated: it likely harm to competition is obvious and inevitable,&quot; the letter said.</p>
+<p>Times Mirror Co's wholly-owned subsidiary, Matthew Bender &amp; Co., also submitted a letter urging the department not to approve the proposal without modification.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

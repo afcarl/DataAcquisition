@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133426" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: Traveling circus caught with three tons of cocaine.</title>
+<headline>Traveling circus caught with three tons of cocaine.</headline>
+<dateline>MEXICO CITY 1996-10-21</dateline>
+<text>
+<p>Mexican federal agents in southern Oaxaca state discovered more than three tons of cocaine hidden inside the tent posts of a travelling circus, officials said on Monday.</p>
+<p>&quot;Federal Judicial Police delivered one of the most important blows against international drug trafficking in the present administration by capturing more than three tons of cocaine in the state of Oaxaca,&quot; the Attorney General's Office said in a statement.</p>
+<p>A truck driver was arrested in connection with the haul, which Oaxaca state officials said was the biggest there this decade, according to the 24 Hours television news programme.</p>
+<p>Jaime Colin Sanchez, an Attorney General's Office representative in the Pacific port city of Salina Cruz, told 24 Hours that authorities discovered 3,228 packages of cocaine weighing 7,156 pounds (3,245 kg).</p>
+<p>The driver was stopped at a Salina Cruz truck inspection stop when the weight of his load did not match his logs, officials said. Inspectors called in drug-sniffing dogs when the driver became nervous.</p>
+<p>The tubes containing the cocaine had been shipped in from Ayacucho Guayaquil, Ecuador, the Attorney General's Office said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

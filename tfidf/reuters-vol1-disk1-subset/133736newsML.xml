@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133736" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: INTERVIEW - MCI has secret weapon in data warehouse.</title>
+<headline>INTERVIEW - MCI has secret weapon in data warehouse.</headline>
+<byline>Nick Louth</byline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>MCI Communications Corp is ducking the trench warfare in the consumer long distance telephone market by quietly using data warehousing  to target key customers who are unlikely to flee to the enemy.</p>
+<p>MCI Chief Financial Officer Doug Maine said these customers are looking for advanced services, preferably in a package, but have hitherto been hard to pinpoint.</p>
+<p>&quot;It has taken tens of millions of dollars and many years to develop profiles of customers who can be targeted in our marketing,&quot; Maine told Reuters in an interview.  </p>
+<p>Data warehousing requires powerful computers to assemble profiles of users from thousands of individual spending decisions and was a technique first applied by retailers.</p>
+<p>&quot;I always tell investors it is a hidden asset you cannot put a value on,&quot; Main said.</p>
+<p>Sales people use these profiles to sell new services to existing customers, or target those of rivals who are likely to move across for the right services -- and stay.</p>
+<p>&quot;We've done this for some time in the business sales force,&quot; Maine said.  </p>
+<p>The main enemy is churn, the tendency for some customers to switch between providers, which wastes all the marketing, promotional and administrative money spent recruiting them.</p>
+<p>Third quarter results on Tuesday from MCI showed the benefits in the business and data markets that account for two-thirds of MCI's total revenues, but it is early days to see much improvement in the consumer market.</p>
+<p>MCI said churn was higher than a year ago in the consumer market, but lower than in the second quarter.  </p>
+<p>While AT&amp;T Corp slugs it out with tiny but tenacious resellers in a costly battle for customers using millions of dollars in promotional ammunition, MCI has cut its promotional spending for customer sign-ons by 70 percent from a year ago.</p>
+<p>Maine said MCI One, a service package on one bill, has no sign-on bonus but half of new users take the Internet service. MCI One users are five times as likely to take cellular and calling cards than when services are billed separately.  </p>
+<p>It is not just a land war. MCI has cross promotions with Northwest Airlines, American Airlines and Delta Air Lines Inc, seeing overlaps between frequent fliers and heavy users of calling cards and wireless services.</p>
+<p>Offering free air miles is much cheaper than offering cash, but just as alluring to certain markets.</p>
+<p>&quot;Our line-up gives us access to 70 percent of frequent fliers,&quot; said Maine.</p>
+<p>Maine said that AT&amp;T and Sprint Corp have been mining their databanks too, and the whole industry will have a headstart against the regional Bells, which are much newer to the game, when markets are all open to competition.</p>
+<p>Despite all its data warehousing, MCI still makes errors.</p>
+<p>MCI said it is in the process of revamping its paging services, which resell the networks of Paging Network Inc and Mobile Telecommunications Technologies Corp after it discovered heavy churn.</p>
+<p>Paging customers in the third quarter fell to 342,000 from 474,000 the previous quarter, and are expected to be lower in the fourth quarter too before a recovery seen for 1997. -- New York Newsroom  212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

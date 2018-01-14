@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136188" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Stratus Q3 profit before charge vs loss.</title>
+<headline>Stratus Q3 profit before charge vs loss.</headline>
+<dateline>MARLBORO, Mass. 1996-10-23</dateline>
+<text>
+<p>(Financial summary follows)</p>
+<p>			Consolidated Statements of Income</p>
+<p>			   (in thousands, except per share amounts)</p>
+<p>			     Third Quarter Ended  Nine Months Ended</p>
+<p>				  9/29/96   10/1/95  9/29/96  10/1/95</p>
+<p>Revenues:</p>
+<p> Product sales	     $101,618   $99,509 $282,256 $271,845</p>
+<p> Service			 48,392    51,234  150,980  147,717</p>
+<p>   Total revenues	   150,010   150,743  433,236  419,562</p>
+<p>Cost of sales:  </p>
+<p> Product cost of sales     55,117    49,949  150,949  132,983</p>
+<p> Service expense	     29,094    28,837   91,634   82,336</p>
+<p>   Total cost of sales     84,211    78,786  242,583  215,319</p>
+<p> Gross profit		  65,799    71,957  190,653  204,243</p>
+<p>Operating expenses:</p>
+<p> Research and development  19,439    21,928   59,310   62,721</p>
+<p>Selling, general and</p>
+<p>     administrative	  33,726    40,503   98,436  120,909</p>
+<p> Restructuring charge(a)(b)   ---    24,500    4,623   24,500</p>
+<p>Total operating expenses</p>
+<p>				   53,165    86,931  162,369  208,130</p>
+<p>equivalents outstanding</p>
+<p>				   23,816    23,066   23,719   23,836</p>
+<p>Net income (loss) per</p>
+<p>    common share		 0.45    (0.40)     1.09     0.14</p>
+<p>(a)  The results of operations for the nine months ended September 29, 1996 include a one-time charge of $4.6 million for the cost of restructuring the Company's software business. Excluding this charge, earnings per share for the nine months ended September 29, 1996 would have been $1.24.</p>
+<p>(b)  The results of operations for the third quarter and nine months ended October 1, 1995 include a one-time restructuring charge of $24.5 million for the cost of reducing the Company's worldwide workforce and consolidating facilities.</p>
+<p>Prior to the charge, earnings per share for the third quarter and nine months ended October 1, 1995 would have been $0.45 and $0.96, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

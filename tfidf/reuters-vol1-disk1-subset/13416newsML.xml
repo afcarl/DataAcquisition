@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13416" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Olympic Financial stock jumps on news of possible buyer.</title>
+<headline>Olympic Financial stock jumps on news of possible buyer.</headline>
+<dateline>CHICAGO</dateline>
+<text>
+<p>The stock of Olympic Financial Ltd. jumped nearly 29 percent Monday after the nation's largest independent provider of auto financing said a buyer was interested in acquiring the company.</p>
+<p>Olympic rose $5125 to $22.75 in afternoon trading on the New York Stock Exchange.</p>
+<p>At the same time, the Minneapolis-based company said the company's chairman, president, chief executive and board member Jeffrey Mack resigned.</p>
+<p>In an earlier statement, the company said that Mack &quot;was terminated&quot; due to what it called &quot;philosophical differences with the board.&quot;</p>
+<p>Olympic Financial did not indentify the potential buyer but analysts said the company has received an offer, possibly from a regional bank or a financial services concern.</p>
+<p>&quot;The obvious thought is that someone has made a good offer,&quot; said Bob Ollech, analyst at Principal Financial.</p>
+<p>The company, which buys, sells and services retail instalment contracts for new and used automobiles, said that it had appointed Warren Kantor, a board member, as chairman of the executive committee.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134356" id="root" date="1996-10-22" xml:lang="en">
+<title>usa: RESEARCH ALERT - Vencemos started.</title>
+<headline>RESEARCH ALERT - Vencemos started.</headline>
+<text>
+<p>-- Bear Stearns said on Tuesday it had started coverage of Corporacion Venezolana de Cementos, or Vencemos, with a neutral rating at a price of $2.76 a local share.</p>
+<p>-- Analysts Sobani Warner and Daniel Altman wrote in a report, &quot;We believe the stock is fairly valued up to $3.50 (the average of the results using four valuation techiques).</p>
+<p>&quot;In our opinion, given the low liquidity in the shares and the high degree of market volatility, the potential for such margin upside may not warrant aggressively chasing the stock at current price levels.&quot;</p>
+<p>-- Vencemos is a a 63.4-percent owned subsidiary of Mexico's Cemex SA.</p>
+<p>-- Wall Street desk, (212) 859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

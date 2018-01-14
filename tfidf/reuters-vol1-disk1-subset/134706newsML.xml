@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134706" id="root" date="1996-10-22" xml:lang="en">
+<title>DUBAI: GCC chief arrives in UAE to prepare for summit.</title>
+<headline>GCC chief arrives in UAE to prepare for summit.</headline>
+<dateline>DUBAI 1996-10-22</dateline>
+<text>
+<p>The head of the Gulf Cooperation Council (GCC) arrived in the United Arab Emirates on Tuesday as part of regional tour to prepare for the next Gulf Arab summit, set to be held in Qatar on December 7.</p>
+<p>GCC Secretary-General Jameel Hujilan, who flew in from Muscat, met Minister of State for Finance and Industrial Affairs Ahmed bin Humaid al-Tayer, the UAE's official news agency Wam said.</p>
+<p>Both men discussed economic and other issues to be debated at the summit, it added.</p>
+<p>Hujilan's four-nation tour, which began in Doha last week, comes amid border rows and political differences within the GCC, which also groups Saudi Arabia, Bahrain, Qatar and Kuwait.</p>
+<p>Hujilan is trying to find a compromise to convince Bahrain's ruler to attend the summit, diplomats said.</p>
+<p>Bahrain and Qatar are locked in a territorial dispute over a cluster of barren reefs and islands which are potentially rich in oil and gas. They include Hawar islands, which have been controlled by Bahrain since the 1930s.</p>
+<p>Bahrain has threatened to boycott the summit in protest against Qatar's failure to withdraw a case it has taken to the International Court of Justice to settle the dispute.</p>
+<p>Qatar said it would only withdraw the case from the world court in the Hague if Saudi Arabia's mediation succeeded in settling the long-standing border row.</p>
+<p>Qatar asked the court in 1991 to settle the problem. The court decided in January it had jurisdiction and is expected to produce a verdict by the end of this year.</p>
+<p>Some diplomats said Hujilan feared Manama's absence from the meeting, expected to prove a watershed in the history of the GCC, would set a precedent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

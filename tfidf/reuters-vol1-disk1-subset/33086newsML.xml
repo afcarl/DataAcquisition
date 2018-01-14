@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33086" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PSE says to delist Latex, Thermwood debt.</title>
+<headline>PSE says to delist Latex, Thermwood debt.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>The Pacific Stock Exchange (PSE) said on Wednesday it planned to delist the common stock and warrants of Latex Resources Inc.</p>
+<p>It also said it would delist the 12-1/2 percent convertible subordinated debentures due February 25, 2003, of Thermwood Corp.</p>
+<p>The exchange said Latex Resources has failed to comply with its minimum share bid price. The stock last traded on April 16 and closed at 1/2.  </p>
+<p>The PSE said Thermwood has failed to comply with its minimum requirements for principal amount outstanding and beneficial holders.</p>
+<p>It said the delistings are subject to approval by the U.S. Securities and Exchange Commission.</p>
+<p>--Chicago Derivatives desk, (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34350">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

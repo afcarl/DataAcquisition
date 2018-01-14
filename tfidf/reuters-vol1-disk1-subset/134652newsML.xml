@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134652" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: UK raw cane sugar imports for refining down in Aug.</title>
+<headline>UK raw cane sugar imports for refining down in Aug.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>UK raw cane sugar imports in tonnes issued by UK Customs -</p>
+<p>For refining (solid).</p>
+<p>			    Aug	  Jul    Jan/Aug 1996</p>
+<p>  TOTAL		  98,099     99,450     791,636</p>
+<p>  Tanzania		  nil	  nil	12,272</p>
+<p>  Mauritius	    47,350	  nil     219,780</p>
+<p>  Zimbabwe		  nil     31,350	31,350</p>
+<p>  Swaziland	    14,000     15,250	57,250</p>
+<p>  Belize		 16,249     13,450	43,999</p>
+<p>  St.Kitts, Nevis	 nil	  nil	 6,300</p>
+<p>  Jamaica		   nil	  nil     125,226</p>
+<p>  Barbados		  nil	  nil	49,610</p>
+<p>  Trinidad &amp; Tobago     nil	  nil	46,297</p>
+<p>  Guyana		    nil	  nil	78,985</p>
+<p>  China		     nil	  nil	   nil</p>
+<p>  Fiji		   20,500     39,400     120,564</p>
+<p>Other raw cane sugar not for refining (solid).</p>
+<p>  TOTAL		   2,489	2,593	40,231</p>
+<p>  Reunion		    80	  563	 3,473</p>
+<p>  Mauritius	     1,787	1,764	20,216</p>
+<p>  Malawi		    500	  nil	 8,400</p>
+<p>  South Africa	    100	  nil	   300</p>
+<p>  Swaziland		 nil	  240	   740</p>
+<p>  Barbados		  nil	  nil	 4,011</p>
+<p>  Trinidad &amp; Tobago     nil	  nil	 2,425</p>
+<p>  India		     nil	    8	   580</p>
+<p>  Sri Lanka		 nil	  nil	     2</p>
+<p>  China			14	  nil	    52</p>
+<p>  Japan		     nil	  nil	   nil</p>
+<p>  U.S.A.			6	   16	    30</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

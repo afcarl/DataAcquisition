@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32000" id="root" date="1996-09-04" xml:lang="en">
+<title>INDONESIA: Indonesian rupiah little changed, data ignored.</title>
+<headline>Indonesian rupiah little changed, data ignored.</headline>
+<dateline>JAKARTA 1996-09-04</dateline>
+<text>
+<p>The Indonesian rupiah was little changed in late trading on Wednesday as the release of the country's latest economic data was largely ignored, dealers said.</p>
+<p>&quot;The announcement of the latest economic indicators failed to have much impact as the figures had been expected,&quot; one United States bank dealer said.</p>
+<p>Indonesia announced that the consumer price index (CPI) rose 0.27 percent month-on-month in August compared to 0.68 percent in July and 0.32 percent in August 1995.  </p>
+<p>The government also announced that the trade surplus in the first six months of 1996 rose to $2.29 billion from $2.00 billion in January-June 1995.</p>
+<p>The country posted a trade surplus of $193.4 million in June this year against a surplus of $203.1 million in May.</p>
+<p>Spot rupiah was last at 2,344.40/44.60, compared with an opening of 2,343.50/44.50.</p>
+<p>The dealer said the dollar-rupiah rate was likely to be between 2,344.50 and 2,345.00 on Thursday.</p>
+<p>Today and tomorrow was last at 2,343.25/2,343.70 and 2,344.00/44.50 respectively.  </p>
+<p>Tom/next was at 0.20/0.35 from 0.50/0.60 points.</p>
+<p>One-month swap was at 17.25/17.75, two at 34.00/35.00, three at 52.50/52.75 and six at 104.00/105.00 points.</p>
+<p>Dealers said news reports of a second missile attack on Iraq by the United States on Wednesday did not have much impact on the market.</p>
+<p>The central bank set its intervention rate at 2,342/2,460 and the conversion rate at 2,342/2,388 on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32360" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: CNP-Assurances turnover up 34.6 percent.</title>
+<headline>CNP-Assurances turnover up 34.6 percent.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>CNP-Assurances said on Wednesday that first half turnover rose 34.6 percent to 53.3 billion francs from 39.6 billion in the corresponding year earlier period.</p>
+<p>CNP said life insurance contributed the lion's share of turnover -- 89.6 percent.</p>
+<p>It said the turnover figures confirmed its position as the top life insurer in France. It said the rise in life insurance turnover was due partly to transfers of savings from money market vehicles and other instruments.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

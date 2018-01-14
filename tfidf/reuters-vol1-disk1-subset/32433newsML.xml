@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32433" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: French capital markets closing report.</title>
+<headline>French capital markets closing report.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>French bond and PIBOR futures ended higher after a calm day of low trading volume in which market focus turned to Friday's U.S. August jobs report.</p>
+<p>The franc weakened after government figures showed that France gross domestic product (GDP) shrank 0.4 percent in the second quarter. The report stirred fears about France's ability to meet criteria to take part in a single European currency at its launch in 1999.</p>
+<p>&quot;It's wait and see on the U.S. employment report in a market that's capped and seems to expect the scenario of a rise in the fed funds rate,&quot; said Amar Douhane, analyst at Fimat in Paris.  </p>
+<p>Douhane said he does not think the U.S. Federal reserve will raise the fed funds rate at its September 24 Federal Open Markets Committee (FOMC) meeting.</p>
+<p>A majority of U.S. economists in a Reuter poll said they believed the Fed will raise rates at its November FOMC meeting.</p>
+<p>Francois-Xavier Chauchat, market economist at BNP, said U.S. markets are expecting a 50 basis point hike at the September meeting, but that they will not get such a rate rise.</p>
+<p>&quot;We are not at all in an urgent situation for the Fed today,&quot; he said. &quot;Barring a major accident on Friday, the Fed will not raise rates.&quot;  </p>
+<p>U.S. economists in a Reuter poll are expecting on average non-farm payrolls to increase by 244,000 in August. They see the unemployment rate falling to 5.3 percent from 5.4 percent and expect average hourly earnings to rise 0.3 percent.</p>
+<p>Chauchat said that if payrolls rose by more than 300,000, the Fed might move to raise rates.</p>
+<p>At 1510 GMT the franc was trading at 3.4277 per mark after weakening earlier to 3.4293 per mark.</p>
+<p>-- Paris Newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

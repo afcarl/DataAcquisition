@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136092" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Chemfab sees record sales, earnings FY97.</title>
+<headline>Chemfab sees record sales, earnings FY97.</headline>
+<dateline>MERRIMACK, N.H. 1996-10-23</dateline>
+<text>
+<p>Chemfab Corp said fiscal 1997 should be a year of solid financial performance for the company with record sales and earnings for the full year.</p>
+<p>Chemfab reported earnings for the first quarter ended September 29 of $0.21 a share, compared to $0.17 a share the previous first quarter.</p>
+<p>The company said that overall industrial and fabricated product sales and order entry remain strong and the outlook for full year improvement in gross profit margins and for strong operating cash flows is good.</p>
+<p>It said that although architectural product sales are expected to be down versus last year, fiscal 1997 should be a year of record sales and earnings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MERRIMACK, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

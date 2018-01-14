@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135706" id="root" date="1996-10-23" xml:lang="en">
+<title>POLAND: SOCCER-POLISH FIRST DIVISION SOCCER RESULTS/STANDINGS.</title>
+<headline>SOCCER-POLISH FIRST DIVISION SOCCER RESULTS/STANDINGS.</headline>
+<dateline>WARSAW 1996-10-23</dateline>
+<text>
+<p>Results of Polish league soccer</p>
+<p>matches on Wednesday:</p>
+<p> Zaglebie Lubin     0   Odra Wodzislaw    1</p>
+<p> Rakow Czestochowa  2   Lech Poznan	 0</p>
+<p> Stomil Olsztyn     4   Polonia Warszawa  1</p>
+<p> Amica Wronki	 0   Sokol Tychy	 0</p>
+<p> GKS Belchatow	2   Hutnik Krakow     2</p>
+<p> Legia Warszawa     2   Wisla Krakow	1</p>
+<p> GKS Katowice	 1   Slask Wroclaw     1</p>
+<p> LKS Lodz	     0   Ruch Chorzow	0</p>
+<p>Played on Tuesday:</p>
+<p> Widzew Lodz	  3   Gornik Zabrze     0</p>
+<p>Standings (tabulate under played, won, drawn, lost, goals</p>
+<p>for, goals against, points):</p>
+<p> Legia Warszawa     13   9   2   2   27   12   29</p>
+<p> Widzew Lodz	  13   8   4   1   25    7   28</p>
+<p> GKS Katowice	 13   6   6   1   20   12   24</p>
+<p> Amica Wronki	 13   7   3   3   17   14   24</p>
+<p> Lech Poznan	  13   6   2   5   17   17   20</p>
+<p> Odra Wodzislaw     13   5   3   5   20   20   18</p>
+<p> Wisla Krakow	 13   5   3   5   12   12   18</p>
+<p> Hutnik Krakow	13   5   3   5   14   15   18</p>
+<p> Rakow Czestochowa  13   5   3   5   12   14   18</p>
+<p> Sokol Tychy	  13   5   3   5   17   21   18</p>
+<p> Stomil Olsztyn     13   4   3   6   20   20   15</p>
+<p> GKS Belchatow	13   4   3   6   17   18   15</p>
+<p> Polonia Warszawa   13   4   3   6   14   21   15</p>
+<p> Zaglebie Lubin     13   3   4   6   15   20   13</p>
+<p> Slask Wroclaw	13   3   3   7   12   18   12</p>
+<p> LKS Lodz	     13   2   6   5   14   18   12</p>
+<p> Gornik Zabrze	13   3   3   7   15   22   12</p>
+<p> Ruch Chorzow	 13   2   5   6   10   17   11</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

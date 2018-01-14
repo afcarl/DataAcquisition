@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133989" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BoF's Trichet says France can sustain deficit cuts.</title>
+<headline>BoF's Trichet says France can sustain deficit cuts.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Bank of France governor Jean-Claude Trichet said on Tuesday that he was confident that France would be able to sustain its deficit reduction efforts.</p>
+<p>&quot;You need to get a sustainable position. You need not only to be in 1997 under three percent but also in 1998 and 1999 and so forth,&quot; Trichet said, referring to the Maastricht Treaty criterion which specifies that public deficits must not exceed three percent of gross domestic product for countries participating in a single European currency.</p>
+<p>&quot;What is very, very important of course is that strategies towards reducing fiscal imbalances are pursued in the medium and long run, which is the position of the French government, which we have encouraged of course to pursue this medium and long term policy,&quot; Trichet said in an interview with Reuters Financial Television.</p>
+<p>&quot;So I am very confident in this respect that the sustainble position of the fiscal position in France would be observed,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25760" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: SOCCER-BECK FINALLY FREE TO PLAY FOR MIDDLESBROUGH.</title>
+<headline>SOCCER-BECK FINALLY FREE TO PLAY FOR MIDDLESBROUGH.</headline>
+<dateline>LONDON 1996-08-31</dateline>
+<text>
+<p>Denmark striker Mikkel Beck is free to play for English premier league Middlesbrough after winning his freedom of contract battle with former team Fortuna Cologne.</p>
+<p>The German second division club had claimed a year's option on Beck and demanded a fee for the player who has trained with Middlesbrough since playing for his country in the European championship finals in England last June.</p>
+<p>Middlesbrough refused to pay, expecting to sign Beck without a fee under the Bosman ruling, by which the European Court decided last year that UEFA transfer fee rules infringed European Union law.</p>
+<p>Faced with the threat of costly legal action, Fortuna Cologne have backed down and given up any claim to a fee.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

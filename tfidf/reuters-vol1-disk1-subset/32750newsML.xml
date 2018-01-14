@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32750" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: 3 D Systems to acquire Keltool Inc.</title>
+<headline>3 D Systems to acquire Keltool Inc.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>3D Systems Corp said Wednesday it entered into a definitive agreement to acquire the assets of Keltool Inc of St. Paul, Minn.</p>
+<p>Keltool produces steel tooling for plastic injection molding machines based on a patented process and involving 3D Systems' rapid phototyping systems.</p>
+<p>The purchase price will be $1.737,000. In addition, Keltool will be issued a warrant to buy 50,000 shares of 3D Systems common stock at an exercise price of $14.75 per share.</p>
+<p>In connection with the acquisition, Wayne Duescher, the sole Keltool stockholder, will enter into a five-year agreement not to compete.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

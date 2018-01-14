@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15585" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Stocks rise as tech shares, bonds rally.</title>
+<headline>Stocks rise as tech shares, bonds rally.</headline>
+<dateline>NEW YORK 1996-08-27</dateline>
+<text>
+<p>Stocks rose Tuesday as technology shares rebounded, and the bond market rallied on bargain-hunting after a three-session sell-off.</p>
+<p>The dollar closed mixed against major currencies amid growing belief that interest rates in Europe and Japan will soon rise, dealers said.</p>
+<p>The Dow Jones industrial average ended up 17.38 points at 5,711.27. In the broader market, advancing issues beat declines 1,387 to 899 on moderate volume of 306 million shares on the New York Stock Exchange.</p>
+<p>In the bond market, the 30-year Treasury rose 10/32, or $3.125 on a $1,000 bond, lowering its yield to 6.97 percent from 7.00 percent at Monday's close.</p>
+<p>&quot;Bonds rallied on bargain-hunting after Monday reaching the critically important seven percent level,&quot; said Philip Orlando, chief investment officer at Value Line Asset Management.</p>
+<p>&quot;But bonds are really counter-intuitive to the data we saw today,&quot; he said.</p>
+<p>The bonds rose despite news that suggested that the economy will strengthen in the months ahead, which may encourage the Federal Reserve to raise interest rates to slow economic growth.</p>
+<p>The Conference Board, a business research group, reported that its index of consumer confidence rose to a six-year high of 109.4 in August from a revised reading of 107.0 in July.</p>
+<p>&quot;Confidence levels about both current and future business conditions are higher now than at any time since early 1990,&quot; said Lynn Franco, associate director of the board's consumer research centre.</p>
+<p>Consumers' expectations for the next six months also jumped last month, with the index at 97.7 from a revised 95.0 in July and the current conditions component rose to 126.9 from a revised 125.0 in July.</p>
+<p>The index is based on a survey of 5,000 households.</p>
+<p>Meanwhile, the technology-laden Nasdaq Composite index surged 9.80 points to 1,149.02.</p>
+<p>&quot;Regardless of whatever the stage of the economy we're in, smaller-cap earnings are far more volatile than the primary market,&quot; said Scott Bleier, chief investment strategist at Prime Charter Ltd.</p>
+<p>The dollar rose to 1.4789 German marks from 1.4788 marks late Monday. After failing to break through a key technical barrier at 108 Japanese yen, the dollar closed unchanged at 107.71 yen.</p>
+<p>In commodities, lumber prices rose to 2-1/2-year highs and cotton prices rallied on worries that Hurricane Edouard may threaten the eastern and southeastern United States in coming days.</p>
+<p>At the Chicago Mercantile Exchange, September lumber closed $3.00 higher at $413.90 per thousand board feet after rising to a new contract high at $414.50, the highest lumber futures price since March 11, 1994.</p>
+<p>December cotton closed 2.31 cents a pound higher at 76.76 cents.</p>
+<p>At the Chicago Board of Trade, grain prices were led higher by soybeans, which are planted and harvested later than corn and faces a greater threat from frost if the weather turns colder next month. The summer has already been one of the coolest on record.</p>
+<p>November soybeans closed 6-1/4 cents a bushel higher at $7.95-3/4 and December corn rose 1 cent to close at $3.48-3/4 as bushel.</p>
+<p>Overseas, London's FTSE 100 closed 1.8 points lower at 3,905.7. In Tokyo, the key Nikkei 225 average finished up 26.53 points at 20,910.27.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

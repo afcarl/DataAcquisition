@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131732" id="root" date="1996-10-21" xml:lang="en">
+<title>BELGIUM: BELGIAN UCO SELLS UNIT TO LOW &amp; BONAR.</title>
+<headline>BELGIAN UCO SELLS UNIT TO LOW &amp; BONAR.</headline>
+<dateline>BRUSSELS 1996-10-21</dateline>
+<text>
+<p>Belgian textile group UCO NV has sold its UCO Technical Fabrics unit to Belgian-based Bonar Phormium, a unit of Scottish group Low &amp; Bonar, UCO said in a statement on Monday.</p>
+<p>It said Bonar Phormium paid about 450 million Belgian francs for the acquisition.</p>
+<p>UCO Technical Fabrics had 1995 turnover of 969 million Belgian francs, UCO said.</p>
+<p>UCO said Low &amp; Bonar had 1995 turnover of 431 million pounds (21.70 billion Belgian francs) in Europe and the U.S. It has two production units for polypropylene thread and tissue in Belgium.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I48300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

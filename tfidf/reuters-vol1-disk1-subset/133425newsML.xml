@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133425" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: Gunmen kill lawyer probing death squads in Brazil.</title>
+<headline>Gunmen kill lawyer probing death squads in Brazil.</headline>
+<dateline>BRASILIA 1996-10-21</dateline>
+<text>
+<p>A human rights lawyer who was investigating a series of murders by a suspected death squad in northeastern Brazil was shot to death by unknown gunmen, officials said on Monday.</p>
+<p>Gilson Nogueira, 34, was killed by machine-gun fire as he left his home in the city of Natal, Rio Grande do Norte state, on Sunday, a police spokesman said.</p>
+<p>Amnesty International condemned the killing and said he and colleagues had received repeated death threats connected with their investigations into a suspected death squad in Natal known as the Golden Boys.</p>
+<p>&quot;The Brazilian human rights movement has lost a courageous and committed activist,&quot; Amnesty said in a statement. &quot;The federal government now has the responsibility to ensure that Gilson Nogueira's death does not result in the impunity that he fought against.&quot;</p>
+<p>Justice Minister ordered federal police officers be sent to Natal to take part in the investigations, a ministry spokesman said.</p>
+<p>&quot;This is a local crime which should be dealt with by local police but given that a human rights activist is involved, federal police will investigate,&quot; he said.</p>
+<p>The spokesman for Rio Grande do Norte police said three to six gunmen were believed to have taken part in the killing and police were trying to trace a vehicle the gang used for a getaway and then set on fire.</p>
+<p>&quot;We have no idea who was responsible,&quot; he said.</p>
+<p>Gilson had worked since May last year with a special commission set up by the Rio Grande do Norte state attorney to look into possible connections between the death squad and local authorities, Amnesty said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31783" id="root" date="1996-09-04" xml:lang="en">
+<title>CHILE: Codelco seeking $500 million syndicated loan.</title>
+<headline>Codelco seeking $500 million syndicated loan.</headline>
+<dateline>SANTIAGO 1996-09-04</dateline>
+<text>
+<p>State-owned copper corporation Codelco will receive offers from banks Thursday for a $500 million syndicated loan to finance new projects, officials for the company said.</p>
+<p>Codelco will make a decision, probably within about 10 days, on the basis on which syndicated bank group offers the most favorable interest rate, said Codelco president Juan Villarzu and vice president for finance, Marcos Lima.</p>
+<p>Codelco hopes to win the loan with a rate of no more than 0.25 or 0.30 percent over Libor, which would make it the lowest rate ever obtained by a Chilean company. Its loan portfolio is now at about 0.80 percent above Libor, they said.</p>
+<p>The bank also plans to shift part of its short-term debt into the long-term category, easing its financing commitments in the short term, Villarzu and Lima told a news conference.</p>
+<p>The company's total debt now stands at about $600 million, about $400 million of which is short-term.</p>
+<p>--Paulina Modiano, Santiago newsroom +56-2-699-5595 x211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

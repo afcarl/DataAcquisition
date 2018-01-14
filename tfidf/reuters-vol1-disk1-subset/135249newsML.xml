@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135249" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Daiwa Sec says non-bank unit must write off loans.</title>
+<headline>Daiwa Sec says non-bank unit must write off loans.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Daiwa Securities Co Ltd said on Tuesday that its non-bank affiliate needs to write off more than 100 billion yen worth of problem loans.</p>
+<p>Daiwa Securities wants to provide support to the non-bank affiliate as soon as possible in the current business year.  </p>
+<p>Daiwa, Japan's second biggest brokerage, will use profits from sales of stock to give this financial support, as well as its internal reserves and current profits, a Daiwa executive told reporters.</p>
+<p>&quot;We are now working this (plan for financial support) out ... We are discussing this with the National Tax Agency and with accountants,&quot; he said.</p>
+<p>He also said the company plans to give the financial support on a lump-sum basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

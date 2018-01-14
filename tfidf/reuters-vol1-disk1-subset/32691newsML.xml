@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32691" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Etec Systems Inc Q4 net rises.</title>
+<headline>Etec Systems Inc Q4 net rises.</headline>
+<dateline>HAYWARD, Calif. 1996-09-04</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				 (Unaudited)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>					July 31,	     July 31,</p>
+<p>					1996    1995	1996     1995</p>
+<p>Revenue:</p>
+<p>  Products		     $38,957 $13,252  $112,940  $51,395</p>
+<p>  Services			 8,653   8,619    32,705   31,521</p>
+<p>				    47,610  21,871   145,645   82,916</p>
+<p>Cost of revenue:</p>
+<p>  Products			19,026   6,259    56,632   27,015</p>
+<p>  Services			 6,616   5,938    23,410   20,604</p>
+<p>				    25,642  12,197    80,042   47,619</p>
+<p> Gross profit		   21,968   9,674    65,603   35,297</p>
+<p>Operating expenses</p>
+<p>Research, development</p>
+<p>   and engineering	     5,411   3,545    17,402   10,497</p>
+<p>Write-off of in-process</p>
+<p>   technology acquired	    --	--     6,269	 --</p>
+<p>Selling, general and</p>
+<p>   administrative		6,296   4,203    21,269   13,397</p>
+<p>				    11,707   7,748    44,940   23,894</p>
+<p> Income from operations     10,261   1,926    20,663   11,403</p>
+<p> Interest expense		(362)   (869)   (1,824)  (4,238)</p>
+<p>Other income</p>
+<p>  (expense), net		   526     272     2,669	175</p>
+<p>Income before income tax</p>
+<p>provision (benefit),</p>
+<p>minority interest and</p>
+<p>  extraordinary items	 10,425   1,329    21,508    7,340</p>
+<p>Income tax provision</p>
+<p>  (benefit)		    (5,220)     689  (16,238)    2,289</p>
+<p>Minority interest in</p>
+<p>  earnings of subsidiary	  --     134	  --	527</p>
+<p>Income before</p>
+<p>  extraordinary items	 15,645     506    37,791    4,524</p>
+<p>Extraordinary gain (loss)</p>
+<p>on early extinguishment</p>
+<p>  of debt			  (630)   5,412     (930)    5,412</p>
+<p> Net income		     15,015   5,918    36,861    9,936</p>
+<p>Accretion of mandatorily</p>
+<p>redeemable convertible</p>
+<p>  preferred stock		   --     773     1,078    3,092</p>
+<p>Net income attributable</p>
+<p>  to Common Stockholders    15,015   5,145    35,783    6,844</p>
+<p>Per share data:</p>
+<p>Income before</p>
+<p>  extraordinary items	   0.78    0.03	2.07     0.31</p>
+<p>Extraordinary gain</p>
+<p>   (loss)			 (0.03)    0.37    (0.05)     0.37</p>
+<p>  Net income			0.75    0.40	2.02     0.68</p>
+<p>Number of weighted average</p>
+<p>common equivalent shares</p>
+<p>used in per share</p>
+<p>  calculation		   19,923  14,594    18,296   14,594</p>
+<p>NOTE: Net income in the latest fourth quarter includes a $7.6 million favorable adjustment in a valuation allowance and an extraordinary charge of $630,000 attributed to the write-off of unamortized debt issuance costs resulting from the early issuance of debt.</p>
+<p>Year-ago fourth quarter net income includes an extraordinary gain of $5.4 million resulting from the conversion of debt into equity.</p>
+<p>Excluding extraordinary items, net income on a comparable basis was $8.1 million of $0.40 per share in the 1996 fourth quarter, and $506,000 or $0.03 per share in the 1995 fourth quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAYWARD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

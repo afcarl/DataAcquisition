@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31972" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: San Teh first half net up 11.48 pct.</title>
+<headline>San Teh first half net up 11.48 pct.</headline>
+<dateline>SINGAPORE 1996-09-04</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>(in millions of Singapore dollars unless stated)</p>
+<p>    Net profit			 7.58     vs    6.80</p>
+<p>    Group shares (cents)	   3.24     vs    3.24</p>
+<p>    Turnover			  37.12     vs   35.00</p>
+<p>    Other income		     0.23     vs    0.67</p>
+<p>    Interest expense		 0.33     vs    0.19</p>
+<p>    Associates			 0.75     vs   (0.03)</p>
+<p>    Pretax			     8.92     vs    8.37</p>
+<p>    Tax				  1.33     vs    1.51</p>
+<p>Note- Rubber keypad maker San Teh Ltd said its performance was slightly affected by the slowdown in the consumer electronics sector. But profit from the sale of a piece of industrialised land through its associate boosted the bottomline.</p>
+<p>-- Singapore Newsroom 65-8703080 jn sbn</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31643" id="root" date="1996-09-04" xml:lang="en">
+<title>SLOVAKIA: Slovak PM says H1 1996 GDP up 7.1 to 7.2 pct.</title>
+<headline>Slovak PM says H1 1996 GDP up 7.1 to 7.2 pct.</headline>
+<dateline>PIESTANY, Slovakia 1996-09-04</dateline>
+<text>
+<p>Slovak Prime Minister Vladimir Meciar on Wednesday said real gross domestic product (GDP) rose between 7.1 to 7.2 percent in the first half, after 7.3 percent growth in the first quarter.</p>
+<p>&quot;GDP rose 7.1 to 7.2 percent in the first half of this year,&quot; Meciar told a news conference in the western Slovak spa town after the first day of four-day meeting of economic and financial experts.  </p>
+<p>On Tuesday the Slovak government laid down the basic principles for the next year's state budget when it anticipates GDP growth of at least five percent.</p>
+<p>The government statistical bureau had forecast 1996 real GDP to rise 7.1 percent, after an increase of 7.4 percent in 1995.</p>
+<p>-- Jan Krcmar, Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PIESTANY, Slovakia"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

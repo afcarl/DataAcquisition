@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132132" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Japan business chief urges bold reforms after poll.</title>
+<headline>Japan business chief urges bold reforms after poll.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>The head of Japan's main business lobby group said on Monday he hopes the administration to be formed following Sunday's general election will make sweeping reforms of the bureaucracy and the tax and budget systems.</p>
+<p>&quot;We hope that the new administration to be formed later will be stable and take strong initiatives. Under the administration, we would like to see bold reforms being carried out in the areas of bureaucracy, budget and taxation as promised earlier to meet demand at home and abroad,&quot; said Shoichiro Toyoda, chairman of the Federation of Economic Organisations (Keidanren).  </p>
+<p>Prime Minister Ryutaro Hashimoto's Liberal Democratic Party (LDP) was the biggest winner, but its 239 seats were 12 short of the 251 it needed to govern alone in the 500-seat Lower House. It is now seeking to form a new coalition.</p>
+<p>&quot;The LDP's improved showing was seen as suggesting that voters were seeking stable administration. This could mean that voters appreciated the LDP's steady results in domestic and foreign policy affairs,&quot; Toyoda said in a statement. He also supported the LDP's pledge to raise the consumption tax.</p>
+<p>Toyoda also expressed his regret over the low voter turnout of just below 60 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31506" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Alberta Ag details harvest pace, yield forecast.</title>
+<headline>Alberta Ag details harvest pace, yield forecast.</headline>
+<dateline>WINNIPEG 1996-09-04</dateline>
+<text>
+<p>Alberta Agriculture on Wednesday detailed the rate of harvest progress and estimated yield potential on the six major grains and oilseeds.</p>
+<p>Crop	    Yield (bu/ac)  Swathed (pct)  Combined (pct)</p>
+<p>spring wheat  39.9	     16		 10</p>
+<p>winter wheat  38.0	     76		 83</p>
+<p>oats	    73.9	     15		  8</p>
+<p>barley	  62.8	     33		 14</p>
+<p>fall rye	39.0	     82		 85</p>
+<p>peas	    33.0	     35		 24</p>
+<p>canola	  25.9	     45		 17</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133848" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. home-ownership rate rises to highest in 15 years.</title>
+<headline>U.S. home-ownership rate rises to highest in 15 years.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>The U.S. home-ownership rate climbed to its highest level in 15 years in the third quarter as 66.3 million American households now own their own homes, the government announced on Tuesday.</p>
+<p>It said the percentage of American households that own their own homes rose to 65.6 percent in the third quarter from 65.4 percent in the second.</p>
+<p>That marked the tenth straight quarterly rise and brought the homeownership rate to its highest level since the third quarter of 1981, when it also stood at 65.6 percent.</p>
+<p>President Clinton immediately took credit for the rise and pledged further measures to boost home-ownership if re-elected to another four-year term on Nov. 5.</p>
+<p>&quot;My administration has worked hard to help more Americans own their own home,&quot; Clinton said. &quot;Now we must do more.&quot;</p>
+<p>Campaign officials for Bob Dole had no immediate comment on the home-ownership figure, a relatively obscure economic statistic that has been elevated in importance by the Clinton administration during this election year.</p>
+<p>White House Chief Economic Adviser Laura Tyson told reporters that the rise in home-ownership resulted from the strong economy and low level of interest rates under Clinton.</p>
+<p>However, Republican lawmakers in the past have argued that it was their focus on balancing the budget that has kept long-term interest rates, including mortgage rates, down.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

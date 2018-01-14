@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134024" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: French national assembly passes part of budget.</title>
+<headline>French national assembly passes part of budget.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>Members of the French national assembly on Tuesday voted heavily in favour of approving the revenue-raising portion of the 1997 budget that aims to put the country on track to qualify for a single European currency.</p>
+<p>The lower house passed the measure by a vote of 431 to 95.</p>
+<p>Seven members of the ruling centre-right majority abstained -- one member of the senior RPR coalition partner and six members of the junior UDF partner. Socialists and communists voted against the measure.  </p>
+<p>Following the vote, national assembly members began examining the spending portion of the budget. They will vote on that on November 20, paving the way for examination of the budget by the Senate.</p>
+<p>If the Senate makes any changes, the final version must be approved by the national assembly.</p>
+<p>Finance Minister Jean Arthuis was able to resist most changes proposed by national asssembly members, but did give way on some items.</p>
+<p>At the end of the examination of the revenue-raising portion of the budget, the projected deficit for 1997 totalled 284.3 billion francs compared with 283.7 billion initially targeted -- 600 million francs higher than planned.</p>
+<p>The buget aims to reduce France's total public deficit next year to below three percent of gross domestic product in order to qualify for European monetary union, due to start on January 1, 1999.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

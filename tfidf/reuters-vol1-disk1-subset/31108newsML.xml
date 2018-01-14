@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31108" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: British police seek France's Dassault at air show.</title>
+<headline>British police seek France's Dassault at air show.</headline>
+<dateline>FARNBOROUGH, England 1996-09-04</dateline>
+<text>
+<p>British police said on Wednesday they went hunting at the Farnborough air show for French aviation executive Serge Dassault, target of an international arrest warrant over Belgian bribery allegations.</p>
+<p>Police confirmed that two officers from its extradition squad and two from the Ministry of Defence police visited the Dassault chalet at Britain's biggest air show on Tuesday afternoon.</p>
+<p>The spokesman said they were looking for Dassault and another senior executive of his company who was not named.</p>
+<p>&quot;We went in on information from the Belgian authorities. We searched to make sure they weren't there. They weren't and we left,&quot; a police spokesman told Reuters.</p>
+<p>The Belgian authorities have issued an international arrest warrant for Dassault as part of an inquiry into alleged bribery of government officials  for a defence contract.</p>
+<p>Dassault, chairman of France's fighter aircraft manufacturer that makes the Mirage and Rafale combat jets, has consistently denied any wrongdoing and said he would answer questions from the Belgian police but only in France.</p>
+<p>Dassault has attended every Farnborough air show for the past 50 years and he said in an interview before this year's aviation showcase: &quot;I wish all concerned the best success, fair weather as well as numerous and fruitful business contacts.&quot;</p>
+<p>A spokesman for Dassault confirmed the visit by police on Tuesday afternoon.</p>
+<p>&quot;They said that they were looking for somebody suspected of leaving a suspect object somewhere. They visited our chalet and then left. They asked no questions about Monsieur Dassault,&quot; the spokesman at the air show said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARNBOROUGH, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32429" id="root" date="1996-09-04" xml:lang="en">
+<title>SPAIN: BA increases cargo capacity ex-Madrid.</title>
+<headline>BA increases cargo capacity ex-Madrid.</headline>
+<dateline>MADRID 1996-09-03</dateline>
+<text>
+<p>British Airways Plc is preparing to replace narrowbodies with widebodied aircraft on one or two of its seven daily flights to London from Madrid, BA cargo manager Vicente Das said.</p>
+<p>&quot;There will be a 767 on at least one and probably two of the daily flights,&quot; Das told Reuters. &quot;We are waiting for confirmation from London,&quot; and this would mean a significant increase in cargo capacity.</p>
+<p>BA currently uses Boeing 757s, 737s and Airbus A320s on its Madrid flights and 767s only at weekends. A Boeing 757, for example, will typically carry between two and three tonnes of cargo, Das said, while a 767 can accommodate pallets and loads of 14 or 15 tonnes.</p>
+<p>BA's Spanish cargo business has been strong so far this financial year, Das said. The growth is in volume terms as prices have hardly changed.</p>
+<p>&quot;Revenues in August were 40 or 50 percent above those of the same period 1995 and prices are practically the same as last year,&quot; Das said.</p>
+<p>&quot;Business is much better than last year. There's been a rise in practically all the destinations where we operate.&quot;</p>
+<p>All cargo from Spain passes through BA's Heathrow hub for onward transfer. Besides Madrid, the airline has flights from Barcelona, Malaga, Valencia, Bilbao, Murcia and Jerez.</p>
+<p>Cargo traffic from the last two is practically non-existent but the major destinations provide a wide range of goods for air export. - Air Cargo Newsroom Tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

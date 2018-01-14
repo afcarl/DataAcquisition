@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134432" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Cone Mills Corp Q3 net turns to loss.</title>
+<headline>Cone Mills Corp Q3 net turns to loss.</headline>
+<dateline>GREENSBORO, N.C. 1996-10-22</dateline>
+<text>
+<p>13 Weeks Ended	 39 Weeks Ended</p>
+<p>			09-29-96    10-01-95  09-29-96     10-01-95</p>
+<p> Net Sales	 $  180,849  $ 231,699 $ 588,250    $ 690,856</p>
+<p>Selling and</p>
+<p>  administrative     20,694     22,075    64,201	 64,852</p>
+<p> Depreciation	   6,994	7,201    21,139	 21,603</p>
+<p>Loss (Gain) on sale</p>
+<p>  of division	     198	   --   (4,486)	     --</p>
+<p>			  180,049    219,911   563,063	654,343</p>
+<p> Income -- Operations   800     11,788    25,187	 36,513</p>
+<p>Income before Equity in Earnings (Losses ) of</p>
+<p>Unconsolidated Affiliates</p>
+<p>			  (1,696)	5,183     9,393	 16,883</p>
+<p>Equity in Earnings (Losses) of Unconsolidated</p>
+<p>    Affiliates	  (547)	  683     (749)	(8,255)</p>
+<p> Net Income (Loss)  (2,243)	5,866     8,644	  8,628</p>
+<p>Net to common shr holders</p>
+<p>   Net Income	 (2,963)	5,146     6,484	  6,516</p>
+<p> EPS - Fully Diluted  (.11)	  .19	 .24	    .24</p>
+<p> Wgtd avg shrs	27,416     27,530    27,454	 27,506</p>
+<p>		(amounts in thousands, except per share data)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENSBORO, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

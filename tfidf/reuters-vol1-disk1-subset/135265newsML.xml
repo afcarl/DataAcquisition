@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135265" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Sumitomo says to file fresh complaint on Hamanaka.</title>
+<headline>Sumitomo says to file fresh complaint on Hamanaka.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Sumitomo Corp said on Tuesday it planned in the future to file another formal legal complaint against its former copper trader Yasuo Hamanaka for breach of trust. It has already filed a complaint accusing him of forgery.</p>
+<p>It also said it had learned through an in-house investigation that Hamanaka was not acting for personal gain when he carried out unauthorised copper trades.  </p>
+<p>At a news conference in Tokyo, Sumitomo managing director Naoki Kuroda declined to name any foreign metal brokers involved in Hamanaka's alleged unauthorised trades and said the trading house planned no formal legal complaints against foreign brokers.</p>
+<p>&quot;We didn't find any evidence that would lead us to take formal legal action against foreign metal brokers,&quot; Kuroda said. He said Sumitomo filed the forgery complaint against Hamanaka on Sunday and that prosecutors formally received it on the same day.</p>
+<p>Tokyo prosecutors said on Tuesday they had arrested Hamanaka on forgery charges. Sumitomo fired Hamanaka in mid-June, blaming him for an estimated $2.6 billion in losses from unauthorised copper trades.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

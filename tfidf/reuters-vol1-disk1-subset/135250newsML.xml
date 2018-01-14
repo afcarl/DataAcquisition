@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135250" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's Tong Yang Nylon changes name.</title>
+<headline>S.Korea's Tong Yang Nylon changes name.</headline>
+<dateline>SEOUL 1996-10-22</dateline>
+<text>
+<p>Tong Yang Nylon Co said on Tuesday it had decided to change its name into Hyosung T&amp;C Co, effective on November 1, to better reflect the identity of its parent.</p>
+<p>Tong Yang, the core unit of the diversified Hyosung Group, is one of South Korea's largest nylon yarn producers.</p>
+<p>Hyosung Group has 16 member firms engaged in the textiles, foreign trading, telecommunications and chemical sectors, a spokesman for the group said.</p>
+<p>The other of the group's two units listed on the Seoul stock market is Hyosung Corp, a foreign trading firm.</p>
+<p>--Seoul Newsroom (822) 727 5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

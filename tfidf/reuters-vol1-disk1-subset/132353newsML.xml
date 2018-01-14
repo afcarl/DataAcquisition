@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132353" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: RESEARCH ALERT - Salomon '96 EPS view cut.</title>
+<headline>RESEARCH ALERT - Salomon '96 EPS view cut.</headline>
+<text>
+<p>-- Brown Brothers Harriman analyst Raphael Soifer said he cut his 1996 earnings estimate on Salomon Inc to $6.60 per share from $6.80.</p>
+<p>-- The move followed the release of Salomon's third-quarter earnings, which fell $0.40 short Brown Brothers' forecast. The result &quot;were bad, but not a disaster,&quot; Soifer said.</p>
+<p>--The analyst raised his fourth-quarter estimate to $1.20 from $1.00, citing improving market conditions.  </p>
+<p>-- He left unchanged his 1997 estimate of $4.75 per share but noted &quot;Salomon's quarterly earnings will continue to fluctuate wildly...and no quarterly EPS estimate is ever likely to enjoy a high confidence level.&quot;</p>
+<p>-- Soifer made no change to his market perform/hold rating on the shares.</p>
+<p>-- On the New York Stock Exchange, the stock was trading at 45, down 3-5/8, at 1340 EDT/1740 GMT Tuesday.</p>
+<p>-- Wall Street desk, 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

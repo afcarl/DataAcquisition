@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134786" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times business - Oct 22.</title>
+<headline>PRESS DIGEST - New York Times business - Oct 22.</headline>
+<text>
+<p>NEW YORK, Oct 22 - The New York Times reported the following business stories in its Tuesday edition:</p>
+<p>- Microsoft Corp reported fiscal first-quarter earnings that were higher than estimates made by Wall Street analysts with per share profit at $0.95.</p>
+<p>- IBM Corp reported solid third-quarter earnings due to good computer hardware sales and services with per share earnings at $2.45.</p>
+<p>- The private weather forecast industry is becoming big business as brokerage firms join airlines, truckers and farmers in seeking better forecasts.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136131" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Defiance Inc Q1 shr $0.11 vs $0.23.</title>
+<headline>Defiance Inc Q1 shr $0.11 vs $0.23.</headline>
+<dateline>CLEVELAND 1996-10-23</dateline>
+<text>
+<p>Three Months Ended</p>
+<p> Operations and Cash Flow		    9/30/96	9/30/95</p>
+<p> Net sales				    $22,067,000 $26,966,000</p>
+<p> Cost of goods sold			  17,629,000  21,239,000</p>
+<p> Selling and administrative expenses    2,877,000   3,003,000</p>
+<p>   Operating earnings			 1,561,000   2,724,000</p>
+<p> Net interest and other expense	     459,000     337,000</p>
+<p>   Earnings before income taxes	   1,102,000   2,387,000</p>
+<p> Income taxes				     392,000     849,000</p>
+<p>   Net earnings				   710,000   1,538,000</p>
+<p> Net earnings per common share		   0.11	  0.23</p>
+<p>Weighted average common shares outstanding</p>
+<p>						    6,581,672   6,785,247</p>
+<p> Cash dividends per share			  0.04	  0.04</p>
+<p> Depreciation and amortization	    1,738,000   1,215,000</p>
+<p> Capital expenditures			 2,132,000   3,565,000</p>
+<p> Financial Condition		     9/30/96	    6/30/96</p>
+<p> Current assets			 $25,430,000     $27,716,000</p>
+<p> Property - net			  40,202,000	39,516,000</p>
+<p> Goodwill				   5,059,000	 5,122,000</p>
+<p> Other assets			     2,935,000	 2,414,000</p>
+<p>   Total assets			  73,626,000	74,768,000</p>
+<p> Current liabilities		   17,002,000	18,179,000</p>
+<p> Long-term obligations		 18,059,000	18,134,000</p>
+<p> Deferred income taxes		  3,064,000	 3,017,000</p>
+<p> Stockholders' equity		  35,501,000	35,438,000</p>
+<p>Total liabilities and</p>
+<p>    stockholders' equity	     73,626,000	74,768,000</p>
+<p> Funded (interest-bearing) debt    23,035,000	23,185,000</p>
+<p> Debt to total capitalization ratio	 39%		 40%</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

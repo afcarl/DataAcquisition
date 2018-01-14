@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134662" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: Bankers Trust sets warrants on the S&amp;P 500 index.</title>
+<headline>Bankers Trust sets warrants on the S&amp;P 500 index.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Bankers Trust International plc says it has issued two million bull and bear warrants, in four equal tranches, on the S&amp;P 500 index. Joint lead manager is BT Asia Ltd.</p>
+<p> WARRANTS   RANGE	     PRICE	MAX PAYOUT	MATURITY</p>
+<p> BEAR 1     670-741	   $1.00	$2.00	     24.JAN.97</p>
+<p> BULL 1     685-752	   $1.00	$2.00	     24.JAN.97</p>
+<p> BEAR 2     649-760	   $1.00	$2.00	     25.APR.97</p>
+<p> BULL 2     675-771	   $1.00	$2.00	     25.APR.97</p>
+<p> PAYDATE	06.NOV.96		    MIN EXER LOT 100</p>
+<p>SPOT REFERENCE  710.52</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

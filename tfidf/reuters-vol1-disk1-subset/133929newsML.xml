@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133929" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Allied Group seeks 15 pct return on equity.</title>
+<headline>Allied Group seeks 15 pct return on equity.</headline>
+<dateline>DES MOINES 1996-10-22</dateline>
+<text>
+<p>Allied Group Inc said its annual goals include achieving 15 percent return on equity, double-digit premium growth and reducing the underwriting expense ratio 50 basis points.</p>
+<p>Allied Group said year-to-date, the return on equity was 13.9 percent and the underwriting expense ratio was down 80 basis points.</p>
+<p>In addition, premium growth was up 13.4 percent in the 1996 third quarter and 10.9 percent year to date, Allied Group said.</p>
+<p>From January to September, the company contracted $69.2 million in transfer business compared with $62.3 million for all of 1995.</p>
+<p>The number of AIDCO agencies, those agreeing to sell Allied personal lines exclusively, increased to 244 from 192 and the number of agencies enrolled in the Service Plus program rose to 427 from 299.</p>
+<p>The company said management is looking for $115 million in premium from emerging territories by December 31. They accounted for $84.8 million in the first nine months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

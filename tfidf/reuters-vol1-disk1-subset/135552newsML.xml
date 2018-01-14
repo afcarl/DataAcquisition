@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135552" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: Germany to add trading time for Telekom.</title>
+<headline>Germany to add trading time for Telekom.</headline>
+<dateline>FRANKFURT 1996-10-22</dateline>
+<text>
+<p>Germany's bourse plans to expand its trading hours during one week in November to accomodate the anticipated demand when telecommunications giant Deutsche Telekom's new shares begin trading, the stock exchange said Tuesday.</p>
+<p>The partial privatisation of the German telecommunications monopoly is Europe's largest ever stock issue and some 500 million new shares will be issued.</p>
+<p>To ready itself for heavy interest, Germany's bourse will extend its floor trading session by one and a half hours to end at 1500 local time and extend IBIS electronic share trading by two hours to 1900 local time, Werner Seifert, head of Deutsche Boerse AG said.</p>
+<p>The final price for the Telekom shares will be set on the weekend of November 16 and 17 and trading will begin in Germany and New York on November 18 and one day later in Tokyo.</p>
+<p>On Monday the company announced the price range for its huge share listing will be 25 to 30 marks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

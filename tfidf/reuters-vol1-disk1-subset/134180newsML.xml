@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134180" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: India's Kotak launches car finance with Ford.</title>
+<headline>India's Kotak launches car finance with Ford.</headline>
+<dateline>NEW DELHI 1996-10-22</dateline>
+<text>
+<p>Kotak Mahindra Primus Ltd (KMP), a joint venture between India's Kotak Mahindra Finance Ltd (KMFL) and Ford Credit International Inc., will launch car finance operations from November, company officials said on Tuesday.</p>
+<p>&quot;Significantly KMP would have the benefit of an established network of over 20 branches and about 30,000 customers that KMFL built over the last five years,&quot; KMP said in a statement.</p>
+<p>Ford Credit International Inc. is a subsidiary of Ford Motor Credit Co.</p>
+<p>KMP officials said that the venture will finance the cars made by global companies which have entered the Indian market, which is expected to double from 400,000 vehicles in 1996 to 800,000 by the year 2000.</p>
+<p>But the new venture will not finance cars made by joint ventures of Ford Motor Co in India as there was a separate joint venture dedicated for it.</p>
+<p>KMFL will hold 60 percent and Ford Credit International will hold 40 percent in KMP which will have a start-up net worth of more than 1.4 billion rupees, company officials said.</p>
+<p>The venture would offer new products in the Indian car finance market, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

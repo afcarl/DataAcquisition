@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136447" id="root" date="1996-10-23" xml:lang="en">
+<title>SLOVAKIA: EBRD says Slovakia to buy back its stake.</title>
+<headline>EBRD says Slovakia to buy back its stake.</headline>
+<dateline>BRATISLAVA 1996-10-23</dateline>
+<text>
+<p>The EBRD on Wednesday said it is expecting a proposal from the Slovak state privatisation agency, the National Property Fund (NPF), to buy back its stake in crude oil refiner Slovnaft.</p>
+<p>Jiri Huebner, head of the EBRD's Czech and Slovak country team, told Reuters in an interview that the bank has been told by the government that it was still waiting for a proposal, &quot;but we are aware that the NPF has agreed with this action&quot;.</p>
+<p>&quot;I can state that the Finance Minister has told the EBRD president that the Slovnaft issue would soon be ended, and the NPF will present us a written proposal for a buy out (of the stake),&quot; Huebner said declining to provide further details.</p>
+<p>The EBRD took a 10.5 percent stake in Slovnaft over a year ago when it bought a half of it's unsuccessful, $113 million Global Depositary Receipts (GDR's) issue.</p>
+<p>Soon after the acquisition, however, the NPF sold a 39 percent stake in the refiner to management-led group Slovintegra at a huge discount to the GDR's price, starting several rounds of talks between the EBRD and NPF.</p>
+<p>&quot;To be honest, it (issue) complicates our life a bit, and such an experience proves to us that it is unambiguously more simple and wise to participate here more through credits and less through capital participation,&quot; Huebner said.</p>
+<p>-- Tatiana Vacova, Bratislava Newsroom, 42-7-563-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

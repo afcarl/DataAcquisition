@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133855" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Utah 400 MW coal-fired plant seen restarted Wed.</title>
+<headline>Utah 400 MW coal-fired plant seen restarted Wed.</headline>
+<dateline>LOS ANGELES 1996-10-22</dateline>
+<text>
+<p>A 400-megawatt (MW) coal-fired unit at the Bonanza power plant in Vernal, Utah, will likely be back on line by late Wednesday, sources familiar with the plant's operations said Tuesday.</p>
+<p>The unit was shut Monday morning for routine repairs, they said.</p>
+<p>The Bonanza plant is operated by Portland, Ore.-based PacifiCorp.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

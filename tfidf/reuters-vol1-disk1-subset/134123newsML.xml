@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134123" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Italian Oct CPI seen at 3.0 pct yr/yr--analysts.</title>
+<headline>Italian Oct CPI seen at 3.0 pct yr/yr--analysts.</headline>
+<dateline>MILAN 1996-10-22</dateline>
+<text>
+<p>Italian consumer prices are seen at 3.0 percent year-on-year in October and 0.1 month-on-month after data issued by all 10 sample cities.</p>
+<p>Final Italian CPI stood at 3.4 percent year-on-year and rose 0.3 percent on a month-on-month basis in September.</p>
+<p>Milan, Turin and Trieste announced their preliminary CPI data on Monday, while Bologna, Venice, Trieste, Perugia, Genoa, Naples and Palermo published their figures on Tuesday.</p>
+<p>The 10 cities have a combined weighting of 69.8 percent on the total index.</p>
+<p>Final official inflation data for October will be issued by national statistics institute Istat on November 6.</p>
+<p>On Monday, after the figures from the first three cities analysts forecast October CPI at 3.1 percent year-on-year and 0.2 percent month-on-month.</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

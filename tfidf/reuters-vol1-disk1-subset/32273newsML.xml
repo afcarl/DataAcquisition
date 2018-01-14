@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32273" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: LPC - Citibank syndicating $2 bln credit for Boeing.</title>
+<headline>LPC - Citibank syndicating $2 bln credit for Boeing.</headline>
+<text>
+<p>NEW YORK, September 4 (LPC) - Administrative agent Citibank is syndicating a $2 billion credit for Boeing Co, banking sources said.</p>
+<p>The deal replaces a $3 billion loan put in place last September, sources added.</p>
+<p>The loan package is split evenly between a 364-day credit facility and a seven-year revolver, according to bankers.</p>
+<p>Pricing on the shorter tranche starts at 15.5 basis points over the London Interbank Offered Rate (LIBOR) for drawn portions of the credit, plus a five basis-point annual fee, a source said.</p>
+<p>The seven-year tranche is priced at 12.5 basis points over LIBOR on drawn portions, plus an eight basis-point annual fee, the source added.</p>
+<p>Last year's deal was split between a $1 billion, 364-day facility and a $2 billion, seven-year revolver, sources said. Pricing was the same as that on the new facility, they said.</p>
+<p>- Beth Harmen, LPC Editorial, 212 489-5455</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131868" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS - Bank of Qld says govt switches stake.</title>
+<headline>RTRS - Bank of Qld says govt switches stake.</headline>
+<dateline>BRISBANE 1996-10-21</dateline>
+<text>
+<p>The Bank of Queensland Ltd said on Monday the Queensland government had transfered its 45 percent stake in the bank to a government owned company, Queensland Treasury Holdings Pty Ltd.</p>
+<p>The stake was previously held by Suncorp General Insurance Ltd, a Bank of Queensland spokesman said.</p>
+<p>Suncorp's, parent, Suncorp Insurance and Finance, is in a three-way merger deal with fellow government-owned entity Queensland Industry Development Corp (QIDC) and listed Queensland-based bank Metway Bank Ltd.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

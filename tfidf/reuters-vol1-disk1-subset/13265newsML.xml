@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13265" id="root" date="1996-08-25" xml:lang="en">
+<title>IRAN: Iran to repay $9.943 bln debt in 1996/7 - paper.</title>
+<headline>Iran to repay $9.943 bln debt in 1996/7 - paper.</headline>
+<dateline>TEHRAN 1996-08-25</dateline>
+<text>
+<p>Iran plans to pay back $9.943 billion of its total debt of almost $22 billion in the current Iranian year which ends on March 20, 1997, the daily Iran News said on Sunday.</p>
+<p>Quoting central bank figures, the newspaper said Iran's debt stood at $21.928 billion in the year 1995/6, $4.536 billion of which was short-term and the balance medium- and long-term debt.</p>
+<p>It said Iran would repay $4.606 billion in 1997/8, $3.958 billion in 1998/9 and $2.635 billion in 1999/2000.</p>
+<p>In 2000/1 and 2001/2, $635 million and $49 million respectively would be repaid.</p>
+<p>Iran will start repaying the balance of $102 million in 2002, the paper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

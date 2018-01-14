@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131726" id="root" date="1996-10-21" xml:lang="en">
+<title>SWEDEN: Volvo declines comment on Pripps report.</title>
+<headline>Volvo declines comment on Pripps report.</headline>
+<dateline>STOCKHOLM 1996-10-21</dateline>
+<text>
+<p>Swedish automotive group Volvo on Monday declined to comment on Swedish media reports that it planned to sell its 55 percent stake in brewer Pripps Ringnes to a foreign brewery group.</p>
+<p>Business daily Dagens Industri said on Saturday that Dutch Heineken and Belgian Interbrewer were potential buyers of the majority stake.</p>
+<p>&quot;Pripps Ringnes's strong market position in Sweden and Norway and its successful expansion in the Baltic region and further east makes the company an attractive option for Continental brewery groups,&quot; Dagens Industri said.</p>
+<p>Norwegian food group Orkla, which owns the remaining 45 percent of Pripps Ringnes, has an option to acquire Volvo's holding, but the paper said Orkla is not believed to have the financial muscle to complete a buy-out.</p>
+<p>Volvo spokesman Per Lojdquist said he had no comment to make on the report.</p>
+<p>-- Stockholm newsroom +46-8--700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32401" id="root" date="1996-09-04" xml:lang="en">
+<title>SPAIN: Peseta debt/interbank closing report.</title>
+<headline>Peseta debt/interbank closing report.</headline>
+<dateline>MADRID 1996-09-04</dateline>
+<text>
+<p>Spanish government bonds ended little changed in a quiet session dominated by technical trading, dealers said.</p>
+<p>&quot;It's been a boring session with little news and all European markets have had the same tone,&quot; said a trader.</p>
+<p>Spain's auction of five- and 15-year bonds and one-year bills had little impact, although the high volume allocated for the one-year bill will ease the Treasury's financing needs.</p>
+<p>The focus remained on the U.S. where uncertainty prevailed over a possible rise in rates. Traders were watching for August payrolls data due on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

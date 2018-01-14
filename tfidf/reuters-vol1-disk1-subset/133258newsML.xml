@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133258" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Gec-Alsthom to control Poland's Konstal.</title>
+<headline>Gec-Alsthom to control Poland's Konstal.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>French consortium Gec-Alsthom signed a deal with 15 Polish National Investment Funds (NFIs) to buy a 60-percent stake in Polish rolling stock producer Konstal, an official from NFI No.10 said.</p>
+<p>Piotr Wielowieyski told Reuters that NFI No. 10 sold its 33 percent stake in the company and the remaining 14 NFIs sold their 1.93-percent stakes each, but did not disclose the value of the transaction.</p>
+<p>&quot;We signed an agreement yesterday on selling the company, but we still need Polish interior ministry and anti-monopoly office permits to conclude the deal,&quot; he said.</p>
+<p>The state treasury holds a 25 percent stake in the company and employees have 15 percent.</p>
+<p>Wielowieyski said the agreement provided for Gec-Alsthom to invest in Konstal a certain amount of money, but declined to give any figures.</p>
+<p>Konstal, based in Chorzow, south-western Poland, recorded a net loss of 5.1 million zlotys in the December 1, 1994 to December 31, 1995 period on 31.8-million-zloty sales.</p>
+<p>In the first six months of 1996 it had a net loss of 3.2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

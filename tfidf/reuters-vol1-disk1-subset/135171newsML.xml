@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135171" id="root" date="1996-10-22" xml:lang="en">
+<title>SINGAPORE: Singapore government securities end narrowly mixed.</title>
+<headline>Singapore government securities end narrowly mixed.</headline>
+<text>
+<p>SINGAPORE, Oct 22 (Reuter ) - Singapore government securities ended narrowly mixed in moderate trade on interbank and retail interest, dealers said on Tuesday.</p>
+<p>&quot;The interbank rate slipped slightly today but there was little impact on the market. Treasury bill yields were slightly lower but bond prices were slightly higher. Volume was moderate,&quot; a local dealer said.</p>
+<p>In treasury bills, three-months closed at a yield of 2.45/2.40 percent compared with Monday's yield of 3.01/2.96 percent and one-year at a yield of 2.28/2.23 percent against 2.75/2.70 percent.  </p>
+<p>Among bonds, July 1998 ended at S$97.95/98.00 from Monday's close of S$97.20/97.25, September 2001 at S$97.73/97.78 versus S$96.85/96.90 and June 2003 at S$96.73/96.78 against S$95.65/95.70.</p>
+<p>The overnight interbank offered rate slipped to 3-1/2 3-3/8 percent from Monday's 3-5/8 3-1/2 percent.</p>
+<p>-- Singapore newsroom (65-870-3080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

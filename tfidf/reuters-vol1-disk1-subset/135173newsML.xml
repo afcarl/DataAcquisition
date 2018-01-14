@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135173" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Mazda to hire some graduates in US, Canada.</title>
+<headline>Mazda to hire some graduates in US, Canada.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Mazda Motor Corp said on Tuesday that it would hire graduates from U.S. and Canadian universities next fiscal year for the first time.</p>
+<p>The major Japanese carmaker plans to hold a company briefing in Boston, Massachusetts, for three days from October 25 to solicit personnel for the company's headquarters in Japan.</p>
+<p>Mazda is owned 33.4 percent by Ford Motor Co. In June this year Henry Wallace, previously Mazda's executive vice president who was seconded from Ford, became Mazda president.</p>
+<p>Mazda will recruit 260 people in April 1997 -- the beginning of the fiscal year -- up from the 103 it hired in April 1996. As part of this total, it plans to hire several graduates from U.S. and Canadian universities, regardless of nationality, who speak Japanese.</p>
+<p>Of the planned 1997/98 total, it plans to hire 30 university graduates as office workers next April, after not hiring any such people for the past two years. It will double recruitment of plant workers to 100 people from the 51 it hired last April.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134871" id="root" date="1996-10-22" xml:lang="en">
+<title>NORWAY: FORECAST-Analyst downgrade Hydro 1996 EPS.</title>
+<headline>FORECAST-Analyst downgrade Hydro 1996 EPS.</headline>
+<dateline>OSLO 1996-10-22</dateline>
+<text>
+<p>Seven analysts polled by Reuters have downgraded Norsk Hydro's projected Earnings Per Share for 1996 by 7.2 percent following the presentation of the company's third-quarter results on Monday.</p>
+<p>On the average, the analysts now forecast a 1996 EPS of 25.70 crowns, down from a previous estimate of 27.70 crowns.</p>
+<p>The adjustment was due mainly to a writedown of 400 million crowns from a downward revision of estimates for remaining oil and gas reserves in the North Sea Frigg area.</p>
+<p>Hydro, Norway's largest listed company, on Monday blamed lower prices for aluminium and petrochemicals for a 45 percent slump in third-quarter net profits.</p>
+<p>The diversified industrial group reported profits after tax of 909 million crowns for the three months to September 30 against 1.66 billion crowns in the same 1995 period.</p>
+<p> EPS 96		   average     high   low</p>
+<p> Before the result    27.70	31.60  25.70</p>
+<p> After the result     25.70	26.50  24.40</p>
+<p> EPS 97		   average     high   low</p>
+<p> Before the result    31.70	35.00  27.90</p>
+<p> After the result     30.8	 33.50  26.40</p>
+<p>The analysts stuck to their recommendations on the share, which were five buy, one hold and one sell.</p>
+<p>--Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

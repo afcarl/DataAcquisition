@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135913" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Anixter reorganizing cuts short-term growth.</title>
+<headline>Anixter reorganizing cuts short-term growth.</headline>
+<dateline>CHICAGO 1996-10-23</dateline>
+<text>
+<p>Anixter International Inc said Wednesday steps it has taken to restructure and expand its businesses slowed the company's short-term growth but will enhance future profitability.</p>
+<p>&quot;While these factors have slowed Anixter's short-term growth to below its five-year compound annual growth rate of 18 percent, the steps we've taken this year are ones aimed at improving the value-added dimensions of Anixter,&quot; said Rod Dammeyer, Anixter president and chief executive officer.</p>
+<p>The company said it reorganized its sales force and separated its distribution business from its integration business in Europe. It said it has made investments in the past few quarters to expand technical capabilities and geographic coverage.</p>
+<p>&quot;We have seen significant improvements in the core structured wiring business, and we believe this is evidence that these efforts are working,&quot; Dannemeyer said. &quot;Our future growth and profitability should be enhanced by these steps.&quot;</p>
+<p>Earlier, the company reported earnings of $8.6 million or $0.18 a share for the third quarter versus $9.1 million or $0.17 a share last year.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I84000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178260" id="root" date="1996-11-10" xml:lang="en">
+<title>CANADA: Canada union ends auto talks by ratifying Ford deal.</title>
+<headline>Canada union ends auto talks by ratifying Ford deal.</headline>
+<byline>Paul Casciato</byline>
+<dateline>TORONTO</dateline>
+<text>
+<p>The Canadian Auto Workers union ended the 1996 labor negotiations with the automotive industry after the union's 11,700 members ratified a tentative collective agreement with Ford Motor Co of Canada Ltd.</p>
+<p>&quot;The union challenged management's unilateral right to outsource work, set a new standard for corporate conduct and defied the analysts who said it couldn't be done,&quot; said CAW president, Buzz Hargrove, in a CAW statement.</p>
+<p>The union said 93.7 percent of its Ford membership voted in favor of the deal, the statement said.</p>
+<p>The Ford agreement closes off a round of bargaining, considered by many to be anticlimactic in the wake of a 20-day strike at General Motors Corp in Canada and a down-to-the-wire deal at Chrysler Corp's Canadian subsidiary, which set the pattern agreement for 1996.</p>
+<p>Traditionally the union sets the pattern at its first negotiating target for a three-year labor deal and then forces the other two North American auto companies to match it by threatening to or holding a strike.</p>
+<p>Hargrove told reporters Wednesday that the union's master committee unanimously recommended the deal to its Ford membership and would hold a ratification vote Saturday and Sunday.</p>
+<p>The pattern deal offers the union protection from outsourcing, or contracting out jobs, ensures minimum health and safety and employment standards and gives workers improved benefits and a 10.2 percent wage and cost of living increase over three years.</p>
+<p>Hargrove said Wednesday that the provisions restricting outsourcing would be a big part of the union's bargaining position for workers it represents in other industries.</p>
+<p>The Ford deal includes a ban on the sale or closing of all Ford plants in Canada, except Ford's Windsor, Ontario, engine plant, which is being closed this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

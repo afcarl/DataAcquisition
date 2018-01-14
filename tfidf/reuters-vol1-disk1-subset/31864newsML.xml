@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31864" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-Top 20 Australian Dividend Yields - Sept 5.</title>
+<headline>RTRS-Top 20 Australian Dividend Yields - Sept 5.</headline>
+<dateline>SYDNEY 1996-09-05</dateline>
+<text>
+<p>Twenty highest dividend yields for Australian Companies included in the 320-share All Ordinaries Index based on closing prices on Wednesday.</p>
+<p>Dividends based on rolling 12 months.</p>
+<p>Yields are not grossed up for franking credits.</p>
+<p>					   Dividend</p>
+<p>Rank Name		     RIC	Yield    Close</p>
+<p> 1   Kalamazoo Hlds	 19.41    2.37</p>
+<p> 2   Central Norseman     15.00    0.90</p>
+<p> 3   Telecasters Nqld     13.21    5.30</p>
+<p> 4   Pac Mutal Aust	 12.45    2.41</p>
+<p> 5   Kurts (P) Prop	 10.71    1.40</p>
+<p> 6   Multistack	     10.34    0.29</p>
+<p> 7   Prime Credit Tr	10.32    0.95</p>
+<p> 8   Prop Income Inv	10.31    0.99</p>
+<p> 9   Indu Property	  10.11    0.90</p>
+<p>10   BT Prop Trust	  10.01    1.63</p>
+<p>11   Colonial Mutual	 9.80    1.08</p>
+<p>12   Gem Property Tr	 9.73    1.44</p>
+<p>13   Villa World	     9.71    1.03</p>
+<p>14   Blackmores Lab	  9.41    3.40</p>
+<p>15   Gandel Retail Tr	9.40    0.83</p>
+<p>16   BTR Plc		  9.08    5.07</p>
+<p>17   Central Equity	  9.00    1.00</p>
+<p>18   OLS Asia Hldgs	  8.90    0.82</p>
+<p>19   Gen Prop Tr	     8.85    2.27</p>
+<p>20   Barclays Mirvac	 8.80    1.25</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I32840">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

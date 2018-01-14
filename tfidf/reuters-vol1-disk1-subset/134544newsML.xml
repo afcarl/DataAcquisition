@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134544" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Tandycrafts Inc Q1 shr profit from nil.</title>
+<headline>Tandycrafts Inc Q1 shr profit from nil.</headline>
+<dateline>FORT WORTH, Texas 1996-10-22</dateline>
+<text>
+<p>THREE MONTHS ENDED SEPTEMBER 30		1996	    1995</p>
+<p> Net sales					  $57,770     $62,349</p>
+<p>  Cost of goods sold			     35,688	38,813</p>
+<p>  SG&amp;A						 18,662	20,913</p>
+<p>  Depreciation and amortization		 1,372	 1,525</p>
+<p>  Total operating costs and expenses	 55,722	61,251</p>
+<p> Operating income				   2,048	 1,098</p>
+<p> Interest expense, net				822	 1,085</p>
+<p> Income before income taxes		     1,226	    13</p>
+<p> Net income					     797	     9</p>
+<p> Net EPS						 0.07	  0.00</p>
+<p> Wgtd avg shrs				     12,198	11,769</p>
+<p>		    (in thousands, except per share amounts)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

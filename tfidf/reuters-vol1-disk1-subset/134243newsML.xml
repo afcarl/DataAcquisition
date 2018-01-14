@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134243" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: INDIA - Govt 91-day t-bills latest outstandings.</title>
+<headline>INDIA - Govt 91-day t-bills latest outstandings.</headline>
+<dateline>BOMBAY 1996-10-22</dateline>
+<text>
+<p>Following are the 91-day treasury bills outstanding on October 4 as per the Reserve Bank of India's latest weekly statistical supplement:</p>
+<p>.</p>
+<p>GOVT OF INDIA 91-DAY T-BILL OUTSTANDINGS (AT FACE VALUE)</p>
+<p>HOLDERS	     March 31, 1996		   Oct 4, 1996</p>
+<p>		  Tap*   Auction    Total     Tap*   Auction  Total</p>
+<p>				 (in million rupees)</p>
+<p>---------------------------------------------------------------</p>
+<p>RBI:</p>
+<p> Rediscounted 23,550    ---     23,550    58,970  ---    58,970</p>
+<p> Ad hocs     294,450    ---    294,450   328,050  ---   328,050</p>
+<p> Auction	 ---   32,110     32,110	---   1,300   1,300</p>
+<p>.</p>
+<p>Banks	    ---    4,080     4,080	 ---  28,280  28,280</p>
+<p>State govts  50,260  22,850     73,110    64,760 25,420  90,190</p>
+<p>Others	   4,650  5,950     10,600     5,110 10,000  15,110</p>
+<p>* Rate of discount is at 4.60 percent per annum</p>
+<p>..</p>
+<p>==============================================================</p>
+<p>			     VARIATIONS IN TOTAL OUTSTANDINGS</p>
+<p>			04/10/96 over   04/10/96 over   06/10/95 over</p>
+<p>			  31/03/96	  27/09/96	  31/03/95</p>
+<p>				    (in million rupees)</p>
+<p>RBI:</p>
+<p> Rediscounted	   35,420	   -7,580	   11,990</p>
+<p> Ad hocs		  33,600	   45,350	  106,100</p>
+<p> Auction		 -30,810		nil	    7,660</p>
+<p>.</p>
+<p>Banks		     24,200	   -1,980	    8,950</p>
+<p>State govts	     17,080	   10,580	   21,360</p>
+<p>Others		     4,510	   -1,360	    9,770</p>
+<p>.</p>
+<p>Note :For any comment or clarification please call Shyam Kumar</p>
+<p>on 91-22-265 9000</p>
+<p>Source: RBI</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

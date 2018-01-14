@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32923" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: AMRESCO plans to buy Quality Mortgage.</title>
+<headline>AMRESCO plans to buy Quality Mortgage.</headline>
+<dateline>DALLAS 1996-09-03</dateline>
+<text>
+<p>AMRESCO Inc said on Tuesday it had entered into a letter of intent to buy Quality Mortgage USA Inc and Calmac Funding Inc for $95.2 million.</p>
+<p>Quality is owned by Calmac and DIJ Mortgage Capital Inc. It is a residential mortgage company headquartered in Irvine, Calif.</p>
+<p>Quality has originated, funded and sold more than $5 billion in loans in the last four years, including about $1.2 billion in the 12 months ended June 30, 1996.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

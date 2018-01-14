@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32686" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Aristech to boost phenol capacity.</title>
+<headline>Aristech to boost phenol capacity.</headline>
+<dateline>PITTSBURGH 1996-09-04</dateline>
+<text>
+<p>Aristech Chemical Corp, a unit of Mitsubishi Corp, said on Wednesday it has approved a project to boost the company's phenol capacity by 10 percent.</p>
+<p>The planned modification to Aristech's Haverhill, Ohio, facility will result in an additional 70 million pounds of production capability, Aristech said.</p>
+<p>Aristech's capacity to produce acetone and alpha methyl styrene (AMS) will also be expanded, the company said.  </p>
+<p>Aristech said the project is slated to be completed in the fourth quarter of 1997, with full commercial operation scheduled for early 1998.</p>
+<p>Also, Aristech said it has hired M.W. Kellogg to study the feasibility of a third phenol plant at the Haverhill site.</p>
+<p>If approved, the third unit would start-up in 1999, coinciding with projections for market requirements, Aristech said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

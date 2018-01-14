@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135326" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH KOREA: Daewoo wins $110 mln foreign ship orders.</title>
+<headline>Daewoo wins $110 mln foreign ship orders.</headline>
+<dateline>SEOUL 1996-10-22</dateline>
+<text>
+<p>South Korea's Daewoo Heavy Industries Ltd said on Tuesday it had recently won orders worth a total of $110 million from two foreign firms to build three vessels.  </p>
+<p>A statement from Daewoo Heavy, a unit of Daewoo Group, said it had won a $68 million order from Malaysia International Shipping Corporation Bhd to build two container vessels.</p>
+<p>Separately, Daewoo also won a $43 million order from Finnish shipping firm, Lundqvist Rederierna, to build a 98,000-tonne crude oil carrier, it said.</p>
+<p>Delivery is scheduled for late 1998 for both deals, it added.</p>
+<p>-- Seoul Newsroom (822) 727-5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134820" id="root" date="1996-10-22" xml:lang="en">
+<title>NETHERLANDS: Dutch shares regain ground near the close.</title>
+<headline>Dutch shares regain ground near the close.</headline>
+<dateline>AMSTERDAM 1996-10-22</dateline>
+<text>
+<p>Dutch shares regained ground near the close to end at the day's high, but dealers said trade was thin. The AEX share index added 0.68 points to 593.11.</p>
+<p>Royal Dutch was the main outperformer throughout the day, rising 3.20 guilders to 294.30. Dealers said there was more to come after today's record close for the oil giant.</p>
+<p>Shell Oil in the U.S. which posted record third quarter net income boosted the stock, but dealers said there was also support from a strong demand for Royal Dutch call options.</p>
+<p>Philips dipped further ahead of the firm's third quarter results on Thursday, shedding 0.30 to 59.00 guilders.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

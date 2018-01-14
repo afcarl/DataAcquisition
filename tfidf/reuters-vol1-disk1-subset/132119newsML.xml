@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132119" id="root" date="1996-10-21" xml:lang="en">
+<title>PHILIPPINES: Solid Group says to hit 834 mln pesos net in 1996.</title>
+<headline>Solid Group says to hit 834 mln pesos net in 1996.</headline>
+<dateline>MANILA 1996-10-21</dateline>
+<text>
+<p>Solid Group Inc said on Monday it was confident of achieving its 1996 net income target of 834 million pesos.  </p>
+<p>In a statement to the Securities and Exchange Commission, Solid chief finance officer Vicente Lim said that for the first eight months of this year, the company's exports and domestic sales grew by 230 percent and 40 percent respectively versus the year-ago period.</p>
+<p>He added Solid's third quarter earnings are expected to be announced in the last week of October.</p>
+<p>Solid is the local manufacturer and distributor for Sony Corp and Aiwa Co Ltd.</p>
+<p>For the first seven of this year, the company had reported a net profit of 379 million pesos, exceeding last year's full-year net by more than 150 percent.</p>
+<p>- Manila newsroom (632) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

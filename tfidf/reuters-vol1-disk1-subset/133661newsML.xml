@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133661" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Stephens, Okla., deal to Capital West.</title>
+<headline>Stephens, Okla., deal to Capital West.</headline>
+<text>
+<p>AMT: 1,075,000	DATE: 10/22/96	NYC Time: 1300	CUSIP: 858775</p>
+<p>ISSUER: Stephens Co. ISD 2					    ST: OK</p>
+<p>ISSUE: Combined purpose bonds of 1997			     TAX STAT:Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 01/01/97							     SURE BID: N</p>
+<p>DUE: 1/1/99-02						SR MGR: Capital West Sec.</p>
+<p>1ST CPN: 07/01/98					   DOLLAR BID: 100.0008</p>
+<p>CALL: Non-Callable					  NIC 4.47398</p>
+<p>DELIVERY: 1/2/97 approx				   ORDERS: 2:30 CDST</p>
+<p>PAYING AGENT: Boatmen's National Bank of Oklahoma, Oklahoma City</p>
+<p>L.O.: Attorney General of Oklahoma, Oklahoma City</p>
+<p>F.A.: Stephen H. McDonald &amp; Assocs., Oklahoma City</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1999		    205,000     5.300	 NRO		  NRO</p>
+<p>2000		    290,000     4.300	 NRO		  NRO</p>
+<p>2001		    290,000     4.350	 NRO		  NRO</p>
+<p>2002		    290,000     4.450	 NRO		  NRO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

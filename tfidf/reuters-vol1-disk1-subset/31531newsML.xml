@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31531" id="root" date="1996-09-04" xml:lang="en">
+<title>ZAIRE: Zaire seeks Chinese help for fisheries industry.</title>
+<headline>Zaire seeks Chinese help for fisheries industry.</headline>
+<dateline>KINSHASA 1996-09-04</dateline>
+<text>
+<p>Zaire is seeking expert assistance from China to develop its fisheries potential and slash hard currency spending on imports, Zaire's International Cooperation Minister Wivine Nlandu said on Wednesday.</p>
+<p>Opening the fifth session of the Zaire-China mixed commission in Kinshasa, Nlandu said despite vast resources from sea and inland waters, Zaire's annual fisheries haul had yet to attain an annual level of 200,000 tonnes.</p>
+<p>&quot;Zaire will seek Chinese expertise to reduce progressively the importation of fish which absorbs needlessly a part of our hard currency resources,&quot; he said.</p>
+<p>Nlandu lauded cooperation between Zaire and China, which he said had not been interrupted since 1973 and had been reinforced by a series of bilateral accords, notably for rice growing.</p>
+<p>The fifth session of the mixed commission, which ends on Sunday, follows one in Beijing in 1992.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

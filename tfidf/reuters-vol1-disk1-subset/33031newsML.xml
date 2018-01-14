@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33031" id="root" date="1996-09-04" xml:lang="en">
+<title>TURKEY: Turk minister sees lira drop near inflation rate.</title>
+<headline>Turk minister sees lira drop near inflation rate.</headline>
+<dateline>ANKARA 1996-09-04</dateline>
+<text>
+<p>Turkey's State Minister Ufuk Soylemez said the depreciation rate of the lira against major currencies would be around the inflation rate, Anatolian news agency said on Wednesday.</p>
+<p>&quot;It is predicted that depreciation of the Turkish lira will be around inflation rate,&quot; Soylemez, in charge of the treasury and privatisation, was quoted by the agency as replying to a question from an opposition MP.  </p>
+<p>Turkey has been keeping lira depreciation near the inflation rate since end-1994 as part of its drive toward what is called a realistic exchange rate policy.</p>
+<p>&quot;We will implement a realistic exchange rate policy to increase our competitive strength,&quot; Soylemez said.</p>
+<p>The lira depreciated last year by 60 percent against the central bank's currency basket consisting of one dollar and 1.5 marks. That was down from a wholesale price inflation of about 65 percent in the same period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

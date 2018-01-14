@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135965" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Supreme Industries Inc Q3 shr decreases.</title>
+<headline>Supreme Industries Inc Q3 shr decreases.</headline>
+<dateline>GOSHEN, Ind. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$0.13		    $0.18</p>
+<p> Shr diluted		 0.13		     0.18</p>
+<p> Net			  1,240		    1,629</p>
+<p> Revs			38,814		   37,437</p>
+<p> Avg shrs primary	 9,452		    8,756</p>
+<p> Avg shrs diluted	 9,452		    9,368</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary		$0.46		    $0.67</p>
+<p> Shr diluted		 0.46		     0.63</p>
+<p> Net			  4,306		    5,756</p>
+<p> Revs		     121,364		  129,242</p>
+<p> Avg shrs primary	 9,266		    8,560</p>
+<p> Avg shrs diluted	 9,402		    9,346</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOSHEN, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

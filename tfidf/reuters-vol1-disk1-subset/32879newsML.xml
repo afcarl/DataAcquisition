@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32879" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: N.Y. approves transfer of funds for Lloyd's plan.</title>
+<headline>N.Y. approves transfer of funds for Lloyd's plan.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The New York Insurance Department said it approved the transfer of about $5.5 billion from the Lloyd's American Trust Fund to fund a portion of Lloyd's of London's Equitas program.</p>
+<p>Lloyd's of London had maintained about $12 billion in trust funds to support all its U.S. business, including surplus lines claims and reinsurance transactions.</p>
+<p>The trust funds, held by Citicorp, are subject to the regulatory oversight of the New York Insurance Department.  </p>
+<p>The New York Insurance Department said it will continue to have access to key financial data and any other information it deems appropriate for it to carry out its regulatory responsibilities for the protection of U.S. policyholders.</p>
+<p>Under its reorganization plan, about $12 billion in Lloyd's liabilities will be reinsured by a new Lloyd's affiliate called Equitas.</p>
+<p>Monies from the Lloyd's American Trust Fund will be used to cover the 1992-and-prior U.S. policyholder liabilities of Lloyd's.  </p>
+<p>Monies to pay claims for business placed after 1992 will remain in trust funds in New York, the insurance department said.</p>
+<p>&quot;Through the establishment of trust funds in New York, this department has had the primary responsibility to protect not only New Yorkers, but all United States policyholders of Lloyd's,&quot; Muhl said in a statement.</p>
+<p>&quot;Our number one priority has been to ensure that our citizens continue to have that protection.&quot;  </p>
+<p>&quot;We believe that allowing Equitas to go forward, together with our continued ability to review key financial information, keeps those protections firmly in place,&quot; he said.</p>
+<p>Muhl said New York insurance regulators &quot;had many frank discussions&quot; with Lloyd's representatives, British regulators and other state regulators.</p>
+<p>&quot;We believe that the Equitas program has a reasonable chance of success based on the information we have reviewed,&quot; he said.</p>
+<p>-- 212-859-1716</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

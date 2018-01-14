@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135579" id="root" date="1996-10-22" xml:lang="en">
+<title>PORTUGAL: FORECAST-Good demand seen for Portugal 5-yr bonds.</title>
+<headline>FORECAST-Good demand seen for Portugal 5-yr bonds.</headline>
+<dateline>LISBON 1996-10-22</dateline>
+<text>
+<p>Good demand was expected at the the Treasury's auction for 20 billion escudos of five-year bonds, with the yield reflecting recent sharp gains in secondary market prices, analysts said.</p>
+<p>The average yield on the March 2001 bonds was expected to be around 6.76 to 6.86 percent, in line with the paper's 6.82 percent close on Monday. The results will be announced around 1000 GMT.</p>
+<p>&quot;The auction will see good demand. It is going to confirm the record low yields of the secondary market,&quot; said one fixed-income trader.</p>
+<p>At the last such sale on September 24, the weighted average yield was 7.6287 percent, with the maximum 7.64 percent and the minimum 7.60 percent.</p>
+<p>--Sergio Goncalves, Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

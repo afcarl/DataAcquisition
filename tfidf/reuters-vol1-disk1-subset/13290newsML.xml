@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13290" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Small business starts attracting more people.</title>
+<headline>Small business starts attracting more people.</headline>
+<byline>Anne Murray</byline>
+<dateline>NEW YORK 1996-08-25</dateline>
+<text>
+<p>Nearly 5 million people started up new businesses in the United States last year -- four times as many people than previous estimates revealed, according to a new study.</p>
+<p>&quot;There are still a lot of people whose idea of the American dream is being your own boss,&quot; said Jim Weidman, spokesman for the National Federation of Independent Businesses, which conducted the study.</p>
+<p>Research showed the number of businesses started from scratch by one or more people numbered 3.5 million last year.</p>
+<p>Previous estimates of start-ups ranged from as low as 450,000 to as high as 1 million, depending on the definition of start-ups.</p>
+<p>For example, earlier studies counted only new employers, using data such as forms filed when workers were hired or incorporation filings, Weidman said.</p>
+<p>This study included businesses started from scratch, often home-based, with no employees, but with one or more partners, he said.</p>
+<p>Using the Gallup organisation, 36,000 people were polled directly in phone calls for the data, which was then extrapolated for the general population.</p>
+<p>&quot;What it tells us is there's a lot more creativity than people thought,&quot; said William Dennis, a senior research fellow at the NFIB research centre, who directed the study.</p>
+<p>&quot;It's a picture of a much more dynamic economy,&quot; said Weidman, who said another survey last year showed that 63 percent of 2,000 adults polled said they wanted to start their own businesses.</p>
+<p>&quot;A lot of people out there are willing to take a risk and see if they can make it happen,&quot; he said.</p>
+<p>Bruce Phillips, director of the Small Business Administration's office of economic research, called the new data a &quot;major new contribution.&quot;</p>
+<p>He said he believed that two-thirds of the start-ups were home-based businesses that need to be researched.</p>
+<p>&quot;We need to track these business births to understand how our economy grows.&quot;</p>
+<p>Dennis said that information will be coming soon.</p>
+<p>His research project, &quot;Business Starts and Stops&quot; is ongoing and will have data in about three months on the home-based start-ups.</p>
+<p>&quot;We should learn how much money it took and when they started to become profitable, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

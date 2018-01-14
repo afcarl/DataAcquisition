@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132814" id="root" date="1996-10-22" xml:lang="en">
+<title>GERMANY: SOCCER-BORUSSIA DORTMUND LOSE FEIERSINGER THROUGH INJURY.</title>
+<headline>SOCCER-BORUSSIA DORTMUND LOSE FEIERSINGER THROUGH INJURY.</headline>
+<dateline>DORTMUND, Germany 1996-10-22</dateline>
+<text>
+<p>German champions Borussia Dortmund have lost a second libero to a thigh injury.</p>
+<p>Austrian international Wolfgang Feiersinger followed Matthias Sammer on to the treatment table after injuring his thigh against Bayern Munich on Sunday.</p>
+<p>He will be out of action for several weeks, his club said on Tuesday. Sammer has already been sidelined for three weeks.</p>
+<p>Coach Ottmar Hitzfeld said Scot Paul Lambert would probably fill Feiersinger's role when Dortmund host Arminia Bielefeld on Saturday.</p>
+<p>He does not have the option of playing Stefan Reuter because he is serving a one-match ban.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DORTMUND, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32926" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CFO of 99 Cents Only Stores resigns.</title>
+<headline>CFO of 99 Cents Only Stores resigns.</headline>
+<dateline>CITY OF COMMERCE, Calif. 1996-09-03</dateline>
+<text>
+<p>99 Cents Only Stores said on Tuesday that Carl Wood has resigned as chief financial officer and controller to pursue other business interests.</p>
+<p>Eric Schiffer, the company's current senior vice president of operations and administration, has been promoted to the positions of senior vice president of finance and administration and treasurer, the retailer said. Schiffer will assume several non-accounting financial functions, the company said.</p>
+<p>The retailer said Lawrence Glascott, a former partner of Arthur Andersen LLP and the former vice president-finance of Waste Management International, has been appointed as the company's interim chief accounting officer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CITY OF COMMERCE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

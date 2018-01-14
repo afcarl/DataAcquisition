@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32201" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Sony's Pearl Jam takes top spot with album.</title>
+<headline>Sony's Pearl Jam takes top spot with album.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>Pearl Jam's fourth album, &quot;No Code,&quot; on Sony Corp's Epic Records label, opened at the top of the U.S. album sales charts with sales of almost 367,000, a spokeswoman for the band's label said Wednesday.</p>
+<p>By the group's standards, this is a disappointing figure, as their previous album &quot;Vitalogy&quot; reached Number One with first week sales of 877,000 units in 1994.  Their album from the year before, &quot;Vs.,&quot; holds the first week sales record of 950,000.  However, both were helped by coming out just before Christmas.</p>
+<p>A spokeswoman for Epic said &quot;we are extremely pleased&quot; with Pearl Jam's sales, but declined further comment.  The band is preparing for its U.S. tour, which begins Sept. 16 in Seattle.</p>
+<p>Retailers said the industry seems to be in a malaise, and they noted that one of the top selling records this year has been one that was released more than a year ago, Alanis Morissette's &quot;Jagged Little Pill.&quot;</p>
+<p>&quot;Music is so stale this year, it's unbelievable,&quot; said Bob Say, owner of the Moby Disc chain in southern California. He added, &quot;We did OK with 'No Code,' but we didn't do great with it.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32745" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Herley wins $2.3 mln U.S. Navy contract.</title>
+<headline>Herley wins $2.3 mln U.S. Navy contract.</headline>
+<dateline>LANCASTER, Pa. 1996-09-04</dateline>
+<text>
+<p>Herley Industries Inc said Wednesday it received a contract valued at $2.3 million from the U.S. Navy for the DSQ-37 Scoring System.</p>
+<p>This is the standard doppler scoring system used by the Navy at all ranges for testing and training purposes, the company said, noting its Herley-Vega Systems division has been building the DSQ-37 since 1992, and this four-year contract will make it the Navy supplier past the year 2000.</p>
+<p>If the Navy exercises all options, they will order almost 200 units at a value of about $2.3 million, the company said.</p>
+<p>&quot;Coupled with the $3,900,000 award of the DPN-90 Beacon Transponder a week ago, (Herley-Vega) will retain its position as a leading supplier of flight instrumentation products to Navy training ranges well past the year 2000,&quot; Herley said.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANCASTER, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

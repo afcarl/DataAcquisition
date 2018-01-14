@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135088" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Domestic turnaround vital - Arnotts.</title>
+<headline>RTRS-Domestic turnaround vital - Arnotts.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Biscuit maker Arnotts Ltd said a turnaround in its Australian business was imperative.</p>
+<p>In its annual report, the company said while Asia and the snacking market represented areas of growth in the medium term, the health of the domestic business was fundamental to Arnott's health and this would be the management focus in the year ahead.</p>
+<p>On September 5, the company reported a net profit of A$60.89 million for the 13 months to July 28.</p>
+<p>The company reiterated its earlier comments that fairly flat retail conditions were expected to continue in the short term.</p>
+<p>--Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

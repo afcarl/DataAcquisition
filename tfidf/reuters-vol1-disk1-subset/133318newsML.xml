@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133318" id="root" date="1996-10-22" xml:lang="en">
+<title>CHILE: Chile's Copec to continue pulp project.</title>
+<headline>Chile's Copec to continue pulp project.</headline>
+<dateline>SANTIAGO 1996-10-22</dateline>
+<text>
+<p>Chilean forestry and gas distribution group Compania de Petroleos de Chile SA (Copec) said it will press ahead with its $1 billion wood pulp project in southern Chile which has been hit by environmental problems.</p>
+<p>Analysts had speculated that Copec might decide to abandon the project near the town of Valdivia after the firm's winning bid this month for Argentine pulp plant Alto Parana.</p>
+<p>&quot;We have Alto Parana and we will go ahead with Valdivia as with all our projects,&quot; president Felipe Lamarca told Reuters.  </p>
+<p>Copec is 30 percent owed by New Zealand forestry company Carter Holt Harvey.</p>
+<p>The company hopes that the evironmental difficulties which have delayed construction of the Valdivia plant by nearly a year will be resolved soon, he said.</p>
+<p>Officials at Copec's pulp division Celulosa Arauco y Constitucion (Celco) have said they are studying changes to the plant's design that would carry waste water into the Pacific rather than dumping it into the nearby Cruces river which has raised ecologists' hackles.  </p>
+<p>The acquisition of Alto Parana will boost the group's pulp output by between 260,000-300,000 tonnes and bring total production to some 1.2 million tonnes, said Lamarca.</p>
+<p>&quot;I believe it is an expansion into a different country and forestry scene which really consolidates Celco as the largest forestry company in South America,&quot; he said.</p>
+<p>Celco, Chile's biggest pulp producer, bought Alto Parana for $228.2 million.</p>
+<p>-- Rodrigo Martinez, Santiago newsroom, 562-699-5595 x205</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

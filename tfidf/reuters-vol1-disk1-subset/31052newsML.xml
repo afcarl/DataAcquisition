@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31052" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: U.K. Intervention Board details EU sugar sales.</title>
+<headline>U.K. Intervention Board details EU sugar sales.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>A total 250 tonnes of current series white sugar received export rebates of a maximum 43.106 European Currency Units (Ecus) per 100 kilos at Wednesday's European Union (EU) tender, the U.K. Intervention Board said.</p>
+<p>Traders in Germany received all the amount, it added.  </p>
+<p>Earlier on Wednesday, London traders had expected the subsidy for this week's licences tender to be 43.457 Ecus (European Currency Units) per 100 kg of sugar using the December contract and 43.180 Ecus using October.</p>
+<p>Traders had also forecast the authorised tonnage export awards to be between 60,000 and 100,000 tonnes based on December but only a maximum of 25,000 tonnes if October was used.</p>
+<p>This compared to 16,000 tonnes last week when the restitution was 43.521 Ecus.</p>
+<p>-- Jeremy Smith, London Newsroom +44 171 542 8064</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

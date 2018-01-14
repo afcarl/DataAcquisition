@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132472" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Giant Cement positive on rest of 1996.</title>
+<headline>Giant Cement positive on rest of 1996.</headline>
+<dateline>SUMMERVILLE, S.C. 1996-10-22</dateline>
+<text>
+<p>Giant Cement Holdings Inc said its outlook for the rest of 1996 remains positive due to strong demand for its products.</p>
+<p>The company said it anticipates favorable year-over-year comparisons for its liquid fuel and solid fuel programs for the fourth quarter. It also said that liquid fuel pricing has stabilized from recent declines, although prices remain below 1995 levels.</p>
+<p>It said plants operated at near-capacity in the third quarter. Cement production rose two percent in the quarter and was up seven percent for the year.</p>
+<p>Giant Cement said third quarter sales were hurt by Hurricane Fran, with South Atlantic sales down four percent. Positive factors included the settlement of an environmental lawsuit in Pennsylvania and the performance of the company's solid waste fuel handling system.</p>
+<p>--New York Newsdesk, 212/869-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUMMERVILLE, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

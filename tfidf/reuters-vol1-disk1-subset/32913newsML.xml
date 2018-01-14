@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32913" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Corporate Express buys Canada stationer.</title>
+<headline>Corporate Express buys Canada stationer.</headline>
+<dateline>BROOMFIELD, Colo. 1996-09-04</dateline>
+<text>
+<p>Corporate Express Inc, a supplier of office products and services to corporations, said on Wednesday had bought Canada's largest independent contract stationer, Boulevard Office Products in Montreal.</p>
+<p>The company said in a statement the acquisition completed the main part of the distribution network in Canada for Corporate Express. Financial terms were not disclosed.</p>
+<p>The company acquired 33 companies during the second quarter ended Aug 31, 1996 with current combined annual revenue of over $350 million, slightly above the $300 million acquired during the first quarter. Twenty-two acquisitions were in the United States and 11 were international.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BROOMFIELD, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

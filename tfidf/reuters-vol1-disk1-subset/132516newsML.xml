@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132516" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Level One Communications Inc Q3 net rises.</title>
+<headline>Level One Communications Inc Q3 net rises.</headline>
+<dateline>SACRAMENTO, Calif. 1996-10-22</dateline>
+<text>
+<p>(In Thousands, except per share amounts)</p>
+<p>			  (Unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				Sep 29	 Sep 30  Sep 29    Sep 30</p>
+<p>				 1996	    1995    1996	1995</p>
+<p> Revenues		 $ 27,363     $ 21,680$ 82,384  $ 51,503</p>
+<p> Cost of Sales	    11,756	  9,459  34,865    21,942</p>
+<p>   Gross Margin	   15,607	 12,221  47,519    29,561</p>
+<p> Research &amp; Development  5,249	  4,604  16,663    11,491</p>
+<p> Sales &amp; Marketing	 4,219	  3,146  12,209     7,885</p>
+<p>General &amp; Administrative</p>
+<p>				 1,595	  1,403   5,126     3,823</p>
+<p>Total operating expenses</p>
+<p>				11,063	  9,153  33,998    23,199</p>
+<p> Operating income	  4,544	  3,068  13,521     6,362</p>
+<p> Other income, net	 1,084	    511   1,825     1,580</p>
+<p>Income before provision</p>
+<p>  for income taxes	 5,628	  3,579  15,346     7,942</p>
+<p>One time charge for SFT</p>
+<p>  Acquisition		    0		0	 0	 750</p>
+<p>Provision for income taxes</p>
+<p>				 1,857	  1,086   5,065     1,944</p>
+<p> Net income		  3,771	  2,493  10,281     5,248</p>
+<p> Earnings per Share	 0.27	   0.18    0.75	0.39</p>
+<p>Fully Taxed EPS</p>
+<p>  (33% rate)		  0.27	   0.18    0.75	0.36</p>
+<p>Weighted Average Common</p>
+<p>  Shares Outstanding    13,803	 13,632  13,723    13,425</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

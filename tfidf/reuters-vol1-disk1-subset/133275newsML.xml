@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133275" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Polish 3-yr bond prices seen falling at tender.</title>
+<headline>Polish 3-yr bond prices seen falling at tender.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>Prices of Polish three-year floating bonds are seen falling at the treasury's 600 million primary tender on Tuesday, analysts said.</p>
+<p>They said the auction of the bonds, maturing November 6, 1996, was likely to be undersubscribed and demand should not top 300 million zlotys.</p>
+<p>&quot;The fall of the bond's price is likely to match the significant decrease in the yield of the 13-week paper on which it is based, so that its yield might ease to 19.49 percent from the last 21.71 percent,&quot; said Elzbieta Milaczewska from BIG SA.</p>
+<p>Analysts said the minimum price may fall below 100.00 from 100.60 at the last auction on July 23.</p>
+<p>The coupon of the paper is set at five percent above the average yield of 13-week T-bills from four consecutive primary auctions in the month preceding the coupon payment.</p>
+<p>The average primary yield of the 13-week T-bill fell to 18.55 percent at the last auction on Monday from 19.68 percent on July 22, 1996. The value date for the auction is November 4, 1996.  -- Krzysztof Wojcik +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

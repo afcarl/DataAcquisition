@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32856" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: New York regulators to sue FCC over telecom rules.</title>
+<headline>New York regulators to sue FCC over telecom rules.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>The New York Public Services Commission said on Wednesday it has petitioned the 2nd U.S. Circuit Court of Appeals to annul the Federal Communications Commission rules implementing the 1996 Telecommunications Act.</p>
+<p>The commission said the FCC rules are an intrusion on the state's authority to set local telecommunications policy.</p>
+<p>&quot;We believe it substantially violates the regulatory scheme preserved in the 1996 Telecommunications Act and established by Congress in 1934, which reserves to the states the regulation of intrastate communications,&quot; said state commission chairman John O'Mara.  </p>
+<p>The FCC this summer set rules which are designed to flesh out part of the broad brush of the 1996 Act, bringing competition into local telephone markets.</p>
+<p>To do this, it specified how the regional Bells and other telecommunications companies must split up and price the various elements of their local service infrastructure, which will allow rivals to resell services in competition with the incumbent provider.</p>
+<p>Once competition is established, the regional Bells will be allowed to enter the long distance calling market within their own local calling regions.  </p>
+<p>GTE Corp and Southern New England Telecommunications Corp last week said they were taking legal action against the FCC rules.</p>
+<p>Generally the long distance industry has applauded the FCC rules, which are seen by analysts as taking a harsher line against the local telephone companies than many states' utility commissions have done in the past.</p>
+<p>The second circuit court is based in New York. -- Nick Louth, New York Newsroom  212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32316" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Aetna says sees favorable HMO pricing.</title>
+<headline>Aetna says sees favorable HMO pricing.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Aetna Inc, which earlier this year acquired U.S. Healthcare Corp, expects pricing for its health maintenance organization plans to outpace medical cost increases, Chief Financial Officer Jim Dickerson said Wednesday.</p>
+<p>&quot;The prices we are quoting for the first quarter of 1997 on the core HMO products are in the four to five percent range over the prices we experienced in those products in the first quarter of 1996,&quot; Dickerson told a Piper Jaffray healthcare services conference.</p>
+<p>He said the company expected prices for its point-of-service plans to be up in the five to six percent range and prices for its indemnity plans to be up &quot;north of seven percent.&quot;</p>
+<p>&quot;These price increases are in excess of our current view of medical cost trends,&quot; he said.  Aetna sees its medical costs rising three to four percent over the near term, he said.</p>
+<p>Aetna sees its future percentage HMO membership growth in the mid-teens compared with the mid-twenty percent growth rate posted by U.S. Healthcare prior to the merger, which closed in July 1996, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

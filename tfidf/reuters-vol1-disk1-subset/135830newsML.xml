@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135830" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - Department 56 upgraded.</title>
+<headline>RESEARCH ALERT - Department 56 upgraded.</headline>
+<text>
+<p>-- Dain Bosworth Inc said on Wednesday it upgraded Department 56 Inc to a buy from hold.</p>
+<p>-- While third-quarter results were below expectations, Department 56's balance sheet and cash flow are strong, order volume increased during the third quarter and inventory problems appear to be diminishing, analyst Mark Bartholomay said in a research report.</p>
+<p>-- On Tuesday, Department 56 said its earnings fell to $12.3 million, or $0.57 a share, in the third quarter from $18.2 million, or $0.84 a share. Dain Bosworth had estimated earnings of $0.63.</p>
+<p>-- Bartholomay raised his estimate for the company's fourth-quarter earnings to $0.18 a share from $0.17. But he lowered his estimate for the full year to $2.10 from $2.15.</p>
+<p>-- He raised his fourth-quarter estimate because merchandise from Department 56's overseas suppliers arrived after the third quarter ended. The goods have since have been shipped to the company's customers, the research report said.</p>
+<p>		-- Reuter Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

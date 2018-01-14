@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135725" id="root" date="1996-10-23" xml:lang="en">
+<title>ITALY: SOCCER-ROMA'S DAHLIN MAY MOVE BACK TO BORUSSIA.</title>
+<headline>SOCCER-ROMA'S DAHLIN MAY MOVE BACK TO BORUSSIA.</headline>
+<dateline>ROME 1996-10-23</dateline>
+<text>
+<p>Swedish international striker Martin Dahlin may move back to Borussia Moenchengladbach after asking to part ways with Roma, the Italian news agency ANSA said on Wednesday.</p>
+<p>It said contacts between Dahlin's manager and a Roma official with the German club had been opened after the player told the serie A side's chairman Franco Sensi that he was not interested in a switch to Glasgow Rangers of Scotland.</p>
+<p>The agency quoted a senior Roma official as saying &quot;the deal could be sewn up in the next few hours&quot;.</p>
+<p>Dahlin moved to Roma from Borussia in the summer on a three-year contract but has hardly played a full match since. He asked to be put on the transfer list last week.</p>
+<p>&quot;I'm sorry. I wanted to play for Roma but the coach thinks differently,&quot; Dahlin told ANSA.</p>
+<p>Roma were not available for comment on the reported move.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

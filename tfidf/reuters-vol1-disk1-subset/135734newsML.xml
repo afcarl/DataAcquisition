@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135734" id="root" date="1996-10-23" xml:lang="en">
+<title>NETHERLANDS: SOCCER-DUTCH FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-DUTCH FIRST DIVISION SUMMARIES.</headline>
+<dateline>AMSTERDAM 1996-10-23</dateline>
+<text>
+<p>Summaries of Dutch first</p>
+<p>division soccer played on Wednesday:</p>
+<p>Feyenoord 1 (Koeman 45 penalty) AZ Alkmaar 0. Halftime 1-0.</p>
+<p>Attendance 23,910.</p>
+<p>Heerenveen 0 PSV Eindhoven 1 (Nilis 28 penalty). Halftime 0-1.</p>
+<p>Attendance 13,600.</p>
+<p>Sparta Rotterdam 0 Volendam 3 (Samardzic 26, 60, Govedarica</p>
+<p>54). Halftime 0-1. Attendance 4,000.</p>
+<p>NAC Breda 1 (Brood 31) Groningen 1 (Sion 88). Halftime 1-0.</p>
+<p>Attendance 11,615.</p>
+<p>NEC Nijmegen 1 (Graef 43) Fortuna Sittard 1 (Ricksen 37).</p>
+<p>Halftime 1-1. Attendance 3,500.</p>
+<p>Roda JC Kerkrade 1 (Sibon 81) Vitesse Arnhem 1 (Makaay 39).</p>
+<p>Halftime 0-1. Attendance 4,500</p>
+<p>Played on Tuesday:</p>
+<p>Utrecht 0 Willem II Tilburg 0. Attendance 10,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135516" id="root" date="1996-10-22" xml:lang="en">
+<title>CYPRUS: PRESS DIGEST - Cyprus - Oct 22.</title>
+<headline>PRESS DIGEST - Cyprus - Oct 22.</headline>
+<dateline>NICOSIA 1996-10-22</dateline>
+<text>
+<p>These are some of the leading stories in the Greek Cypriot press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>ALITHIA</p>
+<p>- Armed men who grabbed 80,000 pounds from a teller at a co-operative society in Limassol are still at large.</p>
+<p>- A military dialogue aimed at reducing tension between the two sides has started, says a United Nations envoy.</p>
+<p>- The government refuses to budge on its decision to contract out postal work to the private sector.</p>
+<p>CYPRUS MAIL</p>
+<p>- Daring Limassol robbers get away with 80,000 pounds in broad daylight.</p>
+<p>- The government is to extend its diplomatic presence in the European Union.</p>
+<p>HARAVGHI</p>
+<p>- Communist Akel expresses its opposition to a bill banning strikes in essential sectors.</p>
+<p>- Police inquiries over allegations people were getting kickbacks for government arms purchases stall at practical problems.</p>
+<p>PHILELEPHTHEROS</p>
+<p>- The United Nations peacekeeping force in Cyprus sets an informal deadline of two weeks for the national guard and Turkish forces to take a position on U.N. proposals to reduce military tension.</p>
+<p>SIMERINI</p>
+<p>- The British and American initiative on the Cyprus problem has an expiry date. Britain wants talks between the two sides concluded by the summer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

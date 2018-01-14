@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32513" id="root" date="1996-09-04" xml:lang="en">
+<title>PAKISTAN: Pakistan rupee down despite denial of devaluation.</title>
+<headline>Pakistan rupee down despite denial of devaluation.</headline>
+<dateline>KARACHI, Pakistan 1996-09-04</dateline>
+<text>
+<p>The Pakistani rupee opened 0.02 down in the kerb market at 39.30 to the dollar on Wednesday on rumours, officially denied, of a possible devaluation, dealers said.</p>
+<p>One dealer said the rupee was likely to close lower on higher demand for the dollar from investors.</p>
+<p>The State (central) Bank of Pakistan rate, last changed on August 29, was 35.6200/35.7981. An official at the bank denied that any rupee devaluation was planned.</p>
+<p>The premium on foreign exchange bearer certificates opened unchanged at 10.00 percent. -- Ibrahim Khan 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

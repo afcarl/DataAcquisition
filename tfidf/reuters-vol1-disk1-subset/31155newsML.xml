@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31155" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: Cray Electronics changes name to Anite Group.</title>
+<headline>Cray Electronics changes name to Anite Group.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Cray Electronics Holdings Plc said it will change its name to Anite Group Plc with effect from October 1, seeking shareholder approval for the change at an EGM convened for September 26.</p>
+<p>It said Cray Research, a U.S. company involved in computers and software, had agreed to buy the goodwill associated with the Cray name for 100,000 stg.</p>
+<p>Cray said the possibility of confusion between the two companies had grown as Cray Electronics moved away from its original defence, electronics and engineering business towards data communications and software.</p>
+<p>Cray said it made provision in its accounts for the year ended April 30, 1996 for the costs associated with the change.</p>
+<p>The deal was reached after Cray Research issued legal proceedings in 1995 to protect its rights to the name. -- London Newsroom +44 171 542 7717.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

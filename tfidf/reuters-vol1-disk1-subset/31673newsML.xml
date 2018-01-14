@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31673" id="root" date="1996-09-04" xml:lang="en">
+<title>UKRAINE: German banker urges Ukraine to issue foreign bonds.</title>
+<headline>German banker urges Ukraine to issue foreign bonds.</headline>
+<dateline>KIEV 1996-09-04</dateline>
+<text>
+<p>Ukraine should face no obstacles in issuing foreign currency bonds on foreign markets as long as it sticks to stable policies, a senior German banker said on Wednesday.</p>
+<p>&quot;I think Ukraine should go ahead with its plans and issue the bonds, just like Hungary, the Czech Republic and Poland have done,&quot; Commerzbank AG board member Klaus-Peter Mueller said during a visit to the Ukraine Interbank Currency Exchange.</p>
+<p>&quot;The chief factors necessary to issue such bonds are stable economic and fiscal policies,&quot; he said.</p>
+<p>Ukraine's central bank chairman Viktor Yushchenko said on Tuesday Ukraine plans to issue foreign bonds next year to raise $250 million towards covering its budget deficit.</p>
+<p>Yushchenko said details about times and volumes would be released once the government passes its 1997 budget. --Natalya Zinets, Kiev Newsroom +380 44 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

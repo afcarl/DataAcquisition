@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133136" id="root" date="1996-10-22" xml:lang="en">
+<title>SLOVENIA: PRESS DIGEST - Slovenia - Oct 22.</title>
+<headline>PRESS DIGEST - Slovenia - Oct 22.</headline>
+<text>
+<p>DELO</p>
+<p>- The European parliament is expected to ratify Slovenia's association agreement with the European Union, signed on June 10, at its session in Strasbourg today.</p>
+<p>- Minister of Education Slavko Gaber officially opened a primary school in Sarajevo. The school was reconstructed with the aid of Slovenia's government.</p>
+<p>- Troubled bus and truck maker TAM, based in Maribor, will have to be liquidated after a deal with Saudi Arabia on the sale of 500 buses failed. TAM's management on Monday accused the government of non-cooperation.</p>
+<p>- Negotiations between employers and unions will continue on Tuesday in a drive to reach an agreement over work benefits before a scheduled two-hour general strike on Thursday.</p>
+<p>- Unemployment in August rose to 13.5 percent, up 2.4 percent from a year ago, SLovenia's Statistical Office said.</p>
+<p>DNEVNIK</p>
+<p>- Share of agriculture in Slovenia's 1995 gross domestic product was 4.3 percent down from a total of 4.9 percent in 1992, Agriculture Minister Joze Osterc said.</p>
+<p>REPUBLIKA</p>
+<p>- The reconstructed department of hematology at Ljubljana's clinical centre was reopened on Monday. The modernized department will enable up to 25 transplantations of bone marrow per year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

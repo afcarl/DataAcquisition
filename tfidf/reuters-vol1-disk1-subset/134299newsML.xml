@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134299" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Barrick Gold Q3 falls on Peru charge.</title>
+<headline>Barrick Gold Q3 falls on Peru charge.</headline>
+<dateline>TORONTO 1996-10-22</dateline>
+<text>
+<p>Barrick Gold Corp reported lower third-quarter earnings on Tuesday, blaming the drop on a US$38 million charge for bailing out of its Cerro Corona project in Peru.</p>
+<p>Net income for the quarter fell to US$21 million or US$0.06 a share from US$67.7 million or US$0.19 cents per share a year earlier.</p>
+<p>The Cerro Corona project cut earnings by US$0.10 a share, the company said.</p>
+<p>Gold production rose in the quarter to 767,000 ounces from 734,000 ounces in the same period last year.  </p>
+<p>Cash operating costs in the quarter rose to US$203 an ounce from US$194 an ounce a year earlier, Barrick said.</p>
+<p>But the average price the company received for its gold in the first nine months was US$415 an ounce, compared with an average spot price of US$392. The company said its hedging program helped it boost the average price.</p>
+<p>Barrick completed its US$800 million acquisition of Arequipa Resources Ltd during the quarter. It also began production at its 400,000 ounce a year Meikle mine in Nevada and increased reserves at its Pascua mine in Chile, Barrick said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

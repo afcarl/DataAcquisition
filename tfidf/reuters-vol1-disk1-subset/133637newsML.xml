@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133637" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: City of Jacksonville, Fla., $61 mln issue.</title>
+<headline>City of Jacksonville, Fla., $61 mln issue.</headline>
+<text>
+<p>CITY OF JACKSONVILLE FLORIDA</p>
+<p>RE: $61,205,000</p>
+<p>EXCISE TAX REVENUE BONDS</p>
+<p>THE WRITTEN AWARD IS EXPECTED THIS EVENING.</p>
+<p>TRADE DATE WILL PROBABLY BE TOMORROW, OCTOBER 23, 1996.</p>
+<p>Merrill Lynch &amp; Co.</p>
+<p>A.G. Edwards &amp; Sons, Inc.</p>
+<p>Bear, Stearns &amp; Co. Inc.</p>
+<p>Raymond, James &amp; Associates, Inc.</p>
+<p>WR Lazard, Laidlaw &amp; Luther</p>
+<p>Smith Barney Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

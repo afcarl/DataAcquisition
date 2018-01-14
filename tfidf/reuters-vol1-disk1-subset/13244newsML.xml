@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13244" id="root" date="1996-08-25" xml:lang="en">
+<title>ISRAEL: U.S. F-14 catches fire while landing in Israel.</title>
+<headline>U.S. F-14 catches fire while landing in Israel.</headline>
+<dateline>JERUSALEM 1996-08-25</dateline>
+<text>
+<p>A U.S. fighter plane blew a tyre and caught fire while landing on Sunday at Israel's Ben Gurion airport, an airport spokesman said.</p>
+<p>&quot;A U.S. F-14 military plane while landing at Ben Gurion airport blew a wheel and a fire broke out,&quot; said spokesman Yehiel Amitai, adding that the two pilots on board were not injured.</p>
+<p>&quot;Airport officials declared an emergency situation at the highest level and the fire brigade put out the flames while the plane was landing,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

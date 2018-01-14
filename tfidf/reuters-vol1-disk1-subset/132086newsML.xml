@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132086" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Key Dec 10-yr JGB futures set record high in Tokyo.</title>
+<headline>Key Dec 10-yr JGB futures set record high in Tokyo.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Key December Japanese government bond futures rose to 123.62 on the Tokyo Stock Exchange in Monday afternoon trading, setting an all-time high for any benchmark futures contract, traders said.</p>
+<p>The December contract later rose to a high of 123.70.</p>
+<p>Its previous high was 123.61 set on October 9 on the London International Financial Futures Exchange.</p>
+<p>The rise was mostly led by the unwinding of short JGB positions and long Nikkei 225 futures which foreign speculators built last week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

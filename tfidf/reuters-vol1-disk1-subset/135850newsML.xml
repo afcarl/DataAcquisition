@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135850" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: U.S. Corporate Earnings IBES Surprise Data.</title>
+<headline>U.S. Corporate Earnings IBES Surprise Data.</headline>
+<text>
+<p>Includes all companies that have reported EPS and have at least one quarterly estimate in I/B/E/S.  Reported EPS are compared to I/B/E/S mean to calculate a surprise factor.</p>
+<p>--------------------------------------------------------</p>
+<p>COMPANY			  MEAN ESTIMATE</p>
+<p>ELI LILLY CO		   $0.64</p>
+<p>AVERY DENNISON		 $0.80</p>
+<p>MONSANTO CO		    $0.24</p>
+<p>ECOLAB INC		     $0.52</p>
+<p>COOPER INDS INC		$0.67</p>
+<p>CAROLINA PWR &amp; LGT	   $0.92</p>
+<p>KIMBERLY CLARK		 $1.21</p>
+<p>FRUIT OF LOOM		  $0.57</p>
+<p>US SURGICAL		    $0.35</p>
+<p>TIMES MIRROR		   $0.37</p>
+<p>LOCKHEED MARTIN		$1.52</p>
+<p>PACIFIC ENTERP		 $0.56</p>
+<p>BRISTOL MYERS SQ	     $1.48</p>
+<p>HALLIBURTON		    $0.69</p>
+<p>LINCOLN NATIONAL	     $1.07</p>
+<p>UNION ELEC CO		  $1.73</p>
+<p>NORTHN TELECOM		  $0.41</p>
+<p>BEVERLY ENTS		   $0.22</p>
+<p>WESTN ATLAS		    $0.66</p>
+<p>STONE CONTAINER	     -$0.43</p>
+<p>AVON PRODS INC		 $0.46</p>
+<p>GIDDINGS &amp; LEWIS	    $0.16</p>
+<p>WARNER LAMBERT		 $0.54</p>
+<p>CON EDISON CO		   $1.25</p>
+<p>BALLY ENTERTMNT		$0.38</p>
+<p>FRPT MCMO COPPER	     $0.23</p>
+<p>EASTERN ENTERPR	     -$0.05</p>
+<p>INTERPUBLIC GROUP	    $0.33</p>
+<p>AMERN HOME PROD		$0.77</p>
+<p>AMERN BRANDS		   $0.80</p>
+<p>ARMCO INC			 $0.05</p>
+<p>EG &amp; G INC		     $0.30</p>
+<p>GRT LAKES CHEM		 $1.09</p>
+<p>GREEN TREE FINL		$0.61</p>
+<p>KNIGHT RIDDER INC	    $0.37</p>
+<p>MCI COMMS		     $0.44</p>
+<p>PHILIP MORRIS		   $2.01</p>
+<p>NYNEX CORP		     $0.93</p>
+<p>SANTA FE ENG RES	     $0.15</p>
+<p>TENNECO			  $0.68</p>
+<p>USLIFE CORP		    $0.80</p>
+<p>BURLINGTON NORTHN	    $1.60</p>
+<p>DUKE POWER CO		  $1.28</p>
+<p>BOSTON SCIENTIFIC	    $0.39</p>
+<p>AMERN GENERAL CORP	   $0.87</p>
+<p>MELVILLE CORP		  $0.26</p>
+<p>BARRICK GOLD CORP	    $0.19</p>
+<p>CYPRUS AMAX MINERL	   $0.26</p>
+<p>NEWELL COS INC		 $0.48</p>
+<p>BEMIS INC			$0.46</p>
+<p>ENSERCH CORP		  -$0.15</p>
+<p>SALOMON INC		    $1.30</p>
+<p>INTERGRAPH		    -$0.09</p>
+<p>DIGITAL EQUIP		 -$0.18</p>
+<p>GPU INC			  $1.06</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I32870">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I49540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

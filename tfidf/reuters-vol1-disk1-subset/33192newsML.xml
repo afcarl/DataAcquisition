@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33192" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Tunisia seeks 125,000 tonnes optional wheat -trade.</title>
+<headline>Tunisia seeks 125,000 tonnes optional wheat -trade.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Tunisia will tender on September 5 to import 125,000 tonnes of optional-origin soft wheat for shipment in October, November and December, European grain traders said on Wednesday.  </p>
+<p>Tunisia is seeking the wheat in five shipments of 25,000 tonnes each.</p>
+<p>Shipment dates break down as follows-</p>
+<p>    Tonnage		    Shipment dates</p>
+<p>    25,000		    October  15-25</p>
+<p>    25,000		    November  1-10</p>
+<p>    25,000		    November 15-25</p>
+<p>    25,000		    December  1-10</p>
+<p>    25,000		    December 15-25</p>
+<p>-- Paris newsroom +331 421 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

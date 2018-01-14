@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132287" id="root" date="1996-10-21" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - FRANCE - LE MONDE OCT 21.</title>
+<headline>PRESS DIGEST - FRANCE - LE MONDE OCT 21.</headline>
+<dateline>PARIS 1996-10-21</dateline>
+<text>
+<p>These are leading stories in afternoon daily Le Monde.</p>
+<p>FRONT PAGE</p>
+<p>-- President Jacques Chirac visits Israel. Prime Minister Benjamin Netanyahu refuses European co-monitoring of jeopardised U.S.-brokered peace process between Israel and Palestinians.</p>
+<p>BUSINESS PAGES</p>
+<p>-- Some French businessmen may express interest in Thomson subsidiary Thomson Multimedia, challenging plans by Daewoo Electronics to buy TMM as part of Lagardere bid for Thomson, but government officials say they doubt offers can be submitted this late.</p>
+<p>-- Lorraine officials criticise JVC plan to relocate in Scotland.</p>
+<p>-- CIC bank chairman's public comments on negative effects of privatisation may lead to his dismissal.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

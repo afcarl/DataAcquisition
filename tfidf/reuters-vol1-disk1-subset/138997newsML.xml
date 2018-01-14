@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138997" id="root" date="1996-10-24" xml:lang="en">
+<title>AUSTRALIA: GOLF-PLAYERS' CHAMPIONSHIP FIRST ROUND SCORES.</title>
+<headline>GOLF-PLAYERS' CHAMPIONSHIP FIRST ROUND SCORES.</headline>
+<dateline>GOLD COAST, Australia 1996-10-24</dateline>
+<text>
+<p>Leading first round</p>
+<p>scores in the Players' Championship golf tournament at the</p>
+<p>par-71 Robina Woods course on Thursday (Australian unless</p>
+<p>stated):</p>
+<p>65 Craig Spence, J.J.West (U.S.)</p>
+<p>67 Scott Laycock, Justin Cooper</p>
+<p>68 Shane Tait</p>
+<p>69 Richard Backwell, Dominique Boulet (Hong Kong), Eric Rustand</p>
+<p>(U.S.), Stephen Leaney, Tony Christie (New Zealand)</p>
+<p>70 Craig Jones, Peter Teravainen (U.S.), Anthony Painter,</p>
+<p>Bradley Hughes, Rodney Pampling</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOLD COAST, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

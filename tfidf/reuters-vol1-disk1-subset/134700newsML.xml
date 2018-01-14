@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134700" id="root" date="1996-10-22" xml:lang="en">
+<title>DUBAI: British minister in Saudi Arabia for talks.</title>
+<headline>British minister in Saudi Arabia for talks.</headline>
+<dateline>DUBAI 1996-10-22</dateline>
+<text>
+<p>Britain's minister for the armed forces Nicholas Soames will meet Saudi Arabia's Crown Prince Abdullah as part of a private visit to the kingdom, a British embassy spokesman said on Tuesday.</p>
+<p>Soames arrived in the Saudi capital Riyadh on Monday night. He is also due to visit British forces in the Gulf Arab state before departing on Thursday, the spokesman said.</p>
+<p>Soames previously held talks in Bahrain with the emir.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134822" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Rome hit by public transport strike.</title>
+<headline>Rome hit by public transport strike.</headline>
+<dateline>ROME 1996-10-22</dateline>
+<text>
+<p>Traffic slowed to a crawl in Rome on Tuesday as a strike forced Romans who normally take public transport to use private cars or taxis.</p>
+<p>The eight-hour strike by workers demanding a new contract halted most bus, tram and underground services. Some overland commuter rail lines were also affected.</p>
+<p>Transport workers in the rest of Italy went on strike last week but Rome authorities asked local unions to postpone theirs so that it would not coincide with a visit by a committee due to rule on the capital's bid to host the 2004 Olympics.</p>
+<p>On Wednesday city officials said most private traffic would be banned from the city centre because of high air pollution levels.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

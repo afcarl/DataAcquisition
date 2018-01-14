@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133733" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Mich. officials seek source of Legionnaires disease.</title>
+<headline>Mich. officials seek source of Legionnaires disease.</headline>
+<byline>David Lawder</byline>
+<dateline>FARMINGTON HILLS, Mich. 1996-10-22</dateline>
+<text>
+<p>Health officials seeking to pinpoint the source of a deadly outbreak of Legionnaires disease sampled water from 47 rooftop air conditioning towers here on Tuesday.</p>
+<p>But even if the pneumonia-like illness is attributed to a single commercial building, officials may have no recourse against the owner, the manager of Oakland County's Health Division said.</p>
+<p>Two elderly women died from the illness last week. No new cases have been diagnosed in the past 24 hours, but about 16 of 24 patients with the respiratory disease remained hospitalized on Tuesday, officials said.</p>
+<p>Investigators believe the outbreak was caused by an air conditioning cooling tower on top of a commercial building in Farmington or Farmington Hills, Mich., said Rosemarie Rowney, manager of the Oakland County Health Division.</p>
+<p>Most of those infected lived in, worked in or passed through a six square-mile area of the two northwestern Detroit suburbs.</p>
+<p>Rowney said, however, that officials believe the threat of new infections has passed.</p>
+<p>The legionella bacteria, first identified in 1976 after members of the Pennsylvania American Legion contracted the disease in a hotel during a convention, can breed in standing water found in cooling and air conditioning equipment.</p>
+<p>Patients can become infected by inhaling tiny water droplets containing the bacteria that are emitted into the air by the equipment. Symptoms include fevers of 103 degrees or higher and pneumonia-like symptoms.</p>
+<p>&quot;Our medical people are calling it a plume of bacteria and these people inhaled it,&quot; Rowney said.</p>
+<p>Most of the patients were infected at the end of September and were elderly or had weakened immune systems or other health problems. Nonetheless, a 94-year-old woman from Farmington Hills was sent home on Tuesday, said a spokeswoman for Providence Hospital in Southfield, Mich.</p>
+<p>Samples of water and &quot;slime&quot; from the insides of the cooling towers were sent to a state-run laboratory in Lansing, Mich., for analysis, Rowney said.</p>
+<p>Although investigators told several building owners that they needed to clean out their cooling towers, Rowney said she knows of no laws or health standards that require building owners to properly maintain their air conditioning systems to keep them free of bacteria.</p>
+<p>In fact, the department had no record of which buildings in the area have such air conditioning cooling towers. &quot;We had to identify them by doing an aerial fly-over in a helicopter,&quot; Rowney said. &quot;There is no regulation on this type of unit.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARMINGTON HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

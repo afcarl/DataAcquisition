@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133840" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: NASA launch site director to retire.</title>
+<headline>NASA launch site director to retire.</headline>
+<dateline>CAPE CANAVERAL, Fla 1996-10-22</dateline>
+<text>
+<p>Kennedy Space Centre director Jay Honeycutt announced Tuesday he would leave the National Aeronautics and Space Administration early next year.</p>
+<p>Honeycutt, who played an important role in NASA's effort to privatise the day-to-day running of the shuttle programme, said it had always been his intention to retire after two years as director of the Florida launch site.</p>
+<p>&quot;It doesn't have anything to do with the changes that are going on, it's just time for me to go do something different,&quot; he said.</p>
+<p>In late September NASA signed a $7 billion contract with United Space Alliance, a joint venture of Lockheed Martin and Rockwell International, starting the transition to a single private contractor for shuttle launch preparations.</p>
+<p>Honeycutt said the greatest challenge facing his successor would be to make the privatisation a success.</p>
+<p>He rejected claims by some space centre employees and outside groups that privatisation would threaten shuttle flight safety.</p>
+<p>&quot;I think we are as safe today as we have ever been,&quot; he said. &quot;We continue to get safer by the day as we learn more about the hardware and how to handle it.&quot;</p>
+<p>Honeycutt, who has worked in the space programme since 1960, has overseen 13 successful shuttle launches as director of the Florida spaceport.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

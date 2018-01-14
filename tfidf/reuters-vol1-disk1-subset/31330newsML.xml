@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31330" id="root" date="1996-09-04" xml:lang="en">
+<title>BELGIUM: BELGIAN RECTICEL SWINGS TO H1 96 LOSS.</title>
+<headline>BELGIAN RECTICEL SWINGS TO H1 96 LOSS.</headline>
+<dateline>BRUSSELS 1996-09-04</dateline>
+<text>
+<p>Six months to June 30, 1996 (in</p>
+<p>millions of Belgian francs unless stated):</p>
+<p>    Group net profit(loss)	(233)  vs  192</p>
+<p>    Cons turnover/sales (bln)    17.3  vs 16.0</p>
+<p>    Cash flow			  367   vs  810</p>
+<p>    Cons operating profit	  175   vs  441</p>
+<p>    Cons financial charges	 258   vs  219</p>
+<p>    Cons current profit(loss)   (174)  vs  152</p>
+<p>    Extraordinary gain(loss)    ( 27)  vs   97</p>
+<p>NOTE - Recticel SA is a Belgian</p>
+<p>industrial foam products maker.</p>
+<p>The company is controlled by holding company Societe</p>
+<p>Generale de Belgique .</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

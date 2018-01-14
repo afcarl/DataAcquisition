@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135751" id="root" date="1996-10-23" xml:lang="en">
+<title>ITALY: ALPINE SKIING-TOMBA OUT OF ACTION FOR UP TO 20 DAYS.</title>
+<headline>ALPINE SKIING-TOMBA OUT OF ACTION FOR UP TO 20 DAYS.</headline>
+<dateline>MILAN, Italy 1996-10-23</dateline>
+<text>
+<p>Italian Olympic and world Alpine skiing champion Alberto Tomba has been ordered to rest for up to 20 days after injuring himself while training on a glacier.</p>
+<p>Tomba fell heavily, injuring his left knee and right wrist, at a training session in northern Italy on Tuesday and had to go to hospital for checks.</p>
+<p>&quot;Tomba will have to rest for 15-20 days before taking up competitive activity,&quot; the Italian winter sports' federation said on Wednesday.</p>
+<p>The triple Olympic champion, who trains apart from other Italian skiers, had already ruled out the season-opening race on the glacier in Solden, Austria, at the weekend.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

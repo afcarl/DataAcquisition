@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132497" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Dial Q3 shr loss $0.28 with charges.</title>
+<headline>Dial Q3 shr loss $0.28 with charges.</headline>
+<dateline>PHOENIX 1996-10-22</dateline>
+<text>
+<p>The Dial Corporation</p>
+<p>				    Summary of Results</p>
+<p>				  (Unaudited)</p>
+<p>					 In Millions</p>
+<p>				    Quarter Ended   Nine Months Ended</p>
+<p>				   Sep 28, Sep 30,   Sep 28,  Sep 30,</p>
+<p>					1996    1995     1996	1995</p>
+<p> Revenues			 $350.5  $308.1  $1,056.7 $1,009.9</p>
+<p>Before Restructuring Charges:</p>
+<p>   Operating Income	     23.6    31.6     103.0    116.4</p>
+<p>Income Before Income Taxes</p>
+<p>					17.2    24.9	86.8    100.3</p>
+<p>   Net Income		     10.5    16.8	51.8     62.9</p>
+<p>   Net Income Per Share	 0.12    0.19	0.57     0.70</p>
+<p> Restructuring Charges	  55.0   156.0	55.0    156.0</p>
+<p> Spin-Off Expenses		 1.0		   5.0</p>
+<p>					56.0   156.0	60.0    156.0</p>
+<p> Income Tax Benefit	     20.0    61.1	21.6     61.1</p>
+<p>	  Total		     36.0    94.9	38.4     94.9</p>
+<p> Net (Loss) Income	    (25.5)  (78.1)	13.4   (32.0)</p>
+<p>Net (Loss) Income Per Share</p>
+<p>				   (0.28) (0.87)(a)    0.15 (0.36)(a)</p>
+<p>Average Outstanding Common</p>
+<p> and Equivalent Shares	 89.7    89.7	90.6     89.7</p>
+<p>NOTE: (a)  Per share amounts have been furnished on a pro forma basis for 1995 even though there were no shares outstanding.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

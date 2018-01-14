@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32143" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: N.Y. close to deciding whether to sue tobacco cos.</title>
+<headline>N.Y. close to deciding whether to sue tobacco cos.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Concerned that efforts to press tobacco companies to reform how they sell cigarettes might fall short, New York State on Wednesday said it is close to deciding whether to join other states in suing the firms.</p>
+<p>A spokesman for the state attorney general, Dennis Vacco, said, &quot;He has been working behind the scenes with other states to force changes. He said he is close to filing a lawsuit if he does not see some changes.&quot;</p>
+<p>At least 14 other states have sued cigarette makers to recover the healthcare costs of treating smokers.</p>
+<p>The New York attorney general has not, however, set a timetable for making his decision, and has expressed concerns about the time and costs of such litigation, added the spokesman, Joe Mahoney.</p>
+<p>By delaying its decision, the state has been able to participate in talks between other states and tobacco companies without jeopardizing New York's ability to recover damages if the states that have sued should prevail, he added.</p>
+<p>One of the reforms the New York attorney general has sought is getting tobacco companies to stop advertising their products in ways that appear targeted to children, the spokesman said. He did not disclose any other changes that Vacco might be urging the tobacco companies to make.</p>
+<p>In 1993, New York state spent an estimated $650 million in Medicaid payments to treat diseases that can be traced back to smoking, Mahoney said.</p>
+<p>The White House in late August approved Food and Drug Administration regulation of cigarettes in an effort to keep them away from children. A group of attorneys general has proposed a settlement with cigarette makers that calls for the firms to pay $6 billion in the first year to compensate all 50 states for the Medicaid costs of smokers.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

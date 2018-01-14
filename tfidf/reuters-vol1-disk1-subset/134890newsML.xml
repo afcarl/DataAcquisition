@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134890" id="root" date="1996-10-22" xml:lang="en">
+<title>NETHERLANDS: Dutch farmers cash in on mad cow beef scare.</title>
+<headline>Dutch farmers cash in on mad cow beef scare.</headline>
+<dateline>AMSTERDAM 1996-10-22</dateline>
+<text>
+<p>The Dutch meat sector has made a net 400 million guilder ($233 million) profit from the &quot;mad cow&quot; crisis, as farmers benefited from soaring prices for beef alternatives, according to a survey published on Tuesday.</p>
+<p>The health scare sparked by Britain in March over the possible transmission to humans of BSE (bovine spongiform encephalopathy) caused many consumers to switch from beef to other meats, pushing up chicken and pork prices in particular.</p>
+<p>The resulting fall in beef prices cost Dutch farmers 81 million guilders ($47 million) between March and July, the period covered in the survey conducted by the Agricultural University of Wageningen.</p>
+<p>But other Dutch farmers, who have a relatively large share of European chicken and pork production, saw earnings rocket.</p>
+<p>The survey estimates extra profits for pig farmers at 394 million guilders ($229 million), at 16 million guilders ($9.3 million) for chicken farmers and 15 million ($9 million) for veal producers.</p>
+<p>Once government and European Union compensation payments of 47 million guilders ($27 million) were added in, the sector showed a net profit of nearly 400 million guilders over the period, the survey said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100119">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

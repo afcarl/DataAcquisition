@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135415" id="root" date="1996-10-22" xml:lang="en">
+<title>HONG KONG: M.C. Packaging off, Merrill downgrades.</title>
+<headline>M.C. Packaging off, Merrill downgrades.</headline>
+<dateline>HONG KONG 1996-10-22</dateline>
+<text>
+<p>M.C. Packaging (Hong Kong) Ltd shares fell 8.9 percent in early Tuesday after being downgraded by Merrill Lynch, brokers said.</p>
+<p>Merrill Lynch said in a report dated October 15 that it downgraded the stock to neutral from accumulate following disappointing interim results.</p>
+<p>Shares in M.C. Packaging fell 22.5 cents to HK$2.30 in early trade with a total of 2.95 million shares traded.  </p>
+<p>Brokers also said Lam Soon (Hong Kong) Ltd's announcement earlier this year that it has appointed an adviser concerning the possible disposal of its controlling interest in M.C. Packaging also hurt sentiment.</p>
+<p>Food processor Lam Soon held 50.3 percent of M.C. Packaging as in April. -- HONG KONG NEWSROOM (852) 2843 6369</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

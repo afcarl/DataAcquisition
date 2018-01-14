@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132231" id="root" date="1996-10-21" xml:lang="en">
+<title>ITALY: Olivetti firmer in Milan on board news.</title>
+<headline>Olivetti firmer in Milan on board news.</headline>
+<dateline>MILAN 1996-10-21</dateline>
+<text>
+<p>Italy's troubled hi-tech group Olivetti was higher on the Milan bourse, making up for a loss of around five percent on Friday, boosted by news of board changes, traders said.</p>
+<p>The share opened 3.91 percent up at 470 lire. At 0847 GMT it was 2.81 percent higher at 465 lire.</p>
+<p>On Friday Olivetti stock hit a new record low of 445 lire and closed at 452.3 lire, before the company announced it had appointed four new board members. It also added an extra member to its four-strong executive committee.</p>
+<p>The new directors were Gerard Worms, chairman of the board of general partners of Rothschild Bank, Gordon Owen, chairman of telecoms group Energis, Bruno Lamborghini and a specialist in international law, Dario Trevisan.</p>
+<p>Olivetti said it had also decided to enlarge its executive committee by appointing Peter Reimpell, a prominent member of the German banking world and a current Olivetti director.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

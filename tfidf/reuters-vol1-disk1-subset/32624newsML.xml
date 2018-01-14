@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32624" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Four accused of partisan fund-raising at USDA.</title>
+<headline>Four accused of partisan fund-raising at USDA.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>The U.S. Department of Justice accused four men of conspiracy in the soliciting of campaign donations from colleagues at the U.S. Department of Agriculture in hopes it would aid their careers if Bill Clinton won the 1992 presidential election, court documents showed Wednesday.</p>
+<p>The Justice Department filed the documents Tuesday.</p>
+<p>The documents showed the four men were civil service employees at USDA.  </p>
+<p>Federal law restricts political activity and prohibits promises of employment-related benefits in exchange for political activity.</p>
+<p>The document said two of the defendents, Jack L. Webb and Jeffress A. Wells, prepared lists of USDA employees who deserved favorable treatment and, along with several other USDA employees, met in 1993 with a Clinton administration executive &quot;to inquire about employment-related benefits they might receive.&quot;</p>
+<p>The executive, who was not identified, was described as former head of the political action committee that received the donations from USDA employees.</p>
+<p>The meeting was arranged by an unnamed USDA appointee who helped raise funds for the PAC while a private worker in 1992.</p>
+<p>Named in the documents were Webb, Wells, Jack S. Forlines and Grady L Bilberry. All held supervisory positions during 1992.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

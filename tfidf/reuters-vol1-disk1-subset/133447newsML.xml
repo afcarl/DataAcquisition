@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133447" id="root" date="1996-10-22" xml:lang="en">
+<title>NEW ZEALAND: FCL Energy wins C$220 mln co-generation project.</title>
+<headline>FCL Energy wins C$220 mln co-generation project.</headline>
+<dateline>WELLINGTON 1996-10-23</dateline>
+<text>
+<p>Fletcher Challenge Energy said on Wednesday it had been named preferred developer for a C$220 million (NZ$230 million) cogeneration project in British Columbia, Canada.</p>
+<p>The company said detailed financial arrangements had not yet been determined, but it was envisaged that the project would be financed with non-recourse project-related debt.  </p>
+<p>The project is to develop a 240-megawatt gas-fired cogeneration facility adjacent to the Elk Falls mill of Fletcher Challenge Paper on Vancouver Island, British Columbia.</p>
+<p>FCL Energy is a 60 percent partner in the venture, with 40 percent held by Westcoast Power Inc, a wholly-owned subsidiary of Canadian gas utility Westcoast Energy Inc.</p>
+<p>Subject to completion of contractual negotiations and approval from the FCL board, construction is expected to begin in the first half of 1998.  </p>
+<p>FCL Energy Chief Executive Michael Andrews said the project would be a significant step in the company's growth as an integrated energy company with a strong position in the Canadian industry.</p>
+<p>&quot;The project is economically attractive, with a high probability of achieving returns in excess of our cost of capital,&quot; he said. -- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

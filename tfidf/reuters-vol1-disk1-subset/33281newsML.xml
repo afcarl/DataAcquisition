@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33281" id="root" date="1996-09-04" xml:lang="en">
+<title>SWITZERLAND: Swiss KOF indicator shows economy stalled in July.</title>
+<headline>Swiss KOF indicator shows economy stalled in July.</headline>
+<dateline>ZURICH 1996-09-04</dateline>
+<text>
+<p>Switzerland's KOF economic barometer, a measure of Swiss leading indicators, was unchanged in July versus June, the KOF institute at the Zurich Federal Technical College (ETH) said on Wednesday.</p>
+<p>The July index was up 0.6 percent compared with the level of July 1995.</p>
+<p>The revised index for June showed a gain of 0.5 percent versus the year-ago month.</p>
+<p>It said after a small upward trend in the first half of 1996, the second half of 1996 was also likely to continue to show a slight improvement.</p>
+<p>KOF said its individual indices showed activity in the building sector continuing to decline while orders in the machinery sector steadied at low levels. The employment outlook was mixed, with expectations for industrial employment showing gains, but newspaper job postings declining. The monetary indicator showed a slightly negative trend for the second month in a row.</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

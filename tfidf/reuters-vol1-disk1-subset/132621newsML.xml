@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132621" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: IPO HIGHLIGHTS - Ontrack, Alyn rise.</title>
+<headline>IPO HIGHLIGHTS - Ontrack, Alyn rise.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Ontrack Data International Inc and Alyn Corp both made splashy market debuts on Tuesday after their initial public offerings.</p>
+<p>Ontrack Data shares jumped 25 percent, up three to 15. The Eden Prairie, Minn., company sold 2.0 million shares and selling shareholders offered 700,000 for $12 each in the IPO, which was led by Montgomery Securities. Ontrack offers data recovery services.</p>
+<p>Alyn Corp shares climbed 1-7/8 to 15-3/8 after their market debut. The Irvine, California company develops consumer and industrial products using advanced metal matrix composite materials. Alyn posted net losses in 1995 and 1994, according to its prospectus.  </p>
+<p>-- Worldwide Entertainment Inc made its market debut late in the session. The units opened at 6-1/2, up 1/2 from their IPO price of $6. The units are trading temporarily under the symbol &quot;WWEUV&quot; although their permanent symbol is expected to be &quot;WWESU&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135394" id="root" date="1996-10-22" xml:lang="en">
+<title>THAILAND: Two groups submit BBC bank revival plans.</title>
+<headline>Two groups submit BBC bank revival plans.</headline>
+<dateline>BANGKOK 1996-10-22</dateline>
+<text>
+<p>Ailing Bangkok Bank of Commerce Plc, administered by a government-appointed panel since May, said it had received two proposals to revive the company.</p>
+<p>A BBC official said two Thai investor groups had submitted plans to take over the bank before a Tuesday morning deadline.</p>
+<p>Nithipat Capital Plc has said it would apply for a right to rehabilitate BBC in return for its banking licence. SITCA Investment and Securities Plc leads a separate group seeking to run the medium size Thai bank.</p>
+<p>BBC has been suspended since May when the central bank said it was saddled with over 70 billion baht ($2.75 billion) of risky and non-performing loans.</p>
+<p>The government is expected to take about 10 days in its initial review of rehabilitation proposals by private groups.</p>
+<p>BBC required financial rescue earlier this year after disclosure of its loan problems by opposition politicians in parliament triggered a heavy public run on its deposits.</p>
+<p>($1 = 25.47 baht)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

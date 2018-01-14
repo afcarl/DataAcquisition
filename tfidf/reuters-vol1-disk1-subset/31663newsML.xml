@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31663" id="root" date="1996-09-04" xml:lang="en">
+<title>SLOVAKIA: Slovak FinMin rejects bids in 3-wk T-bill auction.</title>
+<headline>Slovak FinMin rejects bids in 3-wk T-bill auction.</headline>
+<dateline>BRATISLAVA 1996-09-04</dateline>
+<text>
+<p>The Slovak finance ministry on Wednesday rejected all 323 bids in its auction of an unspecified tranche of three-week T-bills, the National Bank of Slovakia (NBS) said on Wednesday.</p>
+<p>Ministry officials were not immediately available for comment.</p>
+<p>-- Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132144" id="root" date="1996-10-21" xml:lang="en">
+<title>THAILAND: National Finance Q3 net profit higher.</title>
+<headline>National Finance Q3 net profit higher.</headline>
+<dateline>BANGKOK 1996-10-21</dateline>
+<text>
+<p>Audited financial results for the first nine months ending September 30, 1996.</p>
+<p>		   (in millions of baht unless stated)</p>
+<p>				 Third quarter</p>
+<p>				   1996			1995</p>
+<p>    Shr (baht)		 1.26			1.13</p>
+<p>    Net			320.25		    283.11</p>
+<p>				 Nine months</p>
+<p>				   1996			1995</p>
+<p>    Shr (baht)		 3.84     vs	     5.36</p>
+<p>    Net			976.96     vs	 1,171.96</p>
+<p>NOTES: Company is a finance and securities firm.</p>
+<p>-- Bangkok newsroom 662-252-9950</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

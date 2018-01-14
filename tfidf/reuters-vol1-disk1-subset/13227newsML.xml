@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13227" id="root" date="1996-08-25" xml:lang="en">
+<title>SOUTH KOREA: South Pacific mutiny claims 12 lives, police say.</title>
+<headline>South Pacific mutiny claims 12 lives, police say.</headline>
+<dateline>SEOUL 1996-08-25</dateline>
+<text>
+<p>Twelve seamen are dead after an apparent mutiny in the South Pacific on a Honduran-registered fishing boat, Korean police said on Sunday.</p>
+<p>The boat was found by a Japanese maritime police vessel drifting without fuel early on Sunday.</p>
+<p>Ethnic Koreans from China apparently staged a shipboard uprising after complaints of hard work, the spokesman said by telephone from the port of Pusan.</p>
+<p>Among the dead are the South Korean captain, six other South Koreans, four Indonesians and one Chinese-Korean. All the bodies had been thrown overboard, the spokesman said.</p>
+<p>Thirteen crewmembers remained on the vessel, including six alleged mutineers who were all ethnic Korean Chinese and were now under the control of six Indonesians and a South Korean, the spokesman said.</p>
+<p>&quot;This is an obvious mutiny by Koreans from China who felt unhappy with their working conditions,&quot; he said.</p>
+<p>It was not immediately clear when the mutiny took place, but all contact with the ship, the Peskamar 15, was lost on August 3 as it sailed towards the South Pacific island of Samoa.</p>
+<p>The boat is managed by a South Korean fishing company, Daehyun, and was fishing for tuna.</p>
+<p>The spokesman said a Japanese vessel on Saturday picked up a distress signal from the stricken boat. The maritime vessel reached the scene early Sunday morning.</p>
+<p>South Korea's Yonhap news agency said the fishing boat left Pusan on July 14.</p>
+<p>Korean employers around Asia have earned a reputation for tough, and at times brutal, management of their workers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

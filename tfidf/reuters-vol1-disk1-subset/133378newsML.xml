@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133378" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: Mexico natl sugar demand wanes, HFCS imports up.</title>
+<headline>Mexico natl sugar demand wanes, HFCS imports up.</headline>
+<dateline>MEXICO CITY 1996-10-22</dateline>
+<text>
+<p>Mexico's domestic sugar demand is seen ending 1996 down around 17 percent to 3.32 million tonnes from the annual average of 4 million tonnes, a spokesman from the National Sugar Chamber said Tuesday.</p>
+<p>Francisco Sanchez de Cima told Reuters that the chamber, Mexico's umbrella group for industrialists, blamed the fall in national consumption on imports of high fructose corn syrup (HFCS) and on less sugar sales because of the recession.</p>
+<p>&quot;We estimate that HFCS imports have totaled around 350,000 equivalent tonnes to date,&quot; he said in an interview. He added that last year imports were minimal in comparison.  </p>
+<p>Sanchez said fructose traders were offering soft drinks producers up to 20 percent below sugar prices to buy the sugar substitute, eating into sugar domestic sales at what he called &quot;dumping prices&quot;.</p>
+<p>&quot;They are looking to substitute sugar with fructose in the soft drinks industry,&quot; he said.</p>
+<p>Mexican soda bottlers have traditionally consumed around 1.5 million tonnes of sugar per year, almost 30 percent of the national sugar output.</p>
+<p>&quot;If they achieve the substitution of these 1.5 million tonnes, it would mean around 25 medium-sized sugar mills would disappear, or the equivalent,&quot; he said.</p>
+<p>Mexican sugar industrialists are studying how they can launch legal action against HFCS importers for allegedly dumping the product on the domestic market at prices below production costs or below sales prices in the country of origin.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530. E-mail at chris.aspin@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

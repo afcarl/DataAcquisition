@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134059" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Italy Oct ind. output down 0.9 pct yr/yr-employers.</title>
+<headline>Italy Oct ind. output down 0.9 pct yr/yr-employers.</headline>
+<dateline>ROME 1996-10-22</dateline>
+<text>
+<p>Average daily industrial output has fallen an adjusted 0.9 percent year-on-year in October, employers' organisation Confindustria said in a regular survey.</p>
+<p>But on an adjusted month-on-month basis, industrial output rose 0.3 percent, Confindustria said.</p>
+<p>On an unadjusted basis, taking into account one extra working day this month, industrial output has risen 3.1 percent year-on-year in October.</p>
+<p>In the first 10 months of 1996, average daily output fell an average 0.8 percent compared with the same period last year.</p>
+<p>Sales of manufactured products rose an unadjusted 6.4 percent year-on-year in October, with foreign demand for Italian goods rising 8.7 percent and domestic demand up 3.9 percent.</p>
+<p>The Confindustria survey revealed a fall in both output and domestic sales for the car industry, as well as a fall in fresh orders. It gave no figures.</p>
+<p>New orders across the industrial sector fell 0.6 percent month-on-month in October. -- Rome newsroom +396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

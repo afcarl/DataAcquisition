@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15551" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Fidelity names two to head investment strategy.</title>
+<headline>Fidelity names two to head investment strategy.</headline>
+<dateline>BOSTON</dateline>
+<text>
+<p>Fidelity Investments portfolio managers Richard Habermann and Jonathan Weed on Tuesday were named joint chief investment strategists for Portfolio Advisory Services.</p>
+<p>The two men succeed Robert Beckwitt, who is leaving Fidelity to join Goldman Sachs, effective Sept. 1.</p>
+<p>For a minimum investment of $200,000, the advisory services unit provides investors with tailored investment management for a diversified portfolio of Fidelity mutual funds, the nation's largest mutual fund company said.</p>
+<p>Habermann heads the newly formed Asset Allocation Group, which in addition to Weed, also includes George Vanderheiden, manager of the Destiny and Fidelity Advisor Growth Opportunities funds.</p>
+<p>Before taking over as lead manager of Fidelity's Asset Manager funds, Habermann was division head for international equity funds and was involved with these funds' asset allocation strategies.</p>
+<p>Weed, who joined Fidelity in 1984, had been assisting Beckwitt with the management of advisory services. He helped originate Fidelity asset allocation discipline and also managed the company's $2 billion equity index mutual funds for more than five years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

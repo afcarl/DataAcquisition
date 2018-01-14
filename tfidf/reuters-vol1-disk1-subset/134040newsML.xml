@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134040" id="root" date="1996-10-22" xml:lang="en">
+<title>BELGIUM: Belgian car registrations up 12.86% in yr to Sept.</title>
+<headline>Belgian car registrations up 12.86% in yr to Sept.</headline>
+<dateline>BRUSSELS 1996-10-22</dateline>
+<text>
+<p>Belgian new car registrations rose by 12.86 percent in the year to September compared with the same year ago period, according to figures from the Belgian National Statistics Institute.</p>
+<p>Registrations were up 3.35 percent in September from September 1995.</p>
+<p>    BELGIAN CAR REGISTRATIONS Sept 96	 Sept 95</p>
+<p>    Month			   26,588	  25,727</p>
+<p>    Cumulative Jan-Sept	 331,947	 294,110</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

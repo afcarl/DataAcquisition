@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134504" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Home Shopping Network Q3 shr profit $0.07.</title>
+<headline>Home Shopping Network Q3 shr profit $0.07.</headline>
+<dateline>ST. PETERSBURG, Fla. 1996-10-22</dateline>
+<text>
+<p>HOME SHOPPING NETWORK, INC. AND SUBSIDIARIES</p>
+<p>CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p>				(In thousands, except per share data)</p>
+<p> Net sales		    $234,321 $217,567 $733,922 $658,841</p>
+<p> Cost of sales		 136,992  139,984  453,483  419,080</p>
+<p>   Gross profit		 97,329   77,583  280,439  239,761</p>
+<p>Operating profit (loss)</p>
+<p>				   11,799  (20,828)  24,457  (51,993)</p>
+<p>Earnings (loss) before income</p>
+<p>  taxes			  11,387  (25,852)  23,016  (55,748)</p>
+<p>Income tax expense (benefit)</p>
+<p>				    4,327  (8,151)    8,747  (19,512)</p>
+<p> NET EARNINGS (LOSS)	   7,060 (17,701)   14,269 (36,236)</p>
+<p>Net Earnings (loss) per common</p>
+<p>  share				.07    (.20)	.14    (.41)</p>
+<p>Weighted average shares</p>
+<p>  outstanding		   95,544   90,646   95,208   90,812</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PETERSBURG, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

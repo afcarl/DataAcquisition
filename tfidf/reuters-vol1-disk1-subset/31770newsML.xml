@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31770" id="root" date="1996-09-04" xml:lang="en">
+<title>BRAZIL: Brazil to mull CVRD sell-off plan Thursday.</title>
+<headline>Brazil to mull CVRD sell-off plan Thursday.</headline>
+<dateline>BRASILIA 1996-09-04</dateline>
+<text>
+<p>A proposed model for the privatization of Brazilian mining conglomerate Companhia Vale do Rio Doce (CVRD) will be studied for the first time by the National Privatization Council at a meeting on Thursday.</p>
+<p>Planning Minister Antonio Kandir told reporters the proposals, drawn up by a group of consultants led by Merrill Lynch, would be put to Thursday's meeting which begins at 1500 local time/1400 EDT/1800 GMT, but declined to give further details.</p>
+<p>The consultants are believed to have recommended that the government auction 45 percent of CVRD's voting shares in a block sale, with the remaining 31 percent it owns being sold via international offerings and to employees.</p>
+<p>The sale of CVRD is expected to begin in February 1997 and raise about $6.0 billion, making it the biggest Latin American privatization to date.</p>
+<p>-- William Schomberg, Brasilia newsroom 5561 2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

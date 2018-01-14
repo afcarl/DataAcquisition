@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135763" id="root" date="1996-10-23" xml:lang="en">
+<title>SOUTH AFRICA: PRESMED IN TALKS ON POSSIBLE ACQUISITION.</title>
+<headline>PRESMED IN TALKS ON POSSIBLE ACQUISITION.</headline>
+<dateline>JOHANNESBURG 1996-10-23</dateline>
+<text>
+<p>President Medical Investments Ltd (PresMed) said on Wednesday an agreement in principle had been reached for it to acquire Lifecare Group Holdings acute care private hospital interests.</p>
+<p>It said the final purchase price would be determined after a due diligence investigation was completed by November 20 and would paid for by the issue to Lifecare of sufficient PresMed shares at an issue price of 700 cents each.</p>
+<p>In the event of the merger becoming unconditional, Lifecare would hold the shares as a long-term investment and would have representation on PresMed's board of directors, it said.</p>
+<p>Shareholders were advised to exercise caution in their sharedealings until a further announcement was made.</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

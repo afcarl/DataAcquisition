@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31348" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE AND CUP RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE AND CUP RESULTS.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Results of English league and cup</p>
+<p>matches on Wednesday:</p>
+<p>Premier league</p>
+<p> Arsenal	   3   Chelsea			 3</p>
+<p> Blackburn	 0   Leeds			   1</p>
+<p> Coventry	  0   Liverpool		     1</p>
+<p> Derby	     1   Manchester United	   1</p>
+<p> Everton	   0   Aston Villa		   1</p>
+<p> Middlesbrough   4   West Ham			1</p>
+<p> Southampton     2   Nottingham Forest	   2</p>
+<p> Sunderland	1   Newcastle		     2</p>
+<p> Wimbledon	 1   Tottenham		     0</p>
+<p>Football League Cup first round, second leg:</p>
+<p> Birmingham	2   Brighton		    0</p>
+<p>(Birmingham won 3-0 on aggregate)</p>
+<p> Bristol Rovers  2   Luton			 1</p>
+<p>(Luton 4-2 on aggregate)</p>
+<p> Leyton Orient   1   Portsmouth		  0</p>
+<p>(Portsmouth 2-1 on aggregate)</p>
+<p> Norwich	   2   Oxford			3</p>
+<p>(after extra time. score at 90 minutes 1-1. Oxford won 4-3 on</p>
+<p>aggregate)</p>
+<p> Wolverhampton   1   Swindon		     0</p>
+<p>(Swindon 2-1 on aggregate)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

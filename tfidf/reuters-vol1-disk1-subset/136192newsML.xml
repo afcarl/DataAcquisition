@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136192" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: MHC extends Chateau tender offer.</title>
+<headline>MHC extends Chateau tender offer.</headline>
+<dateline>CHICAGO 1996-10-23</dateline>
+<text>
+<p>Manufactured Home Communities Inc said it Wednesday it will extend its unsolicited tender offer for Chateau Properties Inc to November 6.</p>
+<p>The offer had been scheduled to expire Wednesday night.  </p>
+<p>As of Tuesday afternoon, about 2.7 million shares of Chateau's stock had been tendered to the $26-a-share cash tender offer, Manufactured Home, a manufactured housing community operator, said.  </p>
+<p>Chateau has 6.1 million shares outstanding. Chateau officials could not be reached for comment.</p>
+<p>Including operating partnership units and stock options. Chateau's offer is valued at $398.6 million.</p>
+<p>That offer is competing with a proposed merger with ROC Communities Inc, accepted by Chateau's board of directors, that is worth $25.79 a share in stock of the proposed merged company to Chateau shareholders, based on Chateau's stock price Wednesday.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

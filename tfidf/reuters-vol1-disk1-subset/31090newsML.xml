@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31090" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: NWE gasoline prices fall with crude.</title>
+<headline>NWE gasoline prices fall with crude.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>NWE spot gasoline levels fell back over the morning as crude lost ground. Action was light as prices fell, with buyers typically retreating and slow to put solid numbers on the table, traders said.</p>
+<p>&quot;The buyers have disappeared. Levels are notional,&quot; one said.</p>
+<p>A Eurograde barge which traded early at $220.50 fob ARA was the only reported deal and offers were seen now at $217 a tonne.</p>
+<p>The arbitrage to the U.S. was just opening, traders said.</p>
+<p>Traders saw length in the U.K. market growing and said U.S. trade was needed to hold levels relatively firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

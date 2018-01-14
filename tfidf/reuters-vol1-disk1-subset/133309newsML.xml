@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133309" id="root" date="1996-10-22" xml:lang="en">
+<title>ARGENTINA: Argentine trade says Poland seeking 30,000 T wheat.</title>
+<headline>Argentine trade says Poland seeking 30,000 T wheat.</headline>
+<dateline>BUENOS AIRES 1996-10-22</dateline>
+<text>
+<p>Poland is seeking 30,000 tonnes of wheat for December to March shipment, Argentine traders said.</p>
+<p>Asked whether Poland could buy Argentine wheat, one trader responded: &quot;Could well be, Argentine wheat is the cheapest in the world at the moment.&quot;</p>
+<p>With its farmers heading for a bumper wheat crop of around 14 million tonnes or more, Argentine wheat exports are set to double from 1996/97 to 8-9 million tonnes and Argentine exporters are pushing into new markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

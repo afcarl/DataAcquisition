@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32824" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Casino America Inc Q1 net up, shr off.</title>
+<headline>Casino America Inc Q1 net up, shr off.</headline>
+<dateline>BILOXI, Miss. 1996-09-04</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>						     Three Months Ended</p>
+<p>							     July 31</p>
+<p>							1996	     1995</p>
+<p> Total revenue				   48,120	  32,418</p>
+<p> Operating income				 4,572	   2,381</p>
+<p>Equity in net loss Of</p>
+<p>unconsolidated joint ventures</p>
+<p>   (preopening expenses)			  ---	   (470)</p>
+<p>Equity in income</p>
+<p>of unconsolidated joint</p>
+<p>venture (exclusive of preopening</p>
+<p>   expenses)-- partnership		    4,279	   5,172</p>
+<p> Net income					 2,917	   2,334</p>
+<p> Shr						   0.14	    0.15</p>
+<p> Avg shrs					  20,666	  15,995</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BILOXI, Miss."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

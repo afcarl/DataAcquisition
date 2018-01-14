@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132743" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Cell Genesys Inc Q3 loss narrows.</title>
+<headline>Cell Genesys Inc Q3 loss narrows.</headline>
+<dateline>FOSTER CITY, Calif. 1996-10-22</dateline>
+<text>
+<p>SELECTED FINANCIAL INFORMATION</p>
+<p>		     CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>(unaudited/in thousands except per share data)</p>
+<p>				Three months ended  Nine months ended</p>
+<p>					    September 30  September 30</p>
+<p>				    1996	  1995    1996     1995</p>
+<p>Revenue under</p>
+<p>collaborative agreements</p>
+<p>  with related parties   $  4,500   $  4,095$ 15,101 $  7,200</p>
+<p>Operating expenses:</p>
+<p> Research and development   7,012	6,700  20,000   19,442</p>
+<p>General and administrative</p>
+<p>				    1,613	1,335   5,085    4,240</p>
+<p> Total operating expenses   8,625	8,035  25,085   23,682</p>
+<p> Interest income, net	   809	  610   2,512    2,033</p>
+<p> Net loss		     (3,316)    (3,330) (7,472) (14,449)</p>
+<p> Net loss per share	   (.20)	(.24)   (.46)   (1.05)</p>
+<p>Weighted average shares</p>
+<p>  outstanding		  16,437     13,863  16,337   13,810</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOSTER CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135832" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - Abacus Direct a buy.</title>
+<headline>RESEARCH ALERT - Abacus Direct a buy.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist said it began coverage of Abacus Direct Corp, an information provider to catalog marketers, with a buy rating.</p>
+<p>-- Abacus owns a database that includes purchasing behavior of some 88 million households, giving it the ability to help catolog sellers target an audience and eliminate names with poor probability for making purchases.</p>
+<p>-- Hambrecht expects the company to earn $0.36 a share on $16.9 million in revenue in 1996, rising to $0.50 a share and $24.7 million in revenue for 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83952">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133706" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PRESALE - Rolling Meadows, Ill..</title>
+<headline>PRESALE - Rolling Meadows, Ill..</headline>
+<text>
+<p>AMT: 1,025,000	DATE: 10/22/96	NYC Time: 1100	CUSIP: 775694</p>
+<p>ISSUER: Rolling Meadows						 ST: IL</p>
+<p>ISSUE: GO Tax Increment Refunding, Series 1996B		 TAX STAT:Taxable-GO</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 11/01/96							     SURE BID: Y</p>
+<p>DUE: 12/1/01-07					     SR MGR:</p>
+<p>1ST CPN: 12/01/97</p>
+<p>CALL: 12/1/05 @ 101, dtp 12/1/06			NIC</p>
+<p>DELIVERY: 11/4/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: Amalgamated Bank of Chicago, Chicago</p>
+<p>L.O.: Chapman &amp; Cutler, Chicago</p>
+<p>F.A.: Kane, McKenna Capital, Inc., Chicago</p>
+<p>LAST SALE: $9,775,000 11/17/92 @ 5.510% NIC; 9Yrs 9Mos Avg; BBI-6.38%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2001		     10,000</p>
+<p>2002		    130,000</p>
+<p>2003		    135,000</p>
+<p>2004		    165,000</p>
+<p>2005		    175,000</p>
+<p>2006		    190,000</p>
+<p>2007		    220,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

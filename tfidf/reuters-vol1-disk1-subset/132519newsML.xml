@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132519" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Worthington Foods Q3 shr rises to $0.28.</title>
+<headline>Worthington Foods Q3 shr rises to $0.28.</headline>
+<dateline>WORTHINGTON, Ohio 1996-10-22</dateline>
+<text>
+<p>13	    13	    39	     39</p>
+<p>		   Wks Ended   Wks Ended   Wks Ended    Wks Ended</p>
+<p>		     Sep 27,     Sep 29,     Sep 27,	Sep 29,</p>
+<p>			 1996	  1995	  1996	   1995</p>
+<p> Net Sales    27,259,000  22,256,000  79,160,000   66,079,000</p>
+<p>Cost of Goods Sold</p>
+<p>		  16,288,000  13,211,000  48,124,000   39,558,000</p>
+<p>Gross Profit</p>
+<p>		  10,971,000   9,045,000  31,036,000   26,521,000</p>
+<p>Income from</p>
+<p>  Operations   3,371,000   2,521,000   9,090,000    7,236,000</p>
+<p>Income before Income</p>
+<p>  Taxes	  3,030,000   2,248,000   8,163,000    6,352,000</p>
+<p>			11.10%	10.10%	10.30%	  9.60%</p>
+<p>Provision for Income</p>
+<p>  Taxes	  1,117,000     921,000   2,972,000    2,604,000</p>
+<p> Net Income    1,913,000   1,327,000   5,191,000    3,748,000</p>
+<p>Net Income Per Share</p>
+<p>			 $0.28	 $0.20	 $0.78	  $0.58</p>
+<p>Weighted Average</p>
+<p>Shares Outstanding</p>
+<p>		   6,688,557   6,540,830   6,686,121    6,523,803</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42390">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WORTHINGTON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

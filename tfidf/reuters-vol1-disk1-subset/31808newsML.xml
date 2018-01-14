@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31808" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Mexico same-day peso closes two centavos firm.</title>
+<headline>Mexico same-day peso closes two centavos firm.</headline>
+<dateline>MEXICO CITY 1996-09-04</dateline>
+<text>
+<p>The peso recouped ground lost to the dollar Wednesday due to local stocks gaining and primary rate hikes, traders said.</p>
+<p>&quot;The peso is reacting positively to primary rate hikes and some capital flowing into the Bolsa due to stability in the long bond,&quot; a trader said.</p>
+<p>Early in the session, the U.S. 30-year Treasury bond held steady after, but it drifted half a point lower before midday.</p>
+<p>The same-day peso closed two centavos firmer at 7.551/7.554 per dollar, while 24-hour and 48-hour contracts closed 1.6 and 1.25 centavos firmer at 7.555/7.559 and 7.56/7.565, respectively.</p>
+<p>Currency traders said trading volume was thin as investors are cautious in the run up to U.S. employment data being published on Friday.</p>
+<p>&quot;People are very calm ... the long-bond has recently been susceptible to this type of indicator,&quot; a currency trader said.</p>
+<p>-- Alexis Quinones, Mexico City newsroom, +525 728-9555</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

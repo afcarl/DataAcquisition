@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32676" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: US spot propane drifts lower, tracking crude oil.</title>
+<headline>US spot propane drifts lower, tracking crude oil.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>U.S. spot propane prices were lower in late trade on Wednesday, tracking NYMEX crude oil futures driven down by news of Iraqi troop withdrawals.</p>
+<p>Trade, however, was very quiet as many players stood on the sidelines to watch the conflict play out and to gauge market direction.</p>
+<p>&quot;People are just trying to ride the bumps and buying only what they need,&quot; said one Houston trader.</p>
+<p>On the U.S. Gulf Coast, Mont Belvieu, Texas, propane shed a half cent to between 42.00 cents and 42.25 cents a gallon in thin activity.</p>
+<p>Conway, Kansas, hub material fell a half cent to 40.50/40.75 cents, with deals done at 40.50 cents, traders said.</p>
+<p>Prices began to drift down at midday after news of Iraqi troop withdrawals from a Kurdish community in the north. The incursion provoked U.S. missile strikes over the past two days.</p>
+<p>-- Laney Salisbury, New York Energy Desk +1 212 859-1631</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

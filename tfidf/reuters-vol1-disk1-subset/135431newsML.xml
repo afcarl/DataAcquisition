@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135431" id="root" date="1996-10-22" xml:lang="en">
+<title>HONG KONG: China's Zhaoqing Huajin sets US$10 mln loan.</title>
+<headline>China's Zhaoqing Huajin sets US$10 mln loan.</headline>
+<dateline>HONG KONG 1996-10-22</dateline>
+<text>
+<p>The following syndicated loan issue was announced on Tuesday by the arrangers.</p>
+<p>The issuer is a Sino-foreign joint venture established in 1994.  Its principal activities include the production and printing of paper boxes, paper tubes and other packaging materials. Details are as follows:</p>
+<p> BORROWER   ZHAOQING HUAJIN PACKAGE PRINTING CO LTD</p>
+<p>GUARANTOR  GUANGDONG OVERSEAS CHINESE TRUST &amp; INVESTMENT CORP</p>
+<p> AMOUNT     US$10 MLN   TYPE	TERM LOAN</p>
+<p> MARGIN     6ML+100BP   MATURITY  3 YRS     LAUNCHED  22.OCT.96</p>
+<p> PUTS	 NONE	  CALLS     NONE	HOME CTRY CHINA</p>
+<p> DRAWDOWN ONE LUMP SUM  AVAIL     --	  REPLIES   06.NOV.96</p>
+<p>REPAYMENT  FOUR EQUAL SEMI-ANNUAL INSTALMENTS COMMENCING 18</p>
+<p>		MONTHS FROM DATE OF DRAWING</p>
+<p> NOTES   PROCEEDS WILL BE USED TO FINANCE THE PURCHASE OF</p>
+<p>	   EQUIPMENT UNDER AN EXPANSION PLAN. SECURITY IS PROVIDED</p>
+<p>	   BY A LETTER OF COMFORT ISSUED BY THE ZHAOQING MUNICIPAL</p>
+<p>	   PEOPLE'S GOVERNMENT.</p>
+<p>ARRANGERS  AB CAPITAL MARKETS (HK) AND STANDARD CHARTERED BANK  MGT LEVELS AND FEES   NOT  DISCLOSED</p>
+<p>--Hong Kong Newsroom (852) 2843 6960</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

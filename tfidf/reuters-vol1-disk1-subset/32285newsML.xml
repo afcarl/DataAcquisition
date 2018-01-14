@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32285" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Polls drive U.S. campaign, but often misunderstood.</title>
+<headline>Polls drive U.S. campaign, but often misunderstood.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>By Alan Elsner, U.S. Political Correspondent</p>
+<p>In the next two months, Americans will see scores of public opinion polls on the 1996 presidential race. But how should voters make sense of this flood of information?</p>
+<p>Public opinion polls play a central role in driving U.S. presidential campaigns but are widely misunderstood by voters. Not all polls are equally accurate and some may be downright misleading, but it can be tough to tell the difference. This article is designed to help.</p>
+<p>The first thing to note is the size of the sample. The smaller the sample, the more inaccurate a poll will be. &quot;If a nationwide election poll is under 700 to 750 people, I'd be wary,&quot; said pollster John Zogby, who is conducting nationwide surveys for Reuters.</p>
+<p>Ideally, polls should be conducted over two to three days but preferably not in a single evening. A one-night poll may oversample people of a particular social group and can be sensitive to momentary blips caused by one specific event.</p>
+<p>If a poll is conducted only in daylight hours it may overrepresent the views of women and retired people, who are more likely to answer the telephone and agree to take part.</p>
+<p>Next, the savvy poll reader should note who is being surveyed. Polls that say they surveyed &quot;voting age adults&quot; include people who are not registered to vote. Some surveys poll registered voters while others, like the Reuters/Zogby polls, are of likely voters. Since only around half the electorate actually votes in presidential elections, the latter should be more accurate.</p>
+<p>Republicans usually score a little better among likely voters than they do among registered voters, since older and more affluent citizens, where Republicans draw their strength, have higher voting rates than younger, less affluent voters.</p>
+<p>Some polls push undecided voters to state which candidate they are &quot;leaning towards supporting,&quot; which can affect the outcome. Others allow undecided voters to remain undecided.</p>
+<p>Polls all carry a sampling &quot;margin of error&quot; of plus or minus three, four or five percentage points, but what does that often-used phrase actually mean? &quot;It means that if the same survey under similar circumstances were to be conducted 100 times, it would produce a result plus or minus the margin of error 95 times out of that 100,&quot; Zogby said.</p>
+<p>In other words, polls are not infallible.</p>
+<p>Results can be wildly skewed by even slight changes in the wording of questions. For instance, one poll recently asked voters if they supported &quot;President Bill Clinton, Republican Bob Dole or the Reform Party candidate for president.&quot; By omitting the name of Reform Party candidate Ross Perot, the poll may have artificially depressed his support.</p>
+<p>If a poll asks voters if they agree with something, they must also be offered a clear and equal option to disagree. Leading questions elicit skewed responses.</p>
+<p>Most polls ask voters their opinions on a variety of hot current issues as well as whom they support. If the issue questions come first, the choice and balance of the issues selected may in itself skew the results when respondents are asked whom they support.</p>
+<p>How are people chosen to take part in the poll? Random digit dialing has the advantage of including people with unlisted telephone numbers but is very time consuming since the computer keeps coming up with non-existent numbers. Most pollsters have concluded that people with unlisted numbers now cross the political spectrum so leaving them out does not change the outcome.</p>
+<p>Zogby generates samples from CD-Roms of residential telephone numbers, which are updated every three months. From the CD of 80 million numbers, the computer creates several sub-samples of 600 each.</p>
+<p>To conduct a poll of 1,000, pollsters will probably need to use 10 or 11 of these sub-groups, making up to 6,600 telephone calls. Many people refuse to take part. Others are not home the first time but should be called back two, three or four times to ensure the accuracy of the sample.</p>
+<p>Even then, there may have to be adjustments. If a survey of 1,000 contains 580 women and 420 men, and the general voting population is closer to 52 percent women and 48 percent men, a slight statistical weighting may be applied.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

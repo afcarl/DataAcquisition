@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13283" id="root" date="1996-08-25" xml:lang="en">
+<title>IRAQ: PRESS DIGEST - Iraq - Aug 25.</title>
+<headline>PRESS DIGEST - Iraq - Aug 25.</headline>
+<dateline>BAGHDAD 1996-08-25</dateline>
+<text>
+<p>These are some of the leading stories in the official Iraqi press on Sunday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>JUMHOURIYA</p>
+<p>- Greece shows desire to resume trade ties with Iraq.</p>
+<p>- Iraq's Aziz denounces Iran's meddling in Kurdish affairs in northern Iraq.</p>
+<p>- Kurdistan Democratic Party of warlord Massoud Barzani urges Iraqi people to stand against Iran's interference in Iraqi Kurdistan.</p>
+<p>- Turkish pharmaceutical firms hold exhibition in Iraq.</p>
+<p>- National Assembly reviews situation of Iraqi POWs in Iran.</p>
+<p>- Proposals to curb tax evasion and improve tax collection in Iraq.</p>
+<p>THAWRA</p>
+<p>- President Saddam Hussein chairs joint meeting of Revolutionary Command Council and leaders of the ruling Baath party.</p>
+<p>- Canadian parliamentary delegation tours Iraqi hospitals.</p>
+<p>QADISSIYA</p>
+<p>- Irrigation ministry draws plan to clean canals and water systems in southern Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

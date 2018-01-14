@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181594" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Ridgewood, N.J., utility seeks rate hike - paper.</title>
+<headline>Ridgewood, N.J., utility seeks rate hike - paper.</headline>
+<dateline>NEW YORK 1996-11-12</dateline>
+<text>
+<p>Ridgewood, N.J.'s water utility, which also serves Midland Park, Glen Rock, and Wyckoff, is seeking a 26 percent rate increase, the Bergen Record reported Tuesday.</p>
+<p>The utility plans to ask the state's Local Finance Board to approve the higher rate, and does not foresee additional increases before 2001.</p>
+<p>If approved, the increase would be to $2.29 per 1,000 gallons from $1.82.</p>
+<p>Utility officials attributed the need for a rate increase to the costs associated with past capital projects.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

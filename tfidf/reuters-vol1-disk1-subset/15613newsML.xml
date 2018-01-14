@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15613" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Ast Research names new president, CEO.</title>
+<headline>Ast Research names new president, CEO.</headline>
+<dateline>IRVINE, Calif.</dateline>
+<text>
+<p>Personal computer manufacturer AST Research Inc. Tuesday named Young-Soo Kim president and chief executive</p>
+<p>Kim replaces Ian Diery, who resigned from both posts to pursue other interests, the company said.</p>
+<p>Kim previously was corporate vice president at Korea's Samsung Electronics Co. Ltd., which holds a significant equity stake in AST.</p>
+<p>Kim was one of the primary engineers of Samsung's initial investment in AST in 1995. He has more than 25 years of experience in the U.S. computer and electronics industries in executive positions at companies that include International Business Machines Corp. and Honeywell Inc. in addition to Samsung.</p>
+<p>Irvine, Calif.-based AST makes a broad spectrum of desktop, mobile and server PC products that are sold in more than 100 countries.</p>
+<p>AST's stock rose 31.25 cents to $5.375 early on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131884" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS - ANI says vote result could be delayed.</title>
+<headline>RTRS - ANI says vote result could be delayed.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>Australian National Industries Ltd (ANI) said on Monday that the result of the shareholder vote over the removal of either Peter Joseph or Ross Palmer from the board may not been known until after Monday's annual meeting, possibily late in the day or on Tuesday.  </p>
+<p>Chairman Ted Harris told shareholders at the annual meeting on Monday that the vote may go to a proxy count as the final vote would not be based on a show of hands at the meeting.</p>
+<p>The vote to remove either Jospeh or Palmer represents a split in the ANI board after Palmer and fellow director Fred Smith formed a board committee to investigate the purchase by ANI's troubled German environmental unit Holter of environmental waste group ABT in 1991.</p>
+<p>The majority of the ANI board voted for the appointment of lawyer Robert Ellicott to handle the investigation of the ABT purchase.  </p>
+<p>Four other ANI directors are seeking relection at today's meeting.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

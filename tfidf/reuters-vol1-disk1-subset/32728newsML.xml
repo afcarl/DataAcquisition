@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32728" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 04-SEP.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 04-SEP.</headline>
+<text>
+<p>Hurricane Fran remains an extreme threat to shipping in the region from the northern Bahamas to the coasts of north Florida, Georgia and the Carolinas today and Thursday. Top winds are now 115 mph and they are expected to increase to 130 mph before the system reaches the coast. Very strong seas and high winds will affect shipping and boats in the area. Landfall is expected somewhere along the coast from South Carolina northward. Heavy rains will likely cause flooding in this area. A storm surge and very high winds will lead to considerable damage at coastal locations near landfall.  </p>
+<p>The extratropical remains of Edouard will be a threat to some shipping in the northern Atlantic in the waters southeast to east of Nova Scotia this period. Rough seas and strong winds will be the rule.</p>
+<p>In the eastern Pacific, Tropical Strom Elida is making a close pass to southern Baja. Tropical storm warnings are up from San Jose Del Cabo to Cabo San Lazaro. Elida has 65 mph top winds and is centered 150 miles west-southwest of Cabo San Lucas, moving northwest at 7 mph. Tropical storm conditions with heavy squalls will occur through the warned area.  </p>
+<p>There are no further statements at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20781" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Lloyd's offer seen unconditional on acceptances.</title>
+<headline>Lloyd's offer seen unconditional on acceptances.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Lloyd's of London is expected to announce Friday that a 3.2 billion-pound ($4.7 billion) settlement offer to investors is unconditional as to acceptances, the strongest indicator yet that its recovery plan will proceed as planned.</p>
+<p>The 300-year-old insurance market's ruling council, led by Chairman David Rowland, was poised Thursday afternoon to approve the decision, having received acceptances from more than 90 percent of Lloyd's 34,000 investors worldwide.</p>
+<p>Other conditions will need to be met before the entire package can go ahead, including British government approval.</p>
+<p>The insurance market is also likely to extend, possibly even for a few weeks, a deadline for its investors, known as Names, to accept the settlement offer after declaring it unconditional, said industry sources.</p>
+<p>Under its recovery proposals, Lloyd's aims to reinsure billions of dollars in liabilities by moving them into a new company, Equitas.</p>
+<p>The settlement offer is designed to soften the cost to Names of setting up Equitas and to end litigation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

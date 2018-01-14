@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133759" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Southwest Gas files for $250 mln shelf offer.</title>
+<headline>Southwest Gas files for $250 mln shelf offer.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>Southwest Gas Corp said Tuesday it filed a shelf registration with the Securities and Exchange Commission for up to $250 million in securities.</p>
+<p>The offering includes debt securities, preferred stock, depositary shares and common stock, the filing said.</p>
+<p>Net proceeds will be used to retire debt and for general corporate purposes, including the acquisition of property for the construction, completion, extension or improvement of the company's pipeline systems and facilities located in and around the communities it services.</p>
+<p>The Las Vegas, Nevada company is in the business of purchasing, transporting and distributing natural gas in portions of Arizona, Nevada and California.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

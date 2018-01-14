@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32231" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: AIG shuts muni derivatives unit - market sources.</title>
+<headline>AIG shuts muni derivatives unit - market sources.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>AIG Financial Products Corp, a unit of American International Group Inc, has decided to close its municipal derivatives operation, industry sources said Wednesday.</p>
+<p>An AIG spokesman said, &quot;AIG doesn't comment on personnel matters.&quot;</p>
+<p>But industry sources familiar with the move said the company has disbanded the unit and laid off all but the managing director of the nine-member team.</p>
+<p>JoAnn Palazzo will stay on at the company to oversee its portfolio, the sources said.</p>
+<p>AIG was an aggressive player in the long-term muni swap arena, and often bid on deals with long maturities that other firms passed up.</p>
+<p>&quot;AIG has been one of the real pioneers in the muni derivatives business,&quot; one competitor said. &quot;Their departure will be deeply felt and their presence will be sorely missed.&quot;</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

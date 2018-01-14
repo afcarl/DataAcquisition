@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26713" id="root" date="1996-09-02" xml:lang="en">
+<title>FRANCE: Euro Disney expects profit for 1995/96.</title>
+<headline>Euro Disney expects profit for 1995/96.</headline>
+<dateline>PARIS 1996-09-02</dateline>
+<text>
+<p>Euro Disney chairman Philippe Bourguignon said in a newspaper interview published Monday that he expected the theme park operator to show an annual profit for the year ending on Sept. 30.</p>
+<p>&quot;We had predicted break-even for this year and we reached that goal a year ahead of schedule (in 1994/95),&quot; he told Le Figaro. &quot;We should logically do better this year.&quot;</p>
+<p>He said the summer had been &quot;satisfying,&quot; with a rebound in visitors from Germany. Attendance during the low winter months had also increased.</p>
+<p>&quot;Our occupancy rate now during the low season is higher than the occupancy rate for the whole of 1993,&quot; Bourguignon said.</p>
+<p>Euro Disney reported a net profit of 114 million francs ($22.5 million) for 1994/95, including a 112 million franc ($22.1 million) extraordinary gain from the repurchase of convertible bonds.</p>
+<p>Bourguignon said analysts estimate the company will show a net profit for 1995/96 of between 150 million and 220 million francs ($29.5 million and $43.3 milllion).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97412">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

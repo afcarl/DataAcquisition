@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33310" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-North still spending on Lake Cowal.</title>
+<headline>RTRS-North still spending on Lake Cowal.</headline>
+<dateline>SYDNEY 1996-09-04</dateline>
+<text>
+<p>Mining and forestry group North Ltd said on Wednesday it would spend a further A$1 million on exploration until at least December at its troubled Lake Cowal gold project in New South Wales.</p>
+<p>North said it was committed to developing the project, which was rejected last April by the New South Wales Minister for Urban Affairs and Planning.</p>
+<p>The rejection followed development approval for the A$180 million mine by a government-appointed commission of inquiry.</p>
+<p>The company said it was continuing to seek discussions with the government to find a way to get the project moving.  </p>
+<p>A North spokesman said the company had spent about A$26.5 million on the project so far and did not wish to see that expenditure written off.</p>
+<p>North has forecast the mine would produce 232,000 ounces of gold per year over the first seven years and 100,000 ounces per year in the remaining four years.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I22472">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

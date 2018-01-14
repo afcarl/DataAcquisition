@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132836" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: SOCCER-POLISH FIRST DIVISION RESULT/STANDINGS.</title>
+<headline>SOCCER-POLISH FIRST DIVISION RESULT/STANDINGS.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>Result of Polish first division</p>
+<p>soccer match on Tuesday:</p>
+<p> Widzew Lodz	 3   Gornik Zabrze     0</p>
+<p>Standings (tabulate under palyed, won, drawn, lost, goals</p>
+<p>for, goals against, points):</p>
+<p> Widzew Lodz	 13   8   4   1   25    7   28</p>
+<p> Legia Warszawa    12   8   2   2   25   11   26</p>
+<p> GKS Katowice	12   6   5   1   19   11   23</p>
+<p> Amica Wronki	12   7   2   3   17   14   23</p>
+<p> Lech Poznan	 12   6   2   4   17   15   20</p>
+<p> Wisla Krakow	12   5   3   4   11   10   18</p>
+<p> Hutnik Krakow    12    5   2   5   12   13   17</p>
+<p> Sokol Tychy	 12   5   2   5   17   21   17</p>
+<p> Odra Wodzislaw    12   4   3   5   19   20   15</p>
+<p> Polonia Warszawa  12   4   3   5   13   17   15</p>
+<p> Rakow Czestochowa 12   4   3   5   10   14   15</p>
+<p> GKS Belchatow     12   4   2   6   15   16   14</p>
+<p> Zaglebie Lubin    12   3   4   5   15   19   13</p>
+<p> Gornik Zabrze     13   3   3   7   15   22   12</p>
+<p> Stomil Olsztyn    12   3   3   6   16   19   12</p>
+<p> Slask Wroclaw     12   3   2   7   11   17   11</p>
+<p> LKS Lodz	    12   2   5   5   14   18   11</p>
+<p> Ruch Chorzow	12   2   4   6   10   17   10</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

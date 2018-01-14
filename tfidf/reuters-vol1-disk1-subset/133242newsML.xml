@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133242" id="root" date="1996-10-22" xml:lang="en">
+<title>RUSSIA: Russia cautious on Clinton's NATO expansion speech.</title>
+<headline>Russia cautious on Clinton's NATO expansion speech.</headline>
+<dateline>MOSCOW 1996-10-22</dateline>
+<text>
+<p>Russia reacted cautiously on Tuesday to news that U.S. President Bill Clinton wanted countries from the former eastern bloc to join NATO by 1999.</p>
+<p>However a foreign ministry spokesman made clear that Moscow still viewed NATO's planned eastward expansion as a threat to its own security.</p>
+<p>In a speech due to be delivered later on Tuesday but widely leaked in advance, Clinton is expected to make 1999, the 50th anniversary of the alliance, the target date for new members.</p>
+<p>&quot;It would be premature to comment before the statement has been made,&quot; Russian foreign ministry spokesman Gennady Tarasov told a regular news briefing, adding that Moscow would respond in due course if necessary.</p>
+<p>But he added: &quot;Russia's attitude to NATO's expansion has not changed.&quot;</p>
+<p>Moscow has often said the expansion of the North Atlantic Treaty Organisation to include its former communist era allies risked creating new lines of division.</p>
+<p>But NATO rejects Moscow's demands that it should have the right to veto decisions such as which countries are allowed to join the alliance.</p>
+<p>Clinton, due to make his speech at 1445 GMT in Detroit, is not expected to name the first countries likely to join NATO but Poland, Hungary and the Czech Republic are seen as the front-runners.</p>
+<p>NATO ministers are to meet in December to pave the way for an alliance summit in 1997 that would name the first candidates for membership and lead to the opening of negotiations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

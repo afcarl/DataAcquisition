@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133306" id="root" date="1996-10-22" xml:lang="en">
+<title>COSTA RICA: Costa Rica coffee whetting appetite of Chinese.</title>
+<headline>Costa Rica coffee whetting appetite of Chinese.</headline>
+<dateline>SAN JOSE, Costa Rica 1996-10-22</dateline>
+<text>
+<p>China is interested in buying Costa Rican coffee and a Beijing diplomatic and trade mission is talking to local coffee authorities, a top coffee official said Tuesday.</p>
+<p>&quot;We had a long meeting on Monday with the mission representatives and we explained to them what was going on in the coffee industry,&quot; Guillermo Canet, executive director of the Costa Rica Coffee Institute (ICAFE), told Reuters.</p>
+<p>But Canet added no deals were immediately struck.</p>
+<p>&quot;Lets hope China gets interested in buying, it has great potential,&quot; he added.</p>
+<p>The Chinese mission is exploring trade openings between the two countries although they have no diplomatic relations.</p>
+<p>Canet said Costa Rica does not directly sell coffee to China, one of the world's most-sought-after markets and often seen as the one market producers need to conquer to force prices on a long-term upward trend.</p>
+<p>&quot;They are very interested and showed interest in our explanations and showed a desire to keep up contacts once they leave,&quot; Canet added.</p>
+<p>The 18-member Chinese delegation arrived in san Jose Saturday and, later Tuesday, will fly to Panama.</p>
+<p>Canet said the Chinese invited Costa Rica to take part in an agroindustrial exposition in China in 1997.</p>
+<p>-- Jose Loria, San Jose bureau (506) 224-2949</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Costa Rica"/>
+<dc element="dc.creator.location.country.name" value="COSTA RICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

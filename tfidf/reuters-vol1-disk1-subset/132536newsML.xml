@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132536" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: HMOs in decline as investors fret about earnings.</title>
+<headline>HMOs in decline as investors fret about earnings.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Investors concerned about weak third quarter earnings sent the entire HMO sector into a tailspin on Tuesday.</p>
+<p>The Morgan Stanley Healthcare Payor Index, weighted with HMO companies, fell five points, or over two percent, to 202.</p>
+<p>&quot;These are very volatile stocks with high price/earnings ratios, the whole HMO group. People are getting nervous,&quot; said Amy De Rham, Montgomery Securities analyst.</p>
+<p>Oxford shares fell 2-7/8 to 41-1/2. The company is expected to post gains for the quarter when it reports earnings on November 5.  </p>
+<p>PacifiCare Health Systems Inc lost 2-15/16 to 68-5/16, FHP International Corp fell 1/2 to 35-1/4 and United Healthcare Corp dropped 107/8 to 36-5/8.</p>
+<p>&quot;There's just a lot of concern about third quarter earnings and so people are bailing,&quot; said one industry source.</p>
+<p>Wall Street consensus earnings estimates are forecasting negative earnings comparisons for six of the 10 largest HMOs compared with last year's third quarter.</p>
+<p>Analysts have also said expected pressure on profit margins throughout the HMO industry is not likely to lift in the near future.</p>
+<p>-- Jennifer Westhoven (212) 859-1881</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

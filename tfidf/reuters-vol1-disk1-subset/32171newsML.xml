@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32171" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: KCBT wheat ends broadly lower after late slide.</title>
+<headline>KCBT wheat ends broadly lower after late slide.</headline>
+<dateline>KANSAS CITY, Mo. 1996-09-04</dateline>
+<text>
+<p>A late, CBOT-inspired slide helped compound earlier losses and caused KCBT hard red winter wheat futures to end broadly lower, traders said.</p>
+<p>Technical selling, a lack of export news and spillover pressure from CBOT grains undermined KCBT wheat throughout Wednesday's session.</p>
+<p>&quot;There was a rush to sell late, which compounded the negative tone we had seen all day,&quot; a trader said.</p>
+<p>KCBT wheat closed six to 9-3/4 cents per bushel lower, with Sept down 8-1/2 cents at $4.58 a bushel.</p>
+<p>Dec shed 9-1/4 cents to close at $4.55-3/4, which traders said was a new seasonal closing low.</p>
+<p>Traders said CIS sold at least 2.6 million December bushels. FIMAT and Shay Grain each bear-spread 500,000 Dec/Sept bushels at two cents per bushel.</p>
+<p>The KCBT estimated wheat futures volume at 28.89 million bushels, versus Tuesday's volume of 27.39 million bushels</p>
+<p>--Greg Frost, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33152" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Powerful earthquake injures 13 in Algeria.</title>
+<headline>Powerful earthquake injures 13 in Algeria.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>An earthquake measuring 5.7 on the Richter scale rocked the Algerian capital, Algiers, and neigbouring regions on Wednesday slightly injuring 13 people, the Algerian official news agency APS said.</p>
+<p>The 13 hurt by the quake were in Ain Benian and Bouchaoui areas in the coastal province of Tipaza, 60 km (40 miles) west of Algiers, said APS quoting local rescue services.</p>
+<p>The tremor, at 05.15 a.m. (0415 GMT), split the walls of several old houses in Ain Benian, Cheraga, Staoueli and Zeralda towns in the province, it said.</p>
+<p>Algerian state-run radio said there were no casualties or serious damage in Algiers where the tremor rattled windows.</p>
+<p>Many residents, woken from sleep, fled their homes to seek safety in the streets and open areas, fearing possible collapse of buildings, said residents speaking by telephone from the Algerian city.</p>
+<p>The epicentre of the tremor was in Oued el Alleug village, 35 km (20 miles) southwest of Algiers, the Algerian earthquakes monitoring centre said.</p>
+<p>Neither the radio nor APS said whether the village was damaged by the quake, which at 5.7 on the Richter scale was powerful enough to cause serious damage in a residential area.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32548" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Jefferies cuts oil refiners.</title>
+<headline>RESEARCH ALERT - Jefferies cuts oil refiners.</headline>
+<text>
+<p>-- Jefferies &amp; Co analyst Ravi Kamath said he has cut rating on four oil refining and marketing companies due to the impact of the U.S. missile attacks on Iraq.</p>
+<p>-- Sun Co Inc went to underperform from hold.</p>
+<p>-- Tosco Corp went to hold from accumulate.</p>
+<p>-- Getty Petroleum Corp went to hold from accumulate.</p>
+<p>-- Ultramar Corp cut to accumulate from buy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

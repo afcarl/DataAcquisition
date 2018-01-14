@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25772" id="root" date="1996-08-31" xml:lang="en">
+<title>MOLDOVA: SOCCER-INCE EXPOSED BY GASCOIGNE'S LATEST PRANK.</title>
+<headline>SOCCER-INCE EXPOSED BY GASCOIGNE'S LATEST PRANK.</headline>
+<dateline>CHISINAU, Moldova 1996-08-31</dateline>
+<text>
+<p>England's irrepressible midfielder Paul Gascoigne was up to his old tricks on Saturday, pulling down his team mate Paul Ince's trousers in front of an astonished crowd in Moldova.</p>
+<p>Ince was clambering over a wall at the Republican stadium in Chisinau as Glenn Hoddle's England players tried to escape heavy rain during an under-21 clash.</p>
+<p>Gascoigne, whose compulsive practical joking has landed him in trouble in the past, tugged down the Inter Milan player's trousers in front of a group of press photographers.</p>
+<p>Hoddle, coaching the side for the first time, declined to comment on the incident.</p>
+<p>England face Moldova in a World Cup qualifier in the same stadium on Sunday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOLDV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHISINAU, Moldova"/>
+<dc element="dc.creator.location.country.name" value="MOLDOVA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

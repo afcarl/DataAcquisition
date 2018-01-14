@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32812" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Sendx Medical IPO postponed - underwriter.</title>
+<headline>Sendx Medical IPO postponed - underwriter.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Sendx Medical Inc has postponed its initial public offering, a spokeswoman for underwriter CS First Boston said on Wednesday.</p>
+<p>She cited &quot;market conditions&quot; as the reason for the postponement and did not comment when asked if the issue could resurface in the future.</p>
+<p>Sendx had proposed to offer 2.4 million shares at an estimated $11.50 to $13.50 a share. The offering was expected to price some time this week.</p>
+<p>The company markets and makes blood analysis systems to measure critical and diagnostic parameters at the point of care.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

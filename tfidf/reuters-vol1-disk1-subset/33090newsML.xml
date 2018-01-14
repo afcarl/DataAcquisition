@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33090" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. DEIP mozarella cheese to Africa, Middle East.</title>
+<headline>U.S. DEIP mozarella cheese to Africa, Middle East.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>U.S. Agriculture Department</p>
+<p>said it accepted the following bid or bids under the Dairy</p>
+<p>Export Incentive Program:</p>
+<p>Product: mozarella cheese</p>
+<p>Quantity: 22 tonnes</p>
+<p>Destination: Africa and Middle East</p>
+<p>Delivery: Sept 4 - Nov 29</p>
+<p>Bonus: $1,000 per tonne</p>
+<p>Exporter: Fast Food Merchandisers Inc</p>
+<p>DEIP balance (Africa, Mideast): 2,412 tonnes</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

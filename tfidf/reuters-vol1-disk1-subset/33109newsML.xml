@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33109" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Titanium Metals to buy Axel Johnson unit.</title>
+<headline>Titanium Metals to buy Axel Johnson unit.</headline>
+<dateline>DENVER 1996-09-04</dateline>
+<text>
+<p>Titanium Metals Corp said on Wednesday it had reached an agreement in principle with Axel Johnson Inc to purchase substantially all of the assets of AJI's subsidiary, Axel Johnson Metals Inc for $90 million.</p>
+<p>The assets of Axel Johnson Metals include its 50 percent partnership interest in Titanium Hearth Technologies. Titanium Metals owns the other half interest.</p>
+<p>Axel Johnson Metals also has a titanium scrap processing facility in Pennsylvania, electron beam and vacuum induction melting furnaces in California and a second electron beam cold hearth melting furnace in Pennsylvania, which is also used by Titanium Hearth Technologies.</p>
+<p>For the six months ended June 30, 1996, Axel Johnson Metals had unaudited revenues of $46.5 million.</p>
+<p>Titanium Metals expects to complete the transaction in October. The company will use borrowed funds and cash on hand to fund the acquisition.</p>
+<p>The purchase price is $90 million in cash subject to possible adjustment.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

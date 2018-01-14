@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133581" id="root" date="1996-10-22" xml:lang="en">
+<title>IRAN: Iran awards local firms $260 mln shipbuilding deal.</title>
+<headline>Iran awards local firms $260 mln shipbuilding deal.</headline>
+<dateline>TEHRAN 1996-10-22</dateline>
+<text>
+<p>Iran on Tuesday awarded a $260 million contract to build 10 cargo and passenger vessels to three state-run local firms, Iranian media reported.</p>
+<p>The deal, between the commerce ministry and the industry ministry, includes six 22,000-tonne cargo vessls, two container ships and two passenger ships, which are to be built over the next 30 months, Tehran radio said.</p>
+<p>The daily Kayhan said Arvandan, Sadra, and Sadra International companies, which are controled by the industry ministry, would build the vessels for a state-run shipping firm.</p>
+<p>An unnamed Italian company will cooperate with Arvandan to build the passenger ships, two catamarans with a capacity each of 260 passengers and 10 cars, the newspaper said.</p>
+<p>Iran has a fleet of 77 merchant ships with a total capacity of 2.2 million tonnes, which carry half of the cargo to and from the country, in addition to a tanker fleet capable of carrying 4 million tonnes of oil a year, according to officials figures.</p>
+<p>Tehran plans to replace 44 of the older ships with new vessels during the second Iranian five-year plan which ends in March 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I5020022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

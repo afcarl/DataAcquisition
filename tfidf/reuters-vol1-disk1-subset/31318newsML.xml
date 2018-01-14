@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31318" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: France wants Iraqi oil deal to come into force.</title>
+<headline>France wants Iraqi oil deal to come into force.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>France called on Wednesday for new negotiations to ensure that a U.N. resolution allowing Iraq to use the proceeds of oil sales for food and medical supplies comes into force as soon as possible.</p>
+<p>&quot;Our aims are first to ensure peace in the region and to ensure that the Iraqi leaders are no longer in a position to harm their neighbours or their own people,&quot; government spokesman Alain Lamassoure told Europe-1 radio after Baghdad sent troops to fight a Kurdish rebel faction.  </p>
+<p>&quot;After long negotiations, Iraqi leaders and the international community had agreed on the oil-for-food resolution...We call for dialogue to ensure that the accord is brought into force as fast as possible,&quot; Lamassoure said.</p>
+<p>The U.S. State Department said on Tuesday that the U.N. plan to let Iraq sell some oil to raise hard currency for food and medical supplies was off &quot;for some time&quot;. The United Nations postponed the plan after Baghdad's attacks on Iraqi Kurds.</p>
+<p>Asked whether Paris condemned the Iraqi offensive, Lamassoure said: &quot;France's reaction has been similar to that of the greater part of the international community. After a period of tension we should go back to peace and dialogue.&quot;</p>
+<p>France, one of the 1991 Gulf War allies, withheld support for a first U.S. missile attack on Iraq on Tuesday, saying Baghdad had not breached U.N. resolutions by sending its troops into Kurdish areas of northern Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

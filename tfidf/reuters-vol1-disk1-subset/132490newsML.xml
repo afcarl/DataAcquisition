@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132490" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Worthington Foods splits stock, hikes div.</title>
+<headline>Worthington Foods splits stock, hikes div.</headline>
+<dateline>WORTHINGTON, Ohio 1996-10-22</dateline>
+<text>
+<p>Worthington Foods Inc said it set a four-for-three share split and raised its quarterly dividend by 11 percent to $0.025 per share.</p>
+<p>The stock split will be distributed on December 6  to shareholders of record November 15.</p>
+<p>The company said the dividend will be paid on January 27, 1997 to shareholders of record December 20, 1996.</p>
+<p>Worthington also said its board has approved a $11.5 million capital expansion at its Zanesville plant. The project will add a second production line to produce hot-air oven veggie burgers and will also include construction of an additional 15,000 square foot dry storage warehouse.</p>
+<p>The company said the expansion project is expected to be operational by mid-1997 and will have capacity for an additional $30 million in sales.</p>
+<p>New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42390">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WORTHINGTON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

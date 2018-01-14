@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20769" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Specialty Paperboard buys two companies.</title>
+<headline>Specialty Paperboard buys two companies.</headline>
+<dateline>BRATTLEBORO, Vt. 1996-08-29</dateline>
+<text>
+<p>Specialty Paperboard Inc said Thursday it had signed definitive agreements to buy Custom Papers Group Inc and Arcon Coating Mills Inc.</p>
+<p>Both Custom Papers and Arcon Coating specialize in paper products.  </p>
+<p>Terms were not disclosed and company officials could not be reached for comment.</p>
+<p>&quot;Combined, they (the companies) will effectively double the gross revenues of our company,&quot; Specialty Paperboard said. &quot;They will also give us strong positions in several new specialty markets.&quot;</p>
+<p>It said it would finance the acquisitions through a public offering of senior notes, with closings for both transactions by the end of the third quarter.</p>
+<p>Custom Papers is a $95 million wholly-owned subsidiary of CPG Investors Inc. It makes filters for internal combustion engines and other industrial products at five paper mills in Massachusetts, Michigan and New Jersey.</p>
+<p>Arcon Coating has annual revenues totalling some $28 million. It makes colored binding and stripping tapes for offices, among other products.</p>
+<p>Specialty Paperboard makes heavyweight pressboard used in office and school products such as binders and file folders.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATTLEBORO, Vt."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

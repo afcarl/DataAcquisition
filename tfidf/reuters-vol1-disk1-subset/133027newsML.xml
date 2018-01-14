@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133027" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Chretien says Quebec might join Team Canada.</title>
+<headline>Chretien says Quebec might join Team Canada.</headline>
+<dateline>MONTREAL 1996-10-22</dateline>
+<text>
+<p>Canadian Prime Minister said on Tuesday that Quebec Premier Lucien Bouchard might join the federal government's &quot;Team Canada&quot; trade mission to certain Asian countries in January.</p>
+<p>&quot;I am pleased that Premier Bouchard is giving serious consideration to being a participant in the next Team Canada mission this coming January to Thailand, Korea and the Philippines,&quot; Chretien said in a speech to the Chamber of Commerce of Metropolitan Montreal.  </p>
+<p>In his speech Chretien said the Canadian and Quebec governments must work together to revitalise the ailing economy of Montreal, Canada's second largest city.</p>
+<p>Chretien said he and Bouchard had met and spoken &quot;several times&quot; about what they can do together for Montreal's economy.</p>
+<p>Team Canada is a trade mission led Chretien and including provincial premiers and business executives. It has had successful missions to China, India and other Asian countries.</p>
+<p>Bouchard's predecessor, Jacques Parizeau, refused to participate in the Team Canada missions even though several Quebec companies on the mission subsequently signed significant international trade contracts.</p>
+<p>-- Reuters Montreal Bureau 514-985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

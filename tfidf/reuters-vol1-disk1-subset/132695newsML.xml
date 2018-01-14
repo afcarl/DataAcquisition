@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132695" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Scott &amp; Stringfellow Financial Inc Q1 net.</title>
+<headline>Scott &amp; Stringfellow Financial Inc Q1 net.</headline>
+<dateline>RICHMOND, Va. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.42		    $0.57</p>
+<p> Net			    856		    1,221</p>
+<p> Revs			17,944		   17,654</p>
+<p> Avg shrs		   2,040		    2,124</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Periods ended Sept. 27 vs Sept. 29.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

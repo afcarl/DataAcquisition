@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31198" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Campbell reports profits up.</title>
+<headline>Campbell reports profits up.</headline>
+<dateline>CAMDEN, N.J.</dateline>
+<text>
+<p>The Campbell Soup Co. reported record earnings Wednesday for its fourth quarter and the fiscal year, showing profits were up 26 percent for the fourth quarter and 15 percent for the year.</p>
+<p>In the fourth quarter, net profits rose to $180 million or 73 cents per share vs. $143 million or 57 cents per share for the comparable quarter last year. Sales rose 1 percent to $1.64 billion from $1.63 billion.</p>
+<p>Profits for the fiscal year ended July 28 were $802 million, up from last year's $698 million. Earnings per share were $3.22, up 15 percent over $2.80 for fiscal 1995.</p>
+<p>&quot;Six straight years of record results point to a future that brims with promise,&quot; said David Johnson, Campbell Chairman.</p>
+<p>The company's results were higher than the $3.13 per share that analysts had forecast.</p>
+<p>The report came amid speculation that the company might announce a major restructuring effort along with their figures, which did not happen.</p>
+<p>The company has admitted it is conducting a major review of all operations, and a company spokesman has refused to comment on the timetable for completion.</p>
+<p>Campbell has sought to cut costs and improve efficiency under Johnson, who was named chairman in 1993.</p>
+<p>Net sales for the year of $7.68 billion were up 6 percent over the $7.25 billion reported last year.</p>
+<p>U.S. sales grew 6 percent for the year reaching $4.56 billion. Campbell said acquisitions, including Pace Mexican sauces, contributed over 50 percent of the sales growth.</p>
+<p>The bakery and confectionery division's earnings increased 8 percent to $197 million, led by strong performances from Pepperidge Farm and Godiva.</p>
+<p>Campbell said international earnings were hurt by Europe-wide decline in beef sales, but rose 1 percent to $136 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMDEN, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

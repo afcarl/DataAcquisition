@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32746" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Toyota August US car sales fall.</title>
+<headline>Toyota August US car sales fall.</headline>
+<dateline>DETROIT 1996-09-04</dateline>
+<text>
+<p>Toyota Motor Corp</p>
+<p>			Aug 1-31, 1996     Aug 1-31, 1995 *Pct Chng</p>
+<p> Domestic Car	    54,372	    60,506	    -10.1</p>
+<p> Domestic Truck	  16,801	    16,653	     +0.9</p>
+<p> Import Car		32,882	    32,243	     +2.0</p>
+<p> Import Truck	    24,161	    17,484	    +38.2</p>
+<p>		  Jan 1-Aug 31, 1996 Jan 1-Aug 31, 1995 *Pct Chng</p>
+<p> Domestic Car	   385,407	   339,263	    +12.5</p>
+<p> Domestic Truck	  96,152	    69,351	    +37.3</p>
+<p> Import Car	     168,435	   208,840	    -20.1</p>
+<p> Import Truck	   150,427	   128,577	    +15.9</p>
+<p>* Pct change based on daily selling rate. Sale days 27 in latest month vs 27, 207 for year to date vs 205 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

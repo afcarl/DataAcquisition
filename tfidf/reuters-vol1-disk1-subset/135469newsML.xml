@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135469" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Nichiei Co says loss from unit unlikely to rise.</title>
+<headline>Nichiei Co says loss from unit unlikely to rise.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>The loss which Nichiei Co Ltd will suffer from the liquidation of its affiliate Nichiei Finance Co Ltd is not likely to increase from its current estimate of 12.3 billion yen, a Nichiei Co executive told a news conference on Tuesday.  </p>
+<p>The executive said Nichiei Finance had been implementing a restructuring programme from September 1994. However, Nichiei Finance's future losses were estimated to increase sharply, and such prospects led to the company's filing for liquidation, the executive said.</p>
+<p>Earlier, Nichiei Finance had said it had filed for liquidation at the Yokohama district court, and that this had been received.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33116" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Actor Liam Neeson recovering from surgery.</title>
+<headline>Actor Liam Neeson recovering from surgery.</headline>
+<dateline>LOS ANGELES 1996-08-04</dateline>
+<text>
+<p>Actor Liam Neeson, who plays Irish independence fighter Michael Collins in a new movie, is recovering from surgery for an intestinal obstruction, his agent said on Tuesday.</p>
+<p>Neeson, best known for playing the lead role in the Oscar-winning &quot;Schindler's List,&quot; became ill on Sunday at the Venice Film Festival.</p>
+<p>Warner Bros. said the actor underwent surgery for a blockage of the intestine at a hospital in Padua after he collapsed at the festival premiere of the controversial film &quot;Michael Collins,&quot; in which he plays the lead role.</p>
+<p>The Northern Ireland-born actor's agent in Los Angeles, Susan Culley and Associates, said on Tuesday that Neeson, 44, was recovering successfully from a &quot;minor intestinal occlusion.&quot;</p>
+<p>The agent had no further comment.</p>
+<p>&quot;Michael Collins,&quot; directed by Dubliner Neil Jordan, recounts the life of the Irish Republican Army's director of intelligence who fought for Ireland's independence from Britain from 1919 to 1921.</p>
+<p>Although not due for release in Britain until early next year, some politicians have already said they fear the film, which also stars Julia Roberts, would fan sectarian tensions in British-ruled Northern Ireland.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

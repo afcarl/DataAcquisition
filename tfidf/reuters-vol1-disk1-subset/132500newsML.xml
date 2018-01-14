@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132500" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: DII Group fiscal Q3 earnings summary.</title>
+<headline>DII Group fiscal Q3 earnings summary.</headline>
+<dateline>NIWOT, Colo. 1996-10-22</dateline>
+<text>
+<p>Three months ended  Nine months ended</p>
+<p>				  Sep 29,   Sep 30,  Sep 29,  Sep 30,</p>
+<p>				    1996	 1995     1996     1995</p>
+<p>			  (In thousands, except earnings per share)</p>
+<p> Net sales		   $108,201    95,850  336,241  284,047</p>
+<p> Cost of sales		 87,753    76,655  271,104  228,736</p>
+<p>  Gross profit		 20,448    19,195   65,137   55,311</p>
+<p>  Gross profit percentage   18.9%     20.0%    19.4%    19.5%</p>
+<p>Selling, general and</p>
+<p>  administrative expenses  11,977    10,049   35,219   27,723</p>
+<p> Merger costs		   3,545	   -    4,649	  -</p>
+<p> Interest income		(379)     (402)  (1,362)  (1,082)</p>
+<p> Interest expense	     1,547	 730    4,619    2,304</p>
+<p> Amortization of intangibles  832	 597    2,355    1,825</p>
+<p> Other, net		     (465)	 103    (616)	 82</p>
+<p>Income before income taxes</p>
+<p>				    3,391     8,118   20,273   24,459</p>
+<p>Income before</p>
+<p>  income taxes percentage    3.1%	8.5%     6.0%     8.6%</p>
+<p> Income tax expense	   1,900     2,597    7,110    8,136</p>
+<p> Income tax rate		56.0%     32.0%    35.1%    33.3%</p>
+<p>  Net income		    1,491     5,521   13,163   16,323</p>
+<p>Earnings per share:</p>
+<p> Excluding merger costs	0.38	0.45     1.36     1.36</p>
+<p> Merger costs		  (0.26)	   -   (0.31)	  -</p>
+<p>				     0.12	0.45     1.05     1.36</p>
+<p>Weighted average</p>
+<p>number of common</p>
+<p>shares and equivalents</p>
+<p>  outstanding		  12,496    12,147   12,541   12,027</p>
+<p>			THE DII GROUP, INC. AND SUBSIDIARIES</p>
+<p>		     CONDENSED CONSOLIDATED BALANCE SHEETS</p>
+<p>					   Sep 29,		  Dec 29,</p>
+<p>						1996		    1995</p>
+<p>							     (In thousands)</p>
+<p>Assets</p>
+<p>Current assets:</p>
+<p>  Cash and cash equivalents	$33,830		   55,533</p>
+<p>  Accounts receivable, net	  70,627		   63,340</p>
+<p>  Inventories			   48,699		   52,746</p>
+<p>  Other				    6,930		    6,454</p>
+<p> Total current assets		160,086		  178,073</p>
+<p>Property, plant and equipment, net</p>
+<p>					    91,718		   83,281</p>
+<p> Intangible assets, net	     68,182		   61,119</p>
+<p> Other				     2,689		    4,838</p>
+<p>					   322,675		  327,311</p>
+<p>Liabilities and Stockholders' Equity</p>
+<p>Current liabilities:</p>
+<p>  Accounts payable		    38,303		   46,904</p>
+<p>  Accrued expenses		    16,411		   14,298</p>
+<p>  Accrued interest payable	   2,398		    1,182</p>
+<p>Current installments of</p>
+<p>long-term financing obligations</p>
+<p>					     3,104		    2,769</p>
+<p>Notes payable, primarily to</p>
+<p>   sellers of businesses acquired  2,382		   16,588</p>
+<p> Total current liabilities	  62,598		   81,741</p>
+<p>Convertible subordinated notes payable</p>
+<p>					    86,250		   86,250</p>
+<p>Long-term financing obligations,</p>
+<p>  excluding current installments   9,646		   11,536</p>
+<p> Other				     3,585		    2,235</p>
+<p> Stockholders' equity		160,596		  145,549</p>
+<p>					   322,675		  327,311</p>
+<p>SOURCE  DII Group, Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIWOT, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

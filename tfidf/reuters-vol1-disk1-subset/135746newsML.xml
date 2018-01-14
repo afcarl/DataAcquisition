@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135746" id="root" date="1996-10-23" xml:lang="en">
+<title>FRANCE: SOCCER-BORDEAUX SEEK WAY OUT OF SLUMP.</title>
+<headline>SOCCER-BORDEAUX SEEK WAY OUT OF SLUMP.</headline>
+<dateline>BORDEAUX, France 1996-10-23</dateline>
+<text>
+<p>Jean-Pierre Papin's Bordeaux, high flyers in the first weeks of the season, will be looking to end a disastrous slump, including two successive home defeats, when they entertain Montpellier on Thursday.</p>
+<p>&quot;(The players) are all as conscious as me that this sequence can't and mustn't last,&quot; trainer Rolland Courbis said on Wednesday.</p>
+<p>Bordeaux, unbeaten in their first nine matches, were hot on leaders Paris Saint-Germain's heels until they crashed 2-1 at home to Strasbourg three weeks ago. They now trail them by 11 points.</p>
+<p>Papin was away on private business in the United States but his return to the side has not sparked a return to form. Bordeaux have taken only two points from their last five games.</p>
+<p>The former Marseille, AC Milan and Bayern Munich striker will lead the attack alongside Didier Tholot, with Argentine Claudio Biaggio on the bench.</p>
+<p>PSG travel to Rennes on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BORDEAUX, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

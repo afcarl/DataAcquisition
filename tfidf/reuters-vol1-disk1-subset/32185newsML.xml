@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32185" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: McDonnell Douglas sells/options helicopters.</title>
+<headline>McDonnell Douglas sells/options helicopters.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>McDonnell Douglas Corp has agreements covering sales and option for 13 light helicopters, the company said in a statement issued from the Farnborough International Air Show in England.</p>
+<p>McDonnell Douglas said it sold an MD 600N single-turbine, eight place helicopter to  Presta Services which operates a large supermarket chain in France.</p>
+<p>The second sale is for three helicopters, an MD Explorer, an MD 600N and an MD 500E, to UND Aerospace, the aviation education and training arm of the University of North Dakota (UND). The university also took an option for nine MD 500Es.  </p>
+<p>These sales bring to 23 the number of helicopter sales and options announced at Farnborough by McDonnell Douglas.</p>
+<p>Previously, the company announced sale of 10 MD Explorer helicopters to Police Aviation Services of the U.K., which will place the helicopters in dual use as police and aero medical units throughout the country.</p>
+<p>UND Aerospace will use the helicopters in its recently launched program to provide training for all McDonnell Douglas light helicopter products. UND will establish a training center at Williams Gateway Airport near the McDonnell Douglas facility in Mesa, Ariz.</p>
+<p>The three firm-sale aircraft to UND and the MD 600N to Presta Services will be delivered in 1997.</p>
+<p>The MD 600N is in the final stages of certification by the U.S. Federal Aviation Administration. That action and delivery of the first MD 600N helicopters are expected in December of this year, the company said.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131934" id="root" date="1996-10-21" xml:lang="en">
+<title>PHILIPPINES: Manila approves Aboitiz power project.</title>
+<headline>Manila approves Aboitiz power project.</headline>
+<dateline>MANILA 1996-10-21</dateline>
+<text>
+<p>Philippine Energy Secretary Francisco Viray said on Monday that state-owned National Power Corp it had approved a $70 million hydro-power plant proposed by a consortium led by Aboitiz Equity Ventures Inc in the northern province of Benguet.</p>
+<p>The power company's board decided at a meeting last week to award the contract to the consortium composed of Aboitiz, Northern Mini Hydro Corp, Ever Electrical Corp, and Australia's Pacific Hydro Corp, Viray told reporters.</p>
+<p>He said the consortium was the lone qualified bidder on the project.</p>
+<p>The proposed 65 to 70-megawatt plant, to be built under the build-operate-transfer scheme, is scheduled to start commercial operation by the year 2000.</p>
+<p>--Manila newsroom (632) 841-89-36, fax 817-62-67</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I1610107">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

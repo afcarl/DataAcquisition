@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135534" id="root" date="1996-10-22" xml:lang="en">
+<title>MALTA: PRESS DIGEST - Malta - Oct 22.</title>
+<headline>PRESS DIGEST - Malta - Oct 22.</headline>
+<dateline>VALLETTA 1996-10-22</dateline>
+<text>
+<p>These are the leading stories in the Maltese press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>THE TIMES</p>
+<p>- Prime Minister Eddie Fenech Adami, seeking a third term in Saturday's election told a news conference that although his government had reduced income tax, revenue from it had nearly doubled in nine years as the economy grew. Should such growth continue, the government would be able to reduce the tax further. The government is being criticized by the oppposition Labour Party for introducing value added tax.</p>
+<p>L-ORIZZONT</p>
+<p>- Labour Leader Alfred Sant accused Finance Minister John Dalli of giving unconvincing answers over accusations of links with a person accused of drug trafficking and masterminding the attempted murder of the prime minister's assistant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

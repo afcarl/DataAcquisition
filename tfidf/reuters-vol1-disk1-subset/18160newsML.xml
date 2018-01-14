@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18160" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Stocks end slightly higher; IBM shores up market.</title>
+<headline>Stocks end slightly higher; IBM shores up market.</headline>
+<dateline>NEW YORK 1996-08-28</dateline>
+<text>
+<p>Blue-chip stocks ended with small gains Wednesday as a jump in the shares of International Business Machines Corp. provided most of the luster to an otherwise dull market.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended up 1.11 points at 5,712.38. In the broader market, advancing issues beat declines 12-9 on light volume of 297 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

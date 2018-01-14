@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135318" id="root" date="1996-10-22" xml:lang="en">
+<title>THAILAND: Thai flood death toll rises to 91.</title>
+<headline>Thai flood death toll rises to 91.</headline>
+<dateline>BANGKOK 1996-10-22</dateline>
+<text>
+<p>The death toll from monsoon flooding has risen to 91 with rain storms continuing to threaten southern Thailand, government officials said on Tuesday.</p>
+<p>The figure included all flood related deaths since the monsoon season began in late May, interior ministry data showed.</p>
+<p>The ministry estimated overall flood damage at 2.29 billion baht ($91.6 million).</p>
+<p>The meteorological department said more heavy rain and flash floods were expected in the south as Tropical Depression Beth, with its centre in the South China Sea, moved towards southwestern Vietnam with winds of 45 km (27 miles) per hour.</p>
+<p>Although flood waters had started to ebb in most areas, water levels remained high in many provinces, mostly in the central region, an interior ministry official said.</p>
+<p>Floods have damaged 717,336 hectares (1.7 million acres) of farmland, mostly in central provinces. More than a million livestock had been killed or lost, the ministry official said.</p>
+<p>On Monday the government revised down its forecasts for 1996/97 output of sugar cane, first crop rice and soybeans due to floods.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

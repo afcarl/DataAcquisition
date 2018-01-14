@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133193" id="root" date="1996-10-22" xml:lang="en">
+<title>RUSSIA: Kirov stops tractor output for two weeks.</title>
+<headline>Kirov stops tractor output for two weeks.</headline>
+<dateline>ST PETERSBURG, Russia 1996-10-22</dateline>
+<text>
+<p>OAO Kirovsky Zavod has stopped the main production line at its tractor division until November 1 because of falling cash revenues, the company's chief executive said on Tuesday.</p>
+<p>&quot;The stoppage of the main production line was caused by falling tractor sales for real money necessary to pay taxes,&quot; Alexander Krikunov told Reuters.</p>
+<p>Like many Russian companies, Kirov is not being paid in cash for much of its output, but is taking other goods in barter or using goods to settle its own debts.</p>
+<p>Krikunov said half of the line's 2,000 workers had been sent on unpaid leave.</p>
+<p>The rest of the employees were finishing already assembled tractors and producing two tractors a week under a German company order.</p>
+<p>Despite the suspension, tractor production at Kirov would grow to 1,000 from 920 in 1995, Krikunov said.</p>
+<p>Kirov's first-half profit was 90.10 billion roubles after 64.80 billion roubles in the same period of 1995, according to Russian accounting standards, he said.</p>
+<p>-- St Petersburg newsroom (812) 219 9209</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST PETERSBURG, Russia"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

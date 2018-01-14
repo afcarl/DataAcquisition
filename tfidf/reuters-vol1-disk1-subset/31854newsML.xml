@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31854" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Texas Instruments to expand Mexico plant.</title>
+<headline>Texas Instruments to expand Mexico plant.</headline>
+<dateline>MEXICO CITY 1996-09-03</dateline>
+<text>
+<p>U.S.-based Texas Instruments Inc plans to invest $9 million to expand its semiconductor plant in the central Mexican state of Aguascalientes, a company director said on Tuesday.</p>
+<p>Texas Instruments decided that Mexico provided the best conditions for increasing its production after considering several countries in the region, said Don Hutcherson, company head in Mexico. The Mexican plant is currently the only Texas Instruments operation in Latin America.</p>
+<p>Mexico has become one of Texas Instruments' main points for exports to Europa and Asia, he added, saying that it was expanding production in Mexico to meet greater demand from the export market.</p>
+<p>The company expects to export $70 million from its Mexican plant in 1996, Hutcherson said.</p>
+<p>-- Claudia Villegas, Mexico City newsroom +525 728-9549</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

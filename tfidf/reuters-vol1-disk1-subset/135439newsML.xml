@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135439" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan Aug rubber product output up 3.8 pct yr/yr.</title>
+<headline>Japan Aug rubber product output up 3.8 pct yr/yr.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>The Japan Rubber Manufacturers' Association said on Tuesday that Japan's rubber product output in August totalled 102,552 tonnes, up 3.8 percent from the same month last year.</p>
+<p>Details of rubber product output were as follows, in tonnes:</p>
+<p>			  August 1996    July 1996    Year/Year</p>
+<p> Automobile tyres     75,119	 93,547	  +2.6 pct</p>
+<p> Industrial use	 20,972	 24,265	  +3.4 pct</p>
+<p> Others		    6,461	  7,356	 +22.7 pct</p>
+<p> Total		   102,552	125,168	  +3.8 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

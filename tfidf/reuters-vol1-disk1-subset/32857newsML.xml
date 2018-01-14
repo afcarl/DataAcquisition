@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32857" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: UAW talks to continue at GM, Chrysler.</title>
+<headline>UAW talks to continue at GM, Chrysler.</headline>
+<dateline>DETROIT 1996-09-04</dateline>
+<text>
+<p>Despite the United Auto Workers' decision to choose Ford Motor Co as its target in bargaining with the Big Three U.S. automakers, General Motors Corp and Chrysler Corp said they will continue subcommittee negotiations with the union.</p>
+<p>In past negotiating years, the union has sent bargainers at the two non-target companies home while it negotiates with the target firm.</p>
+<p>But Chrysler spokeswoman Nicole Solomon said the UAW and Chrysler bargainers are scheduled to meet this week.  </p>
+<p>&quot;We'll continue in subcommittee until the union notifies us otherwise,&quot; Solomon said. &quot;On critical issues, like wages and sourcing, they'll be negotiating with Ford first.&quot;</p>
+<p>GM spokesman Charles Licari said Detroit's largest automaker also will continue to meet with the union and has no plans to suspend talks. &quot;Bargaining at GM will continue.  As far as we're concerned, it's business as usual.&quot;</p>
+<p>Tuesday night, UAW vice president Ernest Lofton confirmed that the union had selected Ford to lead bargaining for a pattern agreement.  The union has gone out of its way to downplay the possibility of a strike against the company when the contract expires September 14.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

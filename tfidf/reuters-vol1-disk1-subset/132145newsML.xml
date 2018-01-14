@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132145" id="root" date="1996-10-21" xml:lang="en">
+<title>THAILAND: Thai govt lowers output projection for rice, soy.</title>
+<headline>Thai govt lowers output projection for rice, soy.</headline>
+<dateline>BANGKOK 1996-10-21</dateline>
+<text>
+<p>Thailand's agriculture ministry on Monday lowered its projection for 1996/97 first crop rice and soybean output due to floods, but increased the forecast for the corn crop, a ministry official said.  </p>
+<p>The ministry has reduced its forecast for first crop rice output for the 1996/97 (April-March) crop year to 17.60 million tonnes from 18.11 million tonnes forecast in July, said Monthol Chiamcharoen, head of the ministry's forecast division.</p>
+<p>The soybean (April-March) forecast was sharply lowered to 352,600 tonnes from 411,916 tonnes projected earlier as major soybean planting areas such as Sukhothai were badly affected by floods. The Thai monsoon season started in late May.</p>
+<p>Last week the Interior Ministry said flood damage was estimated at 1.9 billion baht ($76 million). Floods damaged 556,919 hectares (1.4 million acres) of farmland, 397,859 (990,000 acres) of which were rice fields, particularly in central and northeastern areas, ministry officials said.</p>
+<p>But despite the floods, the ministry raised its forecast corn (July-June) output to 4.38 million tonnes from 4.36 million tonnes previously, Monthol said.</p>
+<p>&quot;The high price of corn encouraged farmers to grow more,&quot; Monthol said.</p>
+<p>&quot;The (corn) output could have been much higher without floods. Before we factored in flood damage, the corn forecast was put at 4.42 million tonnes,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20848" id="root" date="1996-08-29" xml:lang="en">
+<title>JAPAN: Japan's July vehicle output up, August seen flat.</title>
+<headline>Japan's July vehicle output up, August seen flat.</headline>
+<dateline>TOKYO 1996-08-29</dateline>
+<text>
+<p>Japan's vehicle output rose in July as several carmakers boosted production ahead of the launch of new models, but output is likely to stay flat or even fall in August before picking up again in September.</p>
+<p>Japan's vehicle production in July rose 9.5 percent from a year earlier to 953,010 vehicles, rebounding after falling the previous month, the Japan Automobile Manufacturers Association said Thursday.</p>
+<p>&quot;The July gain was mainly because carmakers increased output in July ahead of the summer holidays in August and several makers began producing new models,&quot; a JAMA official said.</p>
+<p>The weaker yen probably led to higher exports in July, which in turn helped boost vehicle output, the official said. JAMA said it expected Japan's vehicle exports in July to have risen 13 percent from a year earlier.</p>
+<p>The Japanese government is planning to raise the consumption tax to 5 percent from the present 3 percent, effective April 1, 1997.</p>
+<p>Toyota's output jumped 16 percent from a year earlier to 310,165 in July, Nissan's rose 5.4 percent to 166,190, Mitsubishi edged up 0.1 percent to 108,439, Honda soared 18.5 percent to 94,944, and Mazda rose 5 percent to 63,593.</p>
+<p>JAMA also said Japan's overall vehicle sales, including 660cc minivehicles, rebounded in July. Sales rose 4.8 percent from a year earlier to 679,562 vehicles that month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

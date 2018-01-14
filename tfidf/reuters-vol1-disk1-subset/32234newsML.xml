@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32234" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: ACLU bids to overturn Simpson case gag order.</title>
+<headline>ACLU bids to overturn Simpson case gag order.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>Civil libertarians filed a court brief Wednesday seeking to overturn a judge's order barring lawyers and witnesses from commenting publicly in the forthcoming wrongful death civil trial of O.J. Simpson.</p>
+<p>The friend of the court brief filed by the American Civil Liberties Union of Southern California brands Judge Hiroshi Fujisaki's Aug. 23 gag order unconstitutional and asks the California appeals court to reverse it.</p>
+<p>&quot;Civil litigation often raises matters of great importance to the community at large, including issues of racial discrimination, police brutality, environmental issues, to name a handful,&quot; ACLU attorney Paul Hoffman said.</p>
+<p>&quot;The media routinely covers civil litigation of this kind and the participants in such litigation frequently comment publicly about the issues. This process illustrates the First Amendment (guaranteeing freedom of speech) at work,&quot; he said.</p>
+<p>In the Simpson case, Fujisaki's order &quot;undermines this process without justification in a specific threat to judicial process,&quot; said Hoffman, who said he expected an appeals court ruling by the end of the week.</p>
+<p>Fujisaki will hear the civil case against Simpson starting Sept. 17. In contrast to the televised criminal trial last year, when the former football star was acquitted of murdering his ex-wife and a friend, Fujisaki was expected to bar cameras from the civil case.</p>
+<p>Simpson is being sued by the families of the murder victims, who allege he is responsible for their deaths.</p>
+<p>In its brief on behalf of several media organisations, the ACLU termed the gag order &quot;an unconstitutional prior restraint on speech protected by the First Amendment. The Simpson case has generated a public debate about the criminal justice system, domestic violence, racism (or not) in the criminal justice system and police misconduct, to name a few.&quot;</p>
+<p>It also says Fujisaki's order is invalid because it is overbroad in its restrictions and unconstitutionally vague on which participants are covered by it and to what extent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

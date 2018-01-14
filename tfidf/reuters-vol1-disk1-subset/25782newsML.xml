@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25782" id="root" date="1996-08-31" xml:lang="en">
+<title>ROMANIA: SOCCER-ROMANIA BEAT LITHUANIA IN U-21 QUALIFIER.</title>
+<headline>SOCCER-ROMANIA BEAT LITHUANIA IN U-21 QUALIFIER.</headline>
+<dateline>BUCHAREST 1996-08-30</dateline>
+<text>
+<p>Romania beat 2-1 (halftime 1-1) Lithuania in their European Under-21 soccer match on Friday.</p>
+<p>Scorers:</p>
+<p>Romania - Cosmin Contra (31st), Mihai Tararache (75th)</p>
+<p>Lithuania - Danius Gleveckas (13rd)</p>
+<p>Attendence: 200</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LITH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

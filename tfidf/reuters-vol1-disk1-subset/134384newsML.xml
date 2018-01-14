@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134384" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Lilly meets Q3 consensus before Dura gain.</title>
+<headline>Lilly meets Q3 consensus before Dura gain.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Eli Lilly &amp; Co met Wall Street expectations in the third quarter by posting profits of $0.64 per share, excluding a one-time gain on the sale of U.S. marketing rights for two aging antibiotics.</p>
+<p>The company reported quarterly earnings of $0.76 per share, but said that figure included a $0.12 per share gain, shown as other income, on the sale of marketing rights for Ceclor CD and Keftab to Dura Pharmaceuticals Inc.</p>
+<p>Shares in the drugmaker were up 2-1/4 to 71.  </p>
+<p>The First Call consensus of 20 analysts' estimates forecast third-quarter Lilly earnings of $0.64 per share. Earnings in the year-ago period were $0.54 per share, excluding gains of $1.60 per share on discontinued operations.</p>
+<p>Lilly also said this year's third-quarter results were boosted by a lower number of shares outstanding -- 546.4 million versus 573 million a year earlier -- and by a lower estimated effective tax rate.</p>
+<p>--K. Drawbaugh 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

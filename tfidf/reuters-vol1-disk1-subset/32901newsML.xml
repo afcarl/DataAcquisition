@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32901" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Carolina 880 MW Harris nuke trips off line.</title>
+<headline>Carolina 880 MW Harris nuke trips off line.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Carolina Power &amp; Light Co's 880 megawatt Harris nuclear power plant in New Hill, N.C. has tripped off line and was not producing electricity as of early Wednesday morning, the Nuclear Regulatory Commission (NRC) said.</p>
+<p>The unit had a &quot;reactor trip due to loss of normal service water system,&quot; the NRC said in its daily plant status report.  </p>
+<p>The NRC said the Harris plant was in &quot;hot standby&quot; mode, indicating the reactor was still active, and the unit may be returned to service relatively quickly.</p>
+<p>A company spokeswoman said they did not know when the unit likely would resume power production.</p>
+<p>&quot;We lost a normal service water pump and a backup pump failed to function,&quot; said spokeswoman Susan Crutchfield.</p>
+<p>She said the unit was manually shut down late Tuesday.</p>
+<p>Harris is one of four nuclear power units, including two units at the Brunswick facility, operated by the company.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

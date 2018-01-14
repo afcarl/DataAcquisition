@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133207" id="root" date="1996-10-22" xml:lang="en">
+<title>SLOVAKIA: Slovak c.bank adds ING, CSOB as reference banks.</title>
+<headline>Slovak c.bank adds ING, CSOB as reference banks.</headline>
+<dateline>BRATISLAVA 1996-10-22</dateline>
+<text>
+<p>The National Bank of Slovakia (NBS) on Tuesday said that the Slovak branches of ING Bank and Czech CSOB had been accredited as reference banks on the money market.</p>
+<p>Juraj Janosik, head of NBS Banking Transactions, told Reuters that at the same time, Postova Banka had been dropped from those banks which the NBS appoints in an attempt to lessen its own direct market activity.</p>
+<p>&quot;Banks ING and CSOB have been included to the group of reference banks, (while) reference bank status had been cancelled to Postova Banka,&quot; Janosik said. He declined to comment further.</p>
+<p>Reference banks must provide bid/offer quotations for standard deposit maturities, with a set spread, and must have certain minimum credit lines as well as minimum trading volumes for other market participants.</p>
+<p>Quotations from the eight banks instead of the current seven will be used to determine the Bratislava Interbank Offered Rate (BRIBOR).</p>
+<p>The status of reference banks has been previously awarded to IRB, Istrobanka, Polnobanka, Slovenska Sporitelna, Tatra Banka, and VUB Bank.</p>
+<p>ING Bank was excluded from the group in early August when the group was officially organised, as it unexpectedly failed to arrange with its parent bank the higher credit lines needed to be a reference bank.</p>
+<p>-- Tatiana Vacova, Bratislava Nesroom, 42-7-563-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

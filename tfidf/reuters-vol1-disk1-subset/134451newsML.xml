@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134451" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Cyprus Amax says prices, conditions hurt Q3.</title>
+<headline>Cyprus Amax says prices, conditions hurt Q3.</headline>
+<dateline>DENVER 1996-10-22</dateline>
+<text>
+<p>Cyprus Amax Minerals Co said Tuesday that lower third quarter earnings mainly reflect lower copper and molybdenum prices, adding that coal earnings were lower due to mining conditions.  </p>
+<p>In a release Tuesday the company said copper/molybdenum earned $31 million during the third quarter of 1996, compared to earnings of $166 million in the same period of 1995.</p>
+<p>The company cited lower copper and molybdenum realizations, adding that copper averaged $0.93 per pound for the third quarter of 1996, $0.42 lower than the same quarter last year.</p>
+<p>Coal earnings were lower due to mining conditions at Emerald, now resolved through implementation of a new mine plan, the company said.</p>
+<p>Cyprus Amax said it expects commercial operations there to begin in the fourth quarter and expects to achieve a full production rate by early 1997.</p>
+<p>It said that during the third quarter of 1996, it &quot;achieved and exceeded design capacity of 105 million pounds of copper per year at Cerro Verde. And (it) encountered great success in moving the El Abra development project toward an operating phase.&quot;</p>
+<p>The company added that it began placing ore on the leach pads in July and electroplating copper in August, &quot;ahead of schedule, and on budget.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

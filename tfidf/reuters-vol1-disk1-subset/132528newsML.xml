@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132528" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Worldtex shares jump after Q3 earnings.</title>
+<headline>Worldtex shares jump after Q3 earnings.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Shares of Worldtex Inc leapt on Tuesday after it posted strong third quarter earnings and predicted 1996 earnings would equal or exceed analysts' estimates of $0.70 to $0.75 a share.</p>
+<p>Shares jumped about seven percent, up 1/2 to 8-1/4 and touched a new year high of 8-3/8 after the third-quarter earnings of $0.17 a share, compared with $0.03 a share in the year-ago quarter, including charges.</p>
+<p>Worldtex makes nylon and cotton covered spandex used in panty hose. It said several factors contributed to the strong quarterly profits, including an expansion in end-use applications which increased sales despite lackluster European market conditions.</p>
+<p>It said its low cost Bogota, Colombia, manufacturing facility added to operating margins and said North American sales and profits grew during the quarter, posting a turnaround from the declines of the past few quarters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

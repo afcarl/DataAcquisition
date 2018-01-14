@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33138" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Hurricane may again delay pickup of U.S. astronaut.</title>
+<headline>Hurricane may again delay pickup of U.S. astronaut.</headline>
+<dateline>CAPE CANAVERAL, Fla 1996-09-03</dateline>
+<text>
+<p>Hurricane Fran, lurking in the Atlantic, may further delay the launching of a space shuttle meant to take U.S. astronaut Shannon Lucid off Russia's Mir space station, NASA officials said on Tuesday.</p>
+<p>The shuttle Atlantis, already six weeks late because of rocket problems, is supposed to take Lucid back to Earth after dropping off her replacement, John Blaha.</p>
+<p>Lucid, a 53-year-old mother of three, has been working aboard the space station since March. She was originally due home in August.</p>
+<p>&quot;We'll get her back as soon as we can,&quot; NASA spokesman Bruce Buckingham said. &quot;It's another short delay if it turns out to be that at all.&quot;</p>
+<p>NASA has been poised since Friday to haul the shuttle off its seaside launch pad at the Kennedy Space Centre if Hurricane Fran threatened the east coast of Florida.</p>
+<p>With launch preparations virtually on hold while NASA managers monitor the storm, it may prove impossible to launch Atlantis as planned on Sept. 14.</p>
+<p>&quot;Even if we stay on the pad, it's going to be very tight, but we're not prepared to give up yet,&quot; Buckingham said.</p>
+<p>Officials will decide on Tuesday night whether to move Atlantis back to the safety of its giant assembly building. That would almost certainly mean a delay.</p>
+<p>&quot;It's going to be a close call whether we come back or not,&quot; Buckingham said. &quot;They'll make a decision one way or another tonight.&quot;</p>
+<p>Hurricane Fran is also likely to delay the planned Oct. 31 launch of the shuttle Columbia, because work to assemble its booster rockets has been held up for almost a week.</p>
+<p>And two unmanned rockets scheduled to be launched from Cape Canaveral Air Station next week may face delays because of the storm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

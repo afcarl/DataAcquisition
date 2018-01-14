@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136176" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: United Auto Group surges after IPO.</title>
+<headline>United Auto Group surges after IPO.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>Shares of United Auto Group surged over 15 percent after its $187.5 million initial public offering on Wednesday.</p>
+<p>The stock jumped 4-5/8 to 34-5/8 in heavy trading. A stake of about 33.9 percent, or 6.25 million shares, of the New York City-based company were sold in the IPO for $30 each.</p>
+<p>The company originally filed for an IPO of five million s hares to price in a range of $26 to $29 each.  </p>
+<p>United Auto said in a press release it plans to use about $62.1 million of the $172.2 million net proceeds from the IPO to buy Sun Automotive Group of Phoenix and Scottsdale, Arizona; Evans Automotive Group of Duluth and Conyers, Georgia; and Standefer Motor Sales of Chattanooga, Tennessee.</p>
+<p>It will pay down debt with $43.6 million from the IPO, and fund the expansion of its automobile finance business Atlantic Auto Finance Corp with $15.0 million.</p>
+<p>United Auto Group was founded in 1990 by Trace International Holdings Inc.  Including the IPO, Trace owns about 21.7 percent of the outstanding common stock of United Auto. Harvard Private Capital Group owns about 17.5 percent and AIF II, an affiliate of Apollo Advisors, owns 11.3 percent.</p>
+<p>United Auto Group operates franchised automotive and light truck dealerships and related businesses in Arizona, Arkansas, Connecticut, Georgia, New Jersey, New York and Tennessee.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

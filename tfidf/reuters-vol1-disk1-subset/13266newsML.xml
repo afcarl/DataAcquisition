@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13266" id="root" date="1996-08-25" xml:lang="en">
+<title>ISRAEL: Israel to raise $200 mln in foreign bank loan.</title>
+<headline>Israel to raise $200 mln in foreign bank loan.</headline>
+<dateline>TEL AVIV 1996-08-25</dateline>
+<text>
+<p>Israel's General Accountant Shai Talmon has asked Israeli banks to submit proposals for raising $200 million through a consortium of foreign banks, the Treasury said.</p>
+<p>The Treasury plans to chose the best offer in the second half of September and the loan itself will be raised towards the end of the year.</p>
+<p>Last year the government raised 350 million Deutsche marks through a consortium of 43 foreign banks.</p>
+<p>Talmon said the foreign currency loan will lay the groundwork for additional means of raising foreign financing in preparation for the expiration of the $10 billion U.S. loan guarantee programme in 1998.</p>
+<p>Last Thursday Israel raised $1 billion in New York with the backing of U.S. guarantees.</p>
+<p>The government plans to raise $200 million to $250 million in its first Eurobond offering towards the end of the year.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

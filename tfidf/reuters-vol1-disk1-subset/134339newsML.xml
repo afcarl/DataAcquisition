@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134339" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: RESEARCH ALERT - Xilinx rated a buy.</title>
+<headline>RESEARCH ALERT - Xilinx rated a buy.</headline>
+<text>
+<p>-- J.P. Morgan analyst Terry Ragsdale said in a research note that he initiated coverage of Xilinx Inc with a buy recommendation and an 18-month price target of $49 per share.</p>
+<p>-- In early Nasdaq trade, Xilinx shares rose 1/8 to 33-7/8.  </p>
+<p>-- &quot;With the semiconductor sector on the brink of a new up cycle, now is a good time to own chip stocks, especially those with a proprietary story such as Xilinx ...&quot; the analyst wrote.</p>
+<p>-- Also, &quot;Xilinx is the number one player in programmable logic, one of the most attractive segments in the semiconductor industry.&quot;</p>
+<p>-- For the fiscal year ending March 1997, the analyst estimates per share earnings of $1.43 per share and for the the 1998 fiscal year the outlook is $1.90 per share.</p>
+<p>-- Brendan Intindola, Wall Street Desk, 212-859-1734</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

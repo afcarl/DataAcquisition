@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33183" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Germany sceptical of UK gas deregulation as model.</title>
+<headline>Germany sceptical of UK gas deregulation as model.</headline>
+<dateline>BERLIN 1996-09-04</dateline>
+<text>
+<p>Britain's deregulation of its natural gas market is unlikely to provide a useful model for the rest of Europe in the short term, senior German gas officials said on Wednesday.</p>
+<p>Erich Deppe, president of the Federal Association of the German Gas and Water Industries, &quot;I think the British experiment is one we need to look at for a while.</p>
+<p>&quot;First we would need to look at the budget,&quot; Deppe told an International Energy Agency gas conference here.</p>
+<p>&quot;Then we need to look at points of departure between different European countries,&quot; he said.</p>
+<p>&quot;For example in Britain a single company, British Gas, has supplied gas from wellhead to burner. In Germany that's very different.&quot;</p>
+<p>&quot;Last week I spoke to Clare Spottiswoode (director general of U.K. gas regulator Ofgas) and we were unable to rach a consensus,&quot; Deppe added.</p>
+<p>Rolf Beyer, member of the board of Ruhrgas, noted that although three counties in southwest England have opened up for competition in the household market, British Gas is not allowed to undercut new entrants in price.</p>
+<p>&quot;If this is competition, I don't think we need it,&quot; he said.</p>
+<p>Britain's gas market has progressively opened for competition since 1986, and by 1998 all consumers will be able to buy from any licensed supplier.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

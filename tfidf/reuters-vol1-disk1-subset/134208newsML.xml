@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134208" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: Indian sugar prices gain as credit controls lifted.</title>
+<headline>Indian sugar prices gain as credit controls lifted.</headline>
+<dateline>BOMBAY 1996-10-22</dateline>
+<text>
+<p>Indian sugar prices, like many other commodities on Tuesday, rose after the central bank lifted credit controls on some commodities, dealers said.</p>
+<p>&quot;Increased consumer buying also sent up prices while supplies remained low,&quot; one dealer said.</p>
+<p>In the ready delivery sugar S-30 rose by 12/20 rupees to 1,305/1,325 rupees while M-30 gained by five rupees to 1,315/1,355 rupees. Sugar mill delivery moved up to 1,230/1,245 rupees from 1,220/1,230 rupees.</p>
+<p>Millers said there was increased buying by neighbouring states which in turn restricted market arrivals in Bombay.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

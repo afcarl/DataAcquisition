@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28470" id="root" date="1996-09-03" xml:lang="en">
+<title>CANADA: Saddam may only understand force, Canada says.</title>
+<headline>Saddam may only understand force, Canada says.</headline>
+<dateline>OTTAWA 1996-09-03</dateline>
+<text>
+<p>Canada voiced support for the U.S. cruise missile attack on Iraq on Tuesday, and said Iraqi President Saddam Hussein may only understand force.</p>
+<p>&quot;An intervention of this nature was necessary to avert a larger human tragedy in northern Iraq,&quot; Prime Minister Jean Chretien said in a statement.</p>
+<p>&quot;I think we knew the history and background of Saddam Hussein. I think his interest in provocation and these kinds of transgressions are both prevalent and almost Pavlovian,&quot; Foreign Minister Lloyd Axworthy told a news conference.</p>
+<p>&quot;Perhaps the only thing he understands is when you provide the kind of forceful reaction so you can draw a line where he has to stand, and we hope that he will get the message,&quot; he said.</p>
+<p>Chretien said: &quot;Saddam Hussein has cynically used local Kurdish groups to move his forces into the no-fly zone, and launch a massive attack on Arbil.</p>
+<p>&quot;The use of cruise missiles against military targets constitutes a measured and clear response to Iraqi military actions, while ensuring to the extent possible the safety of civilian populations in Iraq.&quot;</p>
+<p>Canadian forces took part in Desert Storm, the 1991 operation that drove Saddam out of Kuwait.</p>
+<p>Chretien called on Saddam to &quot;withdraw his troops immediately and completely from the Kurdish regions in the north, and to end his oppression of the civilian Iraqi population, especially in the northern region.&quot;</p>
+<p>Axworthy said two private Canadian trade missions were hastily leaving Iraq and Canada was complying with U.N. Secretary-General Boutros Boutros-Ghali's suspension of plans to implement an oil-for-food deal for Iraq.</p>
+<p>Asked whether Canadian troops might be drawn into the conflict, he said the question was hypothetical and he hoped the action taken so far would be enough to deter Saddam.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

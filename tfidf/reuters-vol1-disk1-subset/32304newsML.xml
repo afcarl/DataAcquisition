@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32304" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: AT&amp;T Universal Card president resigns.</title>
+<headline>AT&amp;T Universal Card president resigns.</headline>
+<dateline>JACKSONVILLE, Fla. 1996-09-04</dateline>
+<text>
+<p>David Hunt, president of AT&amp;T Universal Card Services, has resigned to pursue other business interests, AT&amp;T said on Wednesday.</p>
+<p>Hunt, 50, who joined AT&amp;T in May 1993 will be replaced in the interim by Gerald Hines, who is chief operating officer of the Universal Card business.</p>
+<p>&quot;We have an external search already under way,&quot; said AT&amp;T chief financial officer Richard Miller. &quot;We appreciated David's contributions and wish him well,&quot; he said.</p>
+<p>Hunt is evaluating several business opportunities, an AT&amp;T spokeswoman said.</p>
+<p>&quot;In July AT&amp;T and David discussed the direction of the business and David's career objectives, and it was at that time that a joint decision was made to make a change at the top,&quot; the spokeswoman told Reuters.</p>
+<p>AT&amp;T said it would continue to support the strategic direction of the unit, as a part of its communications services business. AT&amp;T Universal Card is the second largest issuer of credit cards in the U.S. -- Nick Louth, New York Newsroom 212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSONVILLE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

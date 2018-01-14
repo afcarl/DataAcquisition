@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132361" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. Northeast spot power flat amid light trading.</title>
+<headline>U.S. Northeast spot power flat amid light trading.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Spot wholesale electricity prices in northeastern U.S. finished flat Tuesday versus Monday's values amid light trading and thinning buying interest, market sources said.</p>
+<p>&quot;Things are pretty thin in New England. The utilities which were buying are now out of the spot market,&quot; said one Northeast marketer.</p>
+<p>He said the return of the 510 megawatt (MW) Vermont Yankee nuclear power plant later this week from refueling was expected to alleviate recent capacity tightness in the New England Power Pool (NEPOOL).</p>
+<p>The power outages in New England tied to high winds and torrential rain since this weekend continued to dampen spot electricity demand, marketers said.</p>
+<p>In NEPOOL, peak, non-firm electricity for Wednesday at the Northeast Utilities border was offered at $36.00-$37.00 a megawatt hour, while bids were near $30.00</p>
+<p>Monday's NEPOOL quotes for Tuesday delivery were assessed at $30.00-$35.00.</p>
+<p>Non-firm, off-peak NEPOOL power for next-day delivery to the NU border was valued at $21.00-$22.00, flat from Monday.</p>
+<p>In the New York Power Pool (NYPP) district, spot power prices were supported by strength in natural gas and residual fuel oil markets and expected shutdown of the 470 MW Ginna nuclear power plant to conduct test on its transformer.</p>
+<p>The Ginna outage and higher fuel costs to generate this winter counter-balance lackluster power usage, traders said.</p>
+<p>In the New York Power Pool (NYPP), peak, non-firm electricity in the eastern part of the grid for Wednesday was pegged at $30.00-$32.00, unchanged from Monday.</p>
+<p>Off-peak, non-firm power for next-day delivery in eastern NYPP was at $14.50-$15.00, flat from Monday's quote.</p>
+<p>In western NYPP, peak, non-firm electricity prices for Wednesday delivery were again discussed at $20.00-$23.00.</p>
+<p>Western NYPP electricity for non-firm, off-peak delivery during Wednesday's light load hours was still assessed in $14.00-$14.75 range.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

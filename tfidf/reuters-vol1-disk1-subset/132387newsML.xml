@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132387" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CSCE begins trading butter options Tuesday.</title>
+<headline>CSCE begins trading butter options Tuesday.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>The Coffee, Cocoa and Sugar Exchange Inc (CSCE) launched its butter options contracts Tuesday morning, but no trades were posted, the CSCE said.</p>
+<p>The options contract, which trades from 0900 to 1400 EDT, is based on the CSCE's butter futures contract introduced on October 15.</p>
+<p>The underlying futures contract calls for FOB delivery of USDA Grade AA &quot;fresh&quot; or &quot;storage&quot; salted butter at any point within the continental U.S. The trading unit is 10,000 lbs, with a delivery unit of 40,000 lbs. Price quotation is in cents per lb, with delivery months of February, April, June, August, October and December. The ticker symbol is BW.</p>
+<p>The CSCE reported no trades on the futures contract Tuesday.</p>
+<p>-- New York Commodities Desk, 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

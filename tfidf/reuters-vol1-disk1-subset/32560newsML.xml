@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32560" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Pru starts home health service cos.</title>
+<headline>RESEARCH ALERT - Pru starts home health service cos.</headline>
+<text>
+<p>-- Prudential Securities started coverage of three home health care service companies with buy ratings, according to market sources.</p>
+<p>-- Started Lincare Holdings Inc, Apria Healthcare Group Inc and Pediatric Services of America Inc, all as buy.</p>
+<p>-- Further details not immediately available.</p>
+<p>-- Lincare rose 5/8 to 36-5/8, Apria gained 1/8 to 24-5/8 and Pediatric Services rose 1/4 to 20-3/8.</p>
+<p>-- Wall Street desk, 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

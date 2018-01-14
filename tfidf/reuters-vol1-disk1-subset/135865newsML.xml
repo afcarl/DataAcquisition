@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135865" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Minntech gets EPA clearance for Minncare.</title>
+<headline>Minntech gets EPA clearance for Minncare.</headline>
+<dateline>MINNEAPOLIS 1996-10-23</dateline>
+<text>
+<p>Minntech Corp said Wednesday it received clearance from the U.S. Environmental Protection Agency to market Minncare cold sterilant as a sanitizer for non-porous food contact surfaces.</p>
+<p>Minncare has been used in industrial, laboratory, medical, and manufacturing environments since 1990. The new EPA registration covers use in food and beverage manufacturing, food processing plants, dairies, wineries, and breweries.</p>
+<p>Minntech is a medical device manufacturer of electronics, solutions, fibers, and plastics. The company said Minncare cleans and sanitizes reverse osmosis membranes and their associated distribution systems.</p>
+<p>--Chicago newsdesk, 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

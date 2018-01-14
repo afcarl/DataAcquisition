@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134475" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CalEnergy Co Inc Q3 net rises.</title>
+<headline>CalEnergy Co Inc Q3 net rises.</headline>
+<dateline>OMAHA, Neb. 1996-10-22</dateline>
+<text>
+<p>Three Months</p>
+<p>								1996	1995</p>
+<p> Revenues					     $179,048 $119,717</p>
+<p> Income Before Provision for Income Taxes     55,879   39,819</p>
+<p>Net Income Available for Common Shareholders</p>
+<p>							    37,554   27,362</p>
+<p> Net Income Per Common Share (Primary)	    0.67     0.52</p>
+<p>Average Common and Common Equivalent</p>
+<p> Shares Outstanding(1)				56,296   53,080</p>
+<p>			(in thousands except per share amounts)</p>
+<p>								Nine Months</p>
+<p>							     1996	1995</p>
+<p> Revenues					     $385,198 $303,498</p>
+<p> Income Before Provision for Income Taxes    105,149   78,116</p>
+<p>Net Income Available for Common Shareholders</p>
+<p>							  71,287   49,786(2)</p>
+<p> Net Income Per Common Share (Primary)	    1.29     1.02</p>
+<p>Average Common and Common Equivalent</p>
+<p> Shares Outstanding(1)				55,362   48,861</p>
+<p>		(in thousands except per share amounts)</p>
+<p>(1) Reflects the weighted average of outstanding shares, andincludes the conversion of the $64,850 9.5% convertible debt on September 20, 1996 the conversion of a portion of the $100,000 convertible subordinated debentures in September 1996 and the public offering of shares on February 24, 1995.</p>
+<p>(2) Includes a reduction of $3,005 for minority interest during the quarter ended March 31, 1995, reflecting the full acquisition of Magma Power Company as of February 24, 1995.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA, Neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

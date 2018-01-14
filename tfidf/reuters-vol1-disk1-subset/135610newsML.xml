@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135610" id="root" date="1996-10-22" xml:lang="en">
+<title>FINLAND: Enso sees pulp prices strengthening.</title>
+<headline>Enso sees pulp prices strengthening.</headline>
+<dateline>HELSINKI 1996-10-22</dateline>
+<text>
+<p>Finnish forestry group Enso Oy said on Tuesday it expected pulp prices to firm further in the last few months of the year with less need for the company to restrict output.</p>
+<p>&quot;Pulp prices are expected to strengthen further during the last few months of the year,&quot; Enso said in a statement with its January-August results. &quot;There will be less need to curtail production than earlier in the year.&quot;</p>
+<p>Enso said its sales of market pulp fell 31 percent in the period to 1.15 billion markka, and both its units made operating losses although prices strengthened in June and July.</p>
+<p>It said about 73 percent of its market pulp capacity was in use.</p>
+<p>-- Helsinki newsroom +35 89 6805 0247</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

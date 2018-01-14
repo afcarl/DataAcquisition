@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134374" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Associated Estates Realty Q3 net rises.</title>
+<headline>Associated Estates Realty Q3 net rises.</headline>
+<dateline>CLEVELAND 1996-10-22</dateline>
+<text>
+<p>Associated Estates Realty Corp</p>
+<p>		     (in thousands, except per share data)</p>
+<p>			  For the Three Months  For the Nine Months</p>
+<p>				     Ended Sept. 30,  Ended Sept. 30,</p>
+<p>				     1996	1995	1996    1995</p>
+<p> Total revenue		$24,084   $19,473   $69,660 $55,016</p>
+<p>Net income before</p>
+<p>   extraordinary item	 4,984     4,342    14,700  12,565</p>
+<p>Extraordinary item -</p>
+<p>extinguishment of</p>
+<p>debt-write-off of</p>
+<p>   deferred finance costs	--	 911	  --     911</p>
+<p> Net income		     4,984     3,431    14,700  11,654</p>
+<p> Funds from operations	7,360     6,661    21,462  20,386</p>
+<p>Per share:</p>
+<p>Net income before</p>
+<p>     extraordinary item	0.36	0.31	1.06    0.91</p>
+<p>   Extraordinary item	    --	0.07	  --    0.07</p>
+<p>   Net income		    0.36	0.25	1.06    0.84</p>
+<p>   Funds from operations     0.53	0.48	1.55    1.47</p>
+<p> Avg shrs			13,872    13,869    13,872  13,869</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

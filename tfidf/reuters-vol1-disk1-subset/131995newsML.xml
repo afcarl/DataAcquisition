@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131995" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Hitachi,Toshiba to build nuclear reactor in Taiwan.</title>
+<headline>Hitachi,Toshiba to build nuclear reactor in Taiwan.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Leading Japanese electric machinery makers Hitachi Ltd and Toshiba Corp are teaming up to build a nuclear reactor in Taiwan, becoming the first Japanese firms to make a reactor for foreign use.</p>
+<p>The Taiwan project to build a boiling water reactor, in which General Electric Co of the United States is the main contractor, is worth 180 billion yen ($1.60 billion), a Hitachi spokesman said.</p>
+<p>The main part of the reactor will be built in Japan and then shipped to Taiwan in three to four years from now, the spokesman said.</p>
+<p>&quot;We are attracted to a number of projects in Asia in light of delays in nuclear plant construction plans at home due to environmental concerns among the public,&quot; said the spokesman.</p>
+<p>As of the end of 1995, there were 28 nuclear power plant projects in Asian countries excluding Japan, compared with only two in Japan, according to the Japan Atomic Industrial Forum, a government-affiliated institution.</p>
+<p>But an official of the body said there are major obstacles to building nuclear reactors in Asia by Japanese firms alone, because they are not able to re-import  nuclear waste for recycling or permanent disposal.</p>
+<p>The reactor is an advanced version of a boiled water reactor jointly developed by Hitachi, Toshiba, General Electric and Tokyo Electric Power Co Inc.</p>
+<p>The same type of reactor is currently being built by Tokyo Electric Power in Japan, the spokesman said. That reactor is expected to start operating by the end of this year.</p>
+<p>The Taiwan project became certain when Taiwan's parliament voted on Friday to restore funding for the island's fourth nuclear power station. The parliament had voted in May to cancel funding.</p>
+<p>But Taiwanese anti-nuclear activists remain strongly opposed. ($1=112 yen)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

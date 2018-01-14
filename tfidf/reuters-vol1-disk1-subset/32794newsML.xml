@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32794" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Insignia Financial ends merger talks.</title>
+<headline>Insignia Financial ends merger talks.</headline>
+<dateline>GREENVILLE, S.C. 1996-09-04</dateline>
+<text>
+<p>Insignia Financial Group Inc and Related Capital Co said on Wednesday they had terminated discussions regarding the potential acquisition of Related Capital by Insignia.</p>
+<p>Related Capital's businesses required that the two companies reach definitive merger terms prior to a deadline, the companies said. The date of the deadline was not immediately available.</p>
+<p>The companies reported that material issues remained outstanding as of that date and therefore a determination was made to terminate the discussions, the companies said.  </p>
+<p>Insignia said several months ago that it felt that it had reached agreement on the basic terms of three potential acquisitions, with Related Capital being the largest.</p>
+<p>Despite the termination of negotiations with Related Capital, Insignia said its acquisition pipeline continues to be active.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENVILLE, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

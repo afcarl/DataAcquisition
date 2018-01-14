@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132296" id="root" date="1996-10-21" xml:lang="en">
+<title>UK: UK shares hit early all-time high after NY record.</title>
+<headline>UK shares hit early all-time high after NY record.</headline>
+<dateline>LONDON 1996-10-21</dateline>
+<text>
+<p>Leading British shares hit another all-time high early on Monday after a sharp rise in New York stocks took the Dow industrials index to its 31st record high of the year on Friday.</p>
+<p>The new record on the FTSE 100 of 4,064.1, a rise of 11.0 points, was hit about 20 minutes after the start of trade and beat its previous best of 4,063.2 set on October 15.</p>
+<p>However, strategists and technical analysts said that with little scheduled news due on the economic or company fronts the early strength was likely to give way to consolidation, with FTSE futures set to dictate the market's direction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33058" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Lake Elsinore, Calif., to restructure problem debt.</title>
+<headline>Lake Elsinore, Calif., to restructure problem debt.</headline>
+<dateline>LOS ANGELES 1996-09-03</dateline>
+<text>
+<p>Lake Elsinore, Calif., will be able to cover October payments to holders of $55 million of bonds and plans to restructure a portion of the debt to avert future problems, the city's attorney said on Tuesday.</p>
+<p>&quot;There is no potential for their being a default in October, and to prevent any future potential defaults, the city is in the process of restructuring the pool,&quot; said city attorney John Harper. The next bond payment is due on October 1.</p>
+<p>As previously reported, Lake Elsinore has nearly depleted the reserve fund of the $55 million Marks-Roos bond pool due to the delinquencies of a major property owner.  </p>
+<p>The pool is made up of several Mello-Roos redevelopment agency bonds.</p>
+<p>Harper said the city formed a work-out team of financial advisers and bond attorneys to develop a plan to restructure the pool. Harper said the restructuring could involve refunding a portion of the outstanding debt.</p>
+<p>Last year, the Securities and Exchange Commission asked Lake Elsinore officials for documents related to the pool and the depleted reserve fund.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

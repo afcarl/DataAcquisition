@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32248" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Weather aids US spring wheat belt harvest in week.</title>
+<headline>Weather aids US spring wheat belt harvest in week.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Clear hot weather aided harvest of spring wheat, barley and oats in northern U.S. spring wheat states in the week ended September 1 but dry soils were a concern for fall planting, according to state crop reports.</p>
+<p>NORTH DAKOTA - Spring wheat harvest advanced 22 points to 63 percent complete as of Sunday, compared to 49 pct last year and 55 pct on a five-year average. But district averages in the northern tier were less than half complete. HRS conditions were rated 61 pct good to excellent, 27 fair and 10 poor. Oats harvest was 74 percent complete and barley 77 pct, both ahead of average, but durum was 33 pct cut vs the average 38 pct.  </p>
+<p>North Dakota durum was rated 48 percent good to excellent and 34 pct fair. Canola and flax harvests were also under way, the report said, adding that dryness and grasshoppers were hurting late season crops in the south and west of the state.</p>
+<p>MINNESOTA - Spring wheat harvest advanced eight points to 55 percent complete as of Sunday, compared to 71 pct last year and 60 pct average. Spring wheat was rated 53 percent good to excellent, 38 fair and 6 poor. Barley was 60 percent harvested against 53 last week, 75 last year and 76 average. Oats were 96 percent harvested, up three points. The state report said dryness in the week had slowed row crop development.  </p>
+<p>MONTANA - Dry weather created fire dangers in the week but harvest progressed rapidly. Spring wheat was 81 percent harvested against 58 pct last week, 41 last year and 47 on average. Winter wheat was 98 percent harvested, barley 72 pct and oats 77 pct, all more than 20 percentage points ahead of the five-year averages. Topsoils were rated 60 percent very short statewide and 32 percent short, with winter wheat seeding about to begin facing problems from the dry soils.</p>
+<p>SOUTH DAKOTA - Spring wheat was 97 percent harvested, up six points and slightly ahead of average. Barley and oats harvest was 99 percent complete. Dryness hurt row crops.  </p>
+<p>IDAHO - Spring wheat was 70 percent harvested compared to 47 pct last year and 60 pct average. Barley was 69 percent harvested against 51 pct last year and 64 pct average. Range fires burned 200,000 acres west of Blackfoot in the week. Russian wheat aphids delayed fall seeding in eastern areas.</p>
+<p>WASHINGTON - Spring wheat was 82 pct harvested compared to 56 pct last week, 81 last year and 81 average. Winter wheat was 92 pct harvested against 78 last week, 88 last year and 92 average. Winter wheat was 17 percent planted and two percent emerged. Topsoils were rated 54 pct short or very short. Barley harvest was 86 percent complete ahainst 60 last week.</p>
+<p>OREGON - Winter wheat harvest was 96 percent complete, the average pace, and barley harvest 66 pct complete compared to 60 last week, 65 last year and 75 average. Harvest in western parts of the state was virtually complete.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

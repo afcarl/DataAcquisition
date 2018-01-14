@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134771" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CME live, feeder cattle called steady to lower.</title>
+<headline>CME live, feeder cattle called steady to lower.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>CME live and feeder cattle futures were called steady to lower at the opening, but some analysts said feeder cattle could open higher or quickly turn higher in reaction to bullish fundamental factors.</p>
+<p>In live cattle, weak cash beef prices late Monday and continued bearish reactions to Friday's USDA Cattle-On-Feed Report may prompt more selling at the opening, analysts said. Live cattle closed 0.650 to 0.025 cent per lb lower Monday.</p>
+<p>USDA reported beef cutout values were $0.50 to $0.19 per cwt lower Monday on choice cuts and $0.03 to $0.02 higher for select cuts. Analysts said the weakness in the choice beef should prevent meat packers from raising bids for cash cattle.</p>
+<p>Packers lightly bid $69.00 for cattle Monday. They should bid $69.00 again Tuesday, but analysts doubt they will find sellers.  </p>
+<p>Feeder cattle were called mostly steady to lower following expected declines in live cattle. However, several analysts said recent gains in cash feeder prices and expected lower CBOT corn futures could attract buying to feeder cattle.</p>
+<p>CBOT corn futures were called 0.50 to 1.00 cent per bushel lower, and the latest CME cash feeder cattle index was up 0.10 cent at 63.29 cents per lb.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

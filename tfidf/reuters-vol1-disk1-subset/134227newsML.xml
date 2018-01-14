@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134227" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: Indian foreign minister recovering in hospital.</title>
+<headline>Indian foreign minister recovering in hospital.</headline>
+<dateline>NEW DELHI 1996-10-22</dateline>
+<text>
+<p>Indian Foreign Minister Inder Kumar Gujral was recovering in hospital on Tuesday from a fever which forced him to postpone a visit to Sri Lanka, a ministry spokesman said.</p>
+<p>&quot;He is feeling much better and under control,&quot; the spokesman said, without elaborating on the nature of the illness.</p>
+<p>Gujral was taken to the All India Institute of Medical Sciences on Monday following a sudden illness which forced him to postpone an October 24-27 visit to Colombo to co-chair the third meeting of the Indo-Sri Lanka Joint Commission.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

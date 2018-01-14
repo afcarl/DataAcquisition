@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134667" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: Britain on bomb alert after IRA attack warning.</title>
+<headline>Britain on bomb alert after IRA attack warning.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Britain was on bomb alert on Tuesday after security chiefs were reported to have warned of a huge Irish guerrilla attack before Christmas.</p>
+<p>Security was being tightened up in London and at military bases after reports the Irish Republican Army (IRA) could be planning a spectacular strike, possibly in revenge for the killing by police last month of one of their activists.</p>
+<p>Police declined to comment specifically on the reports, said by the Sun and London Evening Standard newspapers to be based on intelligence reports from Northern Ireland and sources on the British mainland.</p>
+<p>But a Scotland Yard spokeswoman said: &quot;There is a continuing campaign of violence by terrorist criminals and we are not being complacent about it.&quot;</p>
+<p>The IRA broke a 17-month truce in February with a series of bombings in Britain, including a blast in June in the northern city of Manchester which injured 200 people.</p>
+<p>Earlier this month the IRA planted a bomb inside British army headquarters in Northern Ireland, killing one soldier.</p>
+<p>Nothern Ireland's chief policeman Sir Hugh Annesley warned in an interview published on Monday that IRA guerrillas would attempt further bomb attacks before laying down their arms again.</p>
+<p>London and Dublin have excluded Sinn Fein, the IRA's political wing, from multi-party peace talks on Northern Ireland, saying the IRA must first end its war against British rule of the province.</p>
+<p>British police last month seized some 100 tonnes of explosives and bomb-making equipment during raids in London which resulted in charges against four people. A fifth man, whom the IRA said later was one of its activists, was shot dead during the raids.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

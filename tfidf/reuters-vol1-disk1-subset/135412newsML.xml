@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135412" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Four new duty-free shops approved for Clark.</title>
+<headline>Four new duty-free shops approved for Clark.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>Clark Development Corp, operator of the Clark freeport in the northern Philippines, said on Tuesday it had approved four new duty-free shops to open within the zone.</p>
+<p>Total investments for the four commercial stores, which are all owned by Filipinos, reached more than 600 million pesos, Clark said in a statement.</p>
+<p>Three of the projects are set to open this year, while the biggest one, a 500 million peso shopping mall, is expected to be completed next year.</p>
+<p>- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

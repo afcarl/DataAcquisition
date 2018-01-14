@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32681" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Polaris says personal watercraft sales off.</title>
+<headline>Polaris says personal watercraft sales off.</headline>
+<dateline>MINNEAPOLIS 1996-09-04</dateline>
+<text>
+<p>Polaris Industries Inc said retail sales of personal watercraft for the eight months through August were eight percent lower than in the first eight months of 1995.</p>
+<p>&quot;The 1996 PWC selling season is virtually over and we can see that retail sell-through as a percentage of total units available for sale is not going to be as strong as in prior years,&quot; said Chief Executive Hall Wendel.  </p>
+<p>&quot;As we said earlier, growth in the PWC market appears to be leveling after several years of unusually high demand. The weaker demand, coupled with an oversupply of units from all manufacturers, resulted in a difficult PWC selling season,&quot; he said.</p>
+<p>As a result of slower sales, some of this year's production will be carried over in the pipeline for retail sale next year. Polaris will cut its 1997 model year PWC production to bring supply more in line with next season's expected demand, it said.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

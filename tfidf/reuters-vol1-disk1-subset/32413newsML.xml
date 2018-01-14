@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32413" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Sixt sees double-digit '96 sales growth.</title>
+<headline>Sixt sees double-digit '96 sales growth.</headline>
+<dateline>FRANKFURT 1996-09-04</dateline>
+<text>
+<p>German car rental company Sixt AG said on Wednesday it expected double-digit group sales growth for the 1996 year and significantly higher profits from ordinary activities during the period compared to last year.  </p>
+<p>Sixt said in a statement it expected growth in turnover both in rentals and vehicle sales in the second half of the year, and said the previously forecast growth of at least 10 percent in its leasing business over 1996 was realistic.</p>
+<p>Group profit from ordinary activities in the first half of the year grew 25 percent to 12.46 million marks, Sixt said.</p>
+<p>--Frankfurt newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I84801">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

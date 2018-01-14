@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31763" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Bomb alert in Mexico resort mall - radio.</title>
+<headline>Bomb alert in Mexico resort mall - radio.</headline>
+<dateline>MEXICO CITY 1996-09-04</dateline>
+<text>
+<p>Soldiers and police evacuated a department store on Wednesday in a shopping mall in the popular tourist resort of Acapulco after an anonymous caller warned of a bomb, radio reports said.</p>
+<p>The reports said soldiers from a bomb disposal squad were seen leaving the store with a package inside a box but an official spokesman refused to say whether a bomb was actually found.</p>
+<p>Acapulco is 180 miles (300 km) from Mexico City on the Pacific Coast in the state of Guerrero, a poor and backward region where a new Marxist guerrilla army, the EPR, sprang up at the end of June.</p>
+<p>Guerrero officials have been reluctant to disseminate information about security issues to foreign media in the wake of the EPR's appearance and it was not possible to glean official comment in the state on Wednesday's bomb threat.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

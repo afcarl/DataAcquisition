@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32966" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: German home shopping reaches six mln households.</title>
+<headline>German home shopping reaches six mln households.</headline>
+<dateline>MUNICH, Germany 1996-09-04</dateline>
+<text>
+<p>Germany TV shopping broadcaster Home Order Television (H.O.T.) said on Wednesday it now reaches six million houselds nationwide.</p>
+<p>Via the Astra 1D satellite alone, the network, started in October 1995, reaches 5.2 million households, or 52 percent of those with satellite hook-ups.</p>
+<p>The remaining full-time subscribers in Munich, Nuremberg and Saxony-Anhalt receive the broadcast via cable providers, it said.</p>
+<p>An additional seven million households in Frankfurt, Dresden and Leipzig receive one-hour chunks of H.O.T. via local cable stations.</p>
+<p>Catalogue retailer Quelle Schickedanz AG owns 50 percent of H.O.T., media mogul Thomas Kirch 40 percent, and Georg Kofler, president of private broadcaster Pro Sieben 10 percent.</p>
+<p>-- Bonn newsroom, 49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

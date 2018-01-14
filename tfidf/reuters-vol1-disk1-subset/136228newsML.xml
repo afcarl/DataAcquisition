@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136228" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: Oil price falls on U.S. stocks data.</title>
+<headline>Oil price falls on U.S. stocks data.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>World oil prices fell on Wednesday as dealers absorbed news of rising heating oil stocks in the key northeast U.S. market.</p>
+<p>London December futures for international benchmark Brent crude lost 59 cents to end the day's trading at $24.07 a barrel. Last week, Brent hit a post-Gulf War high of $25.06.</p>
+<p>&quot;Heating oil is leading us lower but we're not breaking out of the range,&quot; said Alistair Harris of brokers MeesPierson.</p>
+<p>Inventory data released by the American Petroleum Institute (API) late on Tuesday showed heating oil stocks in the U.S. northeast, the world's largest market, grew by 1.2 million barrels last week.</p>
+<p>&quot;The market is nervous about the U.S. government getting apparent agreement from a couple of refiners to produce more heating oil,&quot; Harris said.</p>
+<p>Heating oil futures on the New York Mercantile Exchange shed over two cents a gallon to close at 70.80 cents.</p>
+<p>After a meeting last week, two U.S. refiners said they would maximise distillate output, and late on Monday Colonial Pipeline said it was opening its gasoline line from the Gulf of Mexico to the northeast to distillate shipments for at least 40 days.</p>
+<p>But brokers said the market continued to trade within a range and the NYMEX heating oil contract would have to break below 70.50 cents to spark further losses on crude. &quot;In all rallies, the market tends to reach a plateau where it pauses to contemplate where it's going -- we've reached one of those now,&quot; said Peter Gignoux, head of the London energy desk at Smith, Barney.</p>
+<p>And with API data showing heating oil stocks are still 14.8 million barrels below last year's levels, brokers were wary of predicting the end of a rally which has added $6 to the cost of a barrel of crude since early August.</p>
+<p>&quot;I don't see that as a result of what has happened in the last few weeks, the supply-demand picture has changed all that much,&quot; Harris said.</p>
+<p>Traders said a spell of relatively warm weather in Europe was also reducing fears of a shortage of heating oil but cautioned that the northern hemisphere was on the brink of winter with stocks still at historically low levels.</p>
+<p>European middle distillate inventories are running some 10.6 percent below year-earlier levels even though refineries on both sides of the Atlantic are running flat out to build stocks.</p>
+<p>Crude oil prices in dollars per barrel:</p>
+<p>					   Oct 23	 Oct 22</p>
+<p>					  (close)	(close)</p>
+<p> Dated Brent			   $24.52	 $25.45</p>
+<p> IPE London Brent futures (Dec)  $24.07	 $24.63</p>
+<p> NYMEX light crude futures (Dec) $24.84	 $25.92</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

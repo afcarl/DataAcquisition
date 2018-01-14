@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132037" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Japan's Hashimoto says wants to remain premier.</title>
+<headline>Japan's Hashimoto says wants to remain premier.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Japan's Prime Minister Ryutaro Hashimoto said on Monday he wanted to stay on as prime minister as his party won the largest number of seats in Sunday's general election.</p>
+<p>&quot;I would like to continue to be in charge of the government as the leader of the party which has the largest number of seats in parliament,&quot; he told a news conference.  </p>
+<p>But Hashimoto also said that the polls, in which his Liberal Democratic Party (LDP) failed to win a majority in parliament, showed that the electorate did not have full confidence in the party.</p>
+<p>The LDP captured 239 seats in the 500-seat Lower House of parliament and Hashimoto was due to meet other members of the outgoing coalition later on Monday to try to form a new working majority.</p>
+<p>Hashimoto said he favoured a continued coalition with the Social Democratic Party and the small Sakigake party, even though both parties saw a sharp fall in support. The Social Democrats now have 15 seats against 30 previously, while Sakigake has just two, compared with nine.</p>
+<p>But Hashimoto also signalled a readiness to talk with the new Democratic Party, which captured 52 seats in the election.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

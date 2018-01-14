@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134864" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Italy govt plans confidence vote on Banco di Napoli.</title>
+<headline>Italy govt plans confidence vote on Banco di Napoli.</headline>
+<dateline>ROME 1996-10-22</dateline>
+<text>
+<p>Italy's centre-left government intends to seek a vote of confidence in the lower house of parliament to enable passage into law of a cabinet decree on a rescue plan for Banco di Napoli, a senior member of parliament for the governing alliance said on Tuesday.</p>
+<p>Lanfranco Turci, economic affairs expert of the Democratic Party of the Left, said the decision to seek a confidence vote was likely to be taken by a cabinet meeting due to start at 1700 GMT.</p>
+<p>Passage of the decree is being threatened by 1,000 amendments submitted by the separatist Northern League party.</p>
+<p>The decree is due to expire on November 24 unless it has been passed into law by then and could not be resubmitted as a result of a Constitutional Court ruling banning the practice of successive cabinets of re-issuing expiring decrees.</p>
+<p>Turci said the government could inform parliament that it was presenting a confidence vote later on Tuesday or on Wednesday, meaning it would be debated later this week.</p>
+<p>Passage of a confidence vote has the effect of sweeping away amendments to a bill. Defeat on the vote would bring down the government.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

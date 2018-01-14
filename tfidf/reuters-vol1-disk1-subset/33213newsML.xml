@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33213" id="root" date="1996-09-04" xml:lang="en">
+<title>GREECE: Greece raises 789 bln drachmas from T-bills.</title>
+<headline>Greece raises 789 bln drachmas from T-bills.</headline>
+<dateline>ATHENS 1996-09-04</dateline>
+<text>
+<p>The Greek treasury raised 789 billion drachmas from the sale of three-, six- and 12-month T-bills on Monday, an official at the finance ministry told Reuters.</p>
+<p>Sales of physical T-bills amounted to 238 billion drachmas and book-entry debt paper at 551 billion drachmas, the official said.</p>
+<p>All T-bill rates featured a 10 basis point cut. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

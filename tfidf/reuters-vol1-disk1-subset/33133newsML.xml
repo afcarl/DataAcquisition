@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33133" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: US WCoast prods idle as players await rally's end.</title>
+<headline>US WCoast prods idle as players await rally's end.</headline>
+<dateline>LOS ANGELES 1996-09-03</dateline>
+<text>
+<p>U.S. West Coast product prices were steady late Tuesday, with traders riding out high NYMEX prices caused by U.S. military actions against Iraq and a U.N. suspension of limited iraqi oil sales.</p>
+<p>NYMEX October gasoline closed the day 1.35 cents higher than its Friday level and heating oil saw its value jump 1.95 cents on the day. NYMEX did not trade Monday which was a U.S. holiday.</p>
+<p>Despite rumors of new cargoes, supply was seen tight for distillates due to concerns about operations at Mobil's fluid catalytic cracker in Torrance, Calif.</p>
+<p>The unit was expected back later this week, trader said.  </p>
+<p>Traders noted Arco's Carson, Calif., was selling excess feedstock today.</p>
+<p>But a source familiar with the refinery's operation denied any problems, and added the plant sold excess sour gas oil because it was fetching a goodprice.</p>
+<p>Los Angeles low sulphur diesel was notionally unchanged at 71/72 cents and CARB grade added stayed 73.50/74.50 cents, 1.50 higher than Friday.</p>
+<p>Bids for Los Angeles CARB-grade gasoline were flat at 71.25 cents and offers at 72.25 cents. Bay area were notionally 3.50 cents cheaper.</p>
+<p>Conventional unleaded in L.A. idled at 69.50/70.50 cents, after rising 1.50 cents earlier.</p>
+<p>-- David Brinkerhoff, Los Angeles bureau +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

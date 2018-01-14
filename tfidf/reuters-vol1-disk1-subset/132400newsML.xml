@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132400" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Atrix International Inc Q1 Sept 30 net off.</title>
+<headline>Atrix International Inc Q1 Sept 30 net off.</headline>
+<dateline>MINNEAPOLIS 1996-10-22</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>						   September 30</p>
+<p>					    1997		  1996</p>
+<p>Net Sales			    $1,431,168	  $1,468,433</p>
+<p>Cost of Sales			  (987,952)	 (1,029,009)</p>
+<p>Gross Profit			    443,216	     439,424</p>
+<p>Selling, general and administrative expenses	    (406,650)	   (389,333)</p>
+<p>Income from operations		 36,566		50,091</p>
+<p>Other income/expense, net	     3,137		(1,315)</p>
+<p>Misc. Income				    0		     0</p>
+<p>Income before taxes		    39,703		48,776</p>
+<p>Income Taxes				    0		 1,382</p>
+<p>Net Income			   $   39,703	  $   50,158</p>
+<p>Net earnings per share		  $0.01		 $0.01</p>
+<p>Weighted average number of common stock equivalents     5,653,644	   5,206,888</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

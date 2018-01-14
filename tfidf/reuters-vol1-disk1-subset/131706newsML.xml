@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131706" id="root" date="1996-10-21" xml:lang="en">
+<title>SWITZERLAND: UN base attacked at Rwanda refugee camp in Zaire.</title>
+<headline>UN base attacked at Rwanda refugee camp in Zaire.</headline>
+<dateline>GENEVA 1996-10-21</dateline>
+<text>
+<p>The U.N. refugee agency said on Monday that one Zairean army officer was killed and a soldier wounded in a dawn attack on Sunday by unidentified gunmen on a UNHCR base near a sprawling Rwandan refugee camp in east Zaire.</p>
+<p>Spokeswoman Christiane Berthiaume also said the Geneva-based agency had unconfirmed reports of dead and wounded in two other attacks on Sunday near vast refugee camps in the region, home to 700,000 Rwandan Hutus who fled after 1994's Hutu-led genocide of Tutsis.  </p>
+<p>Berthiaume said UNHCR had no details on the identity of the gunmen who attacked its base near Katale refugee camp, the largest Rwandan Hutu refugee camp in the region and home to 202,000 people.</p>
+<p>Also on Sunday morning, she said, unidentified gunmen attacked the town of Bunagana near the border with Uganda and sporadic shooting was reported close to Kibumba refugee camp, which houses 190,000 Rwandan Hutus, near Rwanda's mountainous border.</p>
+<p>Hours later, gunmen attacked villages near another Rwandan refugee camp in the region, Kahindo, where 112,000 people live, she said. All aid traffic in the region was then suspended and expatriates told to stay home.</p>
+<p>&quot;We have unconfirmed reports of dead and wounded. We have reports that the hospital in Katale town is full of the wounded,&quot; said Berthiaume. She said UNHCR had no information so far whether the attacks had triggered any movement of refugees.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

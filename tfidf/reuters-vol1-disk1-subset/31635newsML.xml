@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31635" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Czech end-July cenbank forex reserves $12.974 bln.</title>
+<headline>Czech end-July cenbank forex reserves $12.974 bln.</headline>
+<dateline>PRAGUE 1996-09-04</dateline>
+<text>
+<p>The Czech National Bank said on Wednesday that its foreign exchange reserves totalled $12.974 billion at the end of July compared with $12.714 billion at the end of June.</p>
+<p>Total foreign reserves across the banking sector grew to $16.594 billion from $16.289 billion during the same period.  </p>
+<p> CZECH FOREIGN EXCHANGE RESERVES   JULY/96  JUNE/96  JULY/95</p>
+<p> Czech National Bank ($ bln)	 12.974    12.714    10.10</p>
+<p> commercial banks			 3.620     3.575     2.40</p>
+<p> total				     16.594    16.289    12.50</p>
+<p>Note. Measures through end of period listed.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134769" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CME hog and pork belly futures called lower.</title>
+<headline>CME hog and pork belly futures called lower.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>CME hog futures were called 0.20 to 0.25 cent per lb lower and pork bellies 0.20 to 1.00 cent lower, with hogs pressured by Monday's sharp break in cash pork prices, analysts said.</p>
+<p>Follow-through selling after Monday's limit-down closes was expected to drive pork bellies lower early.</p>
+<p>The sharp break in cash pork prices surprised some analysts, who said the lower prices will encourage lower cash bids for hogs.</p>
+<p>Late Monday, USDA reported pork cutout values were down $1.17 to $1.01 per cwt, with the greatest break in cash loins which were down $5.00 to $132.00 for 14- to 22-lb product.  </p>
+<p>Scattered talk that hog producers are current and may resist selling hogs at the lower prices may limit declines in cash an futures.</p>
+<p>The monthly USDA Cold Storage Report, to be released at 1400 CDT, was not expected to influence trading Tuesday. A Reuter survey of analysts showed they expect the data will show October 1 stocks between 11.9 million and 13.7 million lbs, versus September 1 stocks of 28.896 million and October 1, 1995, stocks of 6.255 million.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

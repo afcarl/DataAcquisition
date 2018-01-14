@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31924" id="root" date="1996-09-04" xml:lang="en">
+<title>PHILIPPINES: Manila said Fu visit should help resolve disputes.</title>
+<headline>Manila said Fu visit should help resolve disputes.</headline>
+<dateline>MANILA 1996-09-04</dateline>
+<text>
+<p>Philippine President Fidel Ramos said on Wednesday that current six-day visit by Chinese General Fu Quanyou should help solve disputes between Manila and Beijing.</p>
+<p>Fu is chief of the general staff of the People's Liberation Army (PLA).</p>
+<p>&quot;We see this as a very good beginning for the continued cooperation, exchange of information and eventual resolution of any problems among us,&quot; Ramos told a news conference.</p>
+<p>China and the Philippines are among six countries which have staked claims to parts or the whole of the potentially oil-rich Spratly Islands in the South China Sea.</p>
+<p>The other claimants are Malaysia, Vietnam, Taiwan and Brunei.</p>
+<p>Relations between Manila and Beijing soured last year when Ramos accused the Chinese of building what looked like naval support installations on Mischief Reef in a portion of the Spratlys which the Philippines claims.</p>
+<p>China, which claims all of the Spratly Islands, has said the structures were shelters for fishermen and has refused to leave the area.</p>
+<p>Fu, who arrived on Sunday, is to tour the Subic Bay free port on Friday, formerly the site of a U.S. naval base.</p>
+<p>On Wednesday, he watched a Philippine Army special forces demonstration of counter-terrorist and rescue operations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

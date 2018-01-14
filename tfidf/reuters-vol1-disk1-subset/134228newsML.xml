@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134228" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: Indian Shipping -- Tuticorin cargoes - Oct 22.</title>
+<headline>Indian Shipping -- Tuticorin cargoes - Oct 22.</headline>
+<dateline>BOMBAY 1996-10-22</dateline>
+<text>
+<p>Following is the berthing schedule of major vessels loading and unloading at India's Tuticorin's port on October 22, 1996:</p>
+<p> Cargo	     Tons/TEUS		 Ship	    Berthing</p>
+<p>		 (LDD/ULD)   (Balance)</p>
+<p>-------------------------------------------------------------</p>
+<p>Sugar	    2,443/-- (LDD)10,058    Seng Guang	  18/10</p>
+<p>General	     --/106(LDD)   177    Marianne Schulte  21/10</p>
+<p>Urea	     5,502/-- (ULD)18,560    Seahope	     21/10</p>
+<p>Copper	   2,022/-- (ULD) 8,973    Paraskevi	   18/10</p>
+<p>Rock Phospate  1,765/-- (ULD) 5,835    Bryabskiy	   18/10</p>
+<p>Dunpeas	  1,897/-- (ULD) 5,103    Tooyang Yang	19/10</p>
+<p>-------------------------------------------------------------</p>
+<p>		  Note:</p>
+<p>	    LDD - Loading</p>
+<p>	    ULD - Unloading</p>
+<p>(Source: J.M.Baxi &amp; Co, Tuticorin)</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

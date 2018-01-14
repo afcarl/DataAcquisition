@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139001" id="root" date="1996-10-24" xml:lang="en">
+<title>SPAIN: GOLF - ALLENBY HITS ONE SHOT FOR CASH BONUS.</title>
+<headline>GOLF - ALLENBY HITS ONE SHOT FOR CASH BONUS.</headline>
+<dateline>SOTOGRANDE, Spain 1996-10-24</dateline>
+<text>
+<p>Injured Australian Robert Allenby hit one shot that could earn him $117,000 in the Volvo Masters at Valderrama on Thursday.</p>
+<p>Allenby took out his three-wood and off a backswing of no more than 18 inches dribbled the ball about 35 yards down the first hole.  </p>
+<p>He then announced that he was withdrawing from the tournament because of the fractured sternum he suffered in a car accident four weeks ago.</p>
+<p>Allenby needed to hit one shot to satisfy a European Tour requirement that he played in the tournament to qualify for the bonus money he would earn after the event.</p>
+<p>He is currently third on the money list and will collect the extra prize if his position remains unchanged after the tournament.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOTOGRANDE, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

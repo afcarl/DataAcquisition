@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13241" id="root" date="1996-08-25" xml:lang="en">
+<title>ISRAEL: Netanyahu says Israel economy needs reform.</title>
+<headline>Netanyahu says Israel economy needs reform.</headline>
+<dateline>TEL AVIV 1996-08-25</dateline>
+<text>
+<p>Prime Minister Benjamin Netanyahu said on Sunday a link existed between the peace process with Arabs and economic development in Israel.</p>
+<p>However, Netanyahu said that progress only in the peace process without structural reform in the economy would not allow Israel's economy to attain its potential.</p>
+<p>&quot;Economic developments won't solve political problems but can help, and political steps won't solve economic problems but can help them,&quot; he told an economic conference in Tel Aviv.</p>
+<p>The prime minister said his government planned to cure the Israeli economy and privatise it.</p>
+<p>&quot;This is not a motto, this is an aim,&quot; Netanyahu said. He said the bulk of the programme would be done through privatisation and structural reform.</p>
+<p>&quot;You build a real economy from the bottom up. You can cut the budget and control inflation, but without privatisation the economy will not go forward,&quot; he said.</p>
+<p>He said there would be no real growth unless these changes were implemented. Netanyahu said additional steps to attain the economic aims included government fiscal restraint and the lowereing of inflation to European levels by the end of the decade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

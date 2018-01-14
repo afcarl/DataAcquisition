@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131886" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS - Qantas says foreigners own 51.43 pct.</title>
+<headline>RTRS - Qantas says foreigners own 51.43 pct.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>Qantas Airways Ltd said on Monday that foreign shareholders now held 51.43 percent of the airline's shares, well over the 49 percent foreign ownership limit imposed by the government when Qantas was floated.</p>
+<p>Qantas said earlier this month that foreigners held 50.38 percent of its shares and warned that voting rights could be withdrawn from the shares in excess of the 49 percent limit if the holdings were not reduced.  </p>
+<p>Qantas is 25 percent owned by British Airways Plc.</p>
+<p>Qantas again warned foreign shareholders that total foreign shareholdings should not exceed 49 percent and that they may be sent notices warning them of that fact.</p>
+<p>&quot;Should such a notice be required to be sent, it results in the registered holder of the offending shares not being entitled to vote the shares at a meeting of shareholders and it may lead to the disposal of those shares,&quot; Qantas said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

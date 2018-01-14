@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136150" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Computer Sciences says business &quot;strong&quot;.</title>
+<headline>Computer Sciences says business &quot;strong&quot;.</headline>
+<dateline>PALO ALTO, Calif. 1996-10-23</dateline>
+<text>
+<p>Computer Sciences Corp said on Wednesday it does not face the same problems as its chief rival Electronic Data Systems Corp and that its business remains strong.</p>
+<p>Shares of Computer Sciences Corp, which manages complex computer systems for large companies and government agencies, fell as much as 7.4 percent after EDS said today it expected less new business and lower government spending to put pressure on its fourth quarter growth.</p>
+<p>&quot;Our federal business is fine,&quot; said Bruce Plowman, CSC vice president of communications. &quot;Our pipeline is strong.&quot;</p>
+<p>Plowman said CSC had not changed its fourth quarter outlook and has not faced slowing federal business.</p>
+<p>He said the drop in CSC's stock was a reaction to the EDS warning.</p>
+<p>In early afternoon trading CSC shares were down 5-5/8 at 74-1/4. Earlier the shares traded as low as 74 on the New York Stock Exchange.</p>
+<p>EDS, the biggest computer services company, reported third quarter earnings that were as good as Wall Street expected but told analysts it faced a tough fourth quarter.</p>
+<p>-- Kourosh Karimkhany, Palo Alto Bureau 415 846 5401</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

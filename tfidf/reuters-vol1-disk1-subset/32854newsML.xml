@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32854" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Staples to take $520 million in charges.</title>
+<headline>Staples to take $520 million in charges.</headline>
+<dateline>BOSTON 1996-09-04</dateline>
+<text>
+<p>Staples Inc Chief Operating Officer Martin Hanaka said the planned acquisition of Office Depot Inc would result in one-time charges of $520 million.</p>
+<p>&quot;One time charges are estimated to be about $520 million in total,&quot; he told reporters and analysts on a conference call.</p>
+<p>He said $125 million in charges will be taken for store and distribution center closings, $150 milllion for store remodeling, $100 million for inventory integration and $145 milllion for transaction and other costs.  </p>
+<p>Staples Chief Executive Thomas Stemberg said the $3.6 billion merger will be accretive to earnings, resulting in earnings per share growth of &quot;north of 40 pct for 1997, after charges.&quot;</p>
+<p>&quot;We are very comfortable endorsing a growth rate (in earnings per share) north of 30 percent for the years 1998 and 1999 for the combined companies,&quot; he added.</p>
+<p>Stemberg said revenues would top $10 billion in 1996 and he expects sales growth of more than 20 percent in 1997.  He said the sales growth rate should be &quot;healthy&quot; but down a few percentage points for 1998 and beyond.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

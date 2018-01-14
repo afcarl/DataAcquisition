@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132732" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Motorola wins $100 mln Philippine contract.</title>
+<headline>Motorola wins $100 mln Philippine contract.</headline>
+<dateline>ARLINGTON HEIGHTS, Ill. 1996-10-22</dateline>
+<text>
+<p>Motorola Inc said on Tuesday that its Asia Pacific Cellular Infrastructure Group has signed a contract worth more than $100 million to install a fixed wireless telephone network in the southern and western Mindanao regions of the Philippines .</p>
+<p>The contract is part of a build and transfer arrangement between the Pilipino Telephone Corp (Piltel) and Marubeni Corp of Japan.  </p>
+<p>The Motorola network will fulfil part of Piltel's commitment to provide 400,000 additional telephone lines in southern regions of the Philippines.</p>
+<p>The network will provide service for residential and business subscribers in cities such as Davao, General Santos, Pagadian, Zamboanga and Dipolog.</p>
+<p>Installation will begin during the fourth quarter of 1996 with commercial service scheduled to begin during the second quarter of 1997, Motorola said.</p>
+<p>Marubeni, as the prime contractor, has responsibility for building the network for Piltel, which will then operate it.</p>
+<p>In 1995, Piltel had awarded Motorola a $270 million contract to expand and enhance its Mobiline cellular phone system in the Manila area. Mobiline is Piltel's national cellular phone system.</p>
+<p>Piltel, which has been a conventional telephone provider since 1968, also operates a nationwide paging system, and other wireless services throughout the Philippines.</p>
+<p>Marubeni is one of Japan's largest general trading houses, comprised of eight business groups and 21 divisions. --Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON HEIGHTS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

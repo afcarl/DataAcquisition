@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33177" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Carrefour stock rises on Aug sales.</title>
+<headline>Carrefour stock rises on Aug sales.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Shares in Carrefour were up 3.75 percent at 2,682 francs at 1355 GMT on Wednesday, boosted by a strong rise in the retailer's August sales and expectations of good first-half results due on Thursday, brokers said.</p>
+<p>Some analysts are expecting a profit rise of around 20 percent.</p>
+<p>Carrefour on Tuesday announced an 8.7 percent rise in August sales, including a gain of seven percent in its sales in France.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132133" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: Malaysia says may halt new IPP licenses.</title>
+<headline>Malaysia says may halt new IPP licenses.</headline>
+<dateline>KUALA LUMPUR 1996-10-21</dateline>
+<text>
+<p>Malaysian Prime Minister Mahathir Mohamad said on Monday the government may stop issuing new licenses for independent power producers (IPP).</p>
+<p>&quot;We may have to halt new licenses for IPP,&quot; he told reporters after opening an Electricity Power Supply Industry conference.  </p>
+<p>&quot;The number of plants that are being started by the IPPs, or in the process of being approved, is quite big. And I think we have to call a halt at the moment,&quot; Mahathir said.</p>
+<p>&quot;Obviously, we want to have electricity as cheaply as possible. People who want to go into this industry must convince us that they will help the economy.</p>
+<p>&quot;Also, we don't want to kill the national TNB (Tenaga National Bhd) in order to give a lot of profits to the IPPs.</p>
+<p>&quot;It must be balanced,&quot; Mahathir said.  </p>
+<p>New IPP plants need to be timed to come on stream to meet increases in demand.</p>
+<p>&quot;The cost of power plants is too high. Unless we can almost assure them (IPPs) a market, it is quite dangerous to let them build plants and then find that they have to leave the plants idle,&quot; Mahathir said.</p>
+<p>Twelve independents have been awarded licenses so far and five of them are in operation. They provide about 30 percent of the power in peninsular Malaysia. The rest is produced by Tenaga, which is also the sole distributor of electricity in the peninsula.  </p>
+<p>But Malaysia is currently producing a huge surplus of electricity with a total installed capacity of 10,110 megawatts and peak demand of 7,063 megawatts  -- about a 43 percent reserve margin.</p>
+<p>The government has forecast Malaysia will continue to have a surplus of electricity until the year 2000, when it will begin to see an increasing shortfall.</p>
+<p>But the 1,800-megawatt Bakun hydro-electric dam will likely go a long way toward meeting new demand when it comes on stream in 2003, analysts say.</p>
+<p>- Kuala Lumpur newsroom (603-230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

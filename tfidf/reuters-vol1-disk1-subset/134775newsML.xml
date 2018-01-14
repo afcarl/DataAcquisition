@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134775" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Monsanto agricultural sales set Q3 record.</title>
+<headline>Monsanto agricultural sales set Q3 record.</headline>
+<dateline>ST. LOUIS, Mo. 1996-10-22</dateline>
+<text>
+<p>Monsanto Co said Tuesday sales for agricultural products set a third-quarter record of $613 million, compared with $464 million a year ago.</p>
+<p>Operating income rose to $92 million from $47 million because of strong sales volumes of its Roundup herbicide in Western Europe and Latin America, it added.  </p>
+<p>Monsanto said sales and operating income of Posilac bovine somatotropin, which increases milk production in cows, also improved in the third quarter and for the year-to-date.</p>
+<p>The company said third quarter sales of pharmaceutical products of $497 million, up from $435 million, also set a record.  Pharmaceutical operating profit was $49.0 million, down from $62.0 million.  But operating profit for the 1996 quarter rose when a $20.0 million adjustment for certain sales rebate programs in the United States is excluded from last year's third quarter.  </p>
+<p>Monsanto said its chemical businesses's sales were $773.0 million, down from $873.0 million a year ago, which included sales from the plastics business that has been divested. Excluding these sales from the divested business, chemical sales were up in the third quarter, it added.</p>
+<p>Operating income for the chemicals business rose to $101.0 million from $83 million. The company said chemical operating income increased 33 percent, excluding last year's net gain from litigation settlements.</p>
+<p>Monsanto said strong volumes and increased price drove major improvements in the fiber business. Results for specialty chemical products and performance materials also were up significantly for the quarter. Volumes for Saflex, a plastic interlayer, rose, but prices were lower.</p>
+<p>As previously announced, Monsanto is considering alternatives for its chemical business, including possibly spinning off or selling the operation.</p>
+<p>Monsanto said food ingredient sales were $293.0 million, up from $276 million. Operating profit was $55.0 million, up from $43.0 million.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

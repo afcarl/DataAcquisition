@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32132" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. spot resid prices steady on firm paper values.</title>
+<headline>U.S. spot resid prices steady on firm paper values.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>U.S. spot residual fuel oil prices ended steady to higher Wednesday, supported by firmness in the paper market, brokers and traders said.</p>
+<p>The forwards and physical resid values, which were at parity, held their gains from Tuesday despite weaker crude and natural prices, industry sources said.</p>
+<p>NYMEX October crude futures finished down 16 cents at $23.24 a barrel after surging more than a dollar Tuesday due to escalating tension between U.S. and Iraq, which resulted a number of attacks on Iraqi military installation since this past weekend.  </p>
+<p>Meanwhile, NYMEX October Henry Hub natural gas futures settled down 5.7 cents at $1.764 per million British thermal units on softer cash prices.</p>
+<p>In the New York harbor, September one percent sulphur paper prices closed at $17.40-$17.60 a barrel, compared with $17.25-$17.55 earlier today.</p>
+<p>In the Gulf Coast paper market, October three percent values finished at $15.50-$15.75 with several confirmed trades reported at $15.50. compared with $15.40-$15.60 earlier today.</p>
+<p>No physical trade was heard reported.</p>
+<p>&quot;There's little interest from end-users,&quot; said one trader.</p>
+<p>New York city gate September gas prices were assessed at $2.05 today, versus NYH one percent resid at a $2.77/mmBtu equivalent.</p>
+<p>Separately, a number of resid players were absent from the market because of an industry event in Connecticut.</p>
+<p>--R Leong, New York Power Desk 212-859-1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

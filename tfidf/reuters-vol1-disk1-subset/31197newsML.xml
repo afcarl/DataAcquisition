@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31197" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: VLSI names former National Semi COO as president, COO.</title>
+<headline>VLSI names former National Semi COO as president, COO.</headline>
+<dateline>SAN JOSE, Calif</dateline>
+<text>
+<p>VLSI Technology Inc. Wednesday named Richard Beyer, formerly of National Semiconductor Corp., to the post of president and chief operating officer.</p>
+<p>Beyer, 47, will also join VLSI's board of directors.</p>
+<p>Beyer resigned from National Semiconductor in June, following several other executives who left after former chief executive officer Gilbert Amelio was recruited by Apple Computer Inc. to run that company.</p>
+<p>Beyer resigned as chief operating officer after being passed over for the top job at National Semiconductor. Instead, Brian Halla was named to replace Amelio.</p>
+<p>At custom-designed chipmaker VLSI, Beyer will assume key management responsibilities previously held by Alfred Stein, who continues in his role as chief executive officer and chairman of the board.</p>
+<p>Beyer assumes the title of president from Stein. The chief operating officer title is a newly-created position.</p>
+<p>VLSI Technology had 1995 revenues of $720 million, and approximately 3,000 employees worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

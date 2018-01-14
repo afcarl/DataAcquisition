@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31656" id="root" date="1996-09-04" xml:lang="en">
+<title>BULGARIA: World Bank approves $24.3 million loan to Bulgaria.</title>
+<headline>World Bank approves $24.3 million loan to Bulgaria.</headline>
+<dateline>SOFIA 1996-09-04</dateline>
+<text>
+<p>The World Bank on Wednesday approved $24.3 million loan to Bulgaria to help finance a social insurance administration project, the bank said in a statement.</p>
+<p>&quot;The project will support administrative reforms within the government's current social insurance programme by helping to restore the financial strength of its Social Security Fund (SSF),&quot; the statement said.</p>
+<p>The project is aimed at assisting the government's reform goals by increasing the operational effciency of the newly formed national Social Security Institute (NSSI) and helping it develop a relationship with the private sector.</p>
+<p>It is expected to replace the outdated pension payment system inherited from the communist regime which was completely subsidised by the state.</p>
+<p>The dollar equivalent of the highest monthly pension in Bulgaria has melted down to a meagre $25 as a result of inflation and local currency depreciation.</p>
+<p>The project due to be implemented over the next four years has a total cost of $32.2 million. Co-financing for the remaining cost will be sought from the European Union Phare programme, USAID, the UK know-How Fund and the NSSI.</p>
+<p>The loan will be repayable over 20 years including five years grace.</p>
+<p>World Bank commitments to Bulgaria total $893.3 million for tweleve projects since 1990, however less than half has been disbursed because of Bulgaria's delayed implementation of the various project stages.</p>
+<p>-- Elisaveta Konstantinova, Sofia Newsroom, 359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

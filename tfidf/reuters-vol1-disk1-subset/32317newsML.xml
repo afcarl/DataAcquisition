@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32317" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: MGE deliverable HRS wheat stocks.</title>
+<headline>MGE deliverable HRS wheat stocks.</headline>
+<dateline>MINNEAPOLIS, MN 1996-09-04</dateline>
+<text>
+<p>The Minneapolis Grain Exchange reported stocks of hard red spring wheat in deliverable position as of Aug 30, in 000 bushels. Stocks in exchange approved elevators deliverable against MGE futures. Deliverable and non-deliverable grades exclude CCC stocks.</p>
+<p>						Aug 30   WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>						   MINNEAPOLIS AREA</p>
+<p>Deliverable				 1,846   1,594   2,278</p>
+<p>Non-deliverable			     208     321   1,116</p>
+<p>CCC stocks				     21	21	34</p>
+<p>Total					 2,075   1,936   3,428</p>
+<p>						   DULUTH/SUPERIOR</p>
+<p>Deliverable				 3,942   2,229   9,611</p>
+<p>Non-deliverable			   1,201   1,453   4,329</p>
+<p>CCC stocks				    633     633     907</p>
+<p>Total					 5,776   4,315  14,847</p>
+<p>Note: Minneapolis area includes Minneapolis/St Paul/Red Wing. (Chicago newsdesk 312 983 7278)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS, MN"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

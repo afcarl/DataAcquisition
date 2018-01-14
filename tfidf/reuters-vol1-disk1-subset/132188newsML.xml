@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132188" id="root" date="1996-10-21" xml:lang="en">
+<title>ISRAEL: Israel grain, meal, soy arrivals detailed.</title>
+<headline>Israel grain, meal, soy arrivals detailed.</headline>
+<dateline>TEL AVIV 1996-10-21</dateline>
+<text>
+<p>The following shipments of grain have arrived or are due to arrive in Israeli ports, according to the inspection agency Hevra Klalit Lehashgaha (in tonnes):</p>
+<p>Vessel	     ETA	   Cargo	    Quantity   Origin</p>
+<p>Sanem		arrived     barley	    4,972     Europe</p>
+<p>Tula		 arrived     barley	    2,474     Europe</p>
+<p>Liberty Sea	22/10	 corn	     25,048     U.S.</p>
+<p>				     wheat	    36,547</p>
+<p>Szeregy Szare    22/10	 corn	     25,005     U.S.</p>
+<p>				     sorghum	  18,045</p>
+<p>				     soya	     14,317</p>
+<p>Volgobal 242     23/10	 wheat	     2,910     Europe</p>
+<p>Antlia	     23/10	 oats		2,500     Europe</p>
+<p>Volgobal 241     23/10	 barley	    3,003     Europe</p>
+<p>Volgodo 5023     25/10	 rapeseeds	 3,000     Europe</p>
+<p>Sormovsky 47     26/10	 bran wheat	1,500     Europe</p>
+<p>Golden Sky	 29/10	 barley	   18,000     U.S.</p>
+<p>Liberty Wave	3/11	 corn+sorghum+  60,000     U.S.</p>
+<p>					 soya</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

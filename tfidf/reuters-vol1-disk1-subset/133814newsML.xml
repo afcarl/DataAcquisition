@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133814" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Lockheed Martin earnings up 8 percent.</title>
+<headline>Lockheed Martin earnings up 8 percent.</headline>
+<dateline>BETHESDA, Md. 1996-10-22</dateline>
+<text>
+<p>Lockheed Martin said Tuesday its earnings rose 8 percent in the third quarter and cited cost-cutting and increased sales due to its acquisition of Loral Corp.</p>
+<p>The Bethesda, Md.-based defence company said it earned $311 million, or $1.55 a share, in the third quarter vs. $287 million, or $1.43 a share.</p>
+<p>Sales rose 27 percent to $7.03 billion from $5.55 billion. The company said the increase in sales was due mostly to its acquisition in April of Loral Corp.</p>
+<p>Lockheed Martin's earnings per share were on target with Wall Street expectations, but its shares fell $1 to $91.75 on the New York Stock Exchange.</p>
+<p>Lockheed said it expected savings of $2.5 billion a year after 1999 as a result of its restructuring and a government policy of sharing defence consolidation costs and savings with contractors.</p>
+<p>In addition the company said its order backlog in the third quarter fell to $49.1 billion from $50.1 billion in the second quarter, partly as a result of the end of the goverernment's fiscal year.</p>
+<p>For the first nine months, Lockheed earned $882 million, or $4.40 a share, on sales of $19.21 billion. A year earlier, the company earned $371 million, or $1.72 a share, on sales of $16.80 billion. The year earlier period included charges of $690 million, or $1.96 a share, related to merger expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BETHESDA, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

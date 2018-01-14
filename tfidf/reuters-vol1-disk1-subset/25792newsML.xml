@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25792" id="root" date="1996-08-31" xml:lang="en">
+<title>USA: TENNIS-DRAW FOR 1997 FED CUP WOMEN'S TEAM TOURNAMENT.</title>
+<headline>TENNIS-DRAW FOR 1997 FED CUP WOMEN'S TEAM TOURNAMENT.</headline>
+<dateline>NEW YORK 1996-08-31</dateline>
+<text>
+<p>Draw for the women's 1997 Fed Cup team tennis championships, as conducted at the U.S. Open on Saturday:</p>
+<p>World Group I, first round (March 1-2)</p>
+<p>United States at Netherlands</p>
+<p>Czech Republic at Germany</p>
+<p>France at Japan</p>
+<p>Spain at Belgium</p>
+<p>(semifinals July 19-20, and finals September 27-28)</p>
+<p>World Group II, first round (March 1-2)</p>
+<p>Austria at Croatia</p>
+<p>Switzerland at Slovak Republic</p>
+<p>Argentina at South Korea</p>
+<p>Australia at South Africa</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133899" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: U.S. issues first Hanukkah postage stamp.</title>
+<headline>U.S. issues first Hanukkah postage stamp.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>The U.S. Postal Service on Tuesday issued the first U.S. stamp marking the Jewish holiday of Hanukkah.</p>
+<p>The 32-cent stamp, issued jointly with Israel, features a menorah, the candle-holder that is the centrepiece of the eight-day holiday beginning this year on the evening of Dec. 5.</p>
+<p>An Israeli stamp with the same design was issued on Tuesday in Jerusalem by the Israel Postal Authority.</p>
+<p>The Hanukkah stamp was the first issued by the U.S. Postal Service for a religious holiday other than Christmas. U.S. stamps with Christmas designs have been sold since 1962.</p>
+<p>&quot;Let the candles of Hanukkah brighten our hearts as they brighten America's cards and letters this holiday season,&quot; Postmaster General Marvin Runyon said at the dedication ceremony for the stamp at Adas Israel Congregation in Washington.</p>
+<p>&quot;This stamp is a contribution to cementing the special relations between the United States and Israel,&quot; Israel's Ambassador to the United States, Eliahu Ben-Elissar, said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135478" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Non-banks depressed by Nichiei Finance liquidation.</title>
+<headline>Non-banks depressed by Nichiei Finance liquidation.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Shares in non-bank financial institutions  weakened in early Tuesday trade after credit and financing company Nichiei Finance Co Ltd said it had applied for liquidation, brokers said.</p>
+<p>As of 0045 GMT, Jaccs Co Ltd was down 18 yen at 902 yen, Orient Corp was down nine yen at 674 yen and Sumitomo Leasing Co Ltd was 10 yen down at 568 yen.</p>
+<p>Shares in Nichiboshin Ltd were ask only at 369 yen compared to the Monday close of 387 yen. Sanyo Shinpan Finance Co Ltd had lost 10 yen to stand at 568 yen.  </p>
+<p>Brokers said the announcement of Nichiei Finance's application for liquidation and its plans to work out a restructuring programme under court guidance had investors worried about the health of other non-bank shares.</p>
+<p>&quot;Investors are afraid that the Nichiei Finance liquidation will set off a chain reaction of liquidations in the non-bank sector and noone wants to buy the shares,&quot; a second-tier brokerage trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133218" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Poland lowers min price of 3-yr bonds to 100.0.</title>
+<headline>Poland lowers min price of 3-yr bonds to 100.0.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>The Polish finance ministry cut the minimum price of its three-year floating bonds to 100.0 from 100.6 at the last auction on July 23, the ministry said in a statement on Tuesday.</p>
+<p>The average price was 100.37 against 101.21 in July.</p>
+<p>It said it sold 183.3 million zlotys worth of the paper, maturing November 6, 1999, after investors bid to buy 373.3 million zlotys of the bonds against a 600 million offer.</p>
+<p>It also said the price at which the bonds would be offered to the public from November 4, 1996 to January 30, 1997 had been set at 101.0.  The settlement date is November 4, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

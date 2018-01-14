@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136530" id="root" date="1996-10-23" xml:lang="en">
+<title>ESTONIA: Hansapank mute on Swedbank interest in Savings.</title>
+<headline>Hansapank mute on Swedbank interest in Savings.</headline>
+<dateline>TALLINN 1996-10-23</dateline>
+<text>
+<p>Estonia's largest bank Hansapank said a potential buyer for its 21 percent stake in second largest bank Savings Bank may come from abroad but would not confirm that Sweden's Swedbank was interested.</p>
+<p>&quot;Hansapank has had talks with many companies,&quot; Hansapank chief executive Juri Mois told Reuters, saying that foreign firms and banks were among these companies.</p>
+<p>The Aripaev newspaper said that Swedbank was a potential buyer but Mois declined to comment.</p>
+<p>Aripaev said Hansapank would make 89.7 million kroons extraordinary profit on the deal.</p>
+<p>Mois has earlier said Hansapank would sell its stake to get funds for the development of its operations and also because it was not appropriate that Hansapank held its competitor's shares.</p>
+<p>The Aripaev quoted a Swedbank spokesman as saying that his bank had not made a final decision on whether it was interested in Savings Bank shares.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25796" id="root" date="1996-08-31" xml:lang="en">
+<title>USA: BASEBALL-MAJOR LEAGUE RESULTS FRIDAY.</title>
+<headline>BASEBALL-MAJOR LEAGUE RESULTS FRIDAY.</headline>
+<dateline>NEW YORK 1996-08-31</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games played on Friday (home team in CAPS):</p>
+<p>	     American League</p>
+<p> DETROIT	    4  Kansas City	0</p>
+<p> Chicago	   11  TORONTO	    2</p>
+<p> MILWAUKEE	  5  Minnesota	  4 (in 12)</p>
+<p> TEXAS		5  Cleveland	  3</p>
+<p> New York	   6  CALIFORNIA	 2</p>
+<p> OAKLAND	    7  Boston	     0</p>
+<p> Baltimore	  5  SEATTLE	    2</p>
+<p>	     National League</p>
+<p> CHICAGO	    3  Atlanta	    2 (1st game)</p>
+<p> Atlanta	    6  CHICAGO	    5 (2nd game)</p>
+<p> Florida	    3  CINCINNATI	 1</p>
+<p> San Diego	  6  MONTREAL	   0</p>
+<p> Los Angeles	7  PHILADELPHIA     6 (in 12)</p>
+<p> Houston	   10  PITTSBURGH	 0</p>
+<p> San Francisco    6  NEW YORK	   4</p>
+<p> ST LOUIS	   7  Colorado	   4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

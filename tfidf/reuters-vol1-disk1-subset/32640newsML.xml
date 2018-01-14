@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32640" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Dirty tanker fixtures and enquiries - 2137 GMT.</title>
+<headline>Dirty tanker fixtures and enquiries - 2137 GMT.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>FIXTURES -</p>
+<p>- MIDEAST GULF/RED SEA</p>
+<p>Empress des Mers 420 25/9 Ras Tanura/USG W45 Exxon.</p>
+<p>Eleuthera 240 27/9 Mideast/Taiwan W59 CPC.</p>
+<p>- WESTERN HEMISPHERE</p>
+<p>Sanko Hope 58 8/9 Caribs/USAC W127.5 Hess.</p>
+<p>Pobeda 50 7/9 Caribs/USG W140 Glencore.</p>
+<p>- MED/BLACK SEA</p>
+<p>- Lister 80 18/9 Bejaia/Coryton W99 Mobil.</p>
+<p>- WEST AFRICA</p>
+<p>Megapoint 130 16/9 WAF/USAC, USG W85 Coastal.</p>
+<p>Jane Stove 129 prompt Nigeria/Uruguay W96.75 Amcap.</p>
+<p>-- New York Commodity Desk, 212 859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

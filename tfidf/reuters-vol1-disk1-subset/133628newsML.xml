@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133628" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Army Corps unveils 53 ways to dredge N.Y. Harbor.</title>
+<headline>Army Corps unveils 53 ways to dredge N.Y. Harbor.</headline>
+<byline>Wendy Pollack</byline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Faced with fierce competition from other ports and protests from environmentalists, the U.S. Army Corps of Engineers unveiled 53 separate proposals Tuesday to remove millions of tons of mud from New York Harbour.</p>
+<p>Designed to clear the clogged shipping channels of the Port of New York and New Jersey and increase the harbour's depth, the proposals are based on eight core methods for removing the sediment, much of which is contaminated.</p>
+<p>&quot;The port is in danger of losing out to other ports in the country that have already made investments,&quot; said Stuart Piken, head of the Army Corps' planning division. &quot;We think we have presented a pretty good array of options.&quot;</p>
+<p>The study, the first instalment of a three-year, $12.2 million analysis by the Army Corps, follows an agreement announced earlier this month by the governors of New York and New Jersey to commit up to $130 million to dredge the harbour over the next 12 months.</p>
+<p>Until the bi-state accord was reached, dredging had declined substantially as officials and environmentalists sparred over the best methods for getting rid of the sludge.</p>
+<p>Among the major hurdles facing the engineers is that about two-thirds of the five million to six million tons that need to be removed annually just to maintain the harbour's shipping channels at their current depth have been deemed too polluted by the federal government to be dumped in the open ocean.</p>
+<p>In addition to petroleum and metal contaminants, scientists have found small traces of dioxins in the sediment that are toxic to marine life.</p>
+<p>Left undredged, New York Harbour would be only 19 feet deep, far too shallow for the container ships, bulk carriers and oil tankers that use the East Coast's busiest port. Continual sludge removal has kept the harbour's depth to between 35 and 45 feet, but many engineers and maritime industry representatives have advocated increasing the depth to 50 feet to accomodate newer and larger vessels.</p>
+<p>&quot;(Dredging) is necessary to do any kind of business right now,&quot; said Gwendolyn Williams, spokeswoman for the Port Authority of New York and New Jersey, which oversees the harbour. &quot;With the larger ships that are requiring 45-foot depths, it is absolutely imperative,&quot; she added.</p>
+<p>Under the Army Corps' various proposals, most of the mud would be deposited in on-land disposal sites, offshore &quot;containment islands&quot; or in sub-aqueous pits beneath the ocean floor. Some of the dredged material might also be recycled and used in road and building construction, engineers said.</p>
+<p>What may be lacking, however, is the commitment from political leaders to adopt any of the proposals, said Peter Shugert, spokesman for the Army Corps in New York.</p>
+<p>The cost of the project, which the Army Corps evaluated through the year 2050, could exceed $50 million annually, and officials conceded the price tag could reach 10 times that if the most expensive disposal options were chosen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

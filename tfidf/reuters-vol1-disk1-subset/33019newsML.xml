@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33019" id="root" date="1996-09-04" xml:lang="en">
+<title>ISRAEL: Hapoalim to net $24 mln from sale.</title>
+<headline>Hapoalim to net $24 mln from sale.</headline>
+<dateline>TEL AVIV 1996-09-04</dateline>
+<text>
+<p>Bank Hapoalim said the sale of Poalim Investment to Dovrat Shrem &amp; Co Ltd will contribute an estimated $24 million to the bank's net profit.</p>
+<p>Last week Bank Hapoalim announced the approval of the sale of 50 percent of its holdings in its investment company to Dovrat Shrem for $63 million.</p>
+<p>Dovrat Shrem made the highest offer in a tender for Poalim Investment, valuing the company at $277 million against a market value of $150 million.</p>
+<p>The agreement conforms with Bank Hapoalim's requirement to reduce its holdings in non-financial companies in accordance with Israel's banking laws.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

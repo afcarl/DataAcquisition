@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32572" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Blue Square-Israel started. [corrected 17:55 gmt]</title>
+<headline>RESEARCH ALERT - Blue Square-Israel started. [corrected 17:55 gmt]</headline>
+<text>
+<p>-- Merrill Lynch analyst Michael Harris said he initiated coverage of Blue Square-Israel Ltd with a near- and long-term accumulate rating (Corrects from buy rating).</p>
+<p>-- &quot;We believe the valuation is attractive relative to international comparables,&quot; he said. &quot;It has an insignificant premium to the market,&quot; Harris said, adding that &quot;it should be trading at a fairly substantial premium.</p>
+<p>-- &quot;The story is quite compelling with the company poised to continue gaining market share.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

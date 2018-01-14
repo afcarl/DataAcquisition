@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18108" id="root" date="1996-08-28" xml:lang="en">
+<title>JAPAN: Markets jolted by gloomy Japanese corporate survey.</title>
+<headline>Markets jolted by gloomy Japanese corporate survey.</headline>
+<byline>Linda Sieg</byline>
+<dateline>TOKYO 1996-08-28</dateline>
+<text>
+<p>News that corporate Japan grew unexpectedly gloomy in August jolted financial markets on Wednesday, sending the dollar soaring above 108 yen and killing lingering speculation of an increase in interest rates.</p>
+<p>The Bank of Japan's quarterly corporate survey, or &quot;tankan&quot;, showed the diffusion index for major manufacturers -- an important gauge of business sentiment -- falling to minus seven in August from minus three in the previous survey in May.</p>
+<p>The survey, a closely watched clue to monetary policy, forecast a rise in the diffusion index to zero in December.</p>
+<p>Economists said the data, which defied most predictions, did not signal that Japan's economy was dipping back into recession, but did scuttle prospects the Bank of Japan would raise interest rates from their rock-bottom levels soon.</p>
+<p>Most economists surveyed by Reuters had expected that the major manufacturers' diffusion index would rise somewhat, with forecasts ranging from minus four to plus five. Seven out of 15 think tanks had predicted that the index would edge into positive territory for the first time since November 1991.</p>
+<p>The index represents the percentage of firms expecting business to improve minus those who expect it to worsen. The higher the number, the more optimistic the outlook.</p>
+<p>Despite the gloom reflected in the manufacturers' diffusion index, some economists said there were signs that business sentiment was not uniformly pessimistic.</p>
+<p>Major non-manufacturers grew less pessimistic, with their diffusion index rising to minus four from minus nine in May.</p>
+<p>Small manufacturers, one key to a sustainable recovery, also cheered up a bit, with their diffusion index improving to minus 17 from minus 19. The index for small non-manufacturers, however, dipped to minus seven from minus six.</p>
+<p>Major firms also nudged up their capital spending plans for the current business year to next March 31, predicting a 6.6 percent increase instead of the six percent rise they forecast in May and the 1.2 percent actual rise posted in 1995/96.</p>
+<p>Economists said the data did not imply that Japan's economy, finally recovering after four years of near-zero growth, would slide back into recession.</p>
+<p>&quot;The more balanced view it that the spectacular growth in the first quarter was indeed an anomaly and what we can expect is a much more moderate path of recovery,&quot; said Tadashi Kiuchi, chief economist at the Long-Term Credit Bank of Japan.</p>
+<p>&quot;I don't detect any sign that the economy is failing in individual statistics.&quot;</p>
+<p>That said, economists agreed that the latest figures would make it impossible for the Bank of Japan to tighten its current easy money policy, probably for the rest of the year.</p>
+<p>The central bank slashed its official discount rate, at which it lends to commercial banks, to 0.5 percent last September to prevent the economy from sliding into recession and has been keeping short-term market rates low as well.</p>
+<p>&quot;I think this will take a lot of pressure off them (the BOJ),&quot; said Kenneth Courtis, chief economist at Deutsche Capital Markets. &quot;All the speculation (about interest rate rises) will fade to the sidelines, and that will allow them to stay on course,&quot; he said.</p>
+<p>Financial markets as recently as last month had swirled with speculation that the central bank was poised to tighten rates, but worries that the economic recovery would lose steam later in the year had already dampened those expectations.</p>
+<p>Following the data, the dollar briefly surged by more than half a yen to a high of 108.35 yen before easing back later in the afternoon.</p>
+<p>In the debt and money markets, the yield of the benchmark 182nd 10-year cash Japanese government bonds dropped to the lowest level since August, while the key December three-month Euroyen futures on the Tokyo International Financial Futures Exchange rose to a contract high.</p>
+<p>The Tokyo stock market reacted little to the tankan data.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

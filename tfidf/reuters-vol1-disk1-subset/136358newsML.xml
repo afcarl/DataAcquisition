@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136358" id="root" date="1996-10-23" xml:lang="en">
+<title>SOUTH AFRICA: Engen chemical tanker ready for launch.</title>
+<headline>Engen chemical tanker ready for launch.</headline>
+<dateline>JOHANNESBURG 1996-10-23</dateline>
+<text>
+<p>Unicorn Lines said on Wednesday its latest chemical/oil tanker, owned jointly with Engen Ltd, will be launched in Poland at the weekend.</p>
+<p>The 45,000 dwt Engen Simunya is the second such tanker in the Engen/Unicorn fleet. The first, Engen Rainbow, was launched in August.</p>
+<p>&quot;The launching signifies a further step in the $65 million shipbuilding project which was initiated by the two organisations in 1994 in line with Engen's strategy to develop the African bulk fuel market,&quot; Unicorn said in a statement.</p>
+<p>The tanker was built at Poland's Szczecin shipyard.</p>
+<p>The tankers will transport cargoes on Engen's coastal and export trading routes.</p>
+<p>-- Johannesburg newsroom, +27-11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

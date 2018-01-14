@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133085" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: S.African tourism flagging due to crime fears.</title>
+<headline>S.African tourism flagging due to crime fears.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>South Africa's tourist boom is flagging, with Johannesburg in particular being shunned by visitors fearful of the notorious crime rate, according to figures published on Tuesday.</p>
+<p>Hotel bed nights sold to foreign tourists declined by 6.3 percent in August from the same month last year to 182,686, the Central Statistical Service said.</p>
+<p>The Johannesburg tourism region suffered the most with its share of the national market dwindling to 11 percent from 20 percent a year ago.</p>
+<p>Cape Town and the surrounding wine growing region remain the most popular destination, accounting for 26.3 percent of bed nights sold.</p>
+<p>South Africa's tourist industry was boosted by the first all-race elections in 1994 and last year tourist arrivals jumped by 50 percent to 1.1 million. But further growth has been stymied by mounting fears over crime.</p>
+<p>While most holiday-makers have no trouble, police figures show South Africa is one of the world's most crime-ridden societies. A total of 1.98 million serious crimes were reported last year, with only half solved, including 36,888 rapes, 18,983 murders and 66,838 armed robberies.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

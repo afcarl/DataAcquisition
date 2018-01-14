@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31848" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Delay selling off Mexico petrochemical said costly.</title>
+<headline>Delay selling off Mexico petrochemical said costly.</headline>
+<dateline>MEXICO CITY 1996-09-03</dateline>
+<text>
+<p>The delay in privatizing Mexico's petrochemical industry has postponed investments worth about $8.0 billion, Minister of Energy Jesus Reyes Heroles told the Mexican Congress on Tuesday.</p>
+<p>&quot;There is a large list of petrochemical projects that are outstanding, waiting for this (the privatization) to work itself out before they start,&quot; Reyes Heroles said.</p>
+<p>&quot;We are talking about interesting amounts...about $2.0 billion in one group, about $6.0 billion in another,&quot; he said.</p>
+<p>The Mexican government is working out how it will privatize the secondary petrochemical sector.</p>
+<p>&quot;There are a series of important industrial projects that depend on resolving the selling off of the secondary petrochemical sector,&quot; he said.</p>
+<p>Reyes Heroles said he hoped there would be advances made in the process before the end of the year.</p>
+<p>--Jacqueline Lerma, Mexico City newroom (525) 728 9552</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

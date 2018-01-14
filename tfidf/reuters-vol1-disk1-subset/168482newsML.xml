@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168482" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Barak ITC wins carrier license in Israel.</title>
+<headline>Barak ITC wins carrier license in Israel.</headline>
+<dateline>NEW YORK 1996-11-06</dateline>
+<text>
+<p>Barak ITC, a consortium of five companies, said Wednesday its bid for Israel's second international telecommunications carrier license was accepted by the Ministry of Communications.</p>
+<p>The consortium consists of Sprint Corp, Deutsche Telekom AG, France Telekom, Clalcom Ltd and Matav Cable Systems Media Ltd</p>
+<p>It will be one of two alternative carriers in the Israeli international telecommunications market that is valued at about $750 million, the companies said.</p>
+<p>Barak will compete with the current international operator, Bezeq International, as well as a second alternative carrier bidder, to provide Israel customers with a network for the worldwide transmission of voice, data and video, it said.</p>
+<p>The companies did not disclose the value of the carrier license.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

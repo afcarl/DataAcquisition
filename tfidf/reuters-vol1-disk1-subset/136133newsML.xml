@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136133" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Post Properties Q3 ffo shr $0.72 vs $0.61.</title>
+<headline>Post Properties Q3 ffo shr $0.72 vs $0.61.</headline>
+<dateline>ATLANTA 1996-10-23</dateline>
+<text>
+<p>POST PROPERTIES, INC.</p>
+<p>	  (Dollars in thousands, except per share or unit data)</p>
+<p>					  Three Months    Nine Months</p>
+<p>					 Ended Sept. 30  Ended Sept. 30</p>
+<p>				     1996	1995     1996     1995</p>
+<p>Operating data:</p>
+<p> Total revenue		  44,215   37,480  125,998  106,293</p>
+<p>Property operating and</p>
+<p>maintenance expenses -</p>
+<p>  owned properties	    15,115   13,209   42,284   37,421</p>
+<p>Depreciation - real estate</p>
+<p>  assets			   5,877    4,975   16,673   15,103</p>
+<p>Depreciation - non-real estate</p>
+<p>  assets			     197	158	710	379</p>
+<p>Property management expenses -</p>
+<p>  third party			558	579    1,608    1,612</p>
+<p>Landscape services expenses -</p>
+<p>  third party		    1,013	859    2,876    2,613</p>
+<p> Interest expense		5,970    6,503   16,738   17,339</p>
+<p>Amortization of deferred loan</p>
+<p>costs, interest rate protection</p>
+<p>agreement and deferred swap</p>
+<p>  income, net			293	518    1,025    1,514</p>
+<p>General and administrative</p>
+<p>  expenses			 1,769    1,611    5,786    4,371</p>
+<p>Minority interest in consolidated</p>
+<p>  property partnership	   ---	 69	---	451</p>
+<p> Total			    30,792   28,481   87,700   80,803</p>
+<p>Net income before minority</p>
+<p>interest and extraordinary</p>
+<p>  item			    13,423    8,999   38,298   25,490</p>
+<p>Gain on sale of assets, net of</p>
+<p>  minority interest		693    1,746	693    1,746</p>
+<p>Minority interest of unitholders</p>
+<p>in Operating Partnership</p>
+<p>				   (2,535)  (2,410)  (7,281)  (6,175)</p>
+<p>Net income before extraordinary</p>
+<p>  item			    11,581    8,335   31,710   21,061</p>
+<p>Extraordinary item, net of</p>
+<p>  minority interest (a)	  ---    (189)	---    (811)</p>
+<p> Net income		     11,581    8,146   31,710   20,250</p>
+<p> Funds from operations (b)  19,300   13,974   54,971   40,593</p>
+<p>Per share/unit data (c):</p>
+<p>Net income before extraordinary</p>
+<p>  item per common share	 0.53     0.47     1.46     1.20</p>
+<p> Net income per common share  0.53     0.46     1.46     1.15</p>
+<p>Funds from operations per</p>
+<p>  common share or unit	  0.72     0.61     2.05     1.78</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

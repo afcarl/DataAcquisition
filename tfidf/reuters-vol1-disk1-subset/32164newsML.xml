@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32164" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Georgia declares emergency, urges evacuations.</title>
+<headline>Georgia declares emergency, urges evacuations.</headline>
+<dateline>ATLANTA 1996-09-04</dateline>
+<text>
+<p>Georgia Governor Zell Miller declared a state of emergency in 11 counties along and near the Georgia coast on Wednesday and officials began urging evacuations in anticipation of Hurricane Fran.</p>
+<p>Miller's executive order made &quot;all resources of the State of Georgia&quot; available to local officials to assist in hurricane response and recovery.  </p>
+<p>The governor declared a state of emergency in Camden, Glynn, McIntosh, Liberty, Bryan, Chatham, Charlton, Brantley, Wayne, Long and Effingham counties.</p>
+<p>In Savannah, the Chatham County Commission urged some residents to evacuate voluntarily and said it might require evacuations as Hurricane Fran approached.</p>
+<p>&quot;We're under a voluntary evacuation for outlying islands and waterfront property, low-lying areas and mobile homes,&quot; said Randy Hecht of the Chatham County Emergency Management Agency. The Cumberland Island National Seashore in southeast Georgia was closed to visitors.</p>
+<p>It was the second time this summer that Georgia's coastal areas had braced for a hurricane. The coastline north of Brunswick was placed under a hurricane warning as Hurricane Bertha passed about 150 miles east of Savannah on thenight of July 11. The storm displaced athletes competing in Olympic yachting events.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

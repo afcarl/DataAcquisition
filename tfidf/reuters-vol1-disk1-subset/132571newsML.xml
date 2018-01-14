@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132571" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: GFSB plans to buy back another 15 pct.</title>
+<headline>GFSB plans to buy back another 15 pct.</headline>
+<dateline>GALLUP, New Mexico 1996-10-22</dateline>
+<text>
+<p>GFSB Bancorp Inc said Tuesday that it intends to buy back another 15 percent of its common stock.</p>
+<p>The amount equals 142,312 of its 948,750 original shares, the company said.  </p>
+<p>The repurchases require a waiver of a 5 percent repurchase limit, the company said, adding that there is no assurance it waiver application will be approved or that the full 15 percent will be repurchased.</p>
+<p>The company said Tuesday it has already completed the repurchase of 5 percent of its common stock, or 47,437 shares.</p>
+<p>It said the additional repurchases would be made in the open market and be completed by June 28.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GALLUP, New Mexico"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

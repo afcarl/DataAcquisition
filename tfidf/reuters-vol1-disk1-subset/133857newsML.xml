@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133857" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Zycad says Schwab sells shares.</title>
+<headline>Zycad says Schwab sells shares.</headline>
+<dateline>FREMONT, Calif 1996-10-22</dateline>
+<text>
+<p>Zycad Corp said it received notice from Charles Schwab &amp; Co that they sold about 493,000 shares of Zycad stock owned by Phillips Smith, president and chief executive of the company.</p>
+<p>The shares were sold in a series of involuntary sales pursuant to a margin call on Smith's account.</p>
+<p>Smith had beneficially owned about 1,001,900 shares of Zycad stock pledged under the Schwab margin account to repay a loan to Zycad in 1995.  </p>
+<p>In October 1995, Mr. Smith publicly disclosed his intention to sell up to 500,000 shares of Zycad Common Stock over the period October 1995 to October 1996.  Mr. Smith still owns approximately 510,000 shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13168" id="root" date="1996-08-25" xml:lang="en">
+<title>NEW ZEALAND: UtiliCorp offers NZ$7.25 for PNZ shares.</title>
+<headline>UtiliCorp offers NZ$7.25 for PNZ shares.</headline>
+<dateline>AUCKLAND 1996-08-26</dateline>
+<text>
+<p>UtiliCorp NZ Inc on Monday gave notice that it would make an offer for all the Power New Zealand Ltd shares held by, or on behalf of, four local councils at NZ$7.25 a share.  </p>
+<p>UtiliCorp NZ is a unit of UtiliCorp United Inc.</p>
+<p>The offer is to the Hauraki District Council, Matamata-Piako District Council, South Waikato District Council and Thames Coromandel District Council, or any company owned by them.</p>
+<p>The offer is conditional on the councils conducting a public consultation process and is subject to deferred settlement terms.</p>
+<p>It is also conditional on the councils entering a shareholding deed notified under a separate restricted transfer notice. The councils hold around seven percent of PNZ.  </p>
+<p>Utilicorp NZ had given a High Court undertaking that it would not make the offer before September 19.</p>
+<p>Once the offer was made, it would remain open until August 2003. Utilicorp NZ said that, because of undertakings required of it in the proceedings in the High Court, it was unable to complete the July 25 offer since it would not be able to be made within the time limits set out in the Companies Amendment Act.</p>
+<p>-- Wellington Newsroom (64-4-4734746)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUCKLAND"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

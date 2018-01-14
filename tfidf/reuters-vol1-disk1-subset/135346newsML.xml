@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135346" id="root" date="1996-10-22" xml:lang="en">
+<title>VIETNAM: Karaoke girls' wings clipped in Vietnam.</title>
+<headline>Karaoke girls' wings clipped in Vietnam.</headline>
+<dateline>HANOI 1996-10-22</dateline>
+<text>
+<p>Karaoke bars in Ho Chi Minh City, which the Vietnamese authorities believe are a breeding ground for &quot;social evils&quot;, have been told their hostesses can no longer sit with clients or even join them in song.</p>
+<p>The Thanh Nien newspaper said on Tuesday that the People's Committee had temporarily halted the issue of licences for karaoke bars in the city ahead of an official &quot;reorganisation&quot;.</p>
+<p>Many karaoke bars double as &quot;bia om&quot;, or hugging bars, where hostesses are said to offer more than liquid refreshment.</p>
+<p>Thanh Nien said a network of stores renting videos, which have already come under scrutiny as part of a blitz on blue movies, would also be revised.</p>
+<p>The communist government launched a nationwide campaign against &quot;social evils&quot; earlier this year, targeting pornography, prostitution, drug-abuse and gambling.</p>
+<p>Formerly known as Saigon, freewheeling Ho Chi Minh City gained a reputation as a den of pimps and prostitution during the Vietnam War.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

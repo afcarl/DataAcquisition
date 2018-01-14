@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32348" id="root" date="1996-09-04" xml:lang="en">
+<title>ITALY: Olivetti details some H196 results.</title>
+<headline>Olivetti details some H196 results.</headline>
+<dateline>MILAN 1996-09-04</dateline>
+<text>
+<p>Information technology group Olivetti gave the following details of revenues and operating results by areas of business for the six months to June 30, 1996. In billions of lire, figures in brackets signal negative result. No comparisons for the breakdown were available.</p>
+<p> Systems and services revenue	  2,755.2</p>
+<p>		 oper result		    49</p>
+<p> Personal computers revenue		991.5</p>
+<p>		 oper result		   (10)</p>
+<p> Lexikon revenue			     976.6</p>
+<p>		 oper result		    39</p>
+<p> Telemedia revenue			   135.2</p>
+<p>		 oper result		   (38)</p>
+<p> Latin American area revenue	     171.1</p>
+<p>		 oper result		    10</p>
+<p> Other activities revenue		  238.6</p>
+<p>		 oper result		   (21)</p>
+<p>Consolidation adjustment on revenue(1,043.3)</p>
+<p>		 on oper results	     (51)</p>
+<p> Overall total Olivetti revenue	4,224.9</p>
+<p>		 oper result		   (22)</p>
+<p> Cost of corporate activity		(59)</p>
+<p> Cons oper result			    (81)</p>
+<p>--Milan bureau +392 66129507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132962" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: IRA's bomb scares off N.Ireland conference.</title>
+<headline>IRA's bomb scares off N.Ireland conference.</headline>
+<byline>Martin Cowley</byline>
+<dateline>BELFAST 1996-10-22</dateline>
+<text>
+<p>IRA violence has forced the cancellation of a high-profile broadcasters' conference planned in Belfast next July, British officials said on Tuesday.</p>
+<p>Organisers of the European Broadcasting Union's three-day gathering decided this month to switch it to Edinburgh, Scotland, after the Irish Republican Army's first attack in Northern Ireland for more than two years. the sources said.</p>
+<p>&quot;We are naturally very disappointed that they have based their decision on one incident,&quot; said a spokesman for Britain's Northern Ireland Office.  </p>
+<p>&quot;We are still convinced that if they had held their conference in Northern Ireland they would have had a trouble-free, productive and pleasant time.&quot;</p>
+<p>There was no initial comment from the Geneva-based organisation.</p>
+<p>The IRA's double car bomb attack at British military headquarters in Lisburn, 10 miles (15 km) south of Belfast killed a soldier and injured 30 other people.</p>
+<p>It dashed slim hopes of a ceasefire by the banned guerrillas and raised fears that the IRA's pro-British Loyalist rivals will abandon their own two-year truce.  </p>
+<p>The sources said the EBU considered changing the date of the conference after sectarian clashes in mid-July at the height of the volatile annual &quot;marching season&quot; by Protestants.</p>
+<p>It decided to pull out of the Belfast arrangements completely after the IRA bombing on October 7.</p>
+<p>The loss of the conference will strike a blow to the province's tourist industry, which had been recovering thanks to two years of peace.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

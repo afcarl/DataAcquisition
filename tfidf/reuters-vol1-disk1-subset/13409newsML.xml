@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13409" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Columbus McKinnon to buy Spreckels.</title>
+<headline>Columbus McKinnon to buy Spreckels.</headline>
+<dateline>BUFFALO, N.Y.</dateline>
+<text>
+<p>Columbus McKinnon Corp. said Monday it reached a definitive agreement to acquire Spreckels Industries Inc., another maker of material handling and industrial products, for about $260 million.</p>
+<p>The value includes $190 million in cash for Spreckels' common stock, warrants and options, and $70 million of assumed debt, a Columbus McKinnon spokesman said.</p>
+<p>The combined company would have annual revenues approaching $500 million, with about 3,400 employees.</p>
+<p>Buffalo, N.Y.-based Columbus McKinnon said it will begin a tender offer by Aug. 30 for all of Spreckels' roughly 6.2 million outstanding common shares, as well as additional stock warrants and options, at $24 per share.</p>
+<p>Columbus McKinnon said it will also offer to buy all of Spreckels' outstanding warrants at a price equal to the difference between the exercise price and $24.</p>
+<p>Spreckels' stock rose $4.125 to close at $23.50 on Nasdaq. Columbus McKinnon fell 75 cents to $14, also on Nasdaq.</p>
+<p>The tender offer is subject to the receipt of a majority of Spreckels' outstanding shares.</p>
+<p>The agreement has been approved by the boards of directors of both companies.</p>
+<p>Columbus McKinnon designs, manufactures and sells a broad range of material handling, lifting and positioning products that are sold in domestic and international markets.</p>
+<p>Spreckels, based in Charlotte, N.C., is also known as Yale International, Inc. Its principal brand names are Yale, Duff-Norton, Coffing, Little Mule and American Lifts.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUFFALO, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

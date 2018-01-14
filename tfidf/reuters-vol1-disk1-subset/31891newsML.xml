@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31891" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRALIA: RTRS - Canberra says court backs industrial powers.</title>
+<headline>RTRS - Canberra says court backs industrial powers.</headline>
+<dateline>CANBERRA 1996-09-04</dateline>
+<text>
+<p>Australian Industrial Relations Minister Peter Reith said on Wednesday that the High Court, Australia's supreme tribunal, seemed to have confirmed the constitutional authority the government needed for its industrial relations reforms.</p>
+<p>Earlier, the court delivered its judgment on a challenge to the former Labor government's industrial legislation, ruling some aspects of the laws constitutionally invalid.</p>
+<p>But Reith said in a statement that the court appeared to have supported the constitutional powers that new government needed for its replacement legislation, which is currently before the Senate as the Workplace Relations Bill.</p>
+<p>&quot;While it will be necessary to examine the judgement in greater detail, the court's decision appears generally to confirm the availability of the powers upon which the Workplace Relations Bill is based,&quot; the minister said.</p>
+<p>&quot;In particular, the court has rejected the challenge to the use of the corporations power, which is used for some important aspects of the government's bill, such as Australian Workplace Agreements.&quot;</p>
+<p>Australia's federal government can enact laws only within particular subjects listed in the constitution.</p>
+<p>Typically, High Court challenges to federal laws assert that they are not covered by any of the so-called heads of power.</p>
+<p>For example, Canberra sometimes passes a law about something that is not authorised by the constitution, but makes it relevant to another subject, such as corporate regulation, that is authorised.</p>
+<p>The Workplace Relations Bill would aim to increase flexibility in the labour market, downgrading the roles of unions and industrial tribunals and making it easier for employers and employees to make up their own arrangements.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

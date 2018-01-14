@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135800" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Gandalf blames product revenue for Q2 loss.</title>
+<headline>Gandalf blames product revenue for Q2 loss.</headline>
+<dateline>NEPEAN, Ontario 1996-10-23</dateline>
+<text>
+<p>Gandalf Technolgies Inc reported a steep loss in its second quarter earnings on Wednesday.</p>
+<p>The technology company said it lost C$8.7 million or C$0.20 per share on revenues of C$15.2 million in the second quarter compared to a small profit of C$35,000 on revenues of C$27.4 million a year ago.</p>
+<p>The company blamed poor product revenues for the loss.</p>
+<p>Gandalf said it experienced difficulties in implementing a new sales distribution model in the first half of the company's fiscal year.</p>
+<p>&quot;The situation is taking longer to correct than the company had originally anticipated,&quot; Gandalf said.</p>
+<p>The company also saw revenues from its mature product lines fall, especially in Europe.</p>
+<p>Products sheduled for shipping in the second quarter were on target, Gandalf said.</p>
+<p>-- Reuters Toronto Bureau 416 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEPEAN, Ontario"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

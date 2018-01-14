@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134385" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Western Atlas Inc Q3 shr rises.</title>
+<headline>Western Atlas Inc Q3 shr rises.</headline>
+<dateline>BEVERLY HILLS, Calif. 1996-10-22</dateline>
+<text>
+<p>Three and Nine Months Ended Sept 30, 1996 and 1995</p>
+<p>				(thousands of dollars)</p>
+<p>		     Three Months Ended	 Nine Months Ended</p>
+<p>			   Sept 30,		    Sept 30,</p>
+<p>			  1996	  1995	  1996	  1995</p>
+<p>Sales and Service Revenues</p>
+<p>Oilfield Services</p>
+<p>		   $  359,080  $  319,512  $1,022,967  $  934,277</p>
+<p>Industrial</p>
+<p>Automation Systems</p>
+<p>			313,522     249,921     825,582     707,014</p>
+<p>Total sales and</p>
+<p>service revenues</p>
+<p>			672,602     569,433   1,848,549   1,641,291</p>
+<p>Operating Profit</p>
+<p>Oilfield Services</p>
+<p>			 50,989	46,498     127,193     117,514</p>
+<p>Industrial</p>
+<p>Automation Systems</p>
+<p>			 26,557	18,496	69,274	54,757</p>
+<p>	 Subtotal    77,546	64,994     196,467     172,271</p>
+<p>Unallocated expenses</p>
+<p>			(6,900)     (6,324)    (19,643)    (18,271)</p>
+<p> Interest -- net  (9,773)     (9,671)    (28,413)    (31,956)</p>
+<p>Earnings before taxes</p>
+<p>  on income	  60,873	48,999     148,411     122,044</p>
+<p>Taxes on income</p>
+<p>		     (24,363)    (19,845)    (59,364)    (49,428)</p>
+<p> Net earnings	36,510	29,154	89,047	72,616</p>
+<p> Earnings per share  0.67	  0.54	  1.64	  1.35</p>
+<p>Shares used in computing earnings</p>
+<p>  per share    54,469,212  53,950,019  54,374,577  53,846,499</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEVERLY HILLS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

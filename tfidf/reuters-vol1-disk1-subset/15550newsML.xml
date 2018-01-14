@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15550" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: U.S. appeals court stays Lloyd's injunction.</title>
+<headline>U.S. appeals court stays Lloyd's injunction.</headline>
+<byline>Greg Baumann</byline>
+<dateline>BALTIMORE 1996-08-27</dateline>
+<text>
+<p>A U.S. appeals court gave Lloyd's of London a reprieve Tuesday in its multibillion-dollar reorganization, throwing out an injunction that the insurance giant said could have led to its collapse.</p>
+<p>The three-judge panel ruled that the injunction issued Friday by a U.S. district judge in Virginia should be dismissed, clearing the way for Lloyd's to give formal approval Thursday to its reorganization.</p>
+<p>Immediately after the ruling was issued, Lloyds issued a statement in London saying it extended the deadline for its investors to accept the agreement. The deadline had been for 8 a.m. EDT Wednesday but was extended indefinitely.</p>
+<p>Lloyd's also said 82 percent of its investors, or Names as they are known at Lloyd's, had accepted the proposed $2.2 billion settlement.</p>
+<p>&quot;I am very pleased,&quot; said David Rowland, chairman of Lloyd's. &quot;I have believed for a long time that what we are doing is in the interest of the whole society (Lloyd's).&quot;</p>
+<p>The reorganization plan had been thrown into uncertainty Friday, when U.S. District Judge Robert Payne ruled that Lloyd's sold securities to U.S. Names in violation of U.S. securities laws.</p>
+<p>Payne granted the injunction and ordered Lloyd's to provide more information to the U.S. investors by Sept. 23.</p>
+<p>Lloyd's argued in its appeal before the U.S. 4th Circuit Court of Appeals in Baltimore that such a delay could cause the 300-year-old insurance market to collapse since it would be unable to meet the deadline to pass solvency tests in the United Kingdom and the United States.</p>
+<p>The appeals court subsequently sent the case back to the district court with instructions to dismiss it.</p>
+<p>During the hearing Tuesday, appellate Judge Paul Niemeyer said, &quot;If we find the whole market is subject to American security laws, we could be looking at rescission (rescinding) of up to $2.2 billion in obligations.&quot;</p>
+<p>In a statement from London, Lloyd's said it welcomed the court ruling and will press ahead with its recovery plan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALTIMORE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

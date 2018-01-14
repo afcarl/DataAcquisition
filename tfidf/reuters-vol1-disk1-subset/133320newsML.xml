@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133320" id="root" date="1996-10-22" xml:lang="en">
+<title>MEXICO: Gemex nine-month net profit rises.</title>
+<headline>Gemex nine-month net profit rises.</headline>
+<dateline>MEXICO CITY 1996-10-22</dateline>
+<text>
+<p>1996			  1995</p>
+<p>     Oper Income	142.35 million	     197.08 million</p>
+<p>     Net		  312.13 million	     106.91 million</p>
+<p>     Revs		 2.382 bln		2.539 bln</p>
+<p>	 NOTE: All figures in Mexican pesos.</p>
+<p>	 Full company name is Grupo Embotellador de Mexico SA de</p>
+<p>CV.</p>
+<p>-- Mexico City newsroom, (525) 728-9507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

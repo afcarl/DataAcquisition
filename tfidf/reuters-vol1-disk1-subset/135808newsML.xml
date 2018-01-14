@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135808" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Canada-Chicago gas pipe group extends open season.</title>
+<headline>Canada-Chicago gas pipe group extends open season.</headline>
+<dateline>CALGARY 1996-10-23</dateline>
+<text>
+<p>Backers of the proposed Alliance Pipeline, a natural gas line that would run to Chicago from northern Canada, said on Wednesday it extended its open season to November 8 from Oct 31.</p>
+<p>&quot;During the first four weeks of its open season, Alliance has met with over 100 potential shippers,&quot; the partnership said. &quot;The open season extension will ensure that all potential shippers have fair and open access to Alliance capacity.&quot;</p>
+<p>The line, backed by 18 Canadian companies, would carry 1.25 billion cubic feet of gas to Chicago by 1999.  </p>
+<p>The partnership includes such comapnies as Alberta Energy Co Ltd, Gulf Canada Resources Ltd and IPL Energy Inc.</p>
+<p>The companies said the extension would not affect the project's planned in-service daite.</p>
+<p>The C$3.6-billion project would run 3,000 km to the U.S. Midwest from northeastern British Columbia as a way of boosting natural gas export capacity from Canada.</p>
+<p>The scarcity of takeaway capacity has often been blamed for western Canadian gas prices being much lower than those in the United States. -- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

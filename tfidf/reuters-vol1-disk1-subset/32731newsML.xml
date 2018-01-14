@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32731" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CFTC orders two advisers to halt Internet services.</title>
+<headline>CFTC orders two advisers to halt Internet services.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>The Commodity Futures Trading Commission (CFTC) -- in its first enforcement proceedings based solely on Internet activities -- ordered two individuals to stop providing advisory services over the Internet in violation of federal commodity law.</p>
+<p>Steven Jay Marks of Ocala, Fla., and Spencer Brown of Fort Worth agreed in separate consent orders to the CFTC's actions.</p>
+<p>The CFTC said both Marks and Brown were unregistered commodity trading advisors (CTAs) and did not file mandatory disclosure documents with the CFTC.  </p>
+<p>From May 7, 1996 through the end of June, Marks posted messages on financial-related bulletin boards on the Internet and offered one-week trial memberships on an electronic newsletter service, &quot;MarketPulse Online.&quot;</p>
+<p>However, the CFTC said Marks could not register in any capacity because he did not satisfy previous monetary judgments against him.  Two of his former customers were awarded -- one by a CFTC reparation and another by National Futures Association arbitration -- a total of $8,500.  </p>
+<p>The CFTC ordered Marks to return the roughly $5,000 he received from &quot;MarketPulse&quot; subscribers and notify all former subscribers on the Internet that he has been ordered to cease his service.</p>
+<p>Brown began soliciting the public in late July 1996. Through his homepage, he solicted the public to open commodity futures trading accounts that would be managed by his computer trading program, ProTrade.</p>
+<p>The CFTC's orders said the Internet and the World Wide Web enable &quot;unscrupulous operators&quot; to commit fraud or violate federal commodity laws with anonymity.  </p>
+<p>&quot;Our Internet surveillance program will become an increasingly important part of our efforts to enforce the law and protect the public,&quot; Geoffrey Aronow, CFTC director of enforcement, said.</p>
+<p>Its surveillance program includes routine monitoring of homepages and other newsgroups on the Web, and has already provided dozens of initial referrals to enforcement staff members involving issues like registration.</p>
+<p>Derivatives Desk 312-408-8750;E-mail derivatives@reuter.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

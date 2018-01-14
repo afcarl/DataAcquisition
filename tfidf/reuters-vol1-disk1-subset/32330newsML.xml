@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32330" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Lloyd's judge explains decision. [CORRECTED 20:20 GMT]</title>
+<headline>Lloyd's judge explains decision. [CORRECTED 20:20 GMT]</headline>
+<dateline>BALTIMORE 1996-09-03</dateline>
+<text>
+<p>U.S. securities law does not apply to foreign markets just because Americans are invited to take part in them, a federal court said on Tuesday, explaining its ruling last week in favour of insurer Lloyd's of London.</p>
+<p>An opinion of a federal appellate court in Richmond, Virginia, cited the limits on U.S. law as its reason for not forcing Lloyd's to give American investors more information on a massive reorganization intended to stabilise the British insurance market.</p>
+<p>The court rejected the investors' contention that U.S. securities laws took precedence over their agreement with LLoyd's to litigate disputes in British courts.</p>
+<p>The court found that U.S. securities laws should not be &quot;exported and imposed as governing principles on markets conducted entirely in other countries simply because membership in such markets is solicited in the United States.&quot;</p>
+<p>On Aug. 23, 93 of the 3,000 names, or Lloyd's investors, in the United States successfully urged a federal trial judge in Richmond to enjoin Lloyd's from forcing them to choose whether to participate in the insurance market reorganization.</p>
+<p>Lloyd's set an Aug. 28 deadline for names to elect whether to accept the reorganization plan, intended to settle many legal claims of malfeasance against Lloyd's managers and administrators in exchange for $4.8 billion.</p>
+<p>The plan would also set up a new corporate entity, Equitas Reinsurance Limited, to reinsure the names' pre-1993 underwriting obligations. A series of natural and human disasters made those obligations heavy ones for many names.</p>
+<p>After an emergency appellate hearing requested by Lloyd's, three judges of the U.S. Court of Appeals for the 4th Circuit stayed the injunction on Aug. 27. Tuesday's opinion, written by Circuit Judge Paul Niemeyer, provided the reasoning behind that order.</p>
+<p>Lloyd's has since extended its deadline for investors to accept the agreement to Wednesday, September 11 at noon London time.</p>
+<p>(corrects to show the deadline has not been extended indefinitely)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALTIMORE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

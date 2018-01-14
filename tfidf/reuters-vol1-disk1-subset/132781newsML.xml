@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132781" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Quaker City Q1 shr loss $0.35 with charge.</title>
+<headline>Quaker City Q1 shr loss $0.35 with charge.</headline>
+<dateline>WHITTIER, Calif 1996-10-22</dateline>
+<text>
+<p>Consolidated Statements of Financial Condition</p>
+<p>				Unaudited</p>
+<p>			(In thousands, except per share data)</p>
+<p>						     Three Months Ended</p>
+<p>							   September 30,</p>
+<p>							 1996	    1995</p>
+<p>Interest income:</p>
+<p> Loans receivable				$12,431	$11,049</p>
+<p> Mortgage-backed securities			750	    758</p>
+<p> Investment securities			     670	    407</p>
+<p> Other						   216	    177</p>
+<p>   Total interest income			14,067	 12,391</p>
+<p>Interest expense:</p>
+<p> Deposits					    6,408	  6,238</p>
+<p> Federal Home Loan Bank advances	     1,869	  1,042</p>
+<p> Other						     4	    259</p>
+<p>    Total interest expense		     8,281	  7,539</p>
+<p>Net interest income before provision</p>
+<p>    for loan losses				5,786	  4,852</p>
+<p> Provision for loan losses		     1,500	    201</p>
+<p>Net interest income after provision</p>
+<p>    for loan losses				4,286	  4,651</p>
+<p>Other income:</p>
+<p> Loan servicing charges and fees		 411	    365</p>
+<p> Gain on sale of loans held for sale	    53	     39</p>
+<p> Commissions					   140	     76</p>
+<p> Other						     6	     19</p>
+<p>    Total other income			     610	    499</p>
+<p>Other expense:</p>
+<p> Compensation and employee benefits	  1,928	  1,911</p>
+<p> Occupancy, net					472	    514</p>
+<p> Federal deposit insurance premiums	    326	    306</p>
+<p>Other general and administrative</p>
+<p>   expense					     862	    865</p>
+<p>Total general and administrative</p>
+<p>	expense					3,588	  3,596</p>
+<p>Savings Association Insurance Fund</p>
+<p>   special assessment			    3,100		-</p>
+<p> Real estate operations, net		     282	    137</p>
+<p>Amortization of core deposit</p>
+<p>    intangible					  76	     76</p>
+<p>    Total other expense			  7,046	  3,809</p>
+<p> Earnings (loss) before income taxes     (2,150)	  1,341</p>
+<p> Income taxes (benefit)			  (883)	    566</p>
+<p> Net earnings (loss)			  ( 1,267)	    775</p>
+<p> Net earnings (loss) per share	     ( 0.35)	   0.20</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHITTIER, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

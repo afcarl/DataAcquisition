@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134934" id="root" date="1996-10-22" xml:lang="en">
+<title>SWEDEN: FORECAST - Sweden '97 borrowing need seen 33 bln skr.</title>
+<headline>FORECAST - Sweden '97 borrowing need seen 33 bln skr.</headline>
+<dateline>STOCKHOLM 1996-10-22</dateline>
+<text>
+<p>Sweden's borrowing requirement for 1997 was expected to be around 33 billion crowns, based on an average from a Reuters poll of 10 analysts.</p>
+<p>Forecasts varied between 20-55 billion crowns.</p>
+<p>&quot;Even if the budget deficit is cut and the economy picks up, the government's borrowing need will increase from this year's 20-30 billion crowns,&quot; said HSBC Midland's Peter Lindqvist, who forecast the borrowing need at 55 billion crowns.</p>
+<p>&quot;The year's extremely low borrowing need is largely due to one-off items totalling around 60 billion crowns.&quot;</p>
+<p>The National Debt Office will present its first forecast for the 1997 borrowing need on October 24 at 0730 GMT.</p>
+<p>Analysts interviewed for the poll were from Aragon, Carnegie, Consensus, Handelsbanken, Lehman Brothers, HSBC Midland, Paine Webber, Salomon Brothers, Swedbank and Unibank.</p>
+<p>-- Peter Fellman, Stockholm newsroom +46-8-700 1007</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

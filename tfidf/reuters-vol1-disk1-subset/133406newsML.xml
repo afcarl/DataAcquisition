@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133406" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: Brazil to publish power sell-off consultancy rules.</title>
+<headline>Brazil to publish power sell-off consultancy rules.</headline>
+<dateline>BRASILIA 1996-10-22</dateline>
+<text>
+<p>The Brazilian government will publish within 40 days rules for the bidding by private consultancy firms seeking to advise the government on the privatization of federal power generators, a minister said.</p>
+<p>Planning Minister Antonio Kandir told reporters the government was seeking to speed up the privatization of the pwoer sector.</p>
+<p>Pio Borges, privatization director of the National Development Bank (BNDES) said Brasilia hoped to sell by late 1997 or early 1998 power generator Furnas, the first of four generators to be sold off.  </p>
+<p>Borges said after a meeting of the National Privatization Council that the consultants would draw up specific plans for the privatization of the generating sector as a whole.</p>
+<p>They would concentrate on issues like how to avoid damaging the interests of existing minority shareholders in Eletrobras , the federal power holding company, he said.</p>
+<p>The consultants would also study whether or not to split Furnas into regional units to be sold off separately.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

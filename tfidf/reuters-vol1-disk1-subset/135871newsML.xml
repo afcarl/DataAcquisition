@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135871" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: New England states seek federal disaster declared.</title>
+<headline>New England states seek federal disaster declared.</headline>
+<byline>Leslie Gevirtz</byline>
+<dateline>BOSTON 1996-10-23</dateline>
+<text>
+<p>Three New England governors turned to Washington Wednesday for federal help in coping with damage caused by a powerful storm that swept up the U.S. East Coast earlier this week.</p>
+<p>The governors of Massachusetts, Maine and New Hampshire have requested that President Bill Clinton declare at least part of their states federal disaster areas.</p>
+<p>Thousands of homes and businesses that suffered storm damage in the three states are inland and not covered by flood insurance.  </p>
+<p>The governors were waiting for state and Federal Emergency Management Agency teams to complete their assessments of the damages before formally seeking a declaration from Clinton.</p>
+<p>&quot;If the president declares the area a disaster area, then those people that don't have flood insurance will be covered,&quot; said Jim Rivers, a spokesman for New Hampshire Gov. Stephen Merrill, who is expected to seek relief for at least eight of the state's 10 counties by the end of the week.</p>
+<p>Rivers estimated that damage in New Hampshire, which has four electoral votes, will reach $4 million to $6 million at least.  </p>
+<p>In Massachusetts, where officials expect damage estimates to soar, Gov. William Weld sent a letter to President Clinton late Tuesday asking for a federal disaster declaration.</p>
+<p>&quot;I'm saying multimillion dollars,&quot; David Rodham of the state's public safety department, said Wednesday.</p>
+<p>In Boston, the city is estimating $11 million in damages. while the Massachusetts Bay Transportation Authority, which operates the subways, is estimating $15 million, Rodham said. In the city of Quincy, at least 1,000 homes have suffered major damage, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

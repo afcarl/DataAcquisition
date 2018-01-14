@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133867" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Fruehauf reopens trailer assembly plant.</title>
+<headline>Fruehauf reopens trailer assembly plant.</headline>
+<dateline>INDIANAPOLIS, Indiana 1996-10-22</dateline>
+<text>
+<p>Fruehauf Trailer Corp said on Tuesday that it reopened its dry freight van manufacturing plant in Fort Madison, Iowa.</p>
+<p>The company's platform and dump trailer manufacturing plan in Scott County, Tennessee, has started sub-assembly work.</p>
+<p>Fruehauf said the resumption of production at both assembly facilities represents a positive step in reorganization efforts under Chapter 11. It filed for Chapter 11 on October 7, 1996.  </p>
+<p>The company will be employing a total of 600 workers at plants in Iowa and Tennessee.</p>
+<p>Fruehauf also named Chriss Street as chairman of the board of directors. The position had been vacant.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS, Indiana"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132712" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Medicis Q1 net rises.</title>
+<headline>Medicis Q1 net rises.</headline>
+<text>
+<p>PHOENIX, Oct. 22 (Reuter)</p>
+<p>		   Medicis Pharmaceutical Corporation</p>
+<p>			(in thousands, except per share data)</p>
+<p>			 Summary Statement of Operations</p>
+<p>				     Three Months Ended September 30,</p>
+<p>				 1996				     1995</p>
+<p>		    $		%		  $		  %</p>
+<p>Net sales     $ 7,268	 100%	  $ 4,574	     100%</p>
+<p>Cost of sales   1,954	   27	    1,317		 29</p>
+<p>Gross profit    5,314	   73	    3,257		 71</p>
+<p>Operating</p>
+<p>    expenses   (3,718)	 (51)	  (2,583)	    (56)</p>
+<p>Other gains, incomee</p>
+<p>and expenses	112	    2		(3)		 --</p>
+<p>Income before</p>
+<p>    taxes	  1,708	 24		671		 15</p>
+<p>Income tax benefit/</p>
+<p>(expenses)	 1,896	  26	     (25)		(1)</p>
+<p>Net income	$3,604	 50%	     $646		14%</p>
+<p>Net income per</p>
+<p>common share     $0.46			  $0.10</p>
+<p>Weighted average</p>
+<p>shares</p>
+<p>outstanding	7,757			  6,687</p>
+<p>Net income before taxes</p>
+<p>per common share $0.21			  $0.10</p>
+<p>Income tax benefit per</p>
+<p>common share	 0.25			    --</p>
+<p>Net income per</p>
+<p>common share	$0.46			 $0.10</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

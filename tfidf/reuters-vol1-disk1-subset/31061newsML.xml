@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31061" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: Bundesbank to leave interest rates on hold - poll.</title>
+<headline>Bundesbank to leave interest rates on hold - poll.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>The Bundesbank is not expected to change rates this cycle, say more than half the economists surveyed in a Reuters poll ahead of Thursday's council meeting.</p>
+<p>Following are the responses from ten economists in London and Frankfurt.</p>
+<p>1.  Will the Bundesbank make any further rate cuts this cycle?</p>
+<p>	YES, 4</p>
+<p>	NO, 6</p>
+<p> 1a. If Yes,</p>
+<p>    Which rate?    Repo rate, 4</p>
+<p>    By how much?   20 basis points, 4</p>
+<p>    When?	    Q496,  1</p>
+<p>			 Q197,  3</p>
+<p> 1b. If No, when will the Bundesbank start tightening?</p>
+<p>	Q197,   1</p>
+<p>	Q297,   1</p>
+<p>	Q397,   2</p>
+<p>	Q497,   2</p>
+<p>2.  Will there be another fixed rate tender set this Thursday?</p>
+<p>     YES, 10</p>
+<p>     NO, 0</p>
+<p> 2a. If Yes, at what rate?</p>
+<p>	 At 3.0 pct, 10</p>
+<p>Detailed results of the poll follow, in order of their answers to question one,</p>
+<p>    Economist					  1.  1a.   2.  2a.</p>
+<p>    Mark Cliffe, HSBC James Capel		YES Repo  YES 3.0</p>
+<p>								 20 bp</p>
+<p>								 Q197</p>
+<p>    Stephen Lewis, London Bond Broking	 YES Repo  YES 3.0</p>
+<p>								 20 bp</p>
+<p>								 Q1 97</p>
+<p>    Howard Archer, NatWest Bank		  YES Repo  YES 3.0</p>
+<p>								 20 bp</p>
+<p>								 Q496</p>
+<p>    Alison Cottrell, Paine Webber		YES Repo  YES 3.00</p>
+<p>								 20 bp</p>
+<p>								 Q197</p>
+<p>							   1.  1b.  2.  2a.</p>
+<p>    Norbert Braems, BZW			    NO  Q297 YES 3.0</p>
+<p>    Norbert Meissner, CDC			  NO  Q397 YES 3.0</p>
+<p>    Gerhard Grebe, Bank Julius Baer	    NO  Q397 YES 3.0</p>
+<p>    Paul Meggyesi, Deutsche Morgan Grenfell  NO  Q497 YES 3.0</p>
+<p>    Steven Hannah, IBJ International	   NO  Q197 YES 3.0</p>
+<p>    David Brickman, Yamaichi International   NO  Q497 YES 3.0</p>
+<p>-- Karen Iley, London Newsroom +44 171 542 7958</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

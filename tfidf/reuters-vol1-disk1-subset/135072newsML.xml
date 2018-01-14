@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135072" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: Tennis-Muster wants to play in Australian Open.</title>
+<headline>Tennis-Muster wants to play in Australian Open.</headline>
+<dateline>MELBOURNE 1996-10-22</dateline>
+<text>
+<p>World number three Thomas Muster of Austria has indicated he wants to play in the Australian Open next January, tournament director Paul McNamee said in a statement on Tuesday.</p>
+<p>McNamee said the Austrian had lodged his entry form for the first grand slam tournament of the year earlier this week.</p>
+<p>&quot;It's great to have a formalisation of Muster's intention to play the Ford Australian Open,&quot; McNamee said.</p>
+<p>Muster, a clay court specialist, lost to lowly-ranked Swede Mikael Tillstrom in the fourth round of this year's Australian Open. The Austrian reached the semifinals of the tournament in 1989.</p>
+<p>McNamee said in launching the event three weeks ago that he expects most of the world's top 20 male and female players to take part in the tournament, which will be played at Melbourne Park from January 13-26.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

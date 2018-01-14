@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135144" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-News Corp dips on U.S. downgrade.</title>
+<headline>RTRS-News Corp dips on U.S. downgrade.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Shares in media magnate Rupert Murdoch's News Corporation Ltd dipped over two percent to an intraday low of A$7.22 in early trade following following a downgrade by a U.S. stockbroker.</p>
+<p>Paine Webber said on Monday it had cut its rating on the company to attractive from a buy.  </p>
+<p>&quot;News is down on the back of the downgrade in the States and that is impacting the market,&quot; said dealer Brett O'Donovan of Lance Jones.</p>
+<p>Others agreed, although they noted that volumes were not exceptionally heavy.</p>
+<p>&quot;Its ADRs were off and it has seen some selling here after the U.S. downgrade but volumes are not exciting,&quot; said a Sydney-based dealer.</p>
+<p>By 11.50 a.m. (0150 GMT), News Corp shares were 12 cents lower at A$7.25 on turnover of 1.6 million shares.</p>
+<p>--Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

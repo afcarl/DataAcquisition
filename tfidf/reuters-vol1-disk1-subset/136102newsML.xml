@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136102" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Chemi-Trol Chemical Co Q3 net rises.</title>
+<headline>Chemi-Trol Chemical Co Q3 net rises.</headline>
+<dateline>GIBSONBURG, Ohio 1996-10-23</dateline>
+<text>
+<p>(dollars in thousands except per share data)</p>
+<p>		    Three Months ended	    Nine Months ended</p>
+<p>	   9/30/96  9/30/95  9/30/94  9/30/96  9/30/95  9/30/94</p>
+<p> Revenues     $20,661 $18,837 $18,946 $52,448 $54,494 $51,710</p>
+<p> Net sales     20,447  18,591  18,680  51,736  53,707  50,915</p>
+<p>Income before</p>
+<p>   Income taxes   798     620     867   1,200   2,283   2,125</p>
+<p>Provision for</p>
+<p>   income taxes   313     229     334     484     882     834</p>
+<p> Net income	 485     391     533     716   1,401   1,291</p>
+<p>Net income per</p>
+<p>   common share  0.24    0.20    0.26    0.36    0.70    0.64</p>
+<p>Book value per</p>
+<p>common share</p>
+<p>		    11.01   10.98   10.47   11.01   10.98   10.47</p>
+<p>Common shares</p>
+<p>outstanding</p>
+<p>   (000's)	2,005   2,005   2,005   2,005   2,005   2,005</p>
+<p>NOTE: All per share data and shares outstanding reflect the 10 percent  stock dividends of March of 1995 and 1994.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GIBSONBURG, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

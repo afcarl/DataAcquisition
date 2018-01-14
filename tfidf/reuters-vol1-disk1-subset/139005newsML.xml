@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139005" id="root" date="1996-10-24" xml:lang="en">
+<title>UK: RUGBY UNION-UNDERWOOD DROPPED FOR FRENCH ENCOUNTER.</title>
+<headline>RUGBY UNION-UNDERWOOD DROPPED FOR FRENCH ENCOUNTER.</headline>
+<dateline>LONDON 1996-10-24</dateline>
+<text>
+<p>England's record try-scorer Rory Underwood has been dropped for the first time in his Leicester career, a month after being omitted from the national squad.</p>
+<p>Underwood is replaced by teenager Leon Lloyd for Saturday's European Cup clash against Pau in France, with director of coaching Bob Dwyer suggesting his duties as an RAF pilot are hampering his playing career.</p>
+<p>&quot;I'd like to see an England and Lions winger play like an England and Lions winger. He's trying to combine his job and his rugby and it's not helping him at all,&quot; said the former Wallaby coach.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

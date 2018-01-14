@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136098" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: S.C. Electric &amp; Gas gets OK to lower rate.</title>
+<headline>S.C. Electric &amp; Gas gets OK to lower rate.</headline>
+<dateline>COLUMBIA, S.C. 1996-10-23</dateline>
+<text>
+<p>South Carolina Electric &amp; Gas Co said Wednesday that state regulators have approved a decrease in natural gas rates.</p>
+<p>The change will be effective the first billing cycle of November.</p>
+<p>The company's factor was reduced to $.42800 per therm from $.43081 per therm, which translates to an average annual savings of $1.69 for a customer who uses 600 therms per year.</p>
+<p>The approval was part of the South Carolina Public Service Commission's annual review of the company's purchased gas recovery procedures and gas purchasing policies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

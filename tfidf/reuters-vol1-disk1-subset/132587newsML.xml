@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132587" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Dallas Fed's Mcteer sees Q3 GDP nearer Q1 than Q2.</title>
+<headline>Dallas Fed's Mcteer sees Q3 GDP nearer Q1 than Q2.</headline>
+<dateline>WACO, Texas 1996-10-22</dateline>
+<text>
+<p>Robert McTeer, president of the Federal Reserve Bank of Dallas, said on Tuesday he expects third quarter U.S. GDP growth to be closer to the two percent registered in the first three months of the year than the 4.7 percent seen in the second quarter.</p>
+<p>&quot;There is no way the economy can continue to enjoy the 4.7 percent growth of the second quarter. It more likely will be in line with the two percent of the first quarter,&quot; McTeer told Reuters after addressing a civic group in Waco, Texas.</p>
+<p>He earlier said the consensus view on economic growth was that it had slowed from the strong second quarter pace.</p>
+<p>&quot;Next week, we will learn the third quarter results. Most people feel that growth moderated a great deal. I don't really know,&quot; McTeer said during his speech.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WACO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

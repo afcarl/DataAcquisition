@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135730" id="root" date="1996-10-23" xml:lang="en">
+<title>NETHERLANDS: SOCCER-NILIS PENALTY KEEPS PSV ON TOP OF DUTCH LEAGUE.</title>
+<headline>SOCCER-NILIS PENALTY KEEPS PSV ON TOP OF DUTCH LEAGUE.</headline>
+<dateline>AMSTERDAM 1996-10-23</dateline>
+<text>
+<p>Belgian international Luc Nilis shot home the winner from the penalty spot against Heerenveen on Wednesday to keep PSV Eindhoven on top of the Dutch first division, three points clear of Feyenoord.</p>
+<p>The Rotterdammers also won 1-0 with Ronald Koeman scoring the only goal from a penalty.</p>
+<p>PSV started the match away at Heerenveen the way they finished on Sunday when they beat Feyenoord 7-2. But this time the luck did not run with the Eindhoven side and they needed a penalty to take the lead.</p>
+<p>Heerenveen's midfielder Jan de Visser fouled Marciano Vink in the box and Nilis successfully converted the penalty, scoring his ninth goal of the season in the 28th minute.</p>
+<p>Feyenoord had a relatively easy match against lowly AZ Alkmaar.</p>
+<p>The Rotterdammers obviously missed midfielders Jean-Paul van Gastel and Kees van Wonderen and striker Pablo Sanchez due to injury and their suspended defenders George Boateng and Bernard Schuiteman.</p>
+<p>Just before halftime Koeman scored the winning goal after winger Gaston Taument was brought down by goalkeeper Oscar Moens.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

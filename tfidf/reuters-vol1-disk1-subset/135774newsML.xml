@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135774" id="root" date="1996-10-23" xml:lang="en">
+<title>SLOVENIA: SLOVENIA WELCOMES PACT WITH HUNGARY, ITALY.</title>
+<headline>SLOVENIA WELCOMES PACT WITH HUNGARY, ITALY.</headline>
+<dateline>LJUBLJANA 1996-10-23</dateline>
+<text>
+<p>Slovenian Foreign Minister Davorin Kracun on Wednesday welcomed a joint declaration signed with Italy and Hungary and said the agreement would contribute to stability and economic growth in the region.</p>
+<p>&quot;The contents of the declaration are in the interest of all three countries,&quot; Kracun said on his return from Rome where the agreement was struck.</p>
+<p>The joint declaration said Slovenia and Hungary should be among the first to join the eventual expansion of the European Union and the North Atlantic Treaty Organsation (NATO).</p>
+<p>It said the countries were &quot;firmly convinced that Europe's future stability and development can only be based upon the final completion of the processes of European and Atlantic integration&quot;.</p>
+<p>Kracun dismissed reporters' questions about resistance to Slovenia's associate agreement with the EU among some Italian members of the European Parliament.</p>
+<p>&quot;We can not evaluate the whole political line of one country by the votes of individual members of parliament,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

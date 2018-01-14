@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31946" id="root" date="1996-09-04" xml:lang="en">
+<title>HONG KONG: HK draws more visitors in Jan to Apr 96.</title>
+<headline>HK draws more visitors in Jan to Apr 96.</headline>
+<dateline>HONG KONG 1996-09-04</dateline>
+<text>
+<p>Visitors to Hong Kong rose 16 percent to 3.6 million between January and April 1996 versus the same period in 1995, the Hong Kong Tourist Association said on Wednesday.</p>
+<p>Contributing to the jump were travellers from Japan, up 64.5 percent, Singapore 33 percent and Malaysia 30.8 percent. The number of Taiwanese visitors dropped by 22.2 percent due to political uncertainty at the time, the statement said.</p>
+<p>Visitors from Japan and South Korea rose 41.9 percent, and from Australia, New Zealand and the South Pacific by 24.2 percent.</p>
+<p>China remained Hong Kong's largest visitor destination, making up 20 percent of the total departures during the period, up 7.2 percent from 1995.</p>
+<p>The association forecast a full year increase in arrivals of at least 10 percent over 1995's 10.2 million record.</p>
+<p>--HONG KONG NEWSROOM (852) 28436441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

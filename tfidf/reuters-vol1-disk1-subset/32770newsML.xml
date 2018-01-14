@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32770" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Ferrofluidics sees 1997 revenues like 96's.</title>
+<headline>Ferrofluidics sees 1997 revenues like 96's.</headline>
+<dateline>NASHUA, N.H. 1996-09-04</dateline>
+<text>
+<p>Ferrofluidics Corp said Wednesday it expected revenues for the fiscal year to be &quot;relatively consistent&quot; with those of fiscal 1996 due to a slowdown in the semiconductor industry.</p>
+<p>The company said it had postponed from fiscal 1997 to fiscal 1998 about half of its shipments of crystal pullers after consulting with its customers in the semiconductor industry.</p>
+<p>It said the impact of the delays would be felt in the first half of fiscal 1997.</p>
+<p>But the company said it expected the delays to be partially offset during fiscal 1997 by anticipated increases in shipments to four international silicon wafer manufacturers.</p>
+<p>Ferrofluidics makes the equipment that is used to make silicon wafers, the raw material for microprocessing chips.</p>
+<p>Earlier it reported revenues for the year ended June 30 of $73.0 million, up sharply from $34.2 million a year before.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHUA, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

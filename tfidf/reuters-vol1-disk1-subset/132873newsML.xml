@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132873" id="root" date="1996-10-22" xml:lang="en">
+<title>SPAIN: SOCCER-REFEREE BARKING UP THE WRONG TREE, SAYS DISMISSED PLAYER.</title>
+<headline>SOCCER-REFEREE BARKING UP THE WRONG TREE, SAYS DISMISSED PLAYER.</headline>
+<dateline>MADRID 1996-10-22</dateline>
+<text>
+<p>A Spanish first division player sent off for talking to the referee as if he were calling a dog claims he was only fooling around.</p>
+<p>&quot;Given the situation, I invited the referee to take the kick-off with me. It was a joke,&quot; said Logrones striker Manel Martinez, whose side had just conceded an eighth goal to Barcelona.</p>
+<p>But referee Brito Arceo was far from amused.</p>
+<p>In  his official match report, Arceo said Manel had spoken to him &quot;in a vulgar way and as if he were talking to a dog...with sounds emitted from the mouth.</p>
+<p>&quot;I'm not prepared for them to make fun of me.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

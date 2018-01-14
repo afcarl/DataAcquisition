@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134869" id="root" date="1996-10-22" xml:lang="en">
+<title>BELGIUM: Commission to clear cartonboard data exchange system.</title>
+<headline>Commission to clear cartonboard data exchange system.</headline>
+<dateline>BRUSSELS 1996-10-22</dateline>
+<text>
+<p>The European Commission said on Tuesday it planned to approve a modified information exchange system operated by European cartonboard makers.</p>
+<p>It said in a statement that the system, formerly called FIDES, had been changed to avoid the use of market statistics for anti-competitive purposes.</p>
+<p>In July 1994, the Commission imposed fines totalling 132 million European currency units on 23 companies and associations which it found guilty of operating what Competition Commissioner Karel Van Miert described as the &quot;most pernicious&quot; price fixing cartel.</p>
+<p>Most of the companies and associations have appealed against the decision to the European Court.</p>
+<p>The FIDES system centralised information on production, sales volumes and capacity utilisation based on individual reports from its members.</p>
+<p>The Commission said in July 1994 that such information was used to assist in the determination and monitoring of individual market shares.</p>
+<p>But a certain number of safeguards have now been introduced, banning discussions on the statistics gathered and prohibiting the distribution of individual information to members, the statement published in the October 19 Official Journal C310 said.</p>
+<p>The system is operated by CEPI-Cartonboard, an association of European cartonboard makers which represents more tan 90 percent of the market. The new version was notified to the Commission for clearance in December 1993 even before the Commission prohibited the original FIDES plan.</p>
+<p>The association pledged that the statistics collected would not cover prices, production forecasts or capacity utilisation rates.</p>
+<p>Taking the stance that the statistics are now &quot;historical&quot; and aggregated for the whole of Europe, the Commission said it planned to take a favourable position on the new system and called on interested parties to comment within a month before taking a final decision.</p>
+<p>The Commission's investigations into the alleged cartonboard cartel started in 1991 with a series of raids on the companies involved following complaints from British and French carton users' trade associations.</p>
+<p>Companies fined include Sweden's Stora AB and Mo Och Domsjo AB, Cascades SA and Sarrio SpA of Italy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G157">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

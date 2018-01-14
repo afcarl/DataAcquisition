@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132856" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: NHL ICE HOCKEY-STANDINGS AFTER MONDAY'S GAME.</title>
+<headline>NHL ICE HOCKEY-STANDINGS AFTER MONDAY'S GAME.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>Standings of National Hockey</p>
+<p>League teams after game played on Monday (tabulate under won,</p>
+<p>lost, tied, goals for, goals against, points):</p>
+<p>	     EASTERN CONFERENCE</p>
+<p>	     NORTHEAST DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> HARTFORD	 4   1   0   17   12    8</p>
+<p> MONTREAL	 3   2   2   29   25    8</p>
+<p> BOSTON	   3   2   1   23   21    7</p>
+<p> OTTAWA	   2   1   3   19   16    7</p>
+<p> BUFFALO	  3   4   0   14   20    6</p>
+<p> PITTSBURGH     2   5   0   15   29    4</p>
+<p>		  ATLANTIC DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> FLORIDA	  4   0   3   21    9   11</p>
+<p> TAMPA BAY	4   1   0   22   15    8</p>
+<p> PHILADELPHIA   4   4   0   19   21    8</p>
+<p> NY RANGERS     3   4   2   27   28    8</p>
+<p> NEW JERSEY     2   3   1   13   18    5</p>
+<p> NY ISLANDERS   1   3   2   13   14    4</p>
+<p> WASHINGTON     1   5   0   16   22    2</p>
+<p>		  WESTERN CONFERENCE</p>
+<p>		  CENTRAL DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> DALLAS	   7   1   0   26   17   14</p>
+<p> CHICAGO	  5   3   0   19   15   10</p>
+<p> ST LOUIS	 4   4   0   23   19    8</p>
+<p> DETROIT	  4   4   0   19   13    8</p>
+<p> PHOENIX	  3   3   1   18   16    7</p>
+<p> TORONTO	  1   5   0   12   23    2</p>
+<p>		  PACIFIC DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> COLORADO	 4   3   1   34   20    9</p>
+<p> CALGARY	  4   4   0   20   19    8</p>
+<p> EDMONTON	 4   4   0   22   26    8</p>
+<p> LOS ANGELES    4   5   0   26   30    8</p>
+<p> SAN JOSE	 3   3   2   23   29    8</p>
+<p> VANCOUVER	3   4   0   21   23    6</p>
+<p> ANAHEIM	  1   5   2   22   33    4</p>
+<p>TUESDAY, OCTOBER 22 SCHEDULE</p>
+<p>TAMPA BAY AT NY ISLANDERS </p>
+<p> ANAHEIM AT PHILADELPHIA   </p>
+<p> SAN JOSE AT TORONTO	 </p>
+<p> COLORADO AT CALGARY	 </p>
+<p> PITTSBURGH AT EDMONTON    </p>
+<p> ST LOUIS AT PHOENIX</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

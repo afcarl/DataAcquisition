@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33077" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Timing of NY Thruway bond deal hinges on governor.</title>
+<headline>Timing of NY Thruway bond deal hinges on governor.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>A spokesman for the New York state comptroller said Wednesday the timing of a $274 million bond sale by New York Thruway Authority depends on when the governor signs authorizing legislation.</p>
+<p>He explained that the bill, which has been forwarded to Gov. George Pataki, will raise the limit on how much debt to the Authority can sell.</p>
+<p>Currently, it only has about $180 million available.</p>
+<p>&quot;So rather than do two deals, they are going to do one,&quot; said the comptroller's spokesman, explaining that the bond sale, which was expected on Wednesday, has been postponned.  </p>
+<p>Industry sources, who requested anonymity, earlier said the precise timing of the deal had yet to be set, explaining it could come to market as soon as today, tomorrow or next week.</p>
+<p>A spokesman for Pataki was not immediately available to respond to questions about when the governor might sign the needed legislation.</p>
+<p>The New York Thruway Authority is serving as a conduit for the funds, which will be used for the Consolidated Highway Improvement Program and state Highway System Improvements.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

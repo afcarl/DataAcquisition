@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135590" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: ABB 9-month orders rise 0.6 pct.</title>
+<headline>ABB 9-month orders rise 0.6 pct.</headline>
+<dateline>ZURICH 1996-10-22</dateline>
+<text>
+<p>ABB Asea Brown Boveri AG said orders received in the first nine months of the year had risen to $25,442 million compared with $25,295 in the same period last year.</p>
+<p>In its nine month report, ABB also said the order backlog by the end of September had risen slightly to $33.9 billion from $33.5 billion at the end of 1995.  </p>
+<p>ABB noted that the 1996 results took into account the creation of the transportation venture Adtranz with Daimler-Benz AG last year and this affected comparisons.</p>
+<p>On a comparable basis, i.e. excluding transportation activities, orders received rose seven percent, ABB said.</p>
+<p>The increase in orders was led by the booking of several large power generation projects in the first half of the year, increased activity in oil, gas and petrochemical, and growth in emerging markets.</p>
+<p>The large Bakun hydroelectric project in Malaysia, recently awarded to ABB, is not yet reflected in the group's orders.</p>
+<p>-- Peter Nielsen, Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

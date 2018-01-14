@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135981" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Winthrop Resources Corp Q3 net higher.</title>
+<headline>Winthrop Resources Corp Q3 net higher.</headline>
+<dateline>MINNEAPOLIS 1996-10-23</dateline>
+<text>
+<p>Third Quarter		 Nine Months</p>
+<p>			     1996	1995	  1996	 1995</p>
+<p> Net Earnings    $3,552,000 $2,689,000 $10,247,000 $8,714,000</p>
+<p>Net Earnings Per   Share		     .40	  .34	  1.25	 1.10</p>
+<p>Weighted Average Shares Outstanding</p>
+<p>			8,845,339  7,899,052   8,197,130  7,921,377</p>
+<p>NOTE: Leased assets increased 19.5 percent to $303,984,000 at September 30 from $254,281,000 at year-end 1995.</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

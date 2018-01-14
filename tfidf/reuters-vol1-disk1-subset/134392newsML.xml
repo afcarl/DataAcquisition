@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134392" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Centex Construction Q2 shr $0.59 vs $0.46.</title>
+<headline>Centex Construction Q2 shr $0.59 vs $0.46.</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>Centex Construction Products, Inc.</p>
+<p>	   (dollar amounts in thousands, except per share data)</p>
+<p>						    Quarter Ended</p>
+<p>						    September 30,</p>
+<p>						 1996	  1995  Change</p>
+<p> Revenues			     $    65,538  $    66,483 (1%)</p>
+<p> Earnings Before Income Taxes	  20,052	 16,179  24%</p>
+<p> Net Earnings				13,014	 10,500  24%</p>
+<p> Earnings Per Share			  0.59	   0.46  29%</p>
+<p> Average Shares Outstanding	22,087,504   22,968,032 (4%)</p>
+<p>						    Six Months Ended</p>
+<p>						     September 30,</p>
+<p>						1996	   1995  Change</p>
+<p> Revenues				   126,596	121,587   4%</p>
+<p> Earnings Before Income Taxes	  35,250	 28,243  25%</p>
+<p> Net Earnings				22,877	 18,330  25%</p>
+<p> Earnings Per Share			  1.03	   0.80  28%</p>
+<p> Average Shares Outstanding	22,305,339   22,963,940 (3%)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

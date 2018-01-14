@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133383" id="root" date="1996-10-22" xml:lang="en">
+<title>PERU: Peru's Minsur sets cash dividend from 1995 profit.</title>
+<headline>Peru's Minsur sets cash dividend from 1995 profit.</headline>
+<dateline>LIMA 1996-10-22</dateline>
+<text>
+<p>Peruvian tin miner Minsur S.A. has agreed a cash dividend of 1.00 sol per share with an October 24 record date and a November 11 payout date, according to a Lima Stock Exchange report published Tuesday.</p>
+<p>The total payout of the dividend, which is based on profits in 1995 adjusted in the company's January to September financial results of this year, will be 25.3 million soles, the report said.</p>
+<p>Minsur, whicha nnounced Monday its January to September net rose 4.7 percent to 79.4 million soles, compared to the same period the previous year, is the world's third largest tin producer.</p>
+<p>The company operates the San Rafael mine in Peru's southern highlands.</p>
+<p>-- Saul Hudson, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

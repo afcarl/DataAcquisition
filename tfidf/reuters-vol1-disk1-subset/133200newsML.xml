@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133200" id="root" date="1996-10-22" xml:lang="en">
+<title>HUNGARY: MOL, TVK pull Hungary's BUX lower.</title>
+<headline>MOL, TVK pull Hungary's BUX lower.</headline>
+<dateline>BUDAPEST 1996-10-22</dateline>
+<text>
+<p>Hungarian share prices closed lower for the third successive day on the Budapest Stock Exchange on Tuesday but traders said the pace had slowed and the market could rebound soon.</p>
+<p>The BUX index ended at 3,615.75 points, down 30.85. BUX index futures ended mixed, closing higher for two maturities, remaining steady for one and closing lower for three.</p>
+<p>&quot;The correction continued, and in addition in London all investors paid attention to the introduction of (Russia's) Gazprom shares,&quot; said Istvan Simon of Concorde Securities.</p>
+<p>&quot;This left its mark on the market here, but I think the end of the fall in Hungarian shares could be seen,&quot; he added.</p>
+<p>Gazprom's introduction was one possible reason behind the low spot share turnover which totalled 654.2 million forints.</p>
+<p>The two most actively traded issues, oil company MOL and chemicals company TVK both closed lower, although their falls were modest.</p>
+<p>MOL closed at 1,640 forints, down 25, while TVK ended at 1,355 forints, down 10.</p>
+<p>On Wednesday the Budapest bourse, and all other markets will be closed due to public holiday. The markets will resume trading on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

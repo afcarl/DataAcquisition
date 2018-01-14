@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136055" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: State Bancorp Inc Q3 shr $0.21 vs $0.29.</title>
+<headline>State Bancorp Inc Q3 shr $0.21 vs $0.29.</headline>
+<dateline>NEW HYDE PARK, N.Y. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			 $ 0.21		   $ 0.29</p>
+<p> Net			  1,058		    1,332</p>
+<p> Avg shrs	     4,906,961		4,529,526</p>
+<p>	   9 MONTHS</p>
+<p> Shr			 $ 0.83		   $ 0.76</p>
+<p> Net			  3,899		    3,429</p>
+<p> Avg shrs	     4,683,765		4,491,473</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Prior period EPS figures have been restated to give retroactive effect to an eight per cent stock dividend declared on May 28, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW HYDE PARK, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

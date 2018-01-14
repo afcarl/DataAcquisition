@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134880" id="root" date="1996-10-22" xml:lang="en">
+<title>BELGIUM: Belgian three-month T-bill yield eases at auction.</title>
+<headline>Belgian three-month T-bill yield eases at auction.</headline>
+<dateline>BRUSSELS 1996-10-22</dateline>
+<text>
+<p>Results from the Belgian Treasury:</p>
+<p> SALE AMOUNT  DAYS   TOP ACCEPTED RATE  FROM LAST WEEK'S</p>
+<p> /		3-mo   3.04 pct	     3.05 pct</p>
+<p> NEW CASH		AVERAGE RATE	 FROM LAST WEEK'S</p>
+<p> 50.508 bln bfr	3.04 pct	     3.05 pct</p>
+<p> BID AMT		 TAIL		   NON-COMPETITIVE RESULTS</p>
+<p> 212.550 bln bfr     zero		   *</p>
+<p>PCT ALLOTTED AT TOP RATE</p>
+<p>65.9 pct</p>
+<p>NOTE - Value date Oct 24, maturity date Jan 23, 1997.</p>
+<p> SALE AMOUNT  DAYS   TOP ACCEPTED RATE  FROM LAST WEEK'S</p>
+<p> /		6-mo   3.07 pct	     3.08 pct</p>
+<p> NEW CASH		AVERAGE RATE	 FROM LAST WEEK'S</p>
+<p> 7.153 bln bfr	 3.07 pct	     3.07 pct</p>
+<p> BID AMT		 TAIL		   NON-COMPETITIVE RESULTS</p>
+<p> 40.250 bln bfr	zero		   *</p>
+<p>PCT ALLOTTED AT TOP RATE</p>
+<p>51.1 pct</p>
+<p>NOTE - Value date Oct 24, maturity date March 3, 1997.</p>
+<p> SALE AMOUNT  DAYS   TOP ACCEPTED RATE  FROM LAST WEEK'S</p>
+<p> /		12-mo  3.14 pct	     3.13 pct</p>
+<p> NEW CASH		AVERAGE RATE	 FROM LAST WEEK'S</p>
+<p> 5.854 bln bfr	 3.13 pct	     3.13 pct</p>
+<p> BID AMT		 TAIL		   NON-COMPETITIVE RESULTS</p>
+<p> 25.150 bln bfr	0.01		   *</p>
+<p>PCT ALLOTTED AT TOP RATE</p>
+<p>38.3 pct</p>
+<p>NOTE - Value date Oct 24, maturity date Oct 9, 1997.</p>
+<p>Total T-bill sales at competitive auction 63.515 billion bfr</p>
+<p> T-bill sales at non-competitive auction   *</p>
+<p> Total T-bill sales today			*</p>
+<p> Amount at maturity				67.974 billion bfr</p>
+<p>* Results of non-competitive auction due later this afternoon</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

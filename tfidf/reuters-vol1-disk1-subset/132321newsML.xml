@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132321" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: BioChem Pharma Inc Q3 loss turns to profit.</title>
+<headline>BioChem Pharma Inc Q3 loss turns to profit.</headline>
+<dateline>MONTREAL 1996-10-22</dateline>
+<text>
+<p>1996			   1995</p>
+<p> Shr   Profit	    C$0.14     Loss	C$0.11</p>
+<p> Net   Profit	     7,961     Loss	 5,153</p>
+<p> Revs			60,809		   41,742</p>
+<p>	   9 MONTHS</p>
+<p> Shr   Profit	    C$0.26     Loss	C$0.18</p>
+<p> Net   Profit	    13,486     Loss	 8,497</p>
+<p> Revs		     168,653		  135,647</p>
+<p> Avg shrs		  52,990		   49,294</p>
+<p>(All data above 0000s except per share numbers)</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

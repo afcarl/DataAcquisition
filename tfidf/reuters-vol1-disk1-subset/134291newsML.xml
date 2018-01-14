@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134291" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: GM negotiator says deal reached to end strike.</title>
+<headline>GM negotiator says deal reached to end strike.</headline>
+<dateline>TORONTO</dateline>
+<text>
+<p>General Motors Corp.'s lead negotiator said Tuesday the automaker and leaders of the Canadian Auto Workers union reached a deal to end the 19-day strike by 26,000 auto workers at GM's Canadian plants.</p>
+<p>A union official said earlier that GM had dropped its demand for a mandatory overtime rule at its Oshawa, Ontario, assembly plant, paving the way for a pact.  </p>
+<p>&quot;We have a new 1996 collective agreement,&quot; Canadian Auto Workers President Buzz Hargrove told a news conference.</p>
+<p>The issue of mandatory overtime had been the main stumbling block to a deal to end the strike, which has also idled more than 18,000 GM workers in the United States and Mexico.</p>
+<p>Asked whether the deal was a win-win compromise, GM's chief negotiator, Dean Munger responded, &quot;Yes, sure is.&quot;</p>
+<p>&quot;Let's get it ratified, it's a good agreement. It suits our business needs and fits your members' needs,&quot; he told the union's negotiating team.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32777" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: US Treasury's Summers warns Latam on inflation.</title>
+<headline>US Treasury's Summers warns Latam on inflation.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>High rates of inflation damage markets and effectively undermine democracy by keeping the poorest people poor, Deputy Treasury Secretary Lawrence Summers warned on Wednesday.</p>
+<p>&quot;Citizens will not trust governments that cannot maintain the value of their currencies and protect their savings,&quot; he said in a text prepared for delivery to an Inter-American Development Bank conference.</p>
+<p>Latin America has felt the impact of high inflation many times. &quot;Experience has shown that in countries where inflation is 30 percent or higher, the poor stay poor,&quot; Summers said.  </p>
+<p>Summers said experience showed there were no short-cuts to promote development and that state-run enterprises, including banks, seldom were of any help in doing so.</p>
+<p>&quot;While there are exceptions, the reality is that politics ususally intrude in the operation of a public enterprise and efficiency, financial performance and quality of service are often sacrificed,&quot; Summers said.</p>
+<p>He urged privatizing state-owned companies and said that, in countries where that has been done, profits werew flowing into productive investments while basic services like electrical power supply and telephone systems have improved.  </p>
+<p>Summers said he was surprised to hear reports that some Russian economists favored relaxing stabilization policies and increasing government intervention in that country's economy.</p>
+<p>He cautioned that easing Russia's reform efforts &quot;would undermine the results of stabilization that which are only now beginning to be seen in the sharp reduction of inflation this year and a pickup in industrial production in some sectors.&quot;</p>
+<p>The end result would be to harm the Russian poor and middle class who have borne the burden of stabilization and economic reform, Summers warned.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

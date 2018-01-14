@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135275" id="root" date="1996-10-22" xml:lang="en">
+<title>PHILIPPINES: Philippine 9-mth budget surplus at 7.49 bln pesos.</title>
+<headline>Philippine 9-mth budget surplus at 7.49 bln pesos.</headline>
+<dateline>MANILA 1996-10-22</dateline>
+<text>
+<p>The Philippine government posted a budget surplus of 7.490 surplus in the first nine months of 1996 against an 8.6 billion peso surplus in the same 1995 period, the Department of Finance said on Tuesday.</p>
+<p>It said in a statement that it had expected a deficit of 1.516 billion pesos in the January to September 1996 period due to increased expenditures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

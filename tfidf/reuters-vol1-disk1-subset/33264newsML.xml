@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33264" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - Algeria - Sept 4.</title>
+<headline>PRESS DIGEST - Algeria - Sept 4.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>These are the leading stories in the Algerian press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL KHABAR</p>
+<p>- Algerian court ordered newspaper La Tribune closed for six months. It was the first judicial decision over suspending papers. Others newspapers had been suspended in the past two years without court proceedings.</p>
+<p>EL WATAN</p>
+<p>- The state-run El Moudjahid printing company decided to stop printing the newspaper L'Opinion in a row over payment.</p>
+<p>LIBERTE</p>
+<p>- A car bomb exploded on Tuesday outside a hotel in central Algiers killing two persons and wounding more than 30.</p>
+<p>EL MOUDAJHID</p>
+<p>- Unemployment rate reached 28.1 percent of the Algerian workforce. Lack of jobs particularly hits young people aged between 20 and 24 years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

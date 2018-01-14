@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31660" id="root" date="1996-09-04" xml:lang="en">
+<title>SLOVAKIA: Slovak c.bank 3-month bill auction attracts no bid.</title>
+<headline>Slovak c.bank 3-month bill auction attracts no bid.</headline>
+<dateline>BRATISLAVA 1996-09-04</dateline>
+<text>
+<p>The National Bank of Slovakia (NBS) said on Wednesday that no bids had been submitted at its auction of an unspecified tranche of three-month liquidity bills.</p>
+<p>Dealers on the Slovak interbank money market said the auction failed due to a current lack of funds on the market, and it would not have much impact on it.</p>
+<p>&quot;There was nothing to bid with, as the market situation is rather strange now, with money having vanished probably temporarily on to a foreign exchange market,&quot; said Martin Viest of Polnobanka.</p>
+<p>-- Tatiana Vacova, Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

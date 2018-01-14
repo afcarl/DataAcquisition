@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13373" id="root" date="1996-08-25" xml:lang="en">
+<title>PAKISTAN: Octogenarian elected Pakistani Kashmir president.</title>
+<headline>Octogenarian elected Pakistani Kashmir president.</headline>
+<byline>Zulfiqar Ali</byline>
+<dateline>MUZAFFARABAD, Pakistan 1996-08-25</dateline>
+<text>
+<p>A two-chamber parliament in Pakistani-ruled Azad (free) Kashmir elected an 81-year-old politician as the state's figurehead president on Sunday amid an opposition boycott.</p>
+<p>Sardar Muhammad Ibrahim, nominated by a coalition led by Prime Minister Benazir Bhutto's Pakistan People's Party (PPP), was the sole candidate. All 39 members present in the 55-seat house voted for him.</p>
+<p>The main opposition All Jammu and Kashmir Muslim Conference (AJKMC) party of former state premier Abdul Qayyum Khan has boycotted the state legislature since it lost elections for a 48-seat Legislative Assembly (lower house) on June 30.</p>
+<p>It also objected to the removal of Ibrahim's predecessor, Sardar Sikandar Hayat, in a no-confidence vote on August 12.</p>
+<p>Ibrahim assumed the presidency for the fourth time since 1947, when he headed a fledgling administration after Kashmiri Moslems revolted against a Hindu princely ruler, Hari Singh, who later declared the Himalayan region's accession to India.</p>
+<p>Pakistan, which does not recognise Singh's accession, rules one-third and India the remaining two-thirds of Kashmir. The two countries have fought two of their three wars since their independence from Britain in 1947 over the Himalayan region.</p>
+<p>Ibrahim was last elected president in a direct vote in 1975, but was removed in 1977 by Pakistan's then military ruler General Mohammad Zia-ul-Haq. The state high court declared his removal illegal 10 years later, but did not reinstate him.</p>
+<p>Hayat, an AJKMC member, was ousted by 39 votes in a joint sitting of the state Council (upper house) and Legislative Assembly on August 12, but said the procedure had been illegal.</p>
+<p>The AJKMC accuses the Pakistani government of rigging the June 30 assembly elections. The PPP denies the charge.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUZAFFARABAD, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

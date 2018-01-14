@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28500" id="root" date="1996-09-03" xml:lang="en">
+<title>UK: UK house prices rise 0.5 pct in August, Halifax says.</title>
+<headline>UK house prices rise 0.5 pct in August, Halifax says.</headline>
+<dateline>LONDON 1996-09-03</dateline>
+<text>
+<p>British house prices rose by a seasonally adjusted 0.5 percent in August, the same as in July, according to the Halifax Building Society's latest house price index. The annual rate of house price inflation is now 5.7 percent, up from 5.3 in July. That leaves overall house prices 5.6 percent above their early 1993 trough but 8.1 percent below their peak in 1989.</p>
+<p>&quot;The further small rise this month confirms our view that house prices are now steadily recovering,&quot; a Halifax statement said.</p>
+<p>&quot;But we would expect the annual rate of (house price) inflation to remain broadly stable at around five percent over the next few months,&quot; given the rise in house prices seen in the second half of last year, it added.</p>
+<p>In 1997, it said annual prices rises of five-to-seven percent were expected.</p>
+<p>Prices paid by first-time buyers jumped 0.7 percent in August but prices of new houses fell for the second successive month in August, dropping 0.4 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="E61">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

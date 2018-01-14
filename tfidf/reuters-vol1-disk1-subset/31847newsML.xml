@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31847" id="root" date="1996-09-04" xml:lang="en">
+<title>MEXICO: Boehringer Ingelheim-Promeco to invest in Mexico.</title>
+<headline>Boehringer Ingelheim-Promeco to invest in Mexico.</headline>
+<dateline>MEXICO CITY 1996-09-03</dateline>
+<text>
+<p>Pharmaceutical maker Boehringer Ingelheim-Promeco said that it will invest $70 million in a new production plant in Mexico.</p>
+<p>The company said the new plant will allow it to sell more pharmaceuticals in North America.</p>
+<p>It said that it hopes to export about $100 million in health products to the United States and Canada by the year 2000.</p>
+<p>-- Mexico City newroom (525) 728 9559</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

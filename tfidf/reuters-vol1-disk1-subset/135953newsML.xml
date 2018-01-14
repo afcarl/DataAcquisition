@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135953" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Norwich Financial Q3 net rises.</title>
+<headline>Norwich Financial Q3 net rises.</headline>
+<dateline>NORWICH, Conn. 1996-10-23</dateline>
+<text>
+<p>NORWICH FINANCIAL CORP AND SUBSIDIARY</p>
+<p>			CONSOLIDATED FINANCIAL RESULTS</p>
+<p>		   (in thousands, except per share data)</p>
+<p>			   Nine Months Ended  Three Months Ended</p>
+<p>			     September 30,   September 30,</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p>EARNINGS</p>
+<p> Interest income     $39,141    $34,604    $13,083   $ 12,192</p>
+<p> Interest expense     19,311     16,469	6,296	6,052</p>
+<p> Net interest income  19,830     18,135	6,787	6,140</p>
+<p> Net income		4,710	4,159	1,788	1,433</p>
+<p>Primary earnings</p>
+<p>   per share		0.84	 0.75	 0.32	 0.25</p>
+<p>Weighted average common</p>
+<p>shares outstanding,</p>
+<p>including common</p>
+<p>stock equivalents</p>
+<p>			 5,623,848  5,551,638  5,533,592  5,691,865</p>
+<p>RATIOS (annualized)</p>
+<p>Return on average assets</p>
+<p>			     0.89%	0.90%	1.00%	0.88%</p>
+<p>Return on average</p>
+<p>stockholders' equity</p>
+<p>				8.30	 7.81	 9.64	 7.72</p>
+<p>Average stockholders'</p>
+<p>equity to</p>
+<p>   average assets	10.71	11.53	10.41	11.41</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWICH, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

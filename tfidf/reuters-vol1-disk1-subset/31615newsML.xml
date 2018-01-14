@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31615" id="root" date="1996-09-04" xml:lang="en">
+<title>RUSSIA: Bank of America in deal with Russian bank.</title>
+<headline>Bank of America in deal with Russian bank.</headline>
+<dateline>VLADIVOSTOK, Russia 1996-09-04</dateline>
+<text>
+<p>Russia's Dalnevostochny Bank and Bank of America Wednesday signed a $3 million twinning agreement, the first such deal between a U.S. and a Russian bank.</p>
+<p>The agreement, which covers two years, is part of the World Bank's Financial Institutions Development Project, which is aimed at improving Russia's banking services and its access to international finance.</p>
+<p>&quot;Despite the fact that other banks in other regions and Moscow would be available as twinning partners, the Far Eastern region is very important for Bank of America strategically as part of our overall Pacific Rim strategy,&quot; Bank of America Vice President David Rees told a news conference.</p>
+<p>Under a twinning agreement, the participating Russian bank must maintain certain criteria on capital adequacy and concentration of ownership, profitabiliy, liquidity, credit policies, lending internal controls and management, a BankAmerica Corp spokesman said.</p>
+<p>BankAmerica will provide the Russian bank with advice, training and technical assistance in 11 functional areas, including strategy, credit management and technology.</p>
+<p>Bank of America said some of its major clients are already investing or considering investing and trading in the Far East. A bank statement said ports in the region account for 20 percent of Russia's $20 billion trade volume.</p>
+<p>Dalnevostochny Bank President Yadviga Dobryanskaya said Bank of America specialists will work with Dalnevostochny to improve its documenting business and update technology.</p>
+<p>The credit will also be used to buy and install the first automatic teller machines in the Far East in the cities of Vladivostok and Nakhodka, she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VLADIVOSTOK, Russia"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

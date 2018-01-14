@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134190" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: Indian silver recovers by close, gold steady.</title>
+<headline>Indian silver recovers by close, gold steady.</headline>
+<dateline>BOMBAY 1996-10-22</dateline>
+<text>
+<p>Silver prices closed smartly higher after opening firm on Tuesday, aided by a recovery in the world market, dealers said.</p>
+<p>&quot;Fresh industrial support also helped,&quot; said a dealer. Silver was down 100 rupees per kg last week. The bullion market was closed on Monday for a Hindu festival.</p>
+<p>Dealers said they would expect a further recovery in silver prices this week.</p>
+<p>Gold opened higher and held steady in limited trading.</p>
+<p>Gold biscuits (116.50 grammes each) were unchanged at 60,300 rupees. They were up 300 rupees last week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

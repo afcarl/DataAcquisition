@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31926" id="root" date="1996-09-04" xml:lang="en">
+<title>CAMBODIA: Belgium seizes 13 tonnes of Cambodian cannabis.</title>
+<headline>Belgium seizes 13 tonnes of Cambodian cannabis.</headline>
+<dateline>PHNOM PENH 1996-09-04</dateline>
+<text>
+<p>Police in the Belgian port of Anvers seized more than 13 tonnes of cannabis in a textiles shipment from Cambodia, an evening paper reported on Wednesday.</p>
+<p>Cambodia Soir quoted an Interior Ministry official as saying Cambodian police had launched a local investigation after news of the discovery on August 17 of 13,320 kilogrammes of cannabis.</p>
+<p>The newspaper noted that police in the Mauritanian capital Nouakchott had on August 11 seized almost seven tonnes of drugs on a container believed to have orginated in Cambodia and carried on the ship Maersk Douala.</p>
+<p>&quot;The cannabis was hidden among cartons of T-shirts in a container,&quot; the ministry official told the French-language paper, adding that an unidentified garment company could be behind the shipment.</p>
+<p>The container was loaded in the coastal port of Sihanoukville and transited Singapore en route for Anvers.</p>
+<p>&quot;This massive haul, the second in less than a week, tends to show that Cambodia is becoming an important producer of cannabis,&quot; he said, adding that drug dealers had expanded beyond the traditional market in Thailand.</p>
+<p>U.S. anti-narcotics officials say Cambodia is becoming a major transshipment point for drugs, especially narcotics originating from the Golden Traingle area bordering Burma, Laos and Thailand and bound mainly for North America and Europe.</p>
+<p>Easrlier this year, the Clinton administration added Cambodia to a list of countries thought to be trafficking in drugs or being used to transship narcotics.</p>
+<p>Cambodian authorities had until recently treated marijuana as a spice, which was particularly popular in soups and was openly available in Phnom Penh markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="KAMPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHNOM PENH"/>
+<dc element="dc.creator.location.country.name" value="CAMBODIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

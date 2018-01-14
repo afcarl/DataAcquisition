@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134792" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post Front Page - Oct 22.</title>
+<headline>PRESS DIGEST - Washington Post Front Page - Oct 22.</headline>
+<dateline>WASHINGTON 1996-10-21</dateline>
+<text>
+<p>The Washington Post carried the following stories on its front page on Oct 22:</p>
+<p>---</p>
+<p>DETROIT - President Clinton's re-election team brushed off inquiries about potentially improper fundraising tactics by the Democratic National Committee by pleading ignorance, changing the subject and launching attacks on the political fundraising of Republican Bob Dole.</p>
+<p>----</p>
+<p>WASHINGTON - In the three decades since they emigrated from Cuba, the Fanjul brothers have immersed themselves in American business and politics, building a sugar cane empire and donating to both Republicans and Democrats.</p>
+<p>---</p>
+<p>WASHINGTON - As the battle for control of Congress grinds into its final two weeks, Republicans are following the strategy of painting their Democratic opponents as liberals.</p>
+<p>---</p>
+<p>WASHINGTON - By next spring, local motorists will be able to phone for up-to-the-minute information about traffic jams and highway construction along their routes to work.</p>
+<p>---</p>
+<p>MANAGUA, Nicaragua - Conservative populist Arnoldo Aleman proclaimed victory in Nicaragua's presidential race.</p>
+<p>---</p>
+<p>WARSAW - Three years after Poland passed one of the toughest antiabortion laws in Europe, a multi-million dollar underground industry has sprung up to meet the demand.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134162" id="root" date="1996-10-22" xml:lang="en">
+<title>INDIA: India RBI weekly economic statistics.</title>
+<headline>India RBI weekly economic statistics.</headline>
+<text>
+<p>(Amounts in billion rupees)</p>
+<p>Item				 Amount	 Date</p>
+<p>Ad hoc treasury bills	  328.05	Oct  04</p>
+<p>Bank advances for food	  84.36	Sept 27</p>
+<p>procurement operations</p>
+<p>Foreign currency assets	$18.76 bln  Oct  11</p>
+<p>M3 money supply		6,394.14	Sept 27</p>
+<p>Currency with public	 1,196.94	Sept 27</p>
+<p>Demand deposits with banks   915.36	Sept 27</p>
+<p>Time deposits with banks   4,221.88	Sept 27</p>
+<p>Bank credit (other banks)  3,360.23	Sept 27</p>
+<p>to commercial sector</p>
+<p>Reserve money		  1,839.10	Sept 27</p>
+<p>Net RBI credit to govt     1,225.69	Sept 27</p>
+<p>(of which to centre)</p>
+<p>Net forex assets of RBI	816.51	Sept 27</p>
+<p>Note-Data sourced from Weekly Statistical Supplement issued by the Reserve Bank of India (RBI) on Oct 19,1996.</p>
+<p>-- Bombay money desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

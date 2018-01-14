@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33107" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Bank of America to help Russia's Far-Eastern Bank.</title>
+<headline>Bank of America to help Russia's Far-Eastern Bank.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Bank of America said on Wednesday it had signed a two-year World Bank twinning agreement with Russia's Far-Eastern Bank worth $3 million.</p>
+<p>The bank said in a statement that the agreement was the first of its kind for Russia with a U.S. bank. The pact was signed in Vladivostok by Far-Eastern Bank President Yadviga Dobrianskaya and Bank of America Senior Vice President Sherry Bartolucci.</p>
+<p>The twinning program is part of the World Bank's Financial Institutions Development Project. It was introduced in 1993 to improve Russia's banking services and stability, help utilize its financial resources more efficiently and improve its access to international finance.</p>
+<p>Participating banks must maintain strict criteria on capital adequacy, concentration of ownership, liquidity, credit policies, lending, internal controls and management. Bank of America will provide training and technical help.</p>
+<p>Far-Eastern Bank, based in Vladivostok, is the largest Russian bank in the Far East. Bank of America is headquartered in San Francisco and is the third-biggest U.S. bank.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

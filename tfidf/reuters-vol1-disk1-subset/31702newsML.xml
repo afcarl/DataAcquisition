@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31702" id="root" date="1996-09-04" xml:lang="en">
+<title>BULGARIA: Bulgaria offers two T-bill issues for 5.5 bln levs.</title>
+<headline>Bulgaria offers two T-bill issues for 5.5 bln levs.</headline>
+<dateline>SOFIA 1996-09-04</dateline>
+<text>
+<p>Bulgaria's Finance Ministry will offer two T-bill issues for a total of 5.5 billion levs worth, both dated September 11, at auctions on Monday, the central bank (BNB) said.</p>
+<p>Funds raised at the auctions will be used to cover maturity payments on previous issues due on September 11, a finance ministry official told Reuters.</p>
+<p>One of the new issues with a total par of 2.0 billion levs is a discount one with maturity of 29 days.</p>
+<p>The second one is a six-month floater coupon issue with a par of 3.5 billion levs. It was offered with no minimum acceptable price set in advance by the ministry, the BNB said.</p>
+<p>Its coupon was set equal to the BNB's central interest rate (CIR) for the period to maturity. The CIR is now set at annual 108 percent.</p>
+<p>Two issues of T-bills - a floater coupon one and a discount one - with a total par of 2.177 billion levs mature on September 11, BNB data shows.</p>
+<p>Details of the new issues follow:</p>
+<p> Issue number   BG3017496004    BG3017396022</p>
+<p> Type	     Discount	  Floater coupon</p>
+<p> Par value	2.0 bln levs    3.5 bln levs</p>
+<p> Auction date   Sept 9, 1996    Sept 9, 1996</p>
+<p> Issue date     Sept 11, 1996   Sept 11, 1996</p>
+<p> Maturity date  Oct 10, 1996    March 12, 1997</p>
+<p>-- Sofia Newsroom, (++359-2) 981 8569</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

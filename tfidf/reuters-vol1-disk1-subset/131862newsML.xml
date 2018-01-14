@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131862" id="root" date="1996-10-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-C-C Amatil appoints Kuok director.</title>
+<headline>RTRS-C-C Amatil appoints Kuok director.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>Australia's Coca-Cola Amatil Ltd (CCA) said on Monday that it had appointed Kuok Khoon Chen a non-executive director of the company.</p>
+<p>CCA issued 46 million shares worth A$667 million, or 9.275 percent of the company's issued capital, to Kuok in August.</p>
+<p>The Malaysian tycoon is a chairman of Kerry Beverages Ltd, which holds a number of Coca-Cola franchises in China.</p>
+<p>Kuok has appointed Liu Tai Fung as his alternate director on the board of CCA.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

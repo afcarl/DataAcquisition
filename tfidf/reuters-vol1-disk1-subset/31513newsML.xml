@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31513" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Canada C$3.0 bln bond due 1998 yields 5.606.</title>
+<headline>Canada C$3.0 bln bond due 1998 yields 5.606.</headline>
+<dateline>OTTAWA 1996-09-04</dateline>
+<text>
+<p>The Government of Canada said its C$3.0 billion auction of 6.25 percent bonds due September 15, 1996 produced the following results:</p>
+<p>			     YIELD	 PRICE</p>
+<p>		   AVG     5.606	100.201 PCT AT</p>
+<p>		   LOW     5.598	101.216 HI YIELD</p>
+<p>		   HIGH    5.615	101.184  41.51016</p>
+<p>The bonds will be dated and delivered on September 16. The outstanding debt of the issue totals C$6.0 billion. Bids from primary dealers totalled C$6,929.7 million, including C$63.2 million non-competitive tenders at the average yield.</p>
+<p>-- Reuters Toronto bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

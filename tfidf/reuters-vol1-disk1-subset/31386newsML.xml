@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31386" id="root" date="1996-09-04" xml:lang="en">
+<title>SWITZERLAND: SOCCER-SWISS CHAMPIONSHIP RESULTS/STANDINGS.</title>
+<headline>SOCCER-SWISS CHAMPIONSHIP RESULTS/STANDINGS.</headline>
+<dateline>GENEVA 1996-09-04</dateline>
+<text>
+<p>Results of Swiss soccer</p>
+<p>championships matches played on Tuesday and Wednesday:</p>
+<p> Servette     2  Lugano    0</p>
+<p> St Gallen    1  Aarau     1</p>
+<p>Grasshopper  0  Neuchatel 0</p>
+<p> Young Boys   1  Zurich    2</p>
+<p> Basle	  2  Lausanne  4</p>
+<p> Sion	   2  Lucerne   0</p>
+<p>Standings (tabulated under played, won, drawn, lost, goals</p>
+<p>for, against, aggregate points which include bonus points from</p>
+<p>the qualifying phase):</p>
+<p> Neuchatel	 10  7 2 1  14   7  23</p>
+<p> Lausanne	  10  5 2 3  22  15  17</p>
+<p> Grasshopper     10  4 5 1  17  11  17</p>
+<p> St Gallen	 10  4 5 1   7   6  17</p>
+<p> Sion		10  4 4 2  15  11  16</p>
+<p> Aarau	     10  4 2 4  10   7  14</p>
+<p> Zurich	    10  3 5 2  11  10  14</p>
+<p> Servette	  10  3 3 4  12  12  12</p>
+<p> Basle	     10  2 4 4  16  17  10</p>
+<p> Lucerne	   10  1 6 3  12  15   9</p>
+<p> Lugano	    10  1 4 5   6  17   7</p>
+<p> Young Boys	10  1 0 9   7  21   3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

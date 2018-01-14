@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33280" id="root" date="1996-09-04" xml:lang="en">
+<title>SPAIN: 5-year Spanish bond yield falls, 15-yr rises.</title>
+<headline>5-year Spanish bond yield falls, 15-yr rises.</headline>
+<dateline>MADRID 1996-09-04</dateline>
+<text>
+<p>The Bank of Spain announced the following results at today's Treasury debt auction (amounts bid, allocated in billions of pesetas):</p>
+<p>ISSUE	Yield    Pvs     Price     Pvs	Bid    Allocated</p>
+<p>5-year     8.110    8.114   104.20  103.50   235.288   159.732</p>
+<p>15-year    8.894    8.835    94.70   94.50   42.561    15.711</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

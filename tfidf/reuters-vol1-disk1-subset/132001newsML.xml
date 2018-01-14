@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132001" id="root" date="1996-10-21" xml:lang="en">
+<title>PHILIPPINES: Sime Darby declares 0.10 peso cash div.</title>
+<headline>Sime Darby declares 0.10 peso cash div.</headline>
+<dateline>MANILA 1996-10-21</dateline>
+<text>
+<p>The board of directors of Sime Darby Pilipinas Inc has declared a 0.10 peso cash dividend per share, a notice from the Philippine Stock Exchange said on Monday.</p>
+<p>The cash dividend will be given to shareholders on record as of November 6. It will be payable on December 6.</p>
+<p>The company paid a cash dividend of the same amount earlier this year. In 1995, its cash dividends totalled 0.30 peso in tranches of 0.10 peso.</p>
+<p>Sime Darby Pilipinas, a unit of Sime Darby Hong Kong Ltd, has previously announced it will shift from tyre manufacturing to property development.</p>
+<p>- Manila newsroom 63 2 841-8937 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

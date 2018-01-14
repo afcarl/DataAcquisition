@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134950" id="root" date="1996-10-22" xml:lang="en">
+<title>SWEDEN: S-E-Banken to probe its US forex trades.</title>
+<headline>S-E-Banken to probe its US forex trades.</headline>
+<dateline>STOCKHOLM 1996-10-22</dateline>
+<text>
+<p>Swedish bank S-E-Banken said on Tuesday an internal investigation at its New York office would be centred on employees from its foreign exchange trading unit who had rolled over trading profits at the bank.</p>
+<p>The bank on Tuesday morning announced it was investigating a number of irregular transactions at its New York office in 1992 and 1993 involving the allocation of profits between units and between time periods.</p>
+<p>Spokeswoman Gunilla Wikman said the matter, which had not resulted in any direct losses for the bank, involved several foreign exchange traders. A number of employees have been suspended.</p>
+<p>&quot;They have held over profits from foreign exchange trading until next year to avoid tax, yes, you could say that,&quot; she told Reuters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

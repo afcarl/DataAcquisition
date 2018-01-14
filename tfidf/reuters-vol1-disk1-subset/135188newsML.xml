@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135188" id="root" date="1996-10-22" xml:lang="en">
+<title>TAIWAN: Taiwan firm in Boeing maintenance deal.</title>
+<headline>Taiwan firm in Boeing maintenance deal.</headline>
+<dateline>TAIPEI 1996-10-22</dateline>
+<text>
+<p>Taiwan's Air Asia Company Ltd said on Tuesday that Boeing Co of the United States has authorised the firm to become Boeing's maintenance service centre on the island.</p>
+<p>&quot;We recently signed a contract with Boeing and Boeing authorised us to be its maintenance service centre in Taiwan for first its B-234 and then CH-47D helicopters,&quot; Chang Shun-lien, an Air Asia director, said by telephone.</p>
+<p>&quot;Boeing does not limit our service to a certain area or region,&quot; Chang said, adding that the contract would allow Air Asia to service Boeing until 2005.</p>
+<p>The company gave no financial details.</p>
+<p>In August 1995, Air Asia signed an agreement with U.S. aircraft maker McDonnell Douglas Corp to become McDonnell Douglas's authorised maintenance service centre in Taiwan.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

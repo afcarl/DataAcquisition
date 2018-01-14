@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132733" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: EVEREN Capital Corp Q3 profit vs loss.</title>
+<headline>EVEREN Capital Corp Q3 profit vs loss.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr profit		$ 0.28     loss	   n/a</p>
+<p> Net profit		 3,500     loss     $19,400</p>
+<p> Revs		     120,500		  125,800</p>
+<p>	 (All Data Above 000s.5xcept Per Share Numbers)</p>
+<p>NOTE: 1996 Q3 includes extraordinary charge of $2.9 million for early retirement of debt. Before the charge, EPS were $0.51.</p>
+<p>Company became an independent public entity in September 1995.  </p>
+<p>			9 MONTHS</p>
+<p> Shr profit		 $4.80     loss	   n/a</p>
+<p> Net profit		52,700     loss	22,100</p>
+<p> Revs		     402,400		  359,300</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: 1996 nine-month results include pretax gain of $50.2 million ($30.2 million after tax) on sale of subsidiary.</p>
+<p>1995 nine-month results include $22 million after-tax charges associated with employee buyout of EVEREN from Kemper Corp.</p>
+<p>-- Chicago Newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

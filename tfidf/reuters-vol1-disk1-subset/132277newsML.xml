@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132277" id="root" date="1996-10-21" xml:lang="en">
+<title>SWITZERLAND: PRESS DIGEST - Switzerland - Oct 21.</title>
+<headline>PRESS DIGEST - Switzerland - Oct 21.</headline>
+<dateline>ZURICH 1996-10-21</dateline>
+<text>
+<p>Here are the highlights from Swiss newspapers on Monday:</p>
+<p>NEUE ZUERCHER ZEITUNG</p>
+<p>- Swiss Interior Minister Ruth Dreifuss said in an interview published on Sunday that she was against wage cuts for federal railway staff.</p>
+<p>- Swiss Defence Minister Adolf Ogi met his American colleague William Perry on Saturday to discuss the Bosnian situation.</p>
+<p>TAGES ANZEIGER</p>
+<p>- Swiss Telecom plans to cut rates in November for both international and domestic call. The company plans to introduce off-peak rates for international calls, which will be 25 percent lower than normal calls.</p>
+<p>JOURNAL DE GENEVE</p>
+<p>- Delegates of the Swiss Radical Democrats and the Swiss People's Party voted in favour of a more liberalized labour law on Saturday.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

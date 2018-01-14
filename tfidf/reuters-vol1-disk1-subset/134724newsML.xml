@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134724" id="root" date="1996-10-22" xml:lang="en">
+<title>LEBANON: Lebanon's SOLIDERE has $20.5 mln mid-year profit.</title>
+<headline>Lebanon's SOLIDERE has $20.5 mln mid-year profit.</headline>
+<dateline>BEIRUT 1996-10-22</dateline>
+<text>
+<p>Lebanon's biggest company SOLIDERE, which is rebuilding central Beirut, reported on Tuesday that net profits in the first six months of 1996 had risen by more than 60 percent to $20.5 million.</p>
+<p>SOLIDERE had a net profit of $12.6 million in the first half of 1995 and $32.3 million for the year.</p>
+<p>An unaudited profit and loss statement published in Beirut newspapers said total revenue was $26.8 million compared with $17.8 million in the first half of 1995.</p>
+<p>A dealer at a Beirut bank said the half-year results were not very indicative of the company's performance.</p>
+<p>&quot;They are very skeleton results. It is very hard to formulate an opinion based on them alone. You need the whole financial statements, the cash flow statement and the notes to accounts,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

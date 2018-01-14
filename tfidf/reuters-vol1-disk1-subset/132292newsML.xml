@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132292" id="root" date="1996-10-21" xml:lang="en">
+<title>NORWAY: Norsk Hydro's net profits slump in Q3.</title>
+<headline>Norsk Hydro's net profits slump in Q3.</headline>
+<dateline>OSLO 1996-10-21</dateline>
+<text>
+<p>Diversified industrial giant Norsk Hydro ASA said on Monday lower prices for aluminium and petrochemicals were mainly responsible for a 45 percent slump in net profits in the third quarter compared with a year ago.</p>
+<p>Norway's largest listed company booked profits after tax of 909 million crowns ($139 million) for the three-month period against 1.66 billion crowns in the same 1995 period.</p>
+<p>Hydro said its tax provisions were also higher in the quarter due to increased earnings from offshore oil and gas activities.</p>
+<p>Third-quarter operating income of 2.15 billion crowns was 21 percent down from 2.72 billion and included a writedown of 400 million crowns because of a downward revision of estimates for remaining oil and gas reserves in the Frigg area of the North Sea.</p>
+<p>&quot;The decline was due to significantly lower earnings for light metals and petrochemicals,&quot; a statement from the company said. &quot;Oil and gas showed a marked improvement in operating income, while results for agriculture showed a moderate reduction compared to the previous year.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

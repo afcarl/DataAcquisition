@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32044" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Americans' diets getting healthier for rich and poor.</title>
+<headline>Americans' diets getting healthier for rich and poor.</headline>
+<dateline>BOSTON 1996-09-04</dateline>
+<text>
+<p>Before doctors discovered heart-healthy meals, America's poor often ate a better diet than the rich, but a new study in Thursday's New England Journal of Medicine has concluded that trend was changing.</p>
+<p>The gap between the classes has apparently been erased in the last 30 years as the rich, poor and middle class have all dramatically cut back on fat and sodium, a trend found among both blacks and whites.</p>
+<p>&quot;The differences among racial and socio-economic groups have narrowed over time,&quot; said the research team, led by Barry Popkin of the University of North Carolina at Chapel Hill. &quot;By 1989-91, the diets of all groups were relatively similar.&quot;</p>
+<p>The Popkin group based its conclusions on three food consumption surveys conducted by the U.S. Department of Agriculture in 1965, 1977-78 and 1989-91, which polled more than 32,000 people.</p>
+<p>In 1965, less than 10 percent of low income whites ate what is now regarded as a heart-healthy diet that focused on fruits, vegetables, breads, cereals and legumes. By the 1989-91 survey, that number had doubled.</p>
+<p>In the third of the population with the highest income, the rate in 1965 was less than five percent, the lowest among any of the socioeconomic groups. It jumped to 20 percent around 1990.</p>
+<p>Among the third of the population in the medium socio-economic strata, the rate of healthy eating jumped from nearly six percent to just under 18 percent in the same timeframe, the study found.</p>
+<p>Low- and middle-income blacks have also adopted healthier diets over the years. The survey showed that they have consistently had healthier eating habits than whites.</p>
+<p>The trend breaks down among high-income blacks because there were too few to survey in 1965, and the 1989-91 survey showed that fewer were eating right than when they were polled in 1977-78.</p>
+<p>Despite the good news, Popkin and his colleagues found that the average number of servings of fruits, vegetables and grains &quot;either have remained constant or have decreased in some groups, such as whites and blacks of low socio-economic status.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

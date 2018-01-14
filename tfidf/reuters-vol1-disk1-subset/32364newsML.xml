@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32364" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: France's 1997 budget aims to lighten taxes-Arthuis.</title>
+<headline>France's 1997 budget aims to lighten taxes-Arthuis.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>French Finance Minister Jean Arthuis said France's 1997 budget was aimed at lowering taxes and controlling spending to help France meet budget-deficit criteria for the single European currency.</p>
+<p>&quot;It's a budget that is marked by the aim of controlling spending, lightening the tax burden and respecting (Maastricht treaty) convergence criteria,&quot; Arthuis said in a radio interview.</p>
+<p>&quot;We will hold public deficits to four percent of GDP in 1996 and three percent in 1997,&quot; he said.</p>
+<p>-- Paris Newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

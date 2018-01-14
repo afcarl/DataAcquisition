@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135840" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: EIP Microwave names Foster president, COO.</title>
+<headline>EIP Microwave names Foster president, COO.</headline>
+<dateline>MILPITAS 1996-10-23</dateline>
+<text>
+<p>EIP Microwave Inc said Wednesday it named Lewis Foster as president and chief operating officer, replacing acting president John Bishop who has resigned.</p>
+<p>Foster previously served as president of EIP from 1976 to 1986. He will report to J. Bradford Bishop, chairman and chief executive.</p>
+<p>In addition, the company said Chief Financial Officer John Ardizzone has resigned to take a position at another company.</p>
+<p>In its statement, EIP did not name a replacement for Ardizzone and an official was not available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILPITAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

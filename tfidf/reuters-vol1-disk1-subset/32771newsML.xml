@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32771" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. Surgical says court affirms dismissal.</title>
+<headline>U.S. Surgical says court affirms dismissal.</headline>
+<dateline>NORWALK, Conn. 1996-09-04</dateline>
+<text>
+<p>United States Surgical Corp said on Wednesday that a federal appeals court affirmed a lower courts decision to dismiss a patent infringement lawsuit brought against the company by a Johnson &amp; Johnson unit.</p>
+<p>Johnson &amp; Johnson's Ethicon Endo-Surgery Inc claimed that U.S. Surgical's endoscopica and open GIA linear cutter staplers infringed upon its patent, U.S. Surgical said.</p>
+<p>In his opinion last year, Judge S. Arthur Spiegel of U.S. District Court held that the U.S. Surgical's staplers do not infringe Ethicon's claims, leading the the appeal by Ethicon.  </p>
+<p>The appeals court remanded the case to the lower court for further findings as to whether any issues remain for trial, U.S. Surgical said.</p>
+<p>&quot;If none exist, summary judgment in USS's favor may be appropriate,&quot; the appeals court said.</p>
+<p>Johnson &amp; Johnson was not available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWALK, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134802" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Morrison Knudsen may book Q3 loss.</title>
+<headline>Morrison Knudsen may book Q3 loss.</headline>
+<dateline>BOISE, Idaho 1996-10-21</dateline>
+<text>
+<p>Morrison Knudsen Corp said on Monday that it will delay filing its quarterly 10Q report for the third quarter ended August 31 pending completion of an ongoing review of financial matters following the merger between Morrison Knudsen and Washington Construction.</p>
+<p>The company said it anticipates completing the evaluation within one month and said the post-merger loss provisions could result in net losses for the three- and nine-month periods ended August 31.</p>
+<p>The merger took effect on September 11.</p>
+<p>Morrison Knudsen said it was reviewing certain properties, principally real estate not used in construction operations, to evaluate their status and determine their current market value.</p>
+<p>None of the properties being evaluated are involved in the company's ongoing core operations.</p>
+<p>Morrison said it is also evaluating the establishment of reserves for restructuring expenses related to the business combination, including relocation and other employee-related expenses. Other financial issues under review include establishment of a reserve for a potential environmental liability and accruals for taxes other than income taxes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOISE, Idaho"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

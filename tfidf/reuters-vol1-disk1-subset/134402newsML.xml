@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134402" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Mylex Corp Q3 shr $0.21 vs $0.16.</title>
+<headline>Mylex Corp Q3 shr $0.21 vs $0.16.</headline>
+<dateline>FREMONT, Calif. 1996-10-22</dateline>
+<text>
+<p>Mylex Corp.</p>
+<p>				Statements of Operations</p>
+<p>	  (unaudited; $ in thousands except for per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					  Sept. 30,	   Sept. 30,</p>
+<p>					  1996    1995     1996    1995</p>
+<p> Net Sales			  42,206  34,505  136,117  87,037</p>
+<p> Cost of Sales		    25,517  21,090   83,934  52,830</p>
+<p> Gross Profit		     16,689  13,415   52,183  34,207</p>
+<p>Operating Expenses:</p>
+<p>  Sales and Marketing	    3,419   2,828   10,731   8,618</p>
+<p>  Research and Development     4,628   2,284   11,918   6,345</p>
+<p>  General and Administrative   2,068   3,014    7,408   6,330</p>
+<p> Total Operating Expenses     10,115   8,126   30,057  21,293</p>
+<p> Operating Income		  6,574   5,289   22,126  12,914</p>
+<p> Interest Income		     273	74    1,026     183</p>
+<p> Interest Expense		    (4)    (72)     (18)   (156)</p>
+<p> Other Expense			(83)    (52)    (159)    (80)</p>
+<p> Income Before Taxes	     6,760   5,239   22,975  12,861</p>
+<p> Income Tax Expense		2,242   2,087    8,732   4,754</p>
+<p> Net Income			  4,518   3,152   14,243   8,107</p>
+<p>Earnings Per Share</p>
+<p>  Primary			     0.21    0.16     0.66    0.43</p>
+<p>  Fully Diluted		     0.21    0.16     0.66    0.42</p>
+<p>Shares Outstanding:</p>
+<p>  Primary			   21,439  19,487   21,593  19,023</p>
+<p>  Fully Diluted		   21,459  19,543   21,593  19,316</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

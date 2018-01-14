@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134501" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Giddings sees possible Q4 charges.</title>
+<headline>Giddings sees possible Q4 charges.</headline>
+<dateline>FOND DU LAC, Wis. 1996-10-22</dateline>
+<text>
+<p>Giddings &amp; Lewis Inc said on Tuesday it expects earnings for 1996, prior to any unusual charges, to be in line with previous announcements.</p>
+<p>The machining and assembly systems maker said, &quot;Unusual charges are expected to be finalized in the fourth quarter and relate to restructuring of our Integrated Automation business, and final resolution of certain contract-related issues.&quot;</p>
+<p>It added, &quot;At this time the company is not able to quantify the charges that may be taken.&quot;</p>
+<p>In July the company said it expected full-year 1996 earnings would fall short of analysts' estimates of $1.30 a share by 25-30 percent.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOND DU LAC, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

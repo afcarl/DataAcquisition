@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132140" id="root" date="1996-10-21" xml:lang="en">
+<title>VIETNAM: PRESS DIGEST - Vietnam - Oct 21.</title>
+<headline>PRESS DIGEST - Vietnam - Oct 21.</headline>
+<dateline>HANOI 1996-10-21</dateline>
+<text>
+<p>These are some of the leading stories in the official Vietnamese press on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>- - - -</p>
+<p>VIETNAM NEWS</p>
+<p>-- Malaysia and Vietnam have agreed to to focus cooperation efforts on banking, agriculture and forestry.</p>
+<p>-- The National Assembly's Social Affairs Commission has proposed a series of measures aimed at reducing unemployment.</p>
+<p>- - - -</p>
+<p>NHAN DAN</p>
+<p>-- Algerian President Liamine Zeroual begins a three-day friendship visit to Vietnam on Monday at the invitation of President Le Duc Anh.</p>
+<p>- - - -</p>
+<p>HANOI MOI</p>
+<p>-- Chinese and Vietnamese officials have met for the latest in a series of talks on land border issues. The meeting, in Hanoi last week, was held in a spirit of friendship, openness and earnestness.</p>
+<p>- - - -</p>
+<p>SAIGON GIAI PHONG</p>
+<p>-- Ho Chi Minh city has proposed extending a trial &quot;one stamp, one door&quot; system aimed at simplifying local government procedures to all districts of the southern city.</p>
+<p>- - - -</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

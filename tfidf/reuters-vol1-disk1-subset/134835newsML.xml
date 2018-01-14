@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134835" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Greenpeace reports dioxin near Italy disaster site.</title>
+<headline>Greenpeace reports dioxin near Italy disaster site.</headline>
+<dateline>MILAN 1996-10-22</dateline>
+<text>
+<p>The environmental group Greenpeace said on Tuesday it had found high levels of dioxin near the site of the Seveso chemicals disaster 20 years ago.</p>
+<p>Greenpeace said recent soil tests from a field near the disaster site in northern Italy had confirmed dioxins at similar levels found during tests at the same field in 1982.</p>
+<p>&quot;These new data show that despite strong concerns raised by the publication of the 1982 figures, nothing has been done to solve the problem of dioxin contamination in the area of the accident,&quot; Fabrizio Fabbri, industrial pollution expert for Greenpeace Italy, said in a statement.</p>
+<p>An official at Seveso's town hall said only Mayor Giordano Cassetta could comment on the Greenpeace data and he was not available until Wednesday morning.</p>
+<p>An explosion and chemical leak at a factory owned by Icmesa SpA, an affiliate of Swiss pharmaceuticals giant Roche, on July 10, 1976, spewed out poisonous dioxin, killing farm animals and causing skin diseases among residents.</p>
+<p>Greenpeace said the dioxin levels it had recorded were 10 times higher than what Italy's National Committee for Agriculture considered a safe concentration for food production.</p>
+<p>&quot;We are conscious that our data are not yet enough to present a general frame of contamination in the whole area. Nevertheless it is necessary to know the exposure risk for the farmers working this land and the farm animals feeding from it,&quot; Fabbri said.</p>
+<p>Greenpeace said it conducted the tests after a park in Seveso, 20 km (12 miles) north of Milan, was opened in July on the site of the blast to mark the 20th anniversary of the disaster.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28488" id="root" date="1996-09-03" xml:lang="en">
+<title>UK: Late bond market prices.</title>
+<headline>Late bond market prices.</headline>
+<dateline>LONDON 1996-09-03</dateline>
+<text>
+<p>This is how major world bond markets were trading in late European business on Tuesday.</p>
+<p>GERMANY - German bund futures finish lower, but well off early lows as short-covering rally boosts prices, outlook helped by climb above 97.00, focus on German GDP data on Thursday. The September Bund future on the London International Financial Futures and Options Exchange (LIFFE) was trading at 97.23, down 0.04 from Monday's settlement price.</p>
+<p>BRITAIN - Gilts ended a roller-coaster session down, but well off the day's lows as U.S. Treasuries led Europe sharply down then up again, traders said gilts seem to have found their feet and will have some domestic focus on Wednesday with the monthly monetary meeting. The September long gilt future on LIFFE was trading at 106-31/32, down 06/32 from Monday's settlement price.</p>
+<p>FRANCE - French bond futures rose sharply from their lows and closed unchanged after weaker than expected U.S. economic data surprised markets, the U.S. National Association of Purchasing Management's August index was reported at 52.6, up from 50.2 the month before and lower than the 52.9 reading analysts expected. The September notional bond future on the MATIF in Paris settled at 123.16, unchanged from Monday's settlement price.</p>
+<p>ITALY - Italian debt markets ended slightly lower with lira slipping vs mark, with rollover of September to December LIFFE contracts contributing to day's high volume, eyes are on U.S. data this week and Italian final CPI for August due Thursday. The December bond future on LIFFE was trading at 114.91, down 0.10 from Monday's settlement price.</p>
+<p>UNITED STATES - US Treasuries pared losses, trade in narrow ranges in late morning, prices recoverd after August NAPM at 52.6 was seen mostly in line with forecasts, data seen triggering a &quot;relief trade.&quot; *Fed rate hike fear still lingers, market awaits August payrolls on Friday. The September Treasury bond future on the Chicago Board of Trade was trading at 107-16/32, up 06/32 from Friday's settlement price. The long bond was quoted to yield 7.11 percent.</p>
+<p>JAPAN - Key December Japanese government bond futures dropped as fears of a rate hike by the U.S. Federal Reserve were reignited by a newspaper report. The Wall Street Journal reported that Fed policy makers are considering a bigger-than-expected interest rate increase. In after hours trading the December future on LIFFE was trading at 120.46, down 0.19 from Monday's settlement price on the Tokyo Stock Exchange.</p>
+<p>EUROBONDS - Dollar deals dominated a busy Tuesday as primary market activity stepped up several notches after yesterday's U.S. holiday-inspired torpor. Japan-guaranteed Kansai International Airport's long expected $200 million 10-year offering via IBJ International, although not the largest deal, proved the best early performer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

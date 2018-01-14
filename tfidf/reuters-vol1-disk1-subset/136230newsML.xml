@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136230" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: Closing stock market indices.</title>
+<headline>Closing stock market indices.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended Wednesday.</p>
+<p>LONDON - The FTSE 100 index shed more of its recent gains but finished off the day's worst levels despite a sharp early sell-off in New York. A lack of fresh domestic company and economic news helped to subdue activity and lackluster British stocks took their lead from an overnight sell-off across the Atlantic. The FTSE 100 index finished 28.8 points lower at 4,028.4.</p>
+<p>FRANKFURT- German shares dived in post-bourse electronic trading, after the Bundesbank's chief economist Olmar Issing said he saw no reason to expect lower key German interest rates, putting pressure on German bonds. The IBIS DAX, which reflects all-day computer trade in the DAX index of 30 leading shares, dropped over 20 points on Issing's comments to trade down 44.15 points at 2,677.59. In post-bourse trade the index stood at 2,678.89 down 42.85. The DAX index closed floor trade down 19.45 at 2,699.53.</p>
+<p>PARIS - French shares ended down more than one percent, taking their lead from a lower Wall Street to consolidate last week's substantial gains. The market, which traded in negative ground all day, earlier tumbled after bond markets took fright on comments Issing that there was no reason for further cuts in key interest rates. The blue-chip CAC-40 index closed down 26.75 points or 1.23 percent at 2,148.86.</p>
+<p>ZURICH - Swiss shares ended with a marked slump but above the day's lows after easing futures on the blue-chip Swiss Market Index (SMI) and early losses on Wall Street added pressure in the second half of the session. The all-share SPI shed 0.79 percent, or 17.80 points, to close at 2,404.72.</p>
+<p>TOKYO - Tokyo's Nikkei struggled back up to the 21,000 level by the end of trade, after being battered throughout the day by bouts of selling, brokers said. They said the recovery was due largely to investors who bought back stocks after selling off bonds before the session ended. The benchmark Nikkei 225 closed down 41.53 points at 21,082.15.</p>
+<p>HONG KONG - Hong Kong stocks reversed their earlier downward course to close firmly higher due to a return of buying momentum on rising turnover. The Hang Seng Index put on 47.71 points to close at 12,492.37, its high for the day.</p>
+<p>SYDNEY - Australian shares closed slightly weaker in listless trade, with the market unmoved by the release of third quarter inflation data and weighed down by a Dow pullback on Tuesday. The key share market barometer, the All Ordinaries index, ended 6.9 points lower at 2,346.7, off its intra-day low of 2,340.8.</p>
+<p>JOHANNESBURG - Having sailed a healthy bullion price throughout the day, South African shares shrugged off Wall Street's weak open to finish slightly firmer. The overall index was up 8.6 points to 7,036.4, industrials gained 11.2 points to 8,281.4 and golds were up 18.9 points to 1,727.8 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

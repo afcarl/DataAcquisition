@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31556" id="root" date="1996-09-04" xml:lang="en">
+<title>NIGERIA: Northern Nigerian Flour Mills profits fall.</title>
+<headline>Northern Nigerian Flour Mills profits fall.</headline>
+<dateline>LAGOS 1996-09-04</dateline>
+<text>
+<p>Full year results for Northern Nigerian Flour Mills to end-March 1996. (In million naira unless stated)</p>
+<p>				    1996	1995</p>
+<p> Turnover			992.8  vs  531.0</p>
+<p> Profit before taxation     75.4  vs  121.9</p>
+<p> Taxation			 13.8  vs   49.4</p>
+<p> Profit after taxation	61.7  vs   72.5</p>
+<p> Dividend per share     50 kobo   vs 50 kobo</p>
+<p>Payment date of dividend: November 1, 1996 Closure of register: Sept 13, 1996.</p>
+<p>($1=80 naira)</p>
+<p>-- Lagos newsroom +234 1 263 03 17</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

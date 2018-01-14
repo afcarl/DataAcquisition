@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132783" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: MCI new ventures Q3 net loss lower.</title>
+<headline>MCI new ventures Q3 net loss lower.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>MCI Communications Corp on Tuesday reported that its new ventures and developing markets subsidiary cut its net losses in the third quarter to $73 million from $109 million a year ago.</p>
+<p>The unit, which groups MCI Metro; MCI Systemhouse; a stake in the Concert venture with British Telecommunications Plc; and several smaller operations, increased revenues to $474 million from $50 million a year ago.</p>
+<p>The revenue rise was caused by the acquisition of Systemhouse and Nationwide Cellular during the period.  </p>
+<p>Revenues from MCI Metro's local telephone services rose 50 percent to $45 million from a year ago.</p>
+<p>Deployment of networks for local service is running three months ahead of schedule, and lines installed quadrupled in the third quarter from the second, Maine said..</p>
+<p>Concert, which provides global services for multinational corporations, has $1.5 billion of revenues currently under contract, Maine said, describing it as an &quot;unqualified success.&quot; -- Nick Louth, New York Newsroom  212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

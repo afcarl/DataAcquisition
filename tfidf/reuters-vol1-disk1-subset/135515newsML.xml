@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135515" id="root" date="1996-10-22" xml:lang="en">
+<title>TURKEY: Kurdish leader Talabani in Turkey for U.S. talks.</title>
+<headline>Kurdish leader Talabani in Turkey for U.S. talks.</headline>
+<dateline>ANKARA 1996-10-22</dateline>
+<text>
+<p>Iraqi Kurdish leader Jalal Talabani arrived in Turkey via Iran for talks with a U.S. envoy on ending Kurdish infighting in northern Iraq, a representative said on Tuesday.</p>
+<p>&quot;He arrived in Istanbul from Tehran last night,&quot; said Shazad Saib, Turkey representative of Talabani's Patriotic Union of Kurdistan (PUK).</p>
+<p>Veteran warlord Talabani was due to meet Robert Pelletreau, U.S. assistant secretary of state for near eastern affairs, in the Turkish capital later in the day, Saib said.</p>
+<p>Pelletreau met Talabani's rival Massoud Barzani of the Kurdistan Democratic Party (KDP) in Turkey on Monday in an effort to restart peace talks between the warring factions and prevent Baghdad or Tehran filling a power vacuum caused by the conflict.</p>
+<p>Pelletreau said Barzani looked positively on a U.S.-proposed ceasefire with Talabani's PUK but the two groups were engaged in heavy fighting on Monday.</p>
+<p>Barzani fought with the backing of Iraqi government troops against Talabani in late August, angering Washington. Talabani and Iran deny KDP charges that Tehran is giving the PUK military aid.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131942" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Japan Nov/Jan temperatures seen average, Dec lower.</title>
+<headline>Japan Nov/Jan temperatures seen average, Dec lower.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Temperatures throughout Japan are forecast to be average during November and January but lower than average in December, the Meteorological Agency said on Monday in its three-month forecast.</p>
+<p>In November, rainfall is expected to be average throughout Japan, excluding western Japan where precipitation is likely to be lower than average, the agency said.</p>
+<p>Areas facing the Pacific in December are forecast to see many sunny days as is usual for the period, while many cloudy, rainy or snowy days are expected in areas facing the Sea of Japan, it said.</p>
+<p>Temperatures are expected to be lower than average throughout Japan in December, the agency said.</p>
+<p>Snowfall in coastal areas along the Sea of Japan is forecast to be average during the three months, it said.</p>
+<p>January will see average rainfall throughout Japan. Areas facing the Pacific are likely to enjoy plenty of sunshine while areas facing the Sea of Japan are expected to see many cloudy, snowy or rainy days, the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

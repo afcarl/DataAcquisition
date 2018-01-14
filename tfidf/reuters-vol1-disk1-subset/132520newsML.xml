@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132520" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Morgan Group Inc Q3 net off.</title>
+<headline>Morgan Group Inc Q3 net off.</headline>
+<dateline>ELKHART, Ind. 1996-10-22</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>				    Sept. 30	     Sept. 30</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p>Total operating</p>
+<p>   revenues	     35,305     33,251    102,509     91,608</p>
+<p>Total operating</p>
+<p>     expenses	   34,164     31,802     99,996     87,606</p>
+<p> EBITDA		    1,141	1,449	2,513	4,002</p>
+<p> Operating income	  788	1,103	1,418	3,082</p>
+<p> Income before taxes     680	1,053	1,138	3,051</p>
+<p> Income taxes		185	  239	  217	1,010</p>
+<p> Net income		  495	  814	  921	2,041</p>
+<p>Net income applicable</p>
+<p>   to Common Stock	 495	  753	  921	1,858</p>
+<p>Net income per share:</p>
+<p>   Primary		  0.18	 0.29	 0.34	 0.71</p>
+<p>   Fully diluted	  0.18	 0.29	 0.34	 0.71</p>
+<p> Average shares    2,692,489  2,575,771  2,682,837  2,620,819</p>
+<p>		 (In thousands, except per share amounts)</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ELKHART, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

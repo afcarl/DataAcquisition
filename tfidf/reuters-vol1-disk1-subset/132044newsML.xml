@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132044" id="root" date="1996-10-21" xml:lang="en">
+<title>SOUTH KOREA: Ssangyong in Philippines car export deal.</title>
+<headline>Ssangyong in Philippines car export deal.</headline>
+<dateline>SEOUL 1996-10-21</dateline>
+<text>
+<p>South Korea's Ssangyong Motor Co, a unit of Ssangyong Group, said on Monday it had agreed to supply complete knockdown (CKD) kit vehicles to Commercial Motors Co of the Philippines.</p>
+<p>Ssangyong said in a statement it would deliver kit parts for 650 four-wheel drive &quot;Mussos&quot; in 1997. The number is expected to increase to 2,400 units in 1998 and more than 5,000 units annually from the year 2000, it added.</p>
+<p>Commercial Motors plans to assemble the kits and sell the cars in the Philippines, it said. The value of the deal was not immediately available.</p>
+<p>--Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

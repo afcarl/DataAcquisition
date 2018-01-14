@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135333" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Copper trader Hamanaka arrested on forgery charge.</title>
+<headline>Copper trader Hamanaka arrested on forgery charge.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Tokyo prosecutors said on Tuesday they had arrested former Sumitomo Corp chief copper trader Yasuo Hamanaka on charges of falsifying documents.  </p>
+<p>Deputy chief district prosecutor Tatsuo Kainaka told a news briefing that his office had arrested Hamanaka on two counts of forging documents which the suspect used in trading non-ferrous metals.</p>
+<p>Kainaka also confirmed that he had received a formal legal complaint filed by trading house Sumitomo Corp against Hamanaka. The Tokyo District Public Prosecutors' Office had been investigating Hamanaka for his role in Sumitomo's estimated $2.6 billion copper trading loss.</p>
+<p>Sumitomo announced last month that it was making preparations for legal action against Hamanaka, who it has accused of unauthorised trading leading to the huge losses. Hamanaka was fired in mid-June.</p>
+<p>A top Sumitomo official was scheduled to give a news conference on the legal action against Hamanaka at 2.30 p.m. (0530 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

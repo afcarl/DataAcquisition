@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132638" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Centerior Q3 hurt by cooler weather.</title>
+<headline>Centerior Q3 hurt by cooler weather.</headline>
+<dateline>INDENPENDENCE, Ohio 1996-10-22</dateline>
+<text>
+<p>Centerior Energy Corp said Tuesday cooler weather in the third quarter of 1996 lowered revenues by $38 million, or $0.17 a share.</p>
+<p>Weather-normalized retail kilowatt-hour sales for the quarter increased 1.4 percent, which produced revenues of $0.02 a share.</p>
+<p>Earnings for the quarter ended September 30 were $73.5 million, or $0.50 a share, compared to $108.9 million, or $0.74 a share, in the same period a year ago.  Revenues were $727.1 million this quarter, compared to $739.6 million in the third quarter of last year.  </p>
+<p>&quot;This summer was not nearly as hot as last summer,&quot; said Robert Farling, Centerior's chairman, president and chief executive officer.  &quot;But when you remove the variation due to weather, our sales showed improvement.&quot;</p>
+<p>The end of regulatory accounting measures in late 1995 combined with additional revenue from the April 1996 rate increase also reduced net earnings by $0.10 a share in the third quarter.</p>
+<p>Third-quarter results were also hurt by a charge against earnings for the planned sale or disposal of excess inventory due to efforts to streamline the company's supply chain organization.</p>
+<p>The charge resulted in a pre-tax earnings reduction of $14 million, or $0.06 a share, when comparing the 1996 period with the 1995 period.</p>
+<p>In September, Centerior agreed to merge with Ohio Edison Co to form a new holding company named FirstEnergy Corp. The companies hope to complete the merger by the end of 1997.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDENPENDENCE, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

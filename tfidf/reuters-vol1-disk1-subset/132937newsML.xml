@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132937" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: JD Sports shares rise on market debut.</title>
+<headline>JD Sports shares rise on market debut.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Shares in John David Sports Plc JD.L, a sportswear retailer, showed a premium of 22-1/2p on their debut on the London Stock Exchange on Tuesday.</p>
+<p>The shares traded at 307-1/2p by 1140 GMT, after being placed at 285p by sponsor and financial adviser BZW in an issue valuing the company at 132.6 million stg.</p>
+<p>&quot;We are delighted that, after fifteen years of trading, the company has reached this exciting point in its history,&quot; said executive chairman John Wardle.</p>
+<p>The float raised 8.9 million stg for the company, which plans to expand its chain of 61 stores by 25 in the coming year.</p>
+<p>-- John Sutherland, London Newsroom +44 1717 542 7945</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

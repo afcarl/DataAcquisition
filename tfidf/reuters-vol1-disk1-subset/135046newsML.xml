@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135046" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: C&amp;W, Nynex, Bell Canada merge UK units.</title>
+<headline>C&amp;W, Nynex, Bell Canada merge UK units.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Cable &amp; Wireless, NYNEX and Bell Canada International said on Tuesday they had reached agreement to merge their British subsidiaries and affiliates into one company providing integrated telecommunications, information and entertainment services.</p>
+<p>The deal merges Mercury Communications, NYNEX CableComms Group Plc and NYNEX CableComms Group Inc, Bell Cablemedia Plc and Videotron Holdings Plc. The new company will be called Cable &amp; Wireless Communications, the groups said in a statement.  </p>
+<p>Earlier Bell Cablemedia said it planned to buy the rest of Videotron. It already owns 26 percent of the company.</p>
+<p>Cable &amp; Wireless Communications would provide &quot;local, national, international, data and mobile telecommunications, together with multichannel television and Internet services&quot; to around six million franchised homes and to businesses throughout Britain, the groups said.</p>
+<p>Richard Brown, chief executive of Cable &amp; Wireless, said the new company would be the only company in Britain able to offer multiple services that until now people had to get from different providers.</p>
+<p>The companies said the new company would increase its revenues by providing a wider range of services to existing customers and increased access to a broader customer base. It would also produce &quot;significant cost savings&quot; by eliminating duplication, enhancing purchasing power and increasing capital expenditure efficiencies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

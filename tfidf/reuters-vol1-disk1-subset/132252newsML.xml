@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132252" id="root" date="1996-10-21" xml:lang="en">
+<title>GERMANY: Buba says 6-mo private sector lending up 6.3 pct.</title>
+<headline>Buba says 6-mo private sector lending up 6.3 pct.</headline>
+<dateline>FRANKFURT 1996-10-21</dateline>
+<text>
+<p>The Bundesbank on Monday said that lending to the private sector in the six months to September grew at an annualised rate of 6.3 percent, marking a slowdown from the six-month rate to August of 7.1 percent.</p>
+<p>The Bundesbank also said that monetary capital formation in the six months to September grew at an annualised rate of 5.5 percent compared with a 4.6 percent rate in the six months to August.</p>
+<p>Buoyant private sector lending and soft capital formation had helped fuel M3 growth in recent months.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

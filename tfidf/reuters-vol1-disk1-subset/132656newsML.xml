@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132656" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Centerior Energy Corp Q3 net drops.</title>
+<headline>Centerior Energy Corp Q3 net drops.</headline>
+<dateline>INDEPENDENCE, Ohio 1996-10-22</dateline>
+<text>
+<p>(Thousands except per share amounts)</p>
+<p>						  Quarter ending Sept. 30</p>
+<p>							  1996	   1995</p>
+<p> Revenues					 $727,119     $739,579</p>
+<p> Net Income					 73,491	108,912</p>
+<p> Average Shares				  148,026	148,032</p>
+<p> Per Share Earnings(A)			    0.50	   0.74</p>
+<p>NOTE: (A) -- The end of regulatory accounting measures in late 1995 and additional revenue from the April 1996 rate increase resulted in a net earnings reduction of $0.10 a per share in the third quarter 1996.</p>
+<p>						12 months ending Sept. 30</p>
+<p>							 1996	   1995</p>
+<p> Revenues				    $2,522,757    $2,504,156</p>
+<p> Net Income				     128,404	 225,932</p>
+<p> Average Shares				 148,028	 148,032</p>
+<p> Per Share Earnings(B)			   0.87	    1.53</p>
+<p>(B) -- The end of regulatory accounting measures and additional revenue from the April 1996 rate increase produced a net earnings reduction of $0.55 a share for the 12-month period ended Sept. 30.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDEPENDENCE, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

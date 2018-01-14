@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32826" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Siderar Q4 net 25.9 mln pesos vs 8.6 mln.</title>
+<headline>Siderar Q4 net 25.9 mln pesos vs 8.6 mln.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			   0.07		     0.03</p>
+<p> Per ADS		     0.60		     0.20</p>
+<p> Net			   25.9			8.6</p>
+<p> Revs			 255.5		    226.5</p>
+<p>	   YEAR</p>
+<p> Shr			   0.18		     0.18</p>
+<p> Per ADS		     1.40		     1.42</p>
+<p> Net			   61.0		     60.6</p>
+<p> Revs			 938.7		    873.8</p>
+<p>(In millions of Argentine pesos, except per share figures)</p>
+<p>NOTE: Full company name is Siderar SAIC. The company produces steel.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

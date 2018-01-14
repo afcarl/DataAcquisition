@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135545" id="root" date="1996-10-22" xml:lang="en">
+<title>BELGIUM: Belgolux trade deficit grows in July.</title>
+<headline>Belgolux trade deficit grows in July.</headline>
+<dateline>BRUSSELS 1996-10-22</dateline>
+<text>
+<p>The National Statistics Institute released the following provisional data on trade in the Belgo-Luxembourg Economic Union (in billions of francs) -</p>
+<p>    BELGOLUX TRADE		    July	June	July 1995</p>
+<p>    Balance				54.2	23.9	48.2</p>
+<p>					Jan-July 1996	 Jan July 95</p>
+<p>    Exports (cumulative)	 2,969.9		 2,961.3</p>
+<p>    Imports (cumulative)	 2,754.1		 2,681.4</p>
+<p>    Balance			    215.8		   279.8</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

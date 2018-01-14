@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135115" id="root" date="1996-10-22" xml:lang="en">
+<title>NEW ZEALAND: BNZ cuts fixed housing, business and farm rates.</title>
+<headline>BNZ cuts fixed housing, business and farm rates.</headline>
+<dateline>WELLINGTON 1996-10-22</dateline>
+<text>
+<p>Bank of New Zealand Ltd said on Tuesday it was cutting its fixed lending rates for housing, business and farm loans.</p>
+<p>The bank cut its one-year fixed home loan rate to 10.25 percent from 10.5 percent, the two-year rate to 9.75 from 9.90 and the three-year rate to 9.25 percent from 9.90 percent.  </p>
+<p>The one-year business and farm fixed lending rate was cut to 10.25 percent from 10.75, the two-year to 9.95 from 10.25 percent and the three, four and five-year rates to 9.75 percent from 10.25 percent.</p>
+<p>The bank said this followed the fall in long-term wholesale interest rates after last week's general election and lower-than-expected September quarter inflation figures.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

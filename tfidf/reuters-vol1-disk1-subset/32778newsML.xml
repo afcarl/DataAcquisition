@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32778" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Ferrofluidics Q4 June 30 net rises.</title>
+<headline>Ferrofluidics Q4 June 30 net rises.</headline>
+<dateline>NASHUA, N.H. 1996-09-04</dateline>
+<text>
+<p>Three Months Ended    Twelve Months Ended</p>
+<p>			   June 30,		   June 30,</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p>Net sales and</p>
+<p>  revenues    $19,297,000 $10,178,000 $72,967,000 $34,155,000</p>
+<p>Nonrecurring operating</p>
+<p>  income		   --	    --	    --   1,156,000</p>
+<p> Net income	 802,000     391,000   3,820,000     889,000</p>
+<p>Earnings per share data:</p>
+<p> Net income	    0.13	  0.07	  0.61	  0.16</p>
+<p>Weighted average shares</p>
+<p>  outstanding   6,388,577   5,970,935   6,313,045   5,563,160</p>
+<p>NOTE: The full name of the company is Ferrofluidics Corp.</p>
+<p>CONDENSED BALANCE SHEETS (Unaudited)</p>
+<p>						    Jun 30,	 Jun 30,</p>
+<p>							1996	    1995</p>
+<p> Current assets			   $30,875,000   $26,126,000</p>
+<p> Total assets				43,639,000    39,529,000</p>
+<p> Current liabilities		     18,735,000    18,315,000</p>
+<p> Total stockholders' equity	    19,702,000    15,781,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHUA, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

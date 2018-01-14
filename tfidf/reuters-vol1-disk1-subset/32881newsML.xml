@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32881" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Progenitor says names Mark Bagnall CFO.</title>
+<headline>Progenitor says names Mark Bagnall CFO.</headline>
+<dateline>COLUMBUS, Ohio 1996-08-04</dateline>
+<text>
+<p>Progenitor Inc, a majority-owned subsidiary of Interneuron Pharmaceuticals Inc, said on Wednesday it has named Mark Bagnall chief financial officer and vice president.  </p>
+<p>Bagnall was most recently vice president-finance and chief financial officer at Somatix Therapy Corp, the company said.</p>
+<p>A spokesman for Progenitor said Bagnall is the subsidiary's first full-time CFO, hired in preparation for Progenitor's life as a publicly-traded company.</p>
+<p>He said that Progenitor would go ahead with its planned initial public offering of 2.5 million shares &quot;as soon as the conditions are receptive.&quot;</p>
+<p>Late last week, Progenitor had said it was postponing its IPO, filed in June, because of adverse market conditions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

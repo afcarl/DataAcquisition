@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132154" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Ferrotec down after high initial price.</title>
+<headline>Ferrotec down after high initial price.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Shares in Ferrotec Corp were down sharply in over-the-counter (OTC) trading on Monday morning, as its high first-traded price invited profit-taking, traders said.</p>
+<p>As of 0132 GMT, the share price was down 200 yen at 2,450 yen, making the issue the largest percentage loser in the OTC market. Volume was 246,000 shares, the heaviest volume in the OTC. Brokers said the first traded price on Friday of 2,650 yen was far higher than its public offer price of 1,980 yen.</p>
+<p>Ferrotec specialises in magnetic products related to semiconductors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

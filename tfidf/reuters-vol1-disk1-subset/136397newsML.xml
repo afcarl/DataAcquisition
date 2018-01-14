@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136397" id="root" date="1996-10-23" xml:lang="en">
+<title>SUDAN: Sudan floods kill at least 100 people.</title>
+<headline>Sudan floods kill at least 100 people.</headline>
+<dateline>KHARTOUM 1996-10-23</dateline>
+<text>
+<p>More than 100 people have been killed and thousands made homeless by Nile floods and heavy rain in southern Sudan, a Khartoum newspaper said on Wednesday.</p>
+<p>The privately-owned Alwan daily said 52 people had died in Lakes state and another 50 in Tonga province in Upper Nile state.</p>
+<p>It quoted John Dor, a state minister in the Ministry of Federal Rule Chamber, as saying that heavy rain and floods had displaced 8,000 people in Wau, the capital of Western Bahr al-Ghazal state.</p>
+<p>Dor is the chairman of the committee charged with overseeing support for flood victims.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KHARTOUM"/>
+<dc element="dc.creator.location.country.name" value="SUDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

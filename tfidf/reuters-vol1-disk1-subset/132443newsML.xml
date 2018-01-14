@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132443" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Universal sees '96 EPS at $0.10 to $0.12.</title>
+<headline>Universal sees '96 EPS at $0.10 to $0.12.</headline>
+<dateline>TWINSBURG, Ohio 1996-10-22</dateline>
+<text>
+<p>Universal Electronics Inc said on Tuesday it expected to post 1996 earnings per share of between $0.10 and $0.12.</p>
+<p>The company said in a statement that net sales in the third quarter dropped to $25.6 million from $30.7 million for the same period a year earlier.</p>
+<p>Third-quarter net income fell to $112,000, or $0.02 per share, from $1.38 million, or $0.20.</p>
+<p>&quot;We now expect earnings to be between $0.10 to $0.12 per share for fiscal 1996,&quot; said David Gabrielsen, the chairman, chief executive and president.</p>
+<p>The company reported earnings of $0.05 a share last year.</p>
+<p>&quot;We are, however, continuing the turnaround at Universal Electronics by improving our cash flow and taking the actions necessary, particularly in our European retail and technology groups, for a strong earnings improvement in 1997.&quot;</p>
+<p>-- New York newsdesk, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TWINSBURG, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

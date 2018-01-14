@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32409" id="root" date="1996-09-04" xml:lang="en">
+<title>MALTA: Business up slightly on Malta stock exchange.</title>
+<headline>Business up slightly on Malta stock exchange.</headline>
+<dateline>VALLETTA 1996-09-04</dateline>
+<text>
+<p>Business was up slightly at the Malta Stock Exchange in its once-weekly trading session on Wednesday, with turnover reaching just over Lm178,000 ($498,400) from last week's Lm127,300 ($356,440).</p>
+<p>The share index was up 1.008 points to 997.144, thanks to a high volume of trading in Mid-Med Bank shares, whose average price was up one cent. There were 66 deals, of which 31 were in equities and 35 in fixed income securities.</p>
+<p>Business in equities amounted to Lm82,500 ($231,000) with 59,973 shares being transacted. Of these, 25,270 were Bank of Valletta shares which were sold in 16 deals for an average of 127.7 cents, up 7 mils.</p>
+<p>There were 13 deals in Mid-Med Bank, with 33,028 shares selling for an average price of 146 cents, up one cent.</p>
+<p>There were two deals in Middle Sea Insurance with 1,675 shares selling for 120 cents each, down one cent. There were no deals in Farsons shares.</p>
+<p>In the government bond market, 14 issues were dealt in, turnover reaching Lm87,200 ($244,160). Business was mainly in the 7.25 percent MGS 2006 (II).</p>
+<p>In corporate bonds, there were three deals in the Mid-Med Bank 7.25 percent unsecured loan stock 2005 amounting to Lm8,423.50.</p>
+<p>(Lm1=$2.80)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133727" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Heating oil shortfall widens in the Northeast.</title>
+<headline>Heating oil shortfall widens in the Northeast.</headline>
+<byline>James Pierpoint</byline>
+<dateline>HOUSTON 1996-10-22</dateline>
+<text>
+<p>The shortfall of heating oil supplies in the Northeast widened last week compared with the same week last year, an industry trade group said Tuesday.</p>
+<p>But steps by the oil industry to boost heating oil supplies in the region, the world's largest heating oil market, kept traders from pushing futures prices higher.</p>
+<p>&quot;It's taken a little bit of the bullish edge off the market,&quot; ING Futures and Options Inc. analyst Tom Bentz said of added pipeline capacity into the New York area and refiners' pledges to increase output ahead of the winter heating season.</p>
+<p>Stocks of distillates, which include heating oil, in the East Coast market ended last week at 40.7 million barrels, down 18.84 million barrels, or nearly one-third, from the same week last year, the American Petroleum Institute (API) said.</p>
+<p>The Washington-based oil industry trade group in its weekly survey pegged distillate inventories nationwide at 114.30 million barrels, or 16.27 million barrels shy of inventories in storage during the same week last year.</p>
+<p>Refiners have come under increasing pressure to narrow that gap, but said lower inventories reflected moves to trim carrying costs and should not lead to shortages this winter.</p>
+<p>Even if there are no shortages, consumers are likely to face higher prices this winter than last.</p>
+<p>The U.S. Energy Information Administration is predicting average heating oil prices this winter will be 9 cents a gallon higher than last winter, although the current retail price of $1.11 is 20 cents higher than a year ago.</p>
+<p>To ease the shortage, refiners Tosco Corp. and Citgo Petroleum Corp. have pledged to boost heating oil output.</p>
+<p>Colonial Pipeline Co. said it planned to make room on its 1.2 million barrel-per-day gasoline line to accommodate requests to ship distillates, especially heating oil, into the New York area.</p>
+<p>Requests to ship more distillates on Colonial's pipeline system increased following a meeting between Energy Department officials and oil company executives to discuss the heating oil outlook for the coming winter heating season.</p>
+<p>The pipeline system extends from Houston to Linden, N.J., on the edge of New York Harbour and includes a 960,000 barrel per day distillate line.</p>
+<p>Nationwide, refineries were operating at a blistering 93.1 percent of capacity, up 0.4 percentage points from the prior week, the API said.</p>
+<p>Gasoline inventories nationwide fell 5.96 million barrels in the week ended Oct. 18, due in large part to a 5.24 million barrel draw in stocks in the Midwest region.</p>
+<p>Crude oil stocks nationwide stood at 304.88 million barrels, rising a net 5.66 million barrels compared to revised estimates from the previous week.</p>
+<p>November heating oil futures were slightly lower in after-hours trade after closing the floor session off 0.18 cent at 73.45 cents a gallon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

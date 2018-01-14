@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32296" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Plains feedlot cattle market quiet - feedlots.</title>
+<headline>Plains feedlot cattle market quiet - feedlots.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>U.S. Plains direct cattle markets late Wednesday morning remained at a standstill, with no trades reported, feedlot sources said.</p>
+<p>Packer bids ranged from $68.00 to mostly $69.00 per cwt, but were passed, with cattle feeders asking $71.00 to $72.00.</p>
+<p>Owners remain optimistic that cattle will trade later Wednesday or on Thursday at $70.00, up $1.00 from last week's top price, the sources said.</p>
+<p>Prices were expected to be buoyed by light supplies of market-ready cattle and strong demand for beef by retailers to refill coolers following the Labor Day holiday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

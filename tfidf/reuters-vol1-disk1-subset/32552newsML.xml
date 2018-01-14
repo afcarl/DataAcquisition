@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32552" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Potash cut to mkt perform.</title>
+<headline>RESEARCH ALERT - Potash cut to mkt perform.</headline>
+<text>
+<p>-- J.P. Morgan said analyst Donald Carson downgraded Potash Corp of Saskatchewan Inc to market performer from long-term buy.</p>
+<p>-- Cited company's proposed acquisition of Arcadian Corp. In a research note, Carson said the acquisition &quot;offers little synergy and appears to be driven by size considerations.&quot;</p>
+<p>-- Said acquisition should be significantly accretive to earnings and cash flow but expects multiple contraction to almost entirely offset accretion from deal. Raised 1997 earnings estimate to $6.70 per share from $5.75.  </p>
+<p>-- However, cut FY 96 earnings estimate to $4.65 per share from $4.85 due to lower estimate of offshore potash volumes and increase in estimate of lower-pricd domestic sales.</p>
+<p>-- Trimmed target price to $78 per share from $80.</p>
+<p>-- Shares fell 1/8 to 73-5/8.</p>
+<p>-- Wall Street desk, 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

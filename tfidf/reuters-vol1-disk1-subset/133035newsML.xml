@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133035" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Saskatchewan harvest 89 pct done vs 97 pct average.</title>
+<headline>Saskatchewan harvest 89 pct done vs 97 pct average.</headline>
+<dateline>WINNIPEG 1996-10-22</dateline>
+<text>
+<p>Saskatchewan's harvest was 89 percent complete from 78 percent the previous week due to good weather conditions, but behind the five year average for this date of 97 percent complete, Saskatchewan Agriculture said in its crop report for the week ended October 21.</p>
+<p>Of the 87 percent of the spring wheat harvested, 51 percent was expected to grade No1 Canada Western Red Spring, 23 percent as No2 CWRS, 21 percent as No3 CWRS and five percent as feed wheat.</p>
+<p>Many farmers combined their grain tough or damp in an effort to get it off the fields before winter begins.</p>
+<p>Southern Saskatchewan saw an average of three mm of rain. Frost damage was reported in most districts. Quality continued to drop and the remaining crop was expected to rate in the bottom three grades.</p>
+<p>Central Saskatchewan saw an average of six mm of rain. Quality continued to drop and the remaining crop was expected to rate in the bottom three grades.</p>
+<p>Northern Saskatchewan saw an average nine mm of rain. Quality continued to drop and the remaining crop was expected to rate in the bottom three grades.</p>
+<p>(Winnipeg bureau 204 947 3548)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

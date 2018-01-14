@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31938" id="root" date="1996-09-04" xml:lang="en">
+<title>THAILAND: Thai central bank injects 7 bln baht into system.</title>
+<headline>Thai central bank injects 7 bln baht into system.</headline>
+<dateline>BANGKOK 1996-09-04</dateline>
+<text>
+<p>Bank of Thailand governor Rerngchai Marakanond said on Wednesday the bank had injected seven billion baht into the system today to ease tight liquidity.</p>
+<p>The BOT had injected funds amounting to 15 billion baht on Tuesday, Rerngchai told reporters.</p>
+<p>Tight money supply over the past few days stemmed from the bimonthly corporate tax payment and commercial banks' holding back funds for the coming BOT reserve requirement, he said.</p>
+<p>Commercial banks sold $30 million to the BOT on Wednesday compared to sales of $70 million on Tuesday, the governor said.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

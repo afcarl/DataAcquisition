@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13172" id="root" date="1996-08-25" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian commodity prices said on way up.</title>
+<headline>RTRS-Australian commodity prices said on way up.</headline>
+<dateline>SYDNEY 1996-08-26</dateline>
+<text>
+<p>Australian commodity prices may be on the way up, according to the International Commodity Price Review, released by the National Farmers' Federation and Dresdner Australia International Ltd.</p>
+<p>NFF's director of economic policy Todd Ritchie said commodity prices had fallen since August, but prices for beef, wool and metal may have bottomed during the month after being weak in the first half of 1996.  </p>
+<p>&quot;The most recent United States Department of Agriculture report also provides renewed optimism for the wheat and coarse grains industry, with downward revisions for both the U.S. wheat and corn crops,&quot; he said.</p>
+<p>Overall, the commodity index in special drawing rights (SDR) terms fell by 1.6 percent in August, although the weaker A$ saw the index rise slightly, by 0.4 percent, in A$ terms, he said.</p>
+<p>Rural prices measured in SDR terms fell by 2.8 percent in August, but were still 5.2 percent above the level of a year ago, he said.  </p>
+<p>Dresdner chief economist Rob Henderson said that non-rural SDR prices fell 1.1 percent in August and were now only 1.2 percent higher than a year ago.</p>
+<p>&quot;However, it would seem that metal prices may be starting to gain some strength after the uncertainty associated with Sumitomo Corp's future trading loss in June,&quot; he said.</p>
+<p>The financial markets had reacted positively to the Australian budget last Tuesday, resulting in the A$ strengthening over the last few days of the past week, he said.  </p>
+<p>Further official interest rate reductions could have a downward impact on the A$, particularly with the prospect of higher U.S. interest rates, he said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

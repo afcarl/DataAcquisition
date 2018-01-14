@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32281" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: USAir has no comment on BA settlement report.</title>
+<headline>USAir has no comment on BA settlement report.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>USAir declined to comment on a report in the Financial Times that it is ready to settle legal action against British Airways Plc out of court.</p>
+<p>According to the newspaper, USAir is willing to settle if British Air is prepared to discuss a future relationship with the company and help it set up its own service to London's Heathrow Airport.  </p>
+<p>In July, USAir said that it filed a suit in federal district court in New York against British Airways and AMR Corp's American Airlines, alleging that the proposed alliance between the two would undermine competition in the U.S. and British markets.</p>
+<p>Separately, British Airways said that it has not heard from USAir or had any direct contact with it regarding the deal reported in the newspaper. British Air holds a stake of nearly 25 percent in USAir and cooperates with it on transatlantic flights.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

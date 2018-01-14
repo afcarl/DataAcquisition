@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132342" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Capstone Capital Corp Q3 shr $0.42 vs $0.38.</title>
+<headline>Capstone Capital Corp Q3 shr $0.42 vs $0.38.</headline>
+<text>
+<p>BIRMINGHAM, Ala.- Oct 22 (Reuter -</p>
+<p>			 Capstone Capital Corporation</p>
+<p>			     Financial Highlights</p>
+<p>		  (in thousands, except per share data)</p>
+<p>				   (Unaudited)</p>
+<p>		     Three Months Ended	Nine Months Ended</p>
+<p>		   9/30/95    9/30/96	 9/30/95    9/30/96</p>
+<p>Total revenues   9,679	6,772	  26,000     17,551</p>
+<p>Total expenses   4,959	4,469	  12,542     10,644</p>
+<p>Net income	 4,720	2,303	  13,458	6,907</p>
+<p>Per share amounts (primary):</p>
+<p>  Net income	$0.44     $0.38	    $1.28     $1.15</p>
+<p>Per share amounts (diluted):</p>
+<p>  Net income	 $0.42    $0.38	    $1.27     $1.15</p>
+<p>Weighted Average Shares Outstanding:</p>
+<p>  Primary	   10,852     6,017	   10,529    5,997</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

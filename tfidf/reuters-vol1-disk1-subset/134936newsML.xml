@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134936" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRIA: Austria sells 15 bln ATS in new 9.7-year bond.</title>
+<headline>Austria sells 15 bln ATS in new 9.7-year bond.</headline>
+<dateline>VIENNA 1996-10-22</dateline>
+<text>
+<p>The following issue was announced on Tuesday by Austrian Kontrollbank (OKB), the Austrian government's financing agent.</p>
+<p>ISSUER: Reublic of Austria</p>
+<p>MATURITY: July, 2006</p>
+<p>COUPON: 5.875 pct</p>
+<p>AVERAGE YIELD ACCEPTED: 5.85878 pct</p>
+<p>MAXIMUM YIELD ACCEPTED: 6.07 pct</p>
+<p>BID AMOUNT/COVER: 59.35439 pct</p>
+<p>-- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

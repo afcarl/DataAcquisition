@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32965" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Omnicare buys Revco's long-term care pharmacy business.</title>
+<headline>Omnicare buys Revco's long-term care pharmacy business.</headline>
+<dateline>CINCINNATI, Ohio</dateline>
+<text>
+<p>Omnicare, Inc. said Wednesday it acquired the long-term care pharmacy business of Revco D.S., Inc., the nation's second-largest retail drug chain.</p>
+<p>Financial terms were not disclosed.</p>
+<p>Cincinnati-based Omnicare is a major independent provider of pharmacy services to long-term care institutions such as nursing homes, retirement centres and other institutional health care facilities.</p>
+<p>Revco, with almost 2,200 stores in 14 Midwestern, Southeastern and Eastern states, said the sale will allow it to focus on the retail pharmacy business. Its pharmacists filled over 112 million prescriptions last year to about 5,000 residents in long-term care facilities.</p>
+<p>Twinsburg, Ohio-based Revco's stock was unchanged at $25.625, while Omnicare rose 25 cents to $24.75 on the New York Stock Exchange in late morning trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

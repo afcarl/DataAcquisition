@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13330" id="root" date="1996-08-25" xml:lang="en">
+<title>FRANCE: Chirac says France to keep strict immigrant laws.</title>
+<headline>Chirac says France to keep strict immigrant laws.</headline>
+<dateline>BREGANCON, France 1996-08-25</dateline>
+<text>
+<p>French President Jacques Chirac, breaking his silence about a controversial police roundup of Africans in a Paris church, said on Sunday that France would stick to strict immigration policies.</p>
+<p>Chirac, speaking after weekend talks with Prime Minister Alain Juppe in a Riviera retreat, said however that the implementation of 1993 immigration laws should be adapted.  </p>
+<p>Chirac told reporters he wanted both &quot;great firmness on immigration and a strong commitment to the development of the poorest countries&quot;.</p>
+<p>Police with batons and tear gas seized 210 Africans in a Paris church on Friday, including 10 who were on the 50th day of a hunger strike against expulsion orders.</p>
+<p>Four of the Africans were expelled on a plane to Mali, Senegal and Zaire on Saturday night.</p>
+<p>Almost all the others, including the hunger strikers, have been freed from custody but are still under threat of expulsion from France.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BREGANCON, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

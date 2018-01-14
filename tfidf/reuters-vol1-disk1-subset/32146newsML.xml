@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32146" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Fire lines shorten as U.S. wildfires dwindle.</title>
+<headline>Fire lines shorten as U.S. wildfires dwindle.</headline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>Thousands of firefighters were being sent home from the fire lines as the number of wildfires raging in the Western United States dwindled on Wednesday, fire officials said.</p>
+<p>Fifteen major fires were burning on 265,000 acres (107,000 hectares) in California, Colorado, Idaho, Oregon, Utah and Wyoming, down from 19 on Tuesday and a peak of 52 last week, the National Interagency Fire Centre in Boise, Idaho,  which coordinates firefighting efforts, said.</p>
+<p>Just one new fire broke out in the last 24 hours, a 120-acre (49-hectare) blaze in Colorado that was expected to be fully contained by the end of Wednesday. Six other fires were expected to be fully contained within the next two days.</p>
+<p>The biggest fires were in Oregon, where a 68,925-acre (28,000-hectare) blaze in the Hells Canyon National Recreation Area was three-quarters contained, the 50,200-acre (20,300-hectare) Tower fire was 70 percent contained and the 37,000-acre (15,000-hectare) Summit fire was 80 percent contained.</p>
+<p>Cooler weather and rain in the Northwest have helped firefighters make good progress against blazes that had swept through bone-dry grass, brush and trees, making this the worst fire season in 30 years, fire officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

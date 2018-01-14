@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32713" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Genetics Institute files Factor IX.</title>
+<headline>Genetics Institute files Factor IX.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Genetics Institute Inc said on Wednesday it had filed for marketing approval for its recombinant Factor IX, used to treat hemophilia B, in the U.S., Canada and Europe.</p>
+<p>The company said it filed a Biological License Application with the U.S. Food and Drug Administration, a New Drug Submission with the Canadian Health Protection Branch and a Marketing Authorization Application with the European Medicines Evaluation Agency. Genetics Institute's chief operating officer Patrick Gage said the filings were the company's first for a proprietary product.  </p>
+<p>Hemophilia B is caused by a deficiency or defect in Factor IX, one of a number of proteins involved in blood clotting.</p>
+<p>Recombinant Factor IX offers the potential to eliminate the risk of blood-borne viral transmission associated with Factor IX therapies made from human plasma, Genetics Institute said.</p>
+<p>Current blood-derived Factor IX clotting therapies make up an worldwide market of about $150 million.</p>
+<p>--New York Newsdesk, 212-859-1733</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

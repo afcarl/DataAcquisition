@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32911" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Merger of DBSIndustries unit, EchoStar OK'd.</title>
+<headline>Merger of DBSIndustries unit, EchoStar OK'd.</headline>
+<dateline>MILL VALLEY, Calif. 1996-09-04</dateline>
+<text>
+<p>DBSIndustries Inc said on Wednesday the Federal Communications Commission had approved the merger between EchoStar Communications Corp and Direct Broadcasting Satellite Corp (DBSC) which is 24.8 percent owned by DBSI.</p>
+<p>In exchange for its ownership in DBSC, DBSIndustries will receive 270,414 Class A Common Shares of EchoStar stock, or about 0.6 percent of EchoStar's outstanding Class A Common Stock. The EchoStar stock closed on the Nasdaq exchange at $24 per share on Tuesday.</p>
+<p>The merger is intended to strengthen EchoStar's competitive position within the direct-to-home satellite market and enhance their development of future direct broadcast satellite (DBS) services.</p>
+<p>Both EchoStar and DBSC, a wholly owned subsidiary of EchoStar as a result of the merger, each hold one of the nine DBS permits issued by the FCC.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILL VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

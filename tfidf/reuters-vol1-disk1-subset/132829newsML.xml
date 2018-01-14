@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132829" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: SOCCER-BLACKBURN EXPRESS INTEREST IN BEBETO.</title>
+<headline>SOCCER-BLACKBURN EXPRESS INTEREST IN BEBETO.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Blackburn Rovers, currently lying bottom of the English premier league and without a win this season, have expressed an interest in buying Brazilian striker Bebeto.</p>
+<p>Blackburn, looking for a replacement for England striker Alan Shearer who was sold to Newcastle United for a world record 15 million sterling ($24 million), said the 32-year-old South American wanted to move to England from Brazilian club Flamengo.</p>
+<p>British newspapers on Tuesday quoted Blackburn manager Ray Harford as saying: &quot;There is no questioning the fact that he is a sensational player, one of the best players in the world.</p>
+<p>&quot;It seems he is very keen to come to England. He has seen the likes of Juninho do well over here and believes it offers a new challenge.&quot;</p>
+<p>Newspaper reports said Harford had been contacted by Bebeto's agent and that the player was expected to cost around five million sterling ($8 million) in fees and wages. He moved to Flamengo from Spanish side Deportivo Coruna at the end of last season.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

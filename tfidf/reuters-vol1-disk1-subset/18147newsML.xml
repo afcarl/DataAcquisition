@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18147" id="root" date="1996-08-28" xml:lang="en">
+<title>JAPAN: Tokyo stocks soften in early morning trade.</title>
+<headline>Tokyo stocks soften in early morning trade.</headline>
+<dateline>TOKYO 1996-08-28</dateline>
+<text>
+<p>Tokyo stock prices softened slightly in early Wednesday morning trade.</p>
+<p>But brokers said most participants were sitting on the fence, waiting for the annoucement of the Bank of Japan's closely watched quarterly &quot;tankan&quot; survey of corporate sentiment scheduled for 11 a.m. (0200 GMT) today.</p>
+<p>&quot;The Nikkei average is likely to be range-bound, led by its futures, because there are not many factors to prompt buying or selling,&quot; a Mito Securities deputy general manager said.</p>
+<p>At 0015 GMT, the benchmark Nikkei 225 average stood at 20,884.24, down 26.03 points or 0.12 percent. Its September futures were also down, shedding 10 points to 20,940.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

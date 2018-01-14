@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131773" id="root" date="1996-10-21" xml:lang="en">
+<title>FINLAND: FINNISH SOP SETS OCT 21 PULP BENCHMARK AT $565.50.</title>
+<headline>FINNISH SOP SETS OCT 21 PULP BENCHMARK AT $565.50.</headline>
+<dateline>HELSINKI 1996-10-21</dateline>
+<text>
+<p>Suomen Optioporssi (SOP), a Finnish options exchange, on Monday put the value of northern bleached softwood pulp at $565.50 per tonne, down from $568.26 last week. Information for calculation of the benchmark pulp price is supplied by more than 30 companies from 11 different countries, SOP says.</p>
+<p>The benchmark Pulp Indicator Index (PIX) is released by SOP every Monday. In September, the PIX mean was $562.13, the exchange said.</p>
+<p>SOP is calculating the PIX with the intention of starting trading in pulp derivatives.</p>
+<p>It has said trading will start as soon as it has received a sufficient number of clearing accounts, possibly in December.</p>
+<p>--Helsinki Newsroom  +358-0-680 50 235</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

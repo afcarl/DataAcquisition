@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134918" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: Credit National sees div for 96.</title>
+<headline>Credit National sees div for 96.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>Credit National will pay a dividend for the 1996 financial year which should show a profit, bank chairman Emmanuel Rodacanachi told French newspaper L'Agefi.</p>
+<p>&quot;There will be a dividend. I don't know what level it will be at yet,&quot; he said in an interview with the business daily.</p>
+<p>He stressed the bank's policy had &quot;always been not to reflect fully in the dividend variations in the result&quot;.</p>
+<p>He reiterated Credit National should be in profit in 1996 and that the bank was maintaining its goal of achieving an 8.4 percent return on equity in 1998. It was 6.6 percent in 1995.</p>
+<p>In the first half, the banking group reported a first half loss of 112 million francs, hit by a poor banking climate and a 250 million franc provision for restructuring linked to its takeover of trade finance bank Banque Francaise de Commerce Exterieur (BFCE).</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

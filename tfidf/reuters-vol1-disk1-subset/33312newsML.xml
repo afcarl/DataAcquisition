@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33312" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRALIA: RTRS - AWB Report-All steady on price and crop.</title>
+<headline>RTRS - AWB Report-All steady on price and crop.</headline>
+<dateline>SYDNEY 1996-09-04</dateline>
+<text>
+<p>The Australian Wheat Board's (AWB) indicator price remained steady A$169.75 a tonne during the past week, AWB said in its weekly grain market report.</p>
+<p>The AWB said the impact of recent frost in Queensland and northern New South Wales was still being assessed.</p>
+<p>Early indications were that the AWB would trim about 100,000 tonnes from the previously anticipated 1.8 million tonnes wheat production in Queensland but this was a &quot;very early assessment&quot;, it said. The AWB has held its estimate of the 1996/97 crop steady at 17.6 million tonnes in its latest weekly report.  </p>
+<p>The increase in the AWB's estimated pool returns for Australian Hard Wheat and Prime Hard wheat by A$5 a tonne were not reflected in cash market prices last week, the AWB said.</p>
+<p>Milling wheat prices were either steady or slightly down in Queensland and NSW, though they did firm by A$3.00 a tonne in Victoria for higher protein grades, it said.</p>
+<p>The U.S. wheat crop continued to get bigger and the prospect of frost having a significant impact on the Canadian crop was now receding, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

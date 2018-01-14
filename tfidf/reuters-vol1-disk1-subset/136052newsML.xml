@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136052" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Smith Corona names Driscoll pres/CEO.</title>
+<headline>Smith Corona names Driscoll pres/CEO.</headline>
+<dateline>NEW CANAAN, Conn. 1996-10-23</dateline>
+<text>
+<p>Smith Corona Corp said Wednesday W. Michael Driscoll will assume the role of president and chief executive office when it emerges from bankruptcy.</p>
+<p>Smith Corona filed Chapter 11 bankruptcy in July 1995.</p>
+<p>Subject to bankruptcy court approval, Driscoll will serve as a consultant to Smith Corona until the bankruptcy reorganization is completed, the company said.</p>
+<p>Driscoll will replace Ronald Stengel, who joined the word processor and typewriter manufacturer in July 1995 to lead it through its reorganization.</p>
+<p>Driscoll returns to Smith Corona after a brief absence. Driscoll previously served as Smith Corona's senior vice president of operations, but left in 1995 to become chief executive of I.P.C. Technologies Inc, the company said.</p>
+<p>Driscoll's career at Smith Corona spans a 23-year history, which includes positions in finance, manufacturing and engineering, the company said.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW CANAAN, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31929" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: PCI says unaware of reason for unusual trading volume.</title>
+<headline>PCI says unaware of reason for unusual trading volume.</headline>
+<dateline>SINGAPORE 1996-09-04</dateline>
+<text>
+<p>Printed circuitboard maker PCI Ltd said on Wednesday it was not aware of any reason for the unusual trading volume in its shares on Tuesday and Wednesday.</p>
+<p>It said in a statement to the Stock Exchange of Singapore that its two main substantial shareholders, Chuan Hup Holdings Ltd and P T Citra Perdana Abadi had also said they were also not aware of the unusual trading activity.</p>
+<p>A total of 2.1 million PCI shares were crossed off-market at 81 Singapore cents on Wednesday morning, following a similar cross on Tuesday of just over two million shares at 80 cents.</p>
+<p>PCI shares closed up one cent at 86.5 cents on turnover of 3.39 million lots on Wednesday.</p>
+<p>-- Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

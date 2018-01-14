@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134558" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Albemarle Corp Q3 shr down to $0.14.</title>
+<headline>Albemarle Corp Q3 shr down to $0.14.</headline>
+<dateline>RICHMOND, Virginia 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr		 $0.14		    $0.33</p>
+<p> Net		 7,900		    22,200</p>
+<p> Net sales	 183,776		  315,211</p>
+<p> Avg shrs	  56,017		   66,450</p>
+<p>		     9  MONTHS</p>
+<p> Shr		 $2.30		    $0.74</p>
+<p> Net		 138,100		  49,300</p>
+<p> Net sales	 649,986		  948,173</p>
+<p> Avg shrs	  59,988		   66,270</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Full company name is Albemarle Corp.</p>
+<p>1995 Q3 results include $3.1 million after-tax gain from the July 1995 sales of an electronic materials business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Virginia"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

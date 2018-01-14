@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134488" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Olympic Financial Ltd Q3 net rises.</title>
+<headline>Olympic Financial Ltd Q3 net rises.</headline>
+<dateline>MINNEAPOLIS 1996-10-22</dateline>
+<text>
+<p>Three months ended  Nine months ended</p>
+<p>			Sep 30,	Sep 30,    Sep 30,	Sep 30</p>
+<p>			  1996	   1995	 1996	  1995</p>
+<p>Net interest margin</p>
+<p>		     $ 18,079	$ 9,601   $ 45,464    $ 21,769</p>
+<p>Gain on sale of loans</p>
+<p>			 30,113	 17,587     80,794	40,947</p>
+<p>Servicing fee income</p>
+<p>			  7,474	  3,872     19,774	 9,175</p>
+<p>  Total revenues   57,072	 31,465    150,611	72,693</p>
+<p>Operating expenses</p>
+<p>			 23,393	 11,243     63,346	29,283</p>
+<p>Long term debt and other</p>
+<p>interest expense</p>
+<p>			  6,660	  5,205     18,609	11,624</p>
+<p>   Total expenses  30,053	 16,448     81,955	40,907</p>
+<p>  Operating income 27,019	 15,017     68,656	31,786</p>
+<p>Provision for income taxes</p>
+<p>			  9,862	  6,007     25,706	12,698</p>
+<p>Net income before</p>
+<p>extraordinary items</p>
+<p>			 17,157	  9,010     42,950	19,088</p>
+<p>  Extraordinary items  --	     --	   --     (3,856)</p>
+<p>  Net income	 17,157	  9,010     42,950	15,232</p>
+<p>Primary Earnings Per Share:</p>
+<p>Income per common share before</p>
+<p>extraordinary items</p>
+<p>			   0.47	   0.34	 1.32	  0.89</p>
+<p>Extraordinary items per</p>
+<p>  common share	   --	     --	   --	(0.19)</p>
+<p>Net income per common share</p>
+<p>			   0.47	   0.34	 1.32	  0.70</p>
+<p>Fully Diluted Earnings Per Share:</p>
+<p>Income per share before</p>
+<p>extraordinary items</p>
+<p>			   0.44	   0.30	 1.20	  0.74</p>
+<p>Extraordinary items per share</p>
+<p>			     --	     --	   --	(0.15)</p>
+<p>Net Income per share</p>
+<p>			   0.44	   0.30	 1.20	  0.59</p>
+<p>Average shares outstanding</p>
+<p>   Primary     35,896,149   24,528,119  31,564,219 19,481,661</p>
+<p>   Fully dil   39,423,446   30,406,065  35,851,933 25,888,975</p>
+<p>	     (Dollars in thousands, except per share data)</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

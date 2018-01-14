@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33277" id="root" date="1996-09-04" xml:lang="en">
+<title>DENMARK: Car bomb goes off in biker gang war, no one hurt.</title>
+<headline>Car bomb goes off in biker gang war, no one hurt.</headline>
+<dateline>COPENHAGEN 1996-09-04</dateline>
+<text>
+<p>A car bomb exploded as a man drove from his home near the northern city of Aalborg on Wednesday, but left him unhurt in the latest round of a motorcycle gang war in Denmark.</p>
+<p>Police said the 32-year-old man was a member of the MC Denmark biker gang, affiliated with the Hell's Angels group which is locked in a brutal turf war with rival Bandidos bikers across the Nordic region.</p>
+<p>The blast in a parking lot near a residential block left several nearby parked cars shattered. No arrests were made and police bomb experts were investigating the scene of the blast.</p>
+<p>Police said they believed the incident was connected with the shooting and wounding on Monday of a Hell's Angel by two armed men in a central Aalborg street.</p>
+<p>The biker war has intensified this summer, with sporadic shootings in recent weeks in Denmark, Sweden and Finland.</p>
+<p>In July a bag containing explosives was hurled from a fast-moving car at the Danish Hell's Angels headquarters in central Copenhagen, but failed to go off.</p>
+<p>A few days later a Danish motorbike gang leader was shot and seriously injured in a night raid by unknown assailants on a prison west of Copenhagen, while a member of the Bandidos biker group was shot and wounded in Helsingborg, south Sweden.</p>
+<p>In other incidents, a Finnish Hell's Angels member was beaten up by an unknown intruder in a prison near Helsinki in August, weeks after a Danish member of the Bandidos was shot dead in Drammen, south of the Norwegian capital Oslo.</p>
+<p>Investigators say the Bandidos, a Danish offshoot of a Texas-based biker gang, are threatening the California-based Hell's Angels' domination of the Nordic motorcycle fraternity.</p>
+<p>Their two-year war has so far claimed six lives.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

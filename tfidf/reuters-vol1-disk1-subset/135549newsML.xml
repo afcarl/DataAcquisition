@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135549" id="root" date="1996-10-22" xml:lang="en">
+<title>SWITZERLAND: Low advances hit ABB oper profit.</title>
+<headline>Low advances hit ABB oper profit.</headline>
+<dateline>ZURICH 1996-10-22</dateline>
+<text>
+<p>ABB Asea Brown Boveri AG's nine month operating earnings rose less than its net income due to a decline in the imputed interest income on customer advance payments, a company spokesman said.</p>
+<p>&quot;If interest on advances are excluded from both periods, operating earnings rose 17 percent,&quot; an ABB spokesman said in response to inquiries.</p>
+<p>ABB books interest income on customer advances under revenue. However, it then subtracts the amount to avoid double counting.</p>
+<p>ABB's interest on advances fell to $554 million from $702 million last year.</p>
+<p>This decline had a negative effect on ABB's operating earnings, but no impact on pre-tax or net profit, ABB said.</p>
+<p>ABB's nine month operating earnings rose four percent to $2.1 billion, while net profit rose 24 percent to $809 million.</p>
+<p>The rise in operating earnings was based on productivity gains, the establishment of low-cost manufacturing bases, and previous restructuring, ABB said in its nine month report.</p>
+<p>The operating margin in the first nine months was steady at 8.7 percent.</p>
+<p>&quot;The improvement in operating earnings was achieved despite a competitive environment for new power equipment, higher material costs, and lower contribution from its transportation activities,&quot; ABB said.</p>
+<p>-- Peter Nielsen, Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

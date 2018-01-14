@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133385" id="root" date="1996-10-22" xml:lang="en">
+<title>BRAZIL: Brazil oil bill still faces bickering - ministry.</title>
+<headline>Brazil oil bill still faces bickering - ministry.</headline>
+<dateline>BRASILIA 1996-10-22</dateline>
+<text>
+<p>A bill to regulate the opening up of Brazil's oil industry to private competition remains grid-locked in bickering between Congress and the government, an official said on Tuesday.</p>
+<p>Giovanni Toniatti, secretary of mines and minerals at the Mines and Energy Ministry, told Reuters Congress was making &quot;unrealistic&quot; demands that a regulatory body for the industry be totally independent.  </p>
+<p>Congress last year voted to end state-owned Petrobras' monopoly of the sector but a bill setting up the regulatory framework for the oil industry, initially expected to be voted on this summer, has been delayed.</p>
+<p>&quot;The controversy continues,&quot; Toniatti said. &quot;Congress wants something that doesn't exist anywhere in the world, a totally independent regulator.&quot;</p>
+<p>Last month Dep. Eliseu Resende, who was appointed to draft a new version of the regulatory bill after the original faced criticism for offering too many privileges to Petrobras, said he expected to present his bill to Congress in November.  </p>
+<p>Resende said then his bill would reduce the Petrobras bias and give more power to the regulator, the National Petroleum Agency.</p>
+<p>Toniatti, speaking at an international seminar in Brasilia on the oil and minerals sector, said he was confident Brazil faced a &quot;rapid period of transition&quot; despite disagreements between Congress and the government.</p>
+<p>-- Michael Christie, Brasilia newsroom 55-61-2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

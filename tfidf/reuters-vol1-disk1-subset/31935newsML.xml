@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31935" id="root" date="1996-09-04" xml:lang="en">
+<title>MALAYSIA: Westmont to sell stake in shipping firm.</title>
+<headline>Westmont to sell stake in shipping firm.</headline>
+<dateline>KUALA LUMPUR 1996-09-04</dateline>
+<text>
+<p>Malaysia's Westmont Industries Bhd said on Wednesday it has agreed to sell its entire 51 percent shareholding in a Malaysian shipping company for 23.5 million ringgit in cash.</p>
+<p>Westmont said in a statement that the stake in Perkapalan Mesra Sdn Bhd will be sold to private firm, Globaltech Sdn Bhd.</p>
+<p>Perkapalan Mesra is involved in providing shipping services and building of vessels.</p>
+<p>Westmont said proceeds from the sale would be utilised to repay borrowings and for working capital.</p>
+<p>The disposal would enable the company to re-allocate its resources towards its core activities of energy and offshore fabrication, it said.</p>
+<p>- Kuala Lumpur newsroom (603-230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

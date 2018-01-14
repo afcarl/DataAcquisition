@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31754" id="root" date="1996-09-04" xml:lang="en">
+<title>PERU: Peru tax revenues up 13.8 pct in Aug vs yr ago.</title>
+<headline>Peru tax revenues up 13.8 pct in Aug vs yr ago.</headline>
+<dateline>LIMA 1996-09-04</dateline>
+<text>
+<p>Peru's tax revenues rose in August to 1.633 billion soles, 13.8 percent higher in nominal terms than the same month last year, the National Superintendency of Tax Administration (SUNAT) said Wednesday.</p>
+<p>The SUNAT added that accumulated revenues for the first eight months were 13.341 billion soles, up 8.3 percent in real terms taking into account inflation.</p>
+<p>Tax collection last year rose 27.7 percent nominally to 17.063 billion soles, from 13.363 billion soles in 1994.</p>
+<p>Peru's consumer inflation was 11.77 percent in the last 12 months up to August.</p>
+<p>-- Saul Hudson, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

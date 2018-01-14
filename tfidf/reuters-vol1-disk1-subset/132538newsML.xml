@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132538" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Aflac Inc Q3 shr rises to $0.62.</title>
+<headline>Aflac Inc Q3 shr rises to $0.62.</headline>
+<dateline>COLUMBUS, Ga. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.62		    $0.62</p>
+<p> Net			 88,710		   88,041</p>
+<p> Revs		   1,775,579		1,811,718</p>
+<p> Avg shrs		 143,483		  147,654</p>
+<p>	  Nine months</p>
+<p> Shr		 $1.80		    $1.76</p>
+<p> Net		 261,196		  265,357</p>
+<p> Revs		5,247,156		5,458,165</p>
+<p> Avg shrs	  144,891		  150,726</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Share and per-share amounts have been adjusted to reflect the three-for- two stock split paid on March 18.</p>
+<p>Net income figures exclude realized investment gains and losses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

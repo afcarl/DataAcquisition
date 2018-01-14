@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135870" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: AMEX to trade two new options next week.</title>
+<headline>AMEX to trade two new options next week.</headline>
+<dateline>CHICAGO 1996-10-23</dateline>
+<text>
+<p>The American Stock Exchange said it would trade options beginning October 30 on the listed stock of Tucson Electric Power Co and the over-the-counter stock of Affinity Technology Group.</p>
+<p>Tucson Electric Power will open with strike prices of 17-1/2, 20 and 22-1/2, with contract months of November and December 1996 and February and May 1997. GHM Inc will be specialist.</p>
+<p>Affinity Technology Group will open with strike prices of 5, 7-1/2 and 10. Initial months will be November and December 1996 and March and June 1997. Spear, Leeds &amp; Kellogg will be specialist.</p>
+<p>--Chicago Derivatives Desk</p>
+<p>E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

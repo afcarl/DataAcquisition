@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133379" id="root" date="1996-10-22" xml:lang="en">
+<title>COLOMBIA: Six banana workers killed in northwest Colombia.</title>
+<headline>Six banana workers killed in northwest Colombia.</headline>
+<dateline>BOGOTA 1996-10-22</dateline>
+<text>
+<p>Six banana plantation workers were killed by unidentified gunmen in two attacks on two estates in  northwest Colombia on Tuesday, police said.</p>
+<p>The dead were all thought to be linked to the Hope, Peace and Freedom political movement, comprised of former guerrillas who had laid down their arms, regional police chief Col. Libardo Hernando said.</p>
+<p>&quot;We cannot attribute these two simultaneous attacks to any one group in particular since there are conflicting reports. Some people say the killers were banana packers who had been fired. Others say they were opponents of Hope, Peace and Freedom,&quot; Hernando said.</p>
+<p>The attacks took place in a rural area close to the town of Apartado, in the banana-growing region of Uraba, where leftist guerrillas and right-wing paramilitary groups have traditionally fought for control of lucrative contraband routes.</p>
+<p>In a separate incident 15 police and civilians were injured on Monday when a street vendor's cart exploded in Monteria, in neighbouring Cordoba province, outside a police headquarters.</p>
+<p>No group claimed responsibility for the blast but police blamed the Revolutionary Armed Forces of Colombia (FARC), Colombia's largest guerrilla force.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

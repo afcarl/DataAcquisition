@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133375" id="root" date="1996-10-22" xml:lang="en">
+<title>JAMAICA: Caribbean nations eye trade with Cuba.</title>
+<headline>Caribbean nations eye trade with Cuba.</headline>
+<dateline>KINGSTON, Jamaica</dateline>
+<text>
+<p>A trade agency representing 15 Caribbean countries said Tuesday it had opened an office in Havana and begun scouting for opportunities for regional exporters interested in the region's largest market.</p>
+<p>Richard Wells, a Jamaican named to head the Barbados-based Caribbean Export Development Agency's new office, said in an interview in Kingston he was convinced that Cuba's burgeoning tourism market provided opportunities for Caribbean firms to export everything from building materials to food and drinks.</p>
+<p>&quot;Cuba's industry can't meet this sector's needs over the short to medium term,&quot; Wells said.</p>
+<p>He noted that Cuba expected to gross $1 billion from 1 million visitors this year, and planned to build 3,000 new rooms every year to accommodate the 2.5 million to 3.5 million visitors expected by the end of the decade, Wells stated.</p>
+<p>No accurate figures exist on current trade levels between Cuba and the Caribbean region: estimates range between $30 million to $100 million a year, most of it coming in the form of petroleum products from Trinidad.</p>
+<p>Wells said some businesses have shied away from Cuba recently, out of concern about the Helms-Burton act that seeks to apply a U.S. embargo against Cuba to foreign companies.</p>
+<p>&quot;I'm hoping to be able to erode that perception,&quot; Wells said. &quot;Caribbean exporters are not really affected by the law, and those without assets in the U.S. are pretty safe.&quot;</p>
+<p>The office was opened at the request of the Cuban authorities, who first signalled about two years ago that they wanted the region to open a trade office in Cuba.</p>
+<p>&quot;I can't think of any other government that is as willing to accomodate Caribbean exporters as the Cubans are,&quot; Wells said.</p>
+<p>The four-year-old Caribbean Export Development Agency was created with funding from the European Union and the governemnts of members of the Caribbean Community (Caricom), an economic alliance of English-speaking Caribbean nations, the Dominican Republic and Haiti.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CARIB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINGSTON, Jamaica"/>
+<dc element="dc.creator.location.country.name" value="JAMAICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

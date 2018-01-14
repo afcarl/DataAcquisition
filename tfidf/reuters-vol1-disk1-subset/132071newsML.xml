@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132071" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: Malaysia's Mahathir says budget to be pro-growth.</title>
+<headline>Malaysia's Mahathir says budget to be pro-growth.</headline>
+<dateline>KUALA LUMPUR 1996-10-21</dateline>
+<text>
+<p>Malaysian Prime Minister Mahathir Mohamad said on Monday the 1997 budget would include measures to encourage economic growth, protect the environment and promote information technology industries.</p>
+<p>&quot;The budget will be aimed at increasing growth and also taking care of the environment,&quot; Mahathir told reporters after opening an electric power conference in Kuala Lumpur.</p>
+<p>Mahathir also said the budget would aim to &quot;reduce the balance of payments and in particular to stimulate growth in the Multi-Media Super Corridor&quot;.</p>
+<p>&quot;These are generally the basic strategies of the budget,&quot; he added.</p>
+<p>The multi-media corridor is a 15-by-15 km zone launched by Mahathir in August. Stretching from Kuala Lumpur to where a new international airport and federal capital are under construction in the south, it aims to attract world-class information technology firms.</p>
+<p>The 1997 budget will be presented to the Malaysian parliament by Deputy Prime Minister and Finance Minister Anwar Ibrahim on Friday. -- Kuala Lumpur newsroom (603-230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

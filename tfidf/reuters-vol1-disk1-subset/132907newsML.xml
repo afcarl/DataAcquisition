@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132907" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: POLISH BEET SUGAR CONTENT UP TO 16.54 PCT IN OCT.</title>
+<headline>POLISH BEET SUGAR CONTENT UP TO 16.54 PCT IN OCT.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>The second and last Polish beet</p>
+<p>test this year on October 7 showed the average sugar content in</p>
+<p>beets was 16.54 percent, up from 15.98 percent a year ago, the</p>
+<p>Sugar Industry Institute (IPC) said.</p>
+<p>The IPC said the average sugar beet root weight fell to 883</p>
+<p>grammes this year from an average of 900 grammes on October 10,</p>
+<p>1995.</p>
+<p>			    SECOND TEST    FIRST TEST    2ND TEST '95</p>
+<p> Date		     Oct 7, 1996   Sept 2, 1996   Oct 10, 1995</p>
+<p> Average sugar content   16.54 pct     13.78 pct	15.98 pct</p>
+<p> Average root weight    883 grams     732 grams	900 grams</p>
+<p> Root/leaf mass ratio     1.25	    0.91	     1.77</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

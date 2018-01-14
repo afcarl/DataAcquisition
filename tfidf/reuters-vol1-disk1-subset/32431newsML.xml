@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32431" id="root" date="1996-09-04" xml:lang="en">
+<title>ITALY: Italy budget spending cuts, revenue mix unchanged.</title>
+<headline>Italy budget spending cuts, revenue mix unchanged.</headline>
+<dateline>ROME 1996-09-04</dateline>
+<text>
+<p>After two days of talks among government ministers preparing Italy's 1997 budget, the budget's target blend consisting of two-thirds reduced spending and one-third greater revenue remains unchanged.</p>
+<p>Budget ministry undersecretary Giorgio Macciotta told reporters nothing had emerged at the meetings so far to suggest a different blend.</p>
+<p>Meetings continued on Wednesday with talks between Treasury and Budget Minister Carlo Azeglio Ciampi and Health Minister Rosy Bindi.</p>
+<p>Ministers in charge of drafting the package have been holding talks with cabinet colleagues on how to pare spending.</p>
+<p>The team of troubleshooters, led by Ciampi, has already met Labour Minister Tiziano Treu and state pensions fund chief Gianni Billia.</p>
+<p>Under Italian law, the budget package must be presented to parliament by September 30. Both chambers then have until December 31 to approve it.</p>
+<p>Prime Minister Romano Prodi's centre-left government is aiming to cut the public sector borrowing requirement by 32.4 trillion lire in 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

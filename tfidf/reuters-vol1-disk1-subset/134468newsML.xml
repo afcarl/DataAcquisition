@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134468" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Coachman files for 1.5 million common shares.</title>
+<headline>Coachman files for 1.5 million common shares.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>Coachmen Industries Inc said Tuesday it filed a registration with the Securities and Exchange Commission to sell up to 1.5 million common shares.</p>
+<p>Net proceeds will be used for general corporate purposes, including working capital requirements, expenditures for plant and equipment, and the potential acquisition of compatible businesses, the company disclosed in the filing.</p>
+<p>Coachmen has granted the underwriters an over-allotment option of up to 225,000 common shares. The offering will be made through Oppenheimer and Co Inc, the filing said. After the offering, outstanding shares will total 16,603,780.</p>
+<p>The Elkhart, Indiana company is a full-line producer of recreational vehicles and a builder of modular homes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25836" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: Britain condemns Iraq involvement in Arbil attack.</title>
+<headline>Britain condemns Iraq involvement in Arbil attack.</headline>
+<dateline>LONDON 1996-08-31</dateline>
+<text>
+<p>Britain on Saturday condemned Iraqi involvement in an attack on the Kurdish city of Arbil and said it was in close touch with its allies.</p>
+<p>&quot;We condemn Iraqi involvement. In no way can Iraqi involvement be seen as helpful,&quot; said a Foreign Office spokesman.</p>
+<p>U.N. officials said that a Kurdish rebel faction backed up by Iraqi tanks, heavy artillery and helicopters had taken control of half of the city after heavy fighting.</p>
+<p>Arbil lies within the so-called safe haven set up at the end of the 1991 Gulf War on the suggestion of British Prime Minister John Major to protect Iraqi Kurds from attack by the Iraqi military.</p>
+<p>The area is patrolled by U.S., French and British planes.</p>
+<p>&quot;We are in close touch with all our allies,&quot; said the Foreign Office spokesman. He declined to give any further information.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133658" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Most active stocks on NYSE and AMEX.</title>
+<headline>Most active stocks on NYSE and AMEX.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active shares on the New York and American stock exchanges in consolidated trading Tuesday.</p>
+<p>NYSE-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 4,962,500   HOSP PROP		 26 1/8  UNCH</p>
+<p> 4,870,700   DIGITAL EQUIP CP	29	OFF  5 3/8</p>
+<p> 4,607,200   BAXTER INTL INC	 44	OFF  1 1/2</p>
+<p> 3,757,800   MICRON TECH	     29 3/4  OFF  7/8</p>
+<p> 3,126,800   UNION PAC RSC	   27 3/4  UP   3/8</p>
+<p> 3,003,800   CHRYSLER CORP	   33 5/8  UP   1/8</p>
+<p> 2,947,000   GENERAL MOTORS	  54 5/8  UP   3/4</p>
+<p> 2,905,500   XEROX CORP		46 7/8  UP   3/8</p>
+<p> 2,886,100   AT &amp; T		    39 7/8  UNCH</p>
+<p> 2,775,600   EMC CORP		  27 1/8  OFF  1/4</p>
+<p>AMEX-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 831,800   S&amp;P DEPOS RECPTS	70 5/8  OFF  1/2</p>
+<p> 770,800   IVAX CORP		 17 3/8  UP   1/2</p>
+<p> 654,300   ECHO BAY MINES	  8 1/2   UNCH</p>
+<p> 613,900   TRANS WORLD AIR	 8 1/2   UP   5/8</p>
+<p> 520,600   NABORS INDS INC	 16 3/8  OFF  1/4</p>
+<p> 520,100   JAN BELL MARKET	 3 1/16  UP   7/16</p>
+<p> 371,100   AMPEX CORP		7 1/16  UP   9/16</p>
+<p> 315,100   VIACOM CL B	     33 1/8  OFF  5/8</p>
+<p> 295,800   ICG COMM INC	    19 1/8  UP   5/8</p>
+<p> 295,600   HASBRO INC		38 1/2  OFF  1/4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

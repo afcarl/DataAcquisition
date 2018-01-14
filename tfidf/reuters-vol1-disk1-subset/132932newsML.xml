@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132932" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: BOE's George hopes EMI can resolve EMU liquidity issue.</title>
+<headline>BOE's George hopes EMI can resolve EMU liquidity issue.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Bank of England governor Eddie George expressed hope on Tuesday that the issue of intra-day liquidity for banks after European Monetary Union could be resolved in talks with the European Monetary Institute (EMI).</p>
+<p>&quot;A good deal has been made of this issue...perhaps more than is warranted. I would hope that we will be able to resolve the issue through the ongoing technical dialogue in the EMI as we have resolved other issues in the past,&quot; he said in the prepared text of a lecture for delivery at King's College, London.</p>
+<p>&quot;We all have a common interest in eliminating payments risk -- nationally, regionlly and indeed internationally.&quot;</p>
+<p>Recently, disagreement has broken out between some EU members about which countries should be granted access to intra-day euro liquidity after EMU.</p>
+<p>It has generally been agreed that all European Union member countries may connect their real-time gross settlement payments systems (RTGS) to Target, the new Europe-wide real-time payment system, whether or not they sign up to monetary union.</p>
+<p>But George said that, despite the agreement over access to Target, some countries were arguing that it would be &quot;unique&quot; for intra-day liquidity to be available beyond the bounds of a single currency, so countries who did not sign up could be excluded.</p>
+<p>&quot;(But) others, including ourselves, argue that is a natural corollary of the extension of an RTGS system across borders which is itself unique,&quot; he said.</p>
+<p>George said there were no grounds for discrimination and the threatened spillover into overnight liquidity could easily be deterred through penal interest as it currently applied through the existing RTGS system.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

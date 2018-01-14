@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136260" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: NWE naphtha weaker with crude, buyers scarce.</title>
+<headline>NWE naphtha weaker with crude, buyers scarce.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>NWE naphtha physical and paper markets were slightly weaker in line with crude futures on Wednesday, with buying interest lethargic, traders said.</p>
+<p>A 5,000-tonne parcel changed hands on the barge market at cif quotes high +25 cents fob ARA, the buyer a Belgian refiner looking to cover a prompt nomination.</p>
+<p>NWE cargo prices were pegged as low as $225/$227 cif NWE by a major petrochemical buyer, but around $227/$229 by others.</p>
+<p>Swaps shed around $2 a tonne to talk at $220.50/$221.50 for Nov with Dec at $214/$215.</p>
+<p>--Rosalind Russell, London Newsroom +44 171 542 5387</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

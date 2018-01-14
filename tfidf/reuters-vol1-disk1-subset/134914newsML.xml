@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134914" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - France - Le Monde Oct 22.</title>
+<headline>PRESS DIGEST - France - Le Monde Oct 22.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>These are leading stories in afternoon daily Le Monde.</p>
+<p>FRONT PAGE</p>
+<p>-- Paris court suspends senior police officer for refusing to help a judge investigating alleged official corruption during Jacques Chirac's term as Paris mayor. The move sparks crisis in relations police and justice authorities.</p>
+<p>BUSINESS PAGES</p>
+<p>-- Telephone operators in France, Germany, Italy and Spain are to be listed on their country's stock exchange between November 1996 and April 1997. They are seeking to raise a total of 120 billion francs.</p>
+<p>-- State-owned shipping company Compagnie Generale Maritime to be sold to Compagnie Maritime d'Affretement through private placement.</p>
+<p>-- Bank of France cut call money on Monday.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

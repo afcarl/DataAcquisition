@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13295" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Atlantic hurricane upgraded to deadly status.</title>
+<headline>Atlantic hurricane upgraded to deadly status.</headline>
+<dateline>MIAMI 1996-08-24</dateline>
+<text>
+<p>Hurricane Edouard quickly developed into a potentially deadly storm with winds clocked at 140 mph (245 kmh) by Saturday evening as it swirled through the open Atlantic, the National Hurricane Center said.</p>
+<p>The rapid organization of the storm's eyewall and intensity of its winds made forecasters declare Edouard a Category 4 hurricane, a dangerous storm capable of massive destruction.</p>
+<p>Exactly four years ago on Aug. 24, another Category 4 storm, Hurricane Andrew, slammed into south Florida and caused more than $20 billion worth of damage and left a quarter of a million people homeless.</p>
+<p>At 11 p.m. EDT (0300 GMT Sunday), Edouard was located at latitude 15.3 north and longitude 46.4 west, or about 1,000 miles (1,600 km) east of the Lesser Antilles, forecasters said.</p>
+<p>They said Edouard remained far from the Caribbean or U.S. coastline, making it difficult to predict where it might eventually make landfall in mid-week.</p>
+<p>The hurricane changed its direction slightly, and was moving west-northwest at 14 mph (25 kmh). It had maximum sustained winds of 140 mph (245 kmh), and was a small, compact storm. A catastrophic Category 5 hurricane is declared when maximum winds top 155 mph (275 kmh).</p>
+<p>Early on Saturday, Edouard was classified as a minimal hurricane with maximum winds of 80 mph (140 kmh).</p>
+<p>The sixth tropical depression of the Atlantic hurricane season also emerged on Saturday. It carried maximum winds of 35 mph (62 kmh) and was located 500 miles (880 km) west of Cape Verde.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

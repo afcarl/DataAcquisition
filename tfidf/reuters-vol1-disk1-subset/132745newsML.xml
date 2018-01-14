@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132745" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: SCANA Corp Q3 shr slips to $0.66.</title>
+<headline>SCANA Corp Q3 shr slips to $0.66.</headline>
+<dateline>COLUMBIA, S.C. 1996-10-22</dateline>
+<text>
+<p>(000's except per share amounts)</p>
+<p>					   3 Months Ended September 30,</p>
+<p>					     1996	  1995  Pct.Chg.</p>
+<p> Total Operating Revenues	   $ 402,284  $  373,476   7.7</p>
+<p> Net Income				  69,963	68,029   2.8</p>
+<p>Wgt. Avg. Common Shares Outstanding</p>
+<p>						105,447	98,562   7.0</p>
+<p> Earnings Per Share			  .66	   .69  (4.3)</p>
+<p>					   9 Months Ended September 30,</p>
+<p>						1996	 1995  Pct.Chg.</p>
+<p> Total Operating Revenues	   1,147,632   1,029,372  11.5</p>
+<p> Net Income				 177,077     134,880  31.3</p>
+<p>Wgt. Avg. Common Shares Outstanding</p>
+<p>						104,812	97,544   7.5</p>
+<p> Earnings Per Share			  1.69	  1.38  22.5</p>
+<p>					  12 Months Ended September 30,</p>
+<p>						1996	 1995  Pct.Chg.</p>
+<p> Total Operating Revenues	   1,471,232   1,346,750   9.2</p>
+<p> Net Income				 210,536     151,935  38.6</p>
+<p>Wgt. Avg. Common Shares Outstanding</p>
+<p>						104,481	97,115   7.6</p>
+<p> Earnings Per Share			  2.02	  1.56  29.5</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

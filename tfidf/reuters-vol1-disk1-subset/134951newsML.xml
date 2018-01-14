@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134951" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Olivetti touches new low on Milan bourse.</title>
+<headline>Olivetti touches new low on Milan bourse.</headline>
+<dateline>MILAN 1996-10-22</dateline>
+<text>
+<p>Shares in troubled hi-tech group Olivetti saw a fresh wave of selling on Tuesday sending the stock down to a new historic low of 441 lire, traders said.</p>
+<p>&quot;Despite apparently positive news about new board members, the company's basic situation has not changed. Until there is concrete news about Olivetti's future we shouldn't be surprised to see gradual selling by foreign investors,&quot; one trader said.</p>
+<p>At 0934 GMT, Olivetti had recovered somewhat to be quoted 0.6 percent down at 447.5 lire. The share opened at 455 lire.</p>
+<p>The all-share Mibtel index posted a 0.36 percent gain.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

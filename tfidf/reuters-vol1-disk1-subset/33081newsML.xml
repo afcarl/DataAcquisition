@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33081" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Plains feedlot cattle bid $69, no sales - feedlots.</title>
+<headline>Plains feedlot cattle bid $69, no sales - feedlots.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>U.S. Plains cattle markets early Wednesday were quiet, with no sales reported, feedlot sources said.</p>
+<p>A few packer bids were reported at $69.00 per cwt, but owners continued to price cattle at $71.00 to $72.00, fully anticipating $70.00 sales this week.</p>
+<p>&quot;Let a packer bid $70.00, and he'll get covered up with cattle,&quot; one west Texas feedlot operator said.</p>
+<p>Last week's top price was $69.00, but feedlot cattle prices were expected to be lifted by light supplies of finished cattle and expectations for firm beef prices.  </p>
+<p>Boxed beef prices were expected to be supported by strong demand amid talk that retail beef inventories got cleaned up during the three-day holiday weekend, market sources said.</p>
+<p>With beef prices set to rebound from last week's decline, cattle sales could be seen later Wednesday or on Thursday, according to feedlot sources.</p>
+<p>&quot;We could be fixing to see some excitement by the end of the week,&quot; one cattle feeder said.</p>
+<p>--Bob Janis 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15591" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: ValuJet lays off 134 workers to save cash.</title>
+<headline>ValuJet lays off 134 workers to save cash.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>ValuJet Inc. said Tuesday it temporarily laid off 134 customer-service workers to conserve cash while it waits for regulatory approval to resume operations.</p>
+<p>The company had previously recalled 500 workers, including pilots, flight attendants and customer-service agents, in hopes of returning to the skies by Aug. 23.</p>
+<p>ValuJet, however, remains grounded while it waits for regulatory approval from the U.S. Department of Transportation and the Federal Aviation Administration.</p>
+<p>Keeping the customer service agents on the payroll while being grounded &quot;just didn't make sense,&quot; said ValuJet spokesman Gregg Kenyon.</p>
+<p>&quot;We anticipate this being a short-term situation,&quot; Kenyon said. &quot;We've taken steps to have these workers give us a number where they can be reached immediately when we get approval.&quot;</p>
+<p>The airline now has about 650 to 750 workers on payroll, down from about 4,200 during normal operations, Kenyon said.</p>
+<p>ValuJet, which suspended operations in June after a crash in the Florida Everglades that killed all 110 people on board, said it expects to resume service shortly.</p>
+<p>ValuJet plans to resume service with seven aircraft and flights between Atlanta and five other U.S. cities when it receives government approval.</p>
+<p>ValuJet's stock closed Tuesday at $10.875, up 12.5 cents, on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

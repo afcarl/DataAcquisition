@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132183" id="root" date="1996-10-21" xml:lang="en">
+<title>TUNISIA: Tunisie-Leasing plans dinar bond issue.</title>
+<headline>Tunisie-Leasing plans dinar bond issue.</headline>
+<dateline>TUNIS 1996-10-21</dateline>
+<text>
+<p>Tunisian leasing company Tunisie-Leasing plans a seven million dinar ($6.86 million) five-year bond issue, the company said in a statement received on Monday.</p>
+<p>It said the yield would be 10.25 percent for notes payable in equal annual tranches, and 11 percent for paper payable at maturity. The notes will be issued at a nominal 100 dinars each.</p>
+<p>Tunisie-Leasing share was last priced at 46.44 dinars on the Tunis Stock Exchange.</p>
+<p>($=0.98 dinar)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31748" id="root" date="1996-09-04" xml:lang="en">
+<title>COLOMBIA: Colombia's 1996 GDP growth seen at 3.5 pct.</title>
+<headline>Colombia's 1996 GDP growth seen at 3.5 pct.</headline>
+<dateline>BOGOTA 1996-09-04</dateline>
+<text>
+<p>Colombia's gross domestic product is expected to grow by 3.5 percent this year after expanding 3.0 percent in the first half, the Finance Ministry and National Planning Department said in a statement Wednesday.</p>
+<p>The department said a &quot;slight recovery&quot; in internal demand should spur stronger growth in the second half, although the current 3.5 percent growth target is down from previous estimates of more than 4 percent growth in 1996.  </p>
+<p>Confirming a sharp slowdown in industrial production so far this year, the department said output excluding the coffee sector was expected to show no growth at all in 1996.</p>
+<p>Still, &quot;macroeconomic conditions in the second half will be much more favorable than in the first&quot; and a recent 4 percent drop in domestic lending rates should help rekindle growth, the statement said.</p>
+<p>It said leading economic indicators appear to confirm that the economy was moving toward solid economic growth next year.</p>
+<p>Finance Minister Jose Antonio Ocampo has forecast robust economic growth of more than 5.0 percent in 1997.</p>
+<p>-- Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

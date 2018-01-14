@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132286" id="root" date="1996-10-21" xml:lang="en">
+<title>BELGIUM: BELGIAN INTERBREW SAYS LOOKING AT RINGNES PRIPPS.</title>
+<headline>BELGIAN INTERBREW SAYS LOOKING AT RINGNES PRIPPS.</headline>
+<dateline>BRUSSELS 1996-10-21</dateline>
+<text>
+<p>Belgium's privately owned brewery Interbrew NV said it was investigating the possible purchase of a stake in brewer Ringnes Pripps.</p>
+<p>&quot;We are still looking at it. As we're still investigating the possibility, we've got no further comment at this stage,&quot; Interbrew spokesman Gerard Fauchey said on Monday.  </p>
+<p>A Swedish newspaper said on Saturday that Interbrew and Dutch Heineken were potential buyers of a 55 percent stake in Ringnes Pripps held by Swedish automotive group Volvo.</p>
+<p>Volvo on Monday declined to comment on the report.</p>
+<p>Heineken also declined comment.</p>
+<p>Interbrew became the world's fourth largest brewer when it acquired Canadian brewing group John Labatt Ltd in a $2 billion takeover in July last year.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

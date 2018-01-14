@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134610" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: EIB adds 250 billion lire to 10-year bond.</title>
+<headline>EIB adds 250 billion lire to 10-year bond.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>The following bond issue has been increased by 250 billion lire to total 750 billion lire, joint lead managers Banca Commerciale Italiana, Cariplo, San Paolo and J.P. Morgan said.</p>
+<p> BORROWER   EUROPEAN INVESTMENT BANK</p>
+<p> AMT    750 BLN LIRE  COUPON     7.875     MATURITY    07.NOV.06</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  101.375   PAY DATE    07.NOV.96</p>
+<p> FULL FEES  1.875     REOFFER    =	   SPREAD	 =</p>
+<p> MOODY	AAA	 LISTING    LUX	 PAY FREQ    ANNUAL</p>
+<p> S&amp;P	  AAA	 DENOMS (K) 5-50	SALE LIMITS =</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> GOV LAW    LUX	 HOME CTRY  SUPRA     TAX PROVS   =</p>
+<p> MGT/UND    0.625     SELL CONC  1.25	PRAECIPUUM  NONE</p>
+<p> NOTES	ORIGINAL LAUNCHED 08.OCT.96</p>
+<p>		ISSUED OFF THE EMTN PROGRAMME</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131806" id="root" date="1996-10-21" xml:lang="en">
+<title>UK: PRESS DIGEST - London-based Arab newspapers - Oct 21.</title>
+<headline>PRESS DIGEST - London-based Arab newspapers - Oct 21.</headline>
+<dateline>LONDON 1996-10-21</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- Sales reduction cuts net profit of Saudi's industrial giant Saudi Basic Industries Corp (SABIC) in first nine months of 1996. SABIC's net dropped 30 percent to 3.415 billion riyals.</p>
+<p>- United Arab Emirates urges OPEC to defend reasonable oil prices.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- Saudi businessman Prince al-Waleed bin Talal studies plans to build new tourist sites on Red Sea coast.</p>
+<p>- Saudi Arabian Fertiliser Company posts 508 million riyal net profits in first nine months of 1996.</p>
+<p>- Bahrain Monetary Agency governor says banking sector in Bahrain is stable, no new rules to prevent movement of funds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

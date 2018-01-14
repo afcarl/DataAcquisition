@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13378" id="root" date="1996-08-25" xml:lang="en">
+<title>BANGLADESH: Police raid Dhaka University, arrest outsiders.</title>
+<headline>Police raid Dhaka University, arrest outsiders.</headline>
+<dateline>DHAKA 1996-08-25</dateline>
+<text>
+<p>Hundred of police raided Dhaka University on Sunday, arresting nearly 20 outsiders who had been living in student dormitories and seizing some weapons, university officials said.</p>
+<p>Policemen stormed ten residence halls on the campus early on Sunday, flushed out people at gunpoint and searched their baggage.</p>
+<p>Police seized revolvers, sawn-off rifles, shotguns and knives. The students were later allowed to return.</p>
+<p>&quot;The raid is still continuing at 1 p.m. (0700 GMT),&quot; one official said but he could not give further details.</p>
+<p>The swoop followed the resignation of the university's Vice-Chancellor Dr. Emajuddin Ahmed on Saturday over the deteriorating law and order situation on the campus.</p>
+<p>Authorities closed down the 28,000-student university on Wednedsay following gunbattles between students and police.</p>
+<p>Police said they fought armed activists from the main opposition Bangladesh Nationalist Party (BNP), headed by former prime minister Begum Khaleda Zia.</p>
+<p>A spate of student unrest in the northern town of Bogra has left at least four pro-opposition students and one policeman dead in last one week, police and local officials said.</p>
+<p>Nearly 100 students have been injured in the clashes in Dhaka and Bogra, police told reporters.</p>
+<p>The BNP blamed the deaths on &quot;gangsters&quot; of the ruling Bangladesh Awami League. The BNP's student front, Jatiyatabadi Chhatra Dal, called for an indefinite protest strike in Bogra from Sunday when Prime Minister Sheiklh Hasina was to visit the town.</p>
+<p>&quot;The town is already in grip of strike,&quot; one local official said over telephone. He declined to give details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23464" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: U.S. Gulf rig down by one to 162 in week.</title>
+<headline>U.S. Gulf rig down by one to 162 in week.</headline>
+<dateline>NEW YORK 1996-08-30</dateline>
+<text>
+<p>There were 162 rigs under contract in the Gulf of Mexico as of Friday, down one from the prior week, Offshore Data Services said.</p>
+<p>The utilization rate for rigs working in the gulf, based on a total number of 181, was 89.5 percent.</p>
+<p>The number of working rigs in European/Mediterranean remained unchanged this week, with 105 rigs under contract out of a total fleet of 105, a utilization rate of 100 percent.</p>
+<p>The worldwide rig count fell by one to 554 out of a total fleet of 608, making the utilization rate 91.1 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133104" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: FORECAST - S.African rates seen steady until 1997.</title>
+<headline>FORECAST - S.African rates seen steady until 1997.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>South African interest rates would probably remain flat for the rest of 1996 and were expected to move lower next year, WorldGroup Banking said in its monthly survey of six economists.</p>
+<p>&quot;The expectation is that rates will not change dramatically in the short-term,&quot; it said, although there was a possibility that rates could move by 0.5 percent either way over the same period.</p>
+<p>&quot;There is a slim chance (between 7.5 percent and 10 percent) of prime moving up by between 0.5 percent and one percent -- this is noticeable only in the short-term,&quot; it said.</p>
+<p>Over a longer time horizon the chance of prime increasing was negligible.</p>
+<p>&quot;In the medium to longer term the expectation is for rates to move downwards with no upward potential,&quot; it said.</p>
+<p>Prime, currently fixed at 19.25 percent, was expected to move to 18.50 percent in six months and to 18.00 percent in twelve months.</p>
+<p>&quot;The chance of the prime rate staying on the same level for the next three, six and 12 months is 72 percent, 35 percent and 10 percent respectively,&quot; it said.</p>
+<p>The possibility of a one percentage point reduction over the next three months was eight percent, increasing to 56 percent over the next six months and to 84 percent over the one-year time horizon.</p>
+<p>&quot;The chance for a two (percentage point) reduction in the prime rate is very slim over a three and six month time horizon and has weakened slightly to 46 percent over a twelve month horizon,&quot; WGS said.</p>
+<p>It said the country's balance of payments situation remained the worrying factor in its forecast.</p>
+<p>&quot;The shortage on the current account as well as volatile capital flows can cause a lot of uncertainty,&quot; it said.</p>
+<p>The fact that inflows to the Johannesburg Stock Exchange are reflected as long term inflows gave a distorted picture.</p>
+<p>Other important factors were the inflation rate, credit extension, growth in money supply, money market shortage and fiscal problems.</p>
+<p>It forecast key interest rates as follows: (pct)</p>
+<p>	     Basis rate   3 months   6 months   12 months</p>
+<p>Prime	  19.25	  19.25	18.50	17.75</p>
+<p>3-month BA   15.25	  15.20	14.55	13.80</p>
+<p>12-month BA  16.00	  15.60	15.10	14.55</p>
+<p>Eskom 168    15.25	  15.00	14.25	14.05</p>
+<p>The six economists who took part in the October forecast were Nedcor's Dennis Dykes, Transnet's Ulrich Joubert, Adam Jacobs of Absa, Johan Rossouw of Huysamer Stals, Louis Fourie from JMM Beleggingsdienste and Riaan Lombard of AHI.</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

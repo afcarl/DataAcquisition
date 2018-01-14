@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135191" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Toho to spend 22 bln yen to rebuild Tokyo theatre.</title>
+<headline>Toho to spend 22 bln yen to rebuild Tokyo theatre.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Japanese movie maker and theatre operator Toho Co Ltd said on Tuesday that it had decided to spend 22 billion yen to rebuild its flagship theatre in central Tokyo.</p>
+<p>The company plans to close down the theatre, in the Yurakucho district of Tokyo, at the end of 1997, and start constructing a new building on the site in July 1998, it said in a statement.</p>
+<p>The new 17-storey building will have a 2,000-seat concert hall as well as an 800-seat movie theatre. The new facilities are expected to open in January 2001.</p>
+<p>Toho said the move would not affect the company's earnings forecast for the current fiscal year.</p>
+<p>The company expects to post sales of 73.3 billion yen and parent current profit of 9.8 billion yen in its current business year to February 28, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

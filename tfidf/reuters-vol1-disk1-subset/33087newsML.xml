@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33087" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. exporters sell 100,000 T wheat to Sri Lanka.</title>
+<headline>U.S. exporters sell 100,000 T wheat to Sri Lanka.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>U.S. exporters reported sales of 100,000 tonnes of optional origin wheat to Sri Lanka for the 1996/97 marketing year, USDA said Wednesday.</p>
+<p>The wheat was 50,000 tonnes hard red winter and 50,000 tonnes soft red winter.  </p>
+<p>Under an optional origin contract, the origin of the commodity may be the United States or one or more other exporting countries, USDA said.</p>
+<p>The marketing year for wheat began June 1.</p>
+<p>Exporters are required to report sales activity of 100,000 tonnes or more of one commodity to a single destination daily, and smaller amounts weekly.</p>
+<p>--Washington Commodities Desk 202-898-8394</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

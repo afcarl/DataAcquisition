@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32823" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Paging Partners hires Laidlaw &amp; Co.</title>
+<headline>Paging Partners hires Laidlaw &amp; Co.</headline>
+<dateline>FREEHOLD, N.J. 1996-09-04</dateline>
+<text>
+<p>Paging Partners Corp said on Wednesday it retained Laidlaw &amp; Co to help the company explore all strategic alternatives for enhancing shareholder value, including the possible sale of the company.</p>
+<p>&quot;The wireless marketplace is moving so quickly, and the company has so many options, that we felt it advisable to reach out to a well-established and highly respected advisor to assist us in assessing those options,&quot; said Richard Giacchi, the company's president.</p>
+<p>Paging Partners said it offers one-way wireless messaging services from southern New Hampshire to northern Virginia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREEHOLD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132163" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: Foreigners, trust banks big yen bond buyers in Sept.</title>
+<headline>Foreigners, trust banks big yen bond buyers in Sept.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>Foreigners and Japanese trust banks were the main net buyers of yen bonds in September, the Japan Securities Dealers' Association (JSDA) said on Monday.</p>
+<p>But overall sales by banks as a whole, including city and long-term credit banks, agricultural financial institutions and credit unions, exceeded net buying by trust banks alone, it said.</p>
+<p>The figures include Japanese government bonds, notes and Treasury bills, corporate bonds and bank debentures.</p>
+<p>The following is a breakdown of net purchases (in billions of yen):</p>
+<p>				 Sept 1996    Aug 1996</p>
+<p> Banks			     -68.9	-949.4</p>
+<p> Life/Non-life insurers     -330.4	-341.6</p>
+<p> Foreigners		   +1,120.8    +1,911.0</p>
+<p> Investment trusts	    +347.8	 +43.7</p>
+<p>The banks category includes city, regional, long-term credit and trust banks, agricultural financial institutions, credit unions and other banking institutions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

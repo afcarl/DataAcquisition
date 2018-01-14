@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135101" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-S&amp;P raises FAI General Insurance CPA rating.</title>
+<headline>RTRS-S&amp;P raises FAI General Insurance CPA rating.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Standard and Poor's Corp said on Tuesday it had raised the claims paying ability (CPA) rating of FAI General Insurance Co Ltd to BBB-minus from BB-plus.  </p>
+<p>Standard and Poor's said the ratings action was based on FAI's improved earnings outlook, demonstrated financial flexibility and a strengthened group profile.</p>
+<p>The ratings agency said these positives had been the result of initiatives that lowered debt levels, strengthened reserves and reduced non-core assets.</p>
+<p>-- Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

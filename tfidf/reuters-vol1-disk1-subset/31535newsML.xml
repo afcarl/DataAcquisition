@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31535" id="root" date="1996-09-04" xml:lang="en">
+<title>CONGO: Poachers kill over 200 elephants in Congo.</title>
+<headline>Poachers kill over 200 elephants in Congo.</headline>
+<dateline>BRAZZAVILLE 1996-09-04</dateline>
+<text>
+<p>More than 200 carcasses of elephants slaughtered by poachers for their ivory have been found in Congo's northern forest, a government official said on Wednesday.</p>
+<p>Antoine Rufin Oko, adviser at the water and forestry ministry, told reporters he had visited the Mouadie forest salt marsh, between the towns of Ouesso and Sembe close to the border with Cameroon, where the carcases were found on Friday.</p>
+<p>&quot;It is a real ecological disaster that we found at the site,&quot; he said. Whole families of elephants had been slaughtered with combat weapons including automatic rifles.</p>
+<p>&quot;It happened only a few days ago because we found dozens of corpses barely starting to rot, abandoned in the forest where the elephants regularly came to drink,&quot; Oko said.</p>
+<p>Oko estimated the value of the ivory at 150 million CFA francs ($295,000) and said the Odzala national park would be expanded to include the forest.</p>
+<p>Elephants are a protected species in Congo and trading in ivory is illegal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CONGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRAZZAVILLE"/>
+<dc element="dc.creator.location.country.name" value="CONGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

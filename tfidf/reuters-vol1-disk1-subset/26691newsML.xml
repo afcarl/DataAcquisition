@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26691" id="root" date="1996-09-02" xml:lang="en">
+<title>UK: British manufacturing picks up in August.</title>
+<headline>British manufacturing picks up in August.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>British manufacturing picked up in August, with output and orders growing at their fastest rate since the spring of 1995, according to a business survey published Monday.</p>
+<p>The Purchasing Managers Index, compiled by the Chartered Institute of Purchasing and Supply, rose to a seasonally adjusted 51.8 percent in August, its highest level in a year, from 51.0 percent in July.</p>
+<p>&quot;Both output and new order levels expanded more rapidly than at any time since the spring of 1995,&quot; the CIPS said.</p>
+<p>&quot;This suggests that the slowdown in manufacturing activity, which began in late 1994, probably bottomed out in May. Since then, rising consumers' expenditure has been the main driving force behind steadily accelerating growth in the manufacturing sector.&quot;</p>
+<p>The prices index rose to 41.5 in August from 38.5 in July but remained at a very low level by the survey's historical standards.</p>
+<p>&quot;Just under a quarter of all companies saw the average price paid for their purchases fall,&quot; the report said.</p>
+<p>The employment index edged up to 50.1 from 49.7 in July, suggesting a flat picture.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

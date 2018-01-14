@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132393" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: American Bingo &amp; Gaming Q3 full results.</title>
+<headline>American Bingo &amp; Gaming Q3 full results.</headline>
+<dateline>AUSTIN, Texas 1996-10-22</dateline>
+<text>
+<p>Consolidated Net Income Statement</p>
+<p> for Three Months Ended Sept. 30,  1996		     1995</p>
+<p> Total Revenues		     $914,740	     $1,066,625</p>
+<p> Costs and Expenses, Net	   666,043		1,464,986</p>
+<p> Net Income			    248,427	     ( 398,361)</p>
+<p> Earnings Per Share			.06		   ( .09)</p>
+<p> Shares Outstanding		4,111,394		4,216,305</p>
+<p>Consolidated Net Income Statement</p>
+<p> For Nine Months Ended Sept. 30    1996		     1995</p>
+<p> Total Revenues		   $2,709,019	     $2,211,205</p>
+<p> Costs and Expenses, Net	 2,107,061		2,582,813</p>
+<p> Net Income			    601,958	     ( 371,608)</p>
+<p> Earnings Per Share			.15		   ( .09)</p>
+<p> Shares Outstanding		4,104,374		4,128,144</p>
+<p>Note: Full company name is American Bingo &amp; Gaming Corp.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUSTIN, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

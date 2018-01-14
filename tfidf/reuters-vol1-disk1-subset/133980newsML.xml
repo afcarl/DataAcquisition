@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133980" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Michigan $54 mln bonds won by Morgan Stanley.</title>
+<headline>Michigan $54 mln bonds won by Morgan Stanley.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Morgan Stanley &amp; Co said Tuesday it won $54 million Michigan State Trunk Line Fund bonds, Series 1996A, with a true interest cost of 5.7075.</p>
+<p>Raymond James &amp; Associates Inc said its winning bid was rejected by the issuer, leaving the deal to Morgan Stanley.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131696" id="root" date="1996-10-21" xml:lang="en">
+<title>SPAIN: Fecsa, Sevillana remain suspended.</title>
+<headline>Fecsa, Sevillana remain suspended.</headline>
+<dateline>MADRID 1996-10-21</dateline>
+<text>
+<p>Shares in Sevillana de Electricidad (Sevillana) and Fuerzas Electricas de Catalunya remain suspended at midday on Monday on the Spanish bourse.</p>
+<p>The CNMV is awaiting information from the two groups affected by Endesa's buy offer before deciding to raise the suspension.</p>
+<p>A spokesman for Sevillana confirmed to Reuters that it was in communication with Endesa to send the bourse commission CNMV the required documentation.</p>
+<p>--Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

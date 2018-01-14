@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31666" id="root" date="1996-09-04" xml:lang="en">
+<title>MOLDOVA: Moldovan c.bank raises its discount rate to 22 pct.</title>
+<headline>Moldovan c.bank raises its discount rate to 22 pct.</headline>
+<dateline>CHISINAU 1996-09-04</dateline>
+<text>
+<p>Moldova's National Bank on Wednesday raised its refinancing rate to 22 percent annual from 21 percent effective since August 2, after a monthly credit auction, a bank representative told Reuters.</p>
+<p>At the auction, 14 domestic banks acquired a total of 18.45 million lei ($3.98 million) of the National Bank's credit funds.</p>
+<p>Pursuing tight credit and monetary policies prescribed by the International Monetary Fund, the central bank has eliminated cheap handouts to the economy, selling over 80 percent of its credit money at regular auctions.</p>
+<p>Trailing low inflation, Moldova's official refinancing rate has fallen from a high of 377 percent annual in February 1994. The authorities expect annual inflation of no more than 17 percent this year, compared to 23.8 percent in 1995.</p>
+<p>($=4.63 lei)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOLDV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHISINAU"/>
+<dc element="dc.creator.location.country.name" value="MOLDOVA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

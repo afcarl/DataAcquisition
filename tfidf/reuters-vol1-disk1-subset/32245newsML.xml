@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32245" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Anadarko sets Peruvian exploration.</title>
+<headline>Anadarko sets Peruvian exploration.</headline>
+<dateline>HOUSTON 1996-09-04</dateline>
+<text>
+<p>Anadarko Petroleum Corp said Wednesday it signed an exploration license agreement with Perupetro SA, a Peruvian government entity.</p>
+<p>The agreement gives Anadarko the right to explore Block 84 over a seven-year exploration period consisting of five phases, the company said. Block 84 is a 2.55 million acre area in the Ucayali Basin in east-central Peru, near Brazil.</p>
+<p>Anadarko said Phase I covers two and one-half years during which the company is committed to spend about $5 million to acquire a minimum of 600 kilometers of seismic survey. Plans include an aerial magnetic survey of Block 84.</p>
+<p>This survey will help determine locations for the seismic acquisition program scheduled for 1997, Anadarko said.</p>
+<p>PeruPetro negotiates exploration and production contracts on behalf of Peruvian goverment with foreign oil companies.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

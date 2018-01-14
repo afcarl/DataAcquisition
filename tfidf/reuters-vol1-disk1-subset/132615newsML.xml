@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132615" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Raytheon E-Systems gets $228 mln contract.</title>
+<headline>Raytheon E-Systems gets $228 mln contract.</headline>
+<dateline>DALLAS 1996-10-22</dateline>
+<text>
+<p>Raytheon E-Systems, a Raytheon Co unit, said Tuesday it has won a five-year contract worth more than $228 million to provide a voice command and control communications system to the U.S. government.</p>
+<p>Raytheon said the contract follows a four-year project of $106 million that ended September 30.  The new contract is funded from October 1 to September 30, 2001, Raytheon said.</p>
+<p>The contract covers 36 sites supporting key command centers, including those for the President and the Secretary of Defense.  It will provide secure and nonsecure digital switches, Raytheon said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

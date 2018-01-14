@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136207" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Drexler Technology Corp Q2 shr loss $0.05.</title>
+<headline>Drexler Technology Corp Q2 shr loss $0.05.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-23</dateline>
+<text>
+<p>Drexler Technology Corp.</p>
+<p>Summary Consolidated Statements of Operations (Unaudited)</p>
+<p>			  (In thousands, except per share data)</p>
+<p>			   Three Months Ended  Six Months Ended</p>
+<p>			     9/30/96   9/30/95   9/30/96    9/30/95</p>
+<p>Revenues:</p>
+<p>  Product sales	   $1,013    $  785    $1,622     $1,547</p>
+<p>License fees and royalties</p>
+<p>				     5	  10	  14	  217</p>
+<p>  Total revenues	   1,018	 795     1,636	1,764</p>
+<p> Cost of product sales     675	 555     1,098	1,089</p>
+<p> Expenses			789	 901     1,659	1,793</p>
+<p> Other income, net	     9	 220	  38	  224</p>
+<p>   Net loss		 ( 437)    ( 441)  ( 1,083)     ( 894)</p>
+<p>Net loss per share</p>
+<p>			    (5 cts)   (5 cts)   (12 cts)   (10 cts)</p>
+<p>Weighted average</p>
+<p>    common shares	  8,942     8,728     8,895	8,564</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33129" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: White House says U.S. launches new attack on Iraq.</title>
+<headline>White House says U.S. launches new attack on Iraq.</headline>
+<dateline>WASHINGTON 1996-09-03</dateline>
+<text>
+<p>U.S. military forces carried out additional strikes on Tuesday against Iraqi air defence sites to protect the safety of U.S. aircraft and crews operating in the newly expanded no-fly zone in southern Iraq, the White House said.</p>
+<p>&quot;This operation is designed to eliminate sites not destroyed in Tuesday morning's initial cruise missile strike,&quot; spokesman Mike McCurry said in a statement.  </p>
+<p>The United States had fired 27 cruise missiles at military targets in Iraq on Tuesday morning, saying Iraqi President Saddam Hussein had re-emerged as a menace to world security and a threat to the flow of oil from the Gulf.</p>
+<p>President Bill Clinton also announced that the no-fly zone -- a forbidden area for Iraqi combat aircraft -- would be expanded and refused to rule out additional missile attacks on air defense sites in southern Iraq.</p>
+<p>In response, Saddam ordered his pilots to shoot down airmen who tried to enforce it the no-fly zone.</p>
+<p>McCurry gave no details of the second strike but said the Pentagon would provide specifics early on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

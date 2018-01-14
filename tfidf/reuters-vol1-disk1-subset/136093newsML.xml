@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136093" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Harte-Hanks to buy data marketing company.</title>
+<headline>Harte-Hanks to buy data marketing company.</headline>
+<dateline>SAN ANTONIO 1996-10-23</dateline>
+<text>
+<p>Harte-Hanks Communications Inc said Wednesday that it had agreed to buy Marketing Communications Inc, a Kansas City provider of integrated database marketing services.</p>
+<p>Harte-Hanks said it will pay about $33 million in cash and short term notes for the stock of Marketing Communications. The company has 300 employees and is expected to have about $28 million in revenue for the year ended December 31, Harte-Hanks said.</p>
+<p>The deal should close in November.</p>
+<p>Harte-Hanks said the company will become part of its direct marketing division and that it plans to retain Marketing Communications' management team.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN ANTONIO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

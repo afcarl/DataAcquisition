@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135709" id="root" date="1996-10-23" xml:lang="en">
+<title>YUGOSLAVIA: ATHLETICS-LEADING PLACINGS IN RACE THROUGH HISTORY.</title>
+<headline>ATHLETICS-LEADING PLACINGS IN RACE THROUGH HISTORY.</headline>
+<dateline>BELGRADE 1996-10-23</dateline>
+<text>
+<p>Leading placings in the</p>
+<p>inaugural Race Through History over 6 kms on Wednesday:</p>
+<p> 1. Brahim Lalahfi (Morocco)   16 minutes and 58 seconds</p>
+<p>2. Mohammed Mourhit (Morocco) 17:02</p>
+<p> 3. Paul Tergat (Kenya)	  17:08</p>
+<p> 4. Robert Stefko (Slovakia)   17:10</p>
+<p> 5. Thomas Osano (Kenya)	 17:13</p>
+<p>6. Jan Pesava (Czech Republic)17:14</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

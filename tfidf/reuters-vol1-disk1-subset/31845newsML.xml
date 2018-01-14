@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31845" id="root" date="1996-09-04" xml:lang="en">
+<title>BOLIVIA: US envoy to UN cuts short tour because of Iraq.</title>
+<headline>US envoy to UN cuts short tour because of Iraq.</headline>
+<dateline>COCHABAMBA, Bolivia 1996-09-03</dateline>
+<text>
+<p>Madeleine Albright, the U.S. envoy to the United Nations, on Tuesday cut short a Latin American tour to return to the United Nations for Security Council discussions of the Iraqi situation.</p>
+<p>&quot;Recent developments in Iraq ... have necessitated my return to New York somewhat earlier than I had originally planned,&quot; she told reporters in this central Bolivian city where Latin American leaders were holding a regional summit.</p>
+<p>Albright, who left Bolivia before the United States announced a second missile attack was launched late on Tuesday against targets in southern Iraq, said in her talks with Latin leaders and ministers she had found sympathy for the first U.S. attack earlier on Tuesday.</p>
+<p>&quot;The general reaction that I have had is one of concern about what (Iraqi President) Saddam Hussein has done,&quot; she said, referring to an Iraqi military push into the Western-protected Kurdish area of northern Iraq.</p>
+<p>Asked about the scant support Washington received from its allies after the strike she said the Clinton administration was &quot;satisfied with the reaction of our allies.&quot;</p>
+<p>Only Washington's closest friends -- Britain, Germany, Japan and Canada -- backed the strikes.</p>
+<p>The United States received open support from Britain and Germany. China and Russia urged restraint and France was opposed.</p>
+<p>&quot;We believe that it is important that he (Saddam Hussein) gets the message yet again that aggressive action in the region is incompatible with peace and security and that he cannot pose a threat to the region.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COCHABAMBA, Bolivia"/>
+<dc element="dc.creator.location.country.name" value="BOLIVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

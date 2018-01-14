@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32779" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Finest Foodservice opening Boston Chicken stores.</title>
+<headline>Finest Foodservice opening Boston Chicken stores.</headline>
+<dateline>OVERLAND PARK, Kan. 1996-09-04</dateline>
+<text>
+<p>Finest Foodservice LLC, which owns and operates 64 Boston Market stores in seven Midwestern states, said Wednesday it will increase its development to 235 stores by the year 2003.</p>
+<p>Finest Foodservice said this more than doubles its initial commitment to open 109 units.</p>
+<p>Boston Market units are franchised by Boston Chicken Inc.</p>
+<p>Finest Foodservice said it plans to open the stores in Minnesota, Kansas, North Dakota, South Dakota, Missouri, Nebraska and Iowa.</p>
+<p>Finest Foodservice said its new units are part of Boston Chicken's nationwide development plan that calls for a total of approximately 3,600 Boston Market stores in the United States in the next five to seven years. Boston Chicken also has said it is evaluating international development.</p>
+<p>There are currently 977 Boston Market stores in 37 states and Washington, D.C.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OVERLAND PARK, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

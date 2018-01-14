@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136054" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: AAON Inc Q3 net rises.</title>
+<headline>AAON Inc Q3 net rises.</headline>
+<dateline>TULSA, Okla. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.09		    $0.04</p>
+<p> Net			    522			258</p>
+<p> Revs			17,173		   15,607</p>
+<p> Avg shrs		   6,122		    6,106</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>	  NINE MONTHS</p>
+<p> Shr			  $0.23		    $0.32</p>
+<p> Net			  1,416		    1,942</p>
+<p> Revs			45,946		   52,626</p>
+<p> Avg shrs		   6,119		    6,102</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TULSA, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

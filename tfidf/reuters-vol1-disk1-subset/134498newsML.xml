@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134498" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Lincoln National Corp Q3 net lower.</title>
+<headline>Lincoln National Corp Q3 net lower.</headline>
+<dateline>FORT WAYNE, Ind. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr		     $   1.14		  $  1.48</p>
+<p> Net			119,310		  154,326</p>
+<p> Revs		   1,684,884		1,668,458</p>
+<p> Avg shrs		 104,635		  104,265</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Q3 net includes realized investment gains equal to $0.02 a share in 1996 and $0.40 a share in 1995.  </p>
+<p>	  NINE MONTHS</p>
+<p> Shr			 $ 3.55		  $  3.91</p>
+<p> Net			370,777		  407,050</p>
+<p> Revs		   4,969,314		4,798,379</p>
+<p> Avg shrs		 104,587		  103,986</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Nine months net includes investment gains equal to $0.61 in 1996 and equal to $1.05 in 1995.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WAYNE, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

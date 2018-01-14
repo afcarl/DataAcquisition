@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31393" id="root" date="1996-09-04" xml:lang="en">
+<title>ITALY: SOCCER-SAVICEVIC AND CONTE GET TWO-MATCH BANS.</title>
+<headline>SOCCER-SAVICEVIC AND CONTE GET TWO-MATCH BANS.</headline>
+<dateline>MILAN 1996-09-04</dateline>
+<text>
+<p>Milan's Montenegrin attacker Dejan Savicevic and Juventus midfielder Antonio Conte were given two-match bans on Wednesday after being sent off in a friendly between the two serie A sides last month.</p>
+<p>The two were involved in a second half scuffle in the friendly between European Cup winners Juventus and the Italian champions in Milan on August 21. The home team won 1-0.</p>
+<p>Savicevic was also fined $3,000.</p>
+<p>The bans mean the two will miss the opening serie A matches this weekend but not European Cup games in midweek.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

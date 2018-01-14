@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136507" id="root" date="1996-10-23" xml:lang="en">
+<title>CROATIA: Croatian stocks mostly lower.</title>
+<headline>Croatian stocks mostly lower.</headline>
+<dateline>ZAGREB 1996-10-23</dateline>
+<text>
+<p>Croatian stocks closed mostly lower on Wednesday, with new losses among hoteliers.</p>
+<p>* Of ten active issues eight were down, two up.</p>
+<p>* The turnover was up at 11.4 million kuna, volume also higher at 7,075 shares.</p>
+<p>* The biggest gainer was drug firm Pliva, which rose 289 kuna to close at 13,300, with 538 shares traded.</p>
+<p>* The biggest loser was Istrian hotelier Riviera, which fell 30 kuna to close at 220 kuna on a small volume of 70 shares.</p>
+<p>* The most active issue was Zagrebacka banka, which edged down 15 kuna to close at 1,035 on volume of 2,709 shares.</p>
+<p>(5.4566 kuna = $1)</p>
+<p>-- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132803" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Nynex mobile, cable units show most Q3 rise.</title>
+<headline>Nynex mobile, cable units show most Q3 rise.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>NYNEX Corp said Tursday that Bell Atlantic NYNEX Mobile revenues grew 32.1 percent in the third quarter and that cable television subscribers at NYNEX CableComms was up nearly 48 percent over the year-ago period, increasing to almost 243,000 customers.</p>
+<p>Telecommunications revenues grew 3 percent from the year-ago quarter, with strong sales of business and value-added services and record access line demand.  </p>
+<p>Private line sales grew 12.9 percent and total access minutes of use grew 9.1 percent, the company said.</p>
+<p>NYNEX reported that value-added service revenues were up 22.8 percent over the 1995 third quarter, and the number of ISDN lines in service increased nearly 74 percent to 118,000. It said NYNEX-wide access lines including unconsolidated ventures grew 5.1 percent.</p>
+<p>The company said Bell Atlantic NYNEX Mobile added 232,000 cellular customers, ending the quarter with more than 4 million customers and a 36.4 percent increase over the 1995 third quarter.  </p>
+<p>NYNEX CableComms Group is a unit of NYNEX.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

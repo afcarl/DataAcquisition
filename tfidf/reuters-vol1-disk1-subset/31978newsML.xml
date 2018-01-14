@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31978" id="root" date="1996-09-04" xml:lang="en">
+<title>SINGAPORE: Singapore rubber futures close lower across board.</title>
+<headline>Singapore rubber futures close lower across board.</headline>
+<dateline>SINGAPORE 1996-09-04</dateline>
+<text>
+<p>Rubber futures closed lower across the board on Wednesday in moderate trade in line with lower Japanese prices, brokers said on Wednesday.</p>
+<p>They said prices in Tokyo and Kobe were marked down slightly on long liquidation, which was prompted by an expected increase in Japan's rubber stocks.</p>
+<p>&quot;The market was quiet and featureless in the morning due to an absence of fresh incentives. But prices were marked down in the afternoon on some late selling interest in sympathy with weaker prices in Tokyo and Kobe. Volume was moderate,&quot; a local broker said.  </p>
+<p>At around 0945 GMT, October RSS3 slipped 0.75 cent to 129.50 U.S. cents a kg.</p>
+<p>November RSS1 eased half a cent to 190.75 Singapore cents (US$1.36) a kg.</p>
+<p>October TSR20 fell one cent to 179.50 Singapore cents (US$1.28) a kg.</p>
+<p>(US$1-S$1.40) -- Singapore newsroom (65-870-3085)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

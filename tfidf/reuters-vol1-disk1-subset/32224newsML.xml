@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32224" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Judge upholds Las Cruces' right to issue bonds.</title>
+<headline>Judge upholds Las Cruces' right to issue bonds.</headline>
+<dateline>EL PASO, Texas 1996-09-04</dateline>
+<text>
+<p>El Paso Electric Co said Wednesday New Mexico State District Court Judge Gerald Valentine issued a letter to counsel upholding the legality of the City of Las Cruces' issuance of $72.5 million in bonds designated to be used for the purpose of acquiring El Paso Electric's distribution system within the city limits.</p>
+<p>In his letter, Valentine states that as a home rule municipality, &quot;The City of Las Cruces had the authority to issue and sell the gross receipts tax bonds for the purpose of acquiring the utility and for other purposes stated in the bonds.  </p>
+<p>&quot;Approval of the (New Mexico) Public Utilities Commission prior to issuing and selling the Series 1995 gross receipts tax revenue bonds was not necessary for the bonds to be valid,&quot; the letter continued.</p>
+<p>The utility said it is evaluating the judge's analysis and upon receipt of the court order will determine whether to appeal the decision.</p>
+<p>El Paso Electric noted a federal magistrate, in a related case, remanded the question of whether Las Cruces has the legal authority to condemn the system to the New Mexico Supreme Court after finding the city failed to prove that its takeover of the power system would not harm in a material way El Paso Electric's ability to serve its other New Mexico customers. -- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL PASO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

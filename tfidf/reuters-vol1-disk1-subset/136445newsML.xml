@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136445" id="root" date="1996-10-23" xml:lang="en">
+<title>BULGARIA: Bulgaria parliament sets up state investment bank.</title>
+<headline>Bulgaria parliament sets up state investment bank.</headline>
+<dateline>SOFIA 1996-10-23</dateline>
+<text>
+<p>Bulgaria's parliament on Wednesday approved a law establishing a State Bank for Investment and Development (SBID) to support small- and medium-sized firms.</p>
+<p>The bank is expected to have equity capital of two billion levs, of which 51 percent will be held by the state represented by the government.</p>
+<p>Under the law, the remaining 49 percent will be offered to state institutions and enterprises and foreign companies.</p>
+<p>A quarter of Bulgaria's banks are in receivership and the central bank has yet to decide which banks to close and which to stabilise.</p>
+<p>Many state enterprises have had their accounts blocked by the closures. Funds in the new bank are expected to be guaranteed by the state.</p>
+<p>The bank is expected to start operating in six months after a 500 million lev upfront equity payment. The remaining payments will be made in three 500 million lev installments over the next six years.</p>
+<p>The bank's operation will include crediting, accumulation of deposits, dealing in government securities and fund mangement deals, the law says.</p>
+<p>Under the law, the central bank is expected to refinance SBID up to the amount of its own capital.</p>
+<p>SBID's initial capital will come from the Bulgarian Economic Chamber, of which state enterprises are members. -- Sofia Newsroom, 359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132099" id="root" date="1996-10-21" xml:lang="en">
+<title>JAPAN: NEC says April-Sept chip production falls 4.0%.</title>
+<headline>NEC says April-Sept chip production falls 4.0%.</headline>
+<dateline>TOKYO 1996-10-21</dateline>
+<text>
+<p>NEC Corp senior executive vice president Hajime Sasaki said on Monday that the firm's chip production in the first half of this business year fell 4.0 percent against the year-earlier period to 530 billion yen.</p>
+<p>He also said the value of the company's chip production would drop 6.0 percent to 1.1 trillion yen in the full business year to the end of March 1997.  </p>
+<p>He told a news conference that prices of 16-megabit dynamic random access memories (DRAMs) had stabilised and that a large fall was unlikely in the January-March quarter, despite analysts' predictions that the market could fall after higher sales for the Christmas season.  </p>
+<p>&quot;We anticipate prices of a 16-megabit DRAMs will stay above $10 in the second half of the current business year,&quot; Sasaki said.</p>
+<p>&quot;Pricing such as seven or eight dollars per chip (as reported by the media) is impossible,&quot; he said.</p>
+<p>Currently, there was a supply shortage for some 16-megabit DRAM products as demand was being stepped up ahead of the Christmas season, he said.</p>
+<p>Sasaki said he expected strong demand for memory chips to continue into early next year, helped by the Internet boom and increasing use of memory-hungry Windows NT operating software.  </p>
+<p>Sasaki said an estimated six percent drop in NEC's chip production in the current business year would lead to &quot;a considerable decline in profit&quot; in the company's semiconductor business, but declined to comment on specific figures.</p>
+<p>NEC would revise downward its planned capital investment in the microchip business in 1996/97 to 190 billion yen from the 210 billion yen it originally estimated at the start of the year, Sasaki said.</p>
+<p>The basic investment programme, however, would not be changed, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

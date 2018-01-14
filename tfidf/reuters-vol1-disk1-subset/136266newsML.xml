@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136266" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: NWE gasoline falls $2 despite support, $18 Nov-Dec.</title>
+<headline>NWE gasoline falls $2 despite support, $18 Nov-Dec.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>NWE gasoline slipped $2.00 a tonne on Wednesday as weak crude and U.S. gasoline weighed on the European market.</p>
+<p>Eurograde barges slipped to about $235.50 for October loadings by the close after a trade earlier at $236.00 and $237.00 for a top-up. A barge for loading 1-15 November traded at $234.00, compared to November swaps at $228.50.</p>
+<p>Demand for regular barges remains good around $229.00 and Polish demand also underpinned prices.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134519" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Newell Co Q3 net rises.</title>
+<headline>Newell Co Q3 net rises.</headline>
+<dateline>FREEPORT, Ill. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.47		    $0.41</p>
+<p> Net			 74,600		   65,100</p>
+<p> Revs		     761,900		  651,300</p>
+<p> Avg shrs		 158,800		  158,400</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>			     NINE MONTHS</p>
+<p>				1996			1995</p>
+<p> Shr			  $1.11		    $0.99</p>
+<p> Net			175,500		  156,100</p>
+<p> Revs		   2,115,200		1,829,200</p>
+<p> Avg shrs		 158,700		  158,100</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREEPORT, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

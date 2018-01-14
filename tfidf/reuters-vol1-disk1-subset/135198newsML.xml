@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135198" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH KOREA: S.Korean won closes higher in lacklustre trading.</title>
+<headline>S.Korean won closes higher in lacklustre trading.</headline>
+<dateline>SEOUL 1996-10-22</dateline>
+<text>
+<p>The won ended stronger versus the dollar on Tuesday in quiet, dull trading as some banks squared their long dollar holdings, dealers said.</p>
+<p>The won closed at 827.60 after opening at 828.30. It moved in a range of 827.40 to 828.50.</p>
+<p>&quot;Trading was thin with most participants sitting sidelined,&quot; said a local dealer. &quot;The market is still trapped between 825 and 830.&quot;</p>
+<p>Dealers said the won was likely to trade in a range of 826.50 to 828.50 on Wednesday. The base mid-rate is seen at 827.80, unchanged from today's. -- JEAN YOON (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

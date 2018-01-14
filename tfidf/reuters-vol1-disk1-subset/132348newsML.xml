@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132348" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: HOT STOCKS HIGHLIGHTS- Corporate earnings.</title>
+<headline>HOT STOCKS HIGHLIGHTS- Corporate earnings.</headline>
+<text>
+<p>Medaphis Corp off 36 percent or 6-1/8 to 10-5/8 in heavy trading.</p>
+<p>The company posted a third quarter pro forma share loss of $0.51 compared to a loss of $0.05 and said it would restate 1995 earnings because of a license agreement with Imonics.</p>
+<p>-------------------</p>
+<p>Avery Dennison Corp share rose 1-7/8 to 62-1/4 after hitting a new 52-week high of 62-3/4.</p>
+<p>The company poasted earnings per share of $0.89 compared to $0.67 in the year-ago period and said it would seek a stock split and a dividend increase.  </p>
+<p>---------------------</p>
+<p>Arrow Electronics Inc up 2-3/8 to 46-1/4.</p>
+<p>The company posted third quarter earnings of $0.85 on a fully diluted basis compared to $1.01 a share in the year-ago period. Sales for the quarter rose 9 percent to $1.6 billion.</p>
+<p>---------------------</p>
+<p>Kimberly-Clark shares jump 2-1/4 to 89-7/8, a new 52 week high.</p>
+<p>The company posted operating third quarter earnings of $1.24 compared to $1.15 in the year-ago quarter. It later said it expected a $200 million negative impact to 1996 results from tissue prices.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I49540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

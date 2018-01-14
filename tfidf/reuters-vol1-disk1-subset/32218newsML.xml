@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32218" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: OfficeMax reviewing options, acquisitions.</title>
+<headline>OfficeMax reviewing options, acquisitions.</headline>
+<dateline>SHAKER HEIGHTS, Ohio 1996-09-04</dateline>
+<text>
+<p>OfficeMax Inc is reviewing its own acquisition options following Staples Inc proposed acquisition of Office Depot Inc, spokesman Juris Pagrabs said.</p>
+<p>&quot;We'll continue to pursue acquisition candidates, and we're currently reviewing our options under the proposed merger,&quot; he said.  He declined to elaborate.</p>
+<p>Pagrabs said the planned merger between the two office products superstores would leave OfficeMax, which has 502 stores in the United States, just one major competitor, the new Staples the Office Depot.</p>
+<p>&quot;We actually see this as having an opportunity for more rational pricing,&quot; he said. &quot;There may be some opportunity for us to look at our new store expansion.&quot;</p>
+<p>-- Michael Ellis, (617) 367-4176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I65300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHAKER HEIGHTS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

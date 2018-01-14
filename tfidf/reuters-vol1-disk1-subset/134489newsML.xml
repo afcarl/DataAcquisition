@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134489" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Universal Forest Products Inc Q3 net up.</title>
+<headline>Universal Forest Products Inc Q3 net up.</headline>
+<dateline>GRAND RAPIDS, Mich. 1996-10-22</dateline>
+<text>
+<p>Third Quarter</p>
+<p>					   1996		 1995</p>
+<p> NET SALES		     $243,887    100%  $188,801    100%</p>
+<p> COST OF GOODS SOLD	   221,924   90.99   170,966   90.55</p>
+<p> GROSS PROFIT		    21,963    9.01    17,835    9.45</p>
+<p>SELLING, GENERAL AND</p>
+<p>   ADMINISTRATIVE EXPENSES   13,571    5.56    12,523    6.63</p>
+<p> EARNINGS FROM OPERATIONS     8,392    3.44     5,312    2.81</p>
+<p>OTHER INCOME (EXPENSE):</p>
+<p>   Interest expense	     (996)  (0.41)   (1,006)  (0.53)</p>
+<p>   Interest revenue		 334    0.14	 392    0.21</p>
+<p>   Interest, net		  (662)  (0.27)     (614)  (0.33)</p>
+<p>Gain (loss) on sale of assets</p>
+<p>					   42    0.02	  91    0.05</p>
+<p>   Other, net			 254    0.10	 399    0.21</p>
+<p>     Total			  (366)  (0.15)     (124)  (0.07)</p>
+<p> EARNINGS BEFORE TAXES	  8,026    3.29     5,188    2.75</p>
+<p> INCOME TAXES		     3,234    1.33     2,083    1.10</p>
+<p> NET EARNINGS		     4,792    1.96     3,105    1.64</p>
+<p> EARNINGS PER SHARE		0.27	--	0.18	--</p>
+<p> AVERAGE SHARES OUTSTANDING  17,776	--    17,711	--</p>
+<p>	   (in thousands except per share results)</p>
+<p>			 Nine Months</p>
+<p>						1996		     1995</p>
+<p> NET SALES		     $679,195    100%  $599,226    100%</p>
+<p> COST OF GOODS SOLD	   609,365   89.72   539,031   89.95</p>
+<p> GROSS PROFIT		    69,830   10.28    60,195   10.05</p>
+<p>SELLING, GENERAL AND</p>
+<p>   ADMINISTRATIVE EXPENSES   41,707    6.14    37,942    6.33</p>
+<p> EARNINGS FROM OPERATIONS    28,123    4.14    22,253    3.71</p>
+<p>OTHER INCOME (EXPENSE):  </p>
+<p>   Interest expense	   (3,042)  (0.45)   (3,627)  (0.61)</p>
+<p>   Interest revenue		 624    0.09	 717    0.12</p>
+<p>   Interest, net		(2,418)  (0.36)   (2,910)  (0.49)</p>
+<p>Gain (loss) on sale of assets</p>
+<p>					   41    0.01	 247    0.04</p>
+<p>   Other, net			 455    0.07	 482    0.08</p>
+<p>     Total			(1,922)  (0.28)   (2,181)  (0.36)</p>
+<p> EARNINGS BEFORE TAXES	 26,201    3.86    20,072    3.35</p>
+<p> INCOME TAXES		    10,595    1.56     8,149    1.36</p>
+<p> NET EARNINGS		    15,606    2.30    11,923    1.99</p>
+<p> EARNINGS PER SHARE		0.88	--	0.68	--</p>
+<p> AVERAGE SHARES OUTSTANDING   17,701	--    17,618	--</p>
+<p>	  (in thousands except per share results)</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRAND RAPIDS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

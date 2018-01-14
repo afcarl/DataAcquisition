@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31713" id="root" date="1996-09-04" xml:lang="en">
+<title>HUNGARY: Hungarian opposition defeated over Romania pact.</title>
+<headline>Hungarian opposition defeated over Romania pact.</headline>
+<dateline>BUDAPEST 1996-09-04</dateline>
+<text>
+<p>Hungary's parliament on Wednesday overwhelmingly rejected an opposition bid to demand a review of a friendship treaty with Romania.</p>
+<p>The ruling Hungarian Socialist Party, allied with the Free Democrats, defeated the opposition proposal by a vote of 235 to 71, the Hungarian news agency MTI reported.</p>
+<p>The vote came at two a.m. after a stormy, 13-hour debate in an extraordinary session called by the opposition.</p>
+<p>Opponents of the treaty, which enshrines protective rights for ethnic minorities and renounces any claims by either country over the other's territory, wanted parliament to have the right to give its preliminary approval before the treaty is signed.</p>
+<p>The opposition says the treaty addresses only the rights of individuals and not the collective rights of the 1.6 million ethnic Hungarians living in Romania.</p>
+<p>During the debate, right-wing Smallholders Party leader Jozsef Torgyan said that signing the treaty would be an act of &quot;treason&quot;, but Prime Minister Gyula Horn said nothing he had heard during the debate had convinced him to change his mind.</p>
+<p>Horn's Socialist Party and the Free Democrat coalition partner have a commanding 72 percent majority in parliament which is more than enough to ratify the treaty.</p>
+<p>Hungary and Romania announced two weeks ago that the friendship treaty had been completed and was ready to be signed after four years of negotiation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

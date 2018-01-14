@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136186" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: SangStat Medical Corp Q3 shr loss $0.26.</title>
+<headline>SangStat Medical Corp Q3 shr loss $0.26.</headline>
+<dateline>MENLO PARK, Calif. 1996-10-23</dateline>
+<text>
+<p>SANGSTAT MEDICAL CORPORATION</p>
+<p>			Selected Consolidated Financial Data</p>
+<p>Statement of Operations Data:</p>
+<p>			Three Months Ended     Nine Months Ended</p>
+<p>			    Sept. 30,		 Sept. 30,</p>
+<p>			    1996	1995	  1996	  1995</p>
+<p>REVENUES</p>
+<p>Net Products &amp; Services</p>
+<p>			$639,675   $581,725  $1,732,263  $1,855,931</p>
+<p>Collaborative Agreement</p>
+<p>				 0	    0	     0   1,125,000</p>
+<p>   Total Revenues  639,675    581,725   1,732,263   2,980,931</p>
+<p>COST AND OPERATING EXPENSES</p>
+<p>Cost of Sales and</p>
+<p>Manufacturing Expenses</p>
+<p>			 729,777    617,268   2,018,416   1,932,417</p>
+<p>Research and</p>
+<p>   Development   2,132,472  1,657,968   6,187,703   4,582,333</p>
+<p>Selling, General and</p>
+<p>Administrative</p>
+<p>		     1,827,942    907,270   4,168,592   2,688,685</p>
+<p>Total Operating</p>
+<p>    Expenses     4,690,191  3,182,506  12,374,711   9,203,435</p>
+<p>LOSS FROM OPERATIONS</p>
+<p>		  (4,050,516) (2,600,781)(10,642,448) (6,222,504)</p>
+<p>OTHER INCOME -- NET</p>
+<p>			 584,601    150,249   1,455,833     543,962</p>
+<p>NET LOSS</p>
+<p>		 ( 3,465,915)($2,450,532)($9,186,615)($5,678,542)</p>
+<p>Net Loss Per Share</p>
+<p>			 ( 0.26)    ( 0.26)     ( 0.76)     ( 0.61)</p>
+<p>Shares Used in Per</p>
+<p>Share Computations</p>
+<p>		    13,098,852  9,568,657  12,166,640   9,306,312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

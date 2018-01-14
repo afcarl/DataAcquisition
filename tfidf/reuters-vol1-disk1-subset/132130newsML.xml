@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132130" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: Maybank, Kwong Yik suspended.</title>
+<headline>Maybank, Kwong Yik suspended.</headline>
+<dateline>KUALA LUMPUR 1996-10-21</dateline>
+<text>
+<p>Shares of Malayan Banking Bhd (Maybank) and Kwong Yik Bank Bhd have been suspended from trading on the Kuala Lumpur Stock Exchange pending an announcement.</p>
+<p>Shares of Associated Kaolin Industries Bhd and Man Yau Holding Bhd have also been suspended.  </p>
+<p>The market has speculated that Maybank was selling off its interest in 75 percent-owned Kwong Yik, but it was not immediately clear if this was the reason for the suspensions.</p>
+<p>Maybank managing director Amirsham Abdul Aziz said on Saturday the bank had no immediate plans to sell all or part of its stake in Kwong Yik.</p>
+<p>Maybank shares were last traded at 25.00 ringgit and Kwong Yik at 6.95.</p>
+<p>Shares of timber and refined kaolin firm Associated Kaolin were last traded at 13.10. Plastics parts manufacturer and property developer Man Yau shares last traded at 7.30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I48300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

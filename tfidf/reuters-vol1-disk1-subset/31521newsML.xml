@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31521" id="root" date="1996-09-04" xml:lang="en">
+<title>BURUNDI: U.S. plane takes off from Burundi after delay.</title>
+<headline>U.S. plane takes off from Burundi after delay.</headline>
+<dateline>BUJUMBURA 1996-09-04</dateline>
+<text>
+<p>A U.S. airforce C-141 Starlifter transport plane flew out of Burundi on Wednesday after a seven-hour delay caused by Tanzania's refusal to allow it to overfly its territory, airport officials said.</p>
+<p>The plane took off as renewed fighting between government troops and Hutu rebels flared to the east of the capital. The army was using two helicopter gunships and mortars to repel the rebels in some of the fiercest fighting since a July 25 coup.</p>
+<p>Officials and witnesses said the plane headed for the Kenyan capital Nairobi with 31 passengers, mainly diplomats and aid workers, after Rwanda and Uganda granted it special permission to overfly.</p>
+<p>&quot;Rwanda and Uganda agreed for the plane to overfly their airspace,&quot; an aiport security official told Reuters.</p>
+<p>Tanzania refused to let the U.S. plane fly in its airspace, saying it was affected by regional sanctions against Burundi.</p>
+<p>African states banned all air links with Burundi as part of sanctions imposed after the bloodless military coup.</p>
+<p>A U.S. embassy spokesman in Nairobi, the Kenyan capital, denied the Starlifter was sent to war-torn Burundi to evacuate the few remaining U.S. citizens.</p>
+<p>&quot;This is not an evacuation. It is a routine embassy support flight,&quot; Louis Segesvary said.</p>
+<p>But a Reuters correspondent at Bujumbura airport said several of the 31 foreigners, including Americans, said they were leaving Burundi because stepped-up fighting between the army and rebels had made it impossible to carry on their work.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURUN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUJUMBURA"/>
+<dc element="dc.creator.location.country.name" value="BURUNDI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

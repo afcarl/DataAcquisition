@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32611" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Calif. utility stranded cost estimates contested.</title>
+<headline>Calif. utility stranded cost estimates contested.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>A key California consumer advocacy group said Wednesday it will challenge the estimated cost of stranded investments the state's three biggest utilities face as a result of deregulating their industry.</p>
+<p>The utilities - Edison International's Southern California Edison, Pacific Gas and Electric, and Enova Corp's San Diego Gas and Electric - assessed these uneconomic investments at around $28.5 billion.</p>
+<p>Toward Utility Rate Normalization (TURN) said it will lead the fight to knock down those estimates.  </p>
+<p>The utilities filed Friday with the California Public Utilities Commission detailed breakdowns of these figures for 1998, the year the state plans to open its electricity market to free competition.</p>
+<p>Edison, for instance, said bad investment writeoffs will total $3.3 billion in 1998 - $1.6 billion from mandated power purchase contracts, $1.1 billion from nuclear investments and $500,000 from fossil fuel generation plants.</p>
+<p>Under a bill passed by the California Legislature over the weekend, the utilities are entitled to charge electricity consumers investments made under the existing regulatory system.  </p>
+<p>TURN said it remains concerned that the bill creates new restrictions which could discourage divestiture of power plants and increase the write-off costs borne by consumers.</p>
+<p>The group also said the legislation, which is expected to be signed by the governor, overly restricts individual consumers and small business from joining together to bargain for lower rates.</p>
+<p>- D Beasley, Los Angeles bureau + 213 955 6853</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

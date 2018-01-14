@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135794" id="root" date="1996-10-23" xml:lang="en">
+<title>LUXEMBOURG: EX KB LUX STAFF GIVEN HEAVY FINES.</title>
+<headline>EX KB LUX STAFF GIVEN HEAVY FINES.</headline>
+<dateline>LUXEMBOURG 1996-10-23</dateline>
+<text>
+<p>A Luxembourg court on Wednesday gave two former employees of Kredietbank (KB) Luxembourg heavy fines and prison sentences for computer fraud, receiving stolen goods and fraud, legal sources said.</p>
+<p>One of the two men was sentenced to three years in prison and a fine of one million Luxembourg francs. The other got 30 months in jail and a 800,000 franc fine.</p>
+<p>The prison terms will be reduced by time already served in detention, which is two years for both men.</p>
+<p>The two were among five employees fired by the bank, a unit of Belgium's Almanij holding company, at the start of 1994 after allegedly fraudulent actions, in particular illegally transferring 20 million marks ($13.1 million) in funds to accounts in eastern Europe, were detected.</p>
+<p>KB Luxembourg says it has recovered around 18.3 million marks.</p>
+<p>The public prosecutor demanded five-year prison sentences for both.</p>
+<p>Their lawyers claimed the court was not competent to rule on the charge of receiving stolen goods since the offence was allegedly committed in Slovakia. They asked for their acquittal.</p>
+<p>The three others are not being prosecuted under Luxembourg law because they are residents of neighbouring Belgium, which does not extradite its citizens.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUXEMBOURG"/>
+<dc element="dc.creator.location.country.name" value="LUXEMBOURG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

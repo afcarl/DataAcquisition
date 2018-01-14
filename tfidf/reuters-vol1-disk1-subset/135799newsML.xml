@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135799" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Canadian House defeats motion to kill MMT ban.</title>
+<headline>Canadian House defeats motion to kill MMT ban.</headline>
+<dateline>OTTAWA 1996-10-23</dateline>
+<text>
+<p>The House of Commons on Wednesday defeated a motion which would have effectively killed a proposed ban on the gasoline additive MMT.</p>
+<p>By a margin of 124 to 66, Parliament's lower chamber defeated a motion from the opposition Bloc Quebecois to refer a bill to ban the import and inter-provincial trade of MMT back to committee to reconsider the bill &quot;in its entirety.&quot;</p>
+<p>MMT, methylcyclopentadienyl manganese tricarbonyl, is manufactured by Ethyl Corp and imported by its Canadian subsidiary.</p>
+<p>It boosts octane while cutting emissions of carbon monoxide and nitrogen oxide, but environmentalists and car makers advocate using other octane enhancers. Car makers say it could damage onboard diagnostic equipment.</p>
+<p>The government bill was first introduced in May 1995 and is now in its final stage, known as &quot;third reading,&quot; subject only to motions such as the one defeated on Wednesday. A date for a final vote on the bill itself has not been announced.</p>
+<p>-- Randall Palmer, Reuters Ottawa Bureau (613) 235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

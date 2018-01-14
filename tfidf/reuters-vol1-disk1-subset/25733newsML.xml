@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25733" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: CYCLING-NEW WORLD TEAM PURSUIT RECORD FOR ITALY.</title>
+<headline>CYCLING-NEW WORLD TEAM PURSUIT RECORD FOR ITALY.</headline>
+<dateline>MANCHESTER, England 1996-08-31</dateline>
+<text>
+<p>Italy set a new world record for the 4,000 metres team pursuit in the semifinals of the world championship at Manchester on Saturday.</p>
+<p>The Italian quartet's time of 4:00.958 beat the old record of 4:03.840, set by Australia in Hamar, Norway two years ago, by 2.882 seconds.</p>
+<p>With their semifinal opponents Russia heading for defeat, Italy's Adler Capelli, Cristiano Citto, Andrea Collinelli and Mauro Trentino eased off in the closing laps but still achieved the record.</p>
+<p>Italy, silver medallists in the Olympic team pursuit, face Atlanta gold medallists France in Saturday night's final. The French qualified for the final in 4:05.104 , beating Germany who were awarded the bronze medal as fastest losing semifinalists.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANCHESTER, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

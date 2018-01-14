@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136095" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Commercial Bank NY ends plan to buy bank.</title>
+<headline>Commercial Bank NY ends plan to buy bank.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>Commercial Bank of New York said Wednesday that it ceased its efforts to buy United Mizrahi Bank and Trust Co after United Mizrahi accepted another offer.</p>
+<p>Commercial Bank said United Mizrahi has accepted an offer at an amount exceeding the price submitted by Commerical Bank.</p>
+<p>Commerical Bank had previously entered into a letter of intent in May 1996 with Tel Aviv's United Mizrahi Bank, the parent company of United Mizrahi Bank and Trust Co.  </p>
+<p>The letter of intent had expired on October 15.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

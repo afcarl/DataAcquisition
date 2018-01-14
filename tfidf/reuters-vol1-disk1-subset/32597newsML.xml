@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32597" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: ABC/Money consumer comfort index steady at -11.</title>
+<headline>ABC/Money consumer comfort index steady at -11.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>For the fourth week in a row, the Money Magazine/ABC News consumer comfort index held steady at -11 in the week ended September 1.</p>
+<p>&quot;Americans remained relatively upbeat about current economic conditions and their own finances, and their views of today's buying climate edged up after matching a 31-week low,&quot; according to a report that released the survey.</p>
+<p>The survey, this time with 1,043 respondents, polls consumers nationwide about the national economy, their own finances and their willingness to spend money. The poll has a margin of error of plus/minus 3.5 percent.</p>
+<p>Forty percent of consumers polled rated the economy positively, keeping the survey's economic index at -20.</p>
+<p>Fifty-seven percent, down one percent from last week's survey, gave good grades to their finances, lowering the survey's &quot;personal finances&quot; index two points, to 14. Thirty-seven percent said now is a good time to spend.</p>
+<p>-- N.A. Treasury Desk, 212-859-1639</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

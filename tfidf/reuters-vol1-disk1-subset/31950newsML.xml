@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31950" id="root" date="1996-09-04" xml:lang="en">
+<title>THAILAND: Thai officials say Iraq rice purchases unlikely.</title>
+<headline>Thai officials say Iraq rice purchases unlikely.</headline>
+<dateline>BANGKOK 1996-09-04</dateline>
+<text>
+<p>Doubts over the future of the U.N. oil-for-food deal with Iraq after the U.S. missile attack on that country further reduce the chances that Iraq will buy Thai rice, industry and Commerce Ministry officials said on Wednesday.</p>
+<p>Iraq had approached the Commerce Ministry earlier this year to buy 250,000 tonnes of Thai rice on credit terms and an unspecified amount of cash, one official said.</p>
+<p>But in July, the government decided to turn down the request because the Thai Export-Import Bank would not approve the one-year credit sought by Iraq.</p>
+<p>However, Iraq may turn to private Thai exporters because it was known to need 400,000 to 500,000 tonnes of rice, the official said.</p>
+<p>Market sources said they had not heard of private deals with Iraq, but agreed that the collapse of the oil-for-food programme would make exporters even more reluctant to sell to Iraq.</p>
+<p>The U.S. launched cruise missile against air defence targets in Iraq in retaliation for Baghdad's attacks on Kurdish groups in the country's north.</p>
+<p>Thailand has not shipped sugar directly to Iraq for some years now, but traders said some sugar imported from Thailand by Jordan might have slipped into the country.</p>
+<p>Jordan imported 30,000 tonnes of white sugar from Thailand between January and July this year, according to international surveyor Overseas Merchandise Inspection Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

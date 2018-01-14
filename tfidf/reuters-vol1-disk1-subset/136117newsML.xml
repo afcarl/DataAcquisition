@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136117" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Enron Oil finds natgas off Louisiana.</title>
+<headline>Enron Oil finds natgas off Louisiana.</headline>
+<dateline>HOUSTON 1996-10-23</dateline>
+<text>
+<p>Enron Oil &amp; Gas Co said Wednesday it had discovered natural gas on Eugene Island Block 135 offshore Louisiana in the Gulf of Mexico and expects to begin production there no later than 1997's fourth quarter.</p>
+<p>The company said flow rates from one of two natural gas zones found tested at 16.5 million cubic feet of natural gas and 650 barrels per day of condensate per day on a 20/64th inch choke at a flowing tubing pressure of 9,050 pounds per square inch.</p>
+<p>Enron Oil said it is the operator of the Eugene Island discovery well and holds a 50 percent working interest.  </p>
+<p>The remaining working interest is held by Seagull Energy Corp, 20 percent; Canadian Occidental Petroleum Ltd, 15 percent; and Box Energy Corp, 15 percent.</p>
+<p>Enron Oil also said it has acquired the remaining working interest in the Brazos Tract 492-S where an offshore natural gas discovery well was drilled and completed in the second quarter of this year.</p>
+<p>&quot;Our plans are to maintain our emphasis on offshore Texas development while increasing our presence offshore Louisiana,&quot; said chief executive Forrest E. Hoglund.  </p>
+<p>The company said the Eugene Island discovery well, located at a water depth of 70 feet, was drilled to a depth of 18,300 feet and encountered two zones below 17,000 feet, totaling approximately 200 gross feet of natural gas sands.</p>
+<p>&quot;We currently are evaluating our development plans for the Eugene Island Block, but would anticipate initial production to begin flowing from this discovery and subsequent development wells no later than the fourth quarter of next year,&quot; Hoglund said.</p>
+<p>Production from the Brazos 492-S No. 1 well is expected to begin prior to year-end 1996 at a projected flow rate of 10 million cubic feet per day of natural gas. The Brazos find was drilled to a depth of 8,763 feet and encountered four gas zones below 7,100 feet with 94 net feet of natural gas pay.</p>
+<p>Enron Oil is owned 59 percent by Enron Corp.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

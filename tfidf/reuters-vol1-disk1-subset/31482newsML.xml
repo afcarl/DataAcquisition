@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31482" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Caledonia's Zambian cobalt site expands.</title>
+<headline>Caledonia's Zambian cobalt site expands.</headline>
+<dateline>TORONTO 1996-09-04</dateline>
+<text>
+<p>Caledonia Mining Corp said on Wednesday that eight new drill holes at its Nama cobalt discovery area in Zambia show the deposit continues to expand.</p>
+<p>All the holes, which were drilled to test for further depth and lateral extensions of the deposit, intersected significant cobalt and copper mineralization, the company said in a statement.</p>
+<p>Five of the eight holes ended in mineralization, Caledonia said.</p>
+<p>The company plans to bring two diamond drills on to the site by the middle of September to determine the depth extent of the deposit, while their reverse circulation drills continue to explore the lateral boundaries.</p>
+<p>-- Reuters Toronto Bureau 416 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

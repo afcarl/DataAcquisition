@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32776" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Community Central Bank files for public offering.</title>
+<headline>Community Central Bank files for public offering.</headline>
+<dateline>MOUNT CLEMENS, Mich. 1996-09-04</dateline>
+<text>
+<p>Community Central Bank Corp said it registered with the U.S. Securities and Exchange Commission a proposed initial public offering of 825,000 shares of common stock at $10 each.</p>
+<p>All of the 825,000 shares will be newly issued and sold by the company.</p>
+<p>Underwriters, including Roney &amp; Co, have been granted an option by Community Central Bank to buy up to an additional 123,750 shares to cover any overallotments.</p>
+<p>Community Central Bank Corp said it applied to become a registered bank holding company owning all of the outstanding stock of Community Central Bank.</p>
+<p>Community Central Bank is currently being formed in Mount Clemons, Mich. Its assets include expected proceeds from the IPO. The bank will target small and mid-sized businesses and consumers in Macomb County, Mich., which has a population of more than 700,000 people and 15,000 businesses.</p>
+<p>The stock symbol for Community Central Bank is expected to be &quot;CCBD.&quot;</p>
+<p>	    -- Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNT CLEMENS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

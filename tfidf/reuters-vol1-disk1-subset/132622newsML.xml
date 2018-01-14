@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132622" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Sterling Financial Q1 shr loss $0.68.</title>
+<headline>Sterling Financial Q1 shr loss $0.68.</headline>
+<dateline>SPOKANE, Wash. 1996-10-22</dateline>
+<text>
+<p>STERLING FINANCIAL CORPORATION</p>
+<p>				  FINANCIAL HIGHLIGHTS</p>
+<p>(Dollar amounts in thousands except per share amounts; unaudited)</p>
+<p>					     FOR THE THREE MONTHS ENDED</p>
+<p>				     SEP 30, 1996	  SEP 30, 1995</p>
+<p>OPERATING DATA:</p>
+<p> Interest income			$27,856		 $28,614</p>
+<p> Interest expense		    (18,340)		(20,314)</p>
+<p> Net Interest income		    9,516		   8,300</p>
+<p> Provision for loan losses	    (550)		   (400)</p>
+<p>Net Interest Income after</p>
+<p>  provision for loan losses	   8,966		   7,900</p>
+<p> Other income			     1,821		   1,823</p>
+<p> Operating expenses		  (15,972)		 (7,619)</p>
+<p>Income (loss) before income taxes</p>
+<p>					    (5,185)		   2,104</p>
+<p> Income tax (provision) benefit     1,887		   (768)</p>
+<p> Net income (loss)		    (3,298)		   1,336</p>
+<p> Dividends on preferred stock	 (471)		   (471)</p>
+<p>Net income (loss) available to</p>
+<p>  common shareholders		 (3,769)		     865</p>
+<p>Earnings (loss) per common</p>
+<p>  share -- primary		    ( 0.68)		    0.16</p>
+<p>Earnings (loss) per common</p>
+<p>  share -- fully diluted(1)	 ( 0.68)		    0.16</p>
+<p>Weighted average shares</p>
+<p>  outstanding -- primary	  5,518,724	     5,406,037</p>
+<p>Weighted average shares</p>
+<p>  outstanding -- fully diluted  7,613,869	     7,517,520</p>
+<p>NOTES: (1) Fully-diluted EPS of ($0.43) and $0.18 per share for quarters ended 9/30/96 and 9/30/95, respectively, would be antidilutive and must be reported the same as primary EPS.</p>
+<p>Latest quarter includes a pre-tax charge of $5.6 million related to the company's assesment of $0.657 for every $100 of deposits (as of March 31, 1995) to recapitalize the Savings Association Insurance Fund.</p>
+<p>Ratios (Annualized):</p>
+<p>Book value per common share</p>
+<p>  at end of period (fully diluted)  11.21		   12.20</p>
+<p>Adjusted book value per common share</p>
+<p>  at end of period (fully diluted)  10.97		   11.83</p>
+<p>Tangible book value per common share</p>
+<p>  at end of period (fully diluted)   9.85		   10.38</p>
+<p> Return on average assets	   (0.88%)		   0.34%</p>
+<p>Return on average common</p>
+<p>  stockholders' equity	     (23.84%)		   5.23%</p>
+<p> Net interest margin		    2.67%		   2.25%</p>
+<p>Average financial assets</p>
+<p>  to financial liabilities	  104.25%		 104.50%</p>
+<p>Nonperforming assets to</p>
+<p>  total assets at end of period     0.58%		   0.65%</p>
+<p>Stockholders' equity, to</p>
+<p>  assets at and of period	     5.51%		   5.85%</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPOKANE, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

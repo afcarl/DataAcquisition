@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133852" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: CBOT October soymeal, soyoil contracts end quietly.</title>
+<headline>CBOT October soymeal, soyoil contracts end quietly.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>CBOT October soymeal and soyoil futures contracts expired without incident at 1201 CDT Tuesday with Cargill said to be a late soymeal buyer, traders said.</p>
+<p>&quot;It was a pretty quiet close,&quot; a floor trader said. &quot;Cargill bought and that really turned the market around.&quot;</p>
+<p>Soymeal futures jumped to $235.50 early as commercials and funds got out of short positions but traders said activity was generally quiet.</p>
+<p>Soymeal closed at $231.00 per ton, up $1.30 from the previous day. Soyoil ended at 22.75 cent a lb, down 0.16 from Monday's close.</p>
+<p>--Emily Kaiser 312-408-8749</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

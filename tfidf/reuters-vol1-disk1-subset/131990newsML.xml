@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131990" id="root" date="1996-10-21" xml:lang="en">
+<title>PHILIPPINES: Strikes over fuel prices cripple Philippine cities.</title>
+<headline>Strikes over fuel prices cripple Philippine cities.</headline>
+<dateline>CAGAYAN DE ORO, Philippines 1996-10-21</dateline>
+<text>
+<p>Public transport drivers launched strikes and set up human barricades on Monday in a protest over fuel price rises, severely curtailing business activity in several southern Philippine cities.</p>
+<p>Drivers of buses, taxis and pedicabs in six cities on Mindanao island joined in the strike, triggered by a rise in domestic fuel prices by an average of 32 centavos (1.2 cents) per litre, police said.</p>
+<p>In the capital, Manila, some 500 leftists staged a march to the presidential palace as part of the protest.</p>
+<p>&quot;The uncontrolled increase in oil prices has raised the prices of basic goods, pushing Filipinos deeper into poverty,&quot; Catholic priest Rodolfo Roa said in a radio interview in Cagayan de Oro city.</p>
+<p>The transport walkout paralysed 80 percent of commercial activity in Cagayan de Oro and in Davao city. In General Santos, up to 95 percent of business was affected as banks, shops and schools stayed closed for the day.</p>
+<p>Transport walkouts also occurred in the cities of Dipolog, Ozamis and Surigao, the private radio station DXIC said.</p>
+<p>Striking drivers, joined by students, set up human barricades in General Santos and Cagayan de Oro, urging a few non-strikers to join the protest, police said.</p>
+<p>One policeman in Cagayan de Oro was injured when protesters stoned police who tried to disperse them.</p>
+<p>Last week's price increases were the third since August under an automatic pricing formula based on Singapore posted prices.</p>
+<p>The new formula is meant as an interim step towards the full deregulation of the oil industry in the Philippines.</p>
+<p>Oil prices in the Philippines, which still has some of the cheapest fuel in Asia, were previously strictly controlled by the government.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I65200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAGAYAN DE ORO, Philippines"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

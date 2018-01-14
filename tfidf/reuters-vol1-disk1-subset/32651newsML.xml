@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32651" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Baldwin Piano board adopts rights plan.</title>
+<headline>Baldwin Piano board adopts rights plan.</headline>
+<dateline>LOVELAND, Ohio 1996-09-04</dateline>
+<text>
+<p>Baldwin Piano &amp; Organ Co said on Wednesday its board of directors has adopted a shareholder rights plan to assure that shareholders are treated fairly if there is a takeover attempt.</p>
+<p>The board set a dividend distribution on September 10, 1996, of one common share purchase right for each outstanding share of Baldwin's common stock, the company said.</p>
+<p>The rights have a ten year life, and may be exercised if a party acquires 15 percent or more of Baldwin's common stock, or announces a tender offer to do so, without the consent of the Baldwin's board, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOVELAND, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

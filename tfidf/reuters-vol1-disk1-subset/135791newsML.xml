@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135791" id="root" date="1996-10-23" xml:lang="en">
+<title>CZECH REPUBLIC: CZECH PRESIDENT HAVEL, PM KLAUS SET MEETING THURS.</title>
+<headline>CZECH PRESIDENT HAVEL, PM KLAUS SET MEETING THURS.</headline>
+<dateline>PRAGUE 1996-10-23</dateline>
+<text>
+<p>Czech President Vaclav Havel has scheduled a working lunch with Prime Minister Vaclav Klaus for Thursday, the president's office said on Wednesday.</p>
+<p>Presidential spokesman Ladislav Spacek said in a statement that the leaders would discuss &quot;current&quot; and &quot;long-term themes&quot;, but he did not elaborate.</p>
+<p>Havel and Klaus last met for individiual talks in early September after in which they discussed a crisis in confidence in Czech banks and the economic aspects of maintaining the national defence.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

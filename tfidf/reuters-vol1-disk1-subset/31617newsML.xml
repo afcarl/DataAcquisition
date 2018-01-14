@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31617" id="root" date="1996-09-04" xml:lang="en">
+<title>ESTONIA: Estonian bourse firms, turnover steady.</title>
+<headline>Estonian bourse firms, turnover steady.</headline>
+<dateline>TALLINN 1996-09-04</dateline>
+<text>
+<p>Estonia's infant bourse firmed on Wednesday after dipping slightly on Tuesday, dealers said.</p>
+<p>The index rose 0.15 percent to 97.94 after falling 0.1 percent on Tuesday and volume remained steady at just over eight million litas.</p>
+<p>Hansa Bank's shares were the most active for the third straight day with shares worth 3.15 million kroons trade. Ths stock closed at 93.80 kroons compared with 94.00 kroons on Tuesday.</p>
+<p>Forex Bank was also active with turnover of lmost two million kroons. It closed at 77.56 kroons compared with 77.60 kroons on Tuesday.</p>
+<p>-- Riga newsroom +3717-22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

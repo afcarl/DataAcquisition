@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136195" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: BI Inc Q1 net, shr falls.</title>
+<headline>BI Inc Q1 net, shr falls.</headline>
+<dateline>BOULDER, Colo. 1996-10-23</dateline>
+<text>
+<p>BI INCORPORATED</p>
+<p>			     STATEMENT OF OPERATIONS</p>
+<p>	    (in thousands except per share amounts, unaudited)</p>
+<p>						     For the three months</p>
+<p>							ended September 30,</p>
+<p>						    1996		 1995</p>
+<p>Revenues</p>
+<p>  Service and monitoring income	  $5,616	    $5,066</p>
+<p>  Net sales				     2,801	     3,034</p>
+<p>  Rental income				   215		 219</p>
+<p>  Interest and other income		    91		  68</p>
+<p>						    8,723	     8,387</p>
+<p> Net income					 157		 601</p>
+<p>Income per common and common equivalent share:</p>
+<p>  Net income				     0.02		0.09</p>
+<p>Weighted average number of common and common</p>
+<p>   equivalent shares outstanding	  7,402	     6,999</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

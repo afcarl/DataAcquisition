@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132684" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Consolidated Edison Q3 net slipped.</title>
+<headline>Consolidated Edison Q3 net slipped.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $1.38		    $1.38</p>
+<p> Net			327,988		  333,296</p>
+<p> Revs		   1,920,341		1,879,876</p>
+<p> Avg shrs		 234,981		  134,939</p>
+<p>		     Nine Months</p>
+<p> Shr			  $2.44		    $2.49</p>
+<p> Net			573,938		  610,726</p>
+<p> Revs		   5,327,441		5,008,513</p>
+<p> Avg shrs		 234,972		  234,924</p>
+<p>		     12 Months</p>
+<p> Shr			  $2.88		    $2.95</p>
+<p> Net			687,062		  728,605</p>
+<p> Revs		   6,855,825		6,469,760</p>
+<p> Avg shrs		 234,967		  234,918</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: First Call Q3 consensus estimate was $1.36.</p>
+<p>Full name is Consolidated Edison Co of New York Inc.</p>
+<p>Per share after preferred dividends of $4.6 million vs $8.9 million in quarter, $15.2 million vs $26.7 million in nine months, and $24.1 million vs $35.6 million in 12 months. Nine and 12 month preferred dividend impact reduced by $13.9 million gain on refunding of preferred stock.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

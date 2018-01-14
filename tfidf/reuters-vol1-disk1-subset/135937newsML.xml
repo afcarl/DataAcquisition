@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135937" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: LaserSight, LaserVision in pact.</title>
+<headline>LaserSight, LaserVision in pact.</headline>
+<dateline>ST. LOUIS, Mo. 1996-10-23</dateline>
+<text>
+<p>LaserSight Inc, which provides vision care services, and Laser Vision Centers Inc, which operates excimer lasers to correct vision, said Wednesday they have agreed to make excimer laser technology available to participating physicians of LaserSight Centers.</p>
+<p>The agreement calls for LaserVision to provide the excimer laser and necessary technical personnel to locations serviced by the some 200 ophthalmologists currently under contract with LaserSight for excimer laser services.  </p>
+<p>The contracted physicians are required to provide a minimum number of photorefractive keratectomy (PRK) treatments on a given day to access the excimer laser.</p>
+<p>The physician schedules patients for treatment through LaserSight, which in turn provides billing, collection and financing services. LaserSight pays the physician a professional fee and Laser Vision a facility fee and retains the balance for its services.</p>
+<p>LaserSight also said its wholly owned managed vision care subsidiary, MEC Health Care, is now offering PRK as a covered benefit in select markets as a result of its relationship with Laser Vision.</p>
+<p>A PRK procedure costs between $1,800 and $2,000. This new benefit allows members of the health plan to reduce their out- of-pocket expense to between $1,000 and $1,200 with the balance covered by the health plan.</p>
+<p>	 Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

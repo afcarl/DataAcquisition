@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133690" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Pentagon expanding Gulf War chemical search.</title>
+<headline>Pentagon expanding Gulf War chemical search.</headline>
+<byline>Charles Aldinger</byline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>The Pentagon will now notify some 20,000 U.S. Gulf War troops that they may have been exposed to chemical weapons in the destruction of an Iraqi ammunition dump, defence officials said on Tuesday.</p>
+<p>The new figure, expected to be announced later in the day, would greatly expand the search for possible victims from a blast cloud containing Sarin and Cyclosarin nerve agents from the Kamisiyah dump in southern Iraq in March 1991.</p>
+<p>The Defence Department said in June it was notifying 150 U.S. engineering troops who blew up chemical shells and rockets at Kamisiyah. Last month, that figure was expanded to 5,000 troops who were within 15 miles (25 kms) of the site.</p>
+<p>Defence officials who asked not to be identified said the search was being expanded to include an area some 30 miles (50 km) from Kamisiyah, where a huge white cloud drifted from the chemical ammunition.</p>
+<p>Despite complaints from Gulf War veterans, the Pentagon has denied any attempt to cover up possible exposure of troops to chemical agents, saying there was no evidence of U.S. deaths or injuries from such agents or that Iraq used them against U.S.-led coalition forces in the Gulf.</p>
+<p>But the government, on orders from President Bill Clinton, last year mounted a major effort to resolve medical complaints from as many as 60,000 U.S. veterans ranging from numbness to memory loss. No common cause or &quot;Gulf War syndrome&quot; has been found.</p>
+<p>In the meantime, the figure on possible exposure from the destruction of Kamisiyah by U.S. military engineers has grown steadily. The Central Intelligence Agency and the Defence Department are working on a computer model using weather and other factors to estimate the drift of the chemical cloud in a step that could further greatly expand possible exposures.</p>
+<p>Recently published reports have suggested that more than 100,000 U.S. troops from several divisions might have been exposed to fallout from the massive cloud from Kamisiyah.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

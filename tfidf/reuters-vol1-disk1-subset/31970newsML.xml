@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31970" id="root" date="1996-09-04" xml:lang="en">
+<title>MALAYSIA: Ringgit extends fall but ends off low vs dollar.</title>
+<headline>Ringgit extends fall but ends off low vs dollar.</headline>
+<dateline>KUALA LUMPUR 1996-09-04</dateline>
+<text>
+<p>The ringgit extended its fall against the dollar but closed off the day's lows as dollar/majors retreated from earlier highs, dealers said.</p>
+<p>&quot;It was fairly quiet in the afternoon with softer dollar/majors helping the ringgit,&quot; said a local bank dealer.</p>
+<p>They said the market largely shrugged off news of a second U.S. missile attack on Iraq.</p>
+<p>&quot;Dollar/ringgit is reacting to market positions rather than news,&quot; one dealer with a foreign bank said. He said players were buying back dollar to cover shorts, adding &quot;market position is not favourable for the ringgit at the moment.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

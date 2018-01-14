@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133668" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: UPS says its express volume rises 9.3 percent.</title>
+<headline>UPS says its express volume rises 9.3 percent.</headline>
+<dateline>ATLANTA</dateline>
+<text>
+<p>United Parcel Service said Tuesday its domestic and international express shipping business posted a 9.3 percent increase in daily volume in the third quarter.</p>
+<p>UPS, which provides courier services to more than 200 countries and territories, said it handled a daily average of 1.6 million express packages and documents in the three months ended Sept. 30.</p>
+<p>Domestic express volume grew by 9.4 percent over the same period in 1995 while international express volume increased 8.4 percent, the privately held package carrier said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

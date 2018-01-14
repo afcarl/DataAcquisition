@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33038" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: PRESALE - Watauga, Texas.</title>
+<headline>PRESALE - Watauga, Texas.</headline>
+<text>
+<p>AMT: 11,370,000     DATE: 09/09/96	NYC Time: 2000	CUSIP: 941097</p>
+<p>ISSUER: Watauga							   ST: TX</p>
+<p>ISSUE: Combination tax &amp; rev cert of oblig, series 1996     TAX STAT: Exempt-LT</p>
+<p>M/SP/F: Baa/NA/BBB+						     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 09/01/96							     SURE BID: N</p>
+<p>DUE: 3/1/98-16						SR MGR:</p>
+<p>1ST CPN: 03/01/97</p>
+<p>CALL: 3/1/07 @ par					  NIC</p>
+<p>DELIVERY: 9/30/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: Texas Commerce Bank N.A., San Antonio</p>
+<p>L.O.: McCall, Parkhurst &amp; Horton, Dallas</p>
+<p>F.A.: Southwest Securities Inc., San Antonio</p>
+<p>LAST SALE: $1,100,000 MBIA 4/8/91 @ 7.1118% NIC; 12yrs 10mos avg; BBI- 7.06%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    330,000</p>
+<p>1999		    350,000</p>
+<p>2000		    375,000</p>
+<p>2001		    395,000</p>
+<p>2002		    420,000</p>
+<p>2003		    445,000</p>
+<p>2004		    475,000</p>
+<p>2005		    505,000</p>
+<p>2006		    535,000</p>
+<p>2007		    565,000</p>
+<p>2008		    600,000</p>
+<p>2009		    640,000</p>
+<p>2010		    680,000</p>
+<p>2011		    720,000</p>
+<p>2012		    765,000</p>
+<p>2013		    815,000</p>
+<p>2014		    865,000</p>
+<p>2015		    915,000</p>
+<p>2016		    975,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

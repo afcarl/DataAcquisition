@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134454" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Lilly sees 1996 R&amp;D costs up over 1995.</title>
+<headline>Lilly sees 1996 R&amp;D costs up over 1995.</headline>
+<dateline>INDIANAPOLIS, Ind. 1996-10-22</dateline>
+<text>
+<p>Eli Lilly and Co said it expects research and development expenses to increase about 12 to 14 percent for the year compared with 1995.</p>
+<p>&quot;This estimate could be affected by unanticipated changes in the timing of technology investments,&quot; the company said.</p>
+<p>In the third quarter, R&amp;D spending was $290.7 million, up from $260.6 million in the year-ago period.</p>
+<p>The increase was &quot;primarily due to expenses in support of clinical trials and development expenditures for products, such as raloxifene, that are in the later and most expensive phases of clinical research,&quot; Lilly said.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

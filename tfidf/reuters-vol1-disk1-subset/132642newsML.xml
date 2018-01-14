@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132642" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Pogo Producing Q3 net rises.</title>
+<headline>Pogo Producing Q3 net rises.</headline>
+<dateline>HOUSTON 1996-10-22</dateline>
+<text>
+<p>Three Months Ended   Nine Months Ended</p>
+<p>				   Sept. 30,		Sept. 30,</p>
+<p>			     1996	    1995	1996	1995</p>
+<p>				  (Unaudited)	    (Unaudited)</p>
+<p>			   (In thousands, except per share amounts)</p>
+<p> Revenues		$48,233	$36,967  $147,828  $120,515</p>
+<p>Income before</p>
+<p>  extraordinary loss   6,971	    722    22,173     8,506</p>
+<p>Extraordinary loss on</p>
+<p>early extinguishment of</p>
+<p> debt			   -		-     (821)	   -</p>
+<p> Net income		6,971	    722    21,352     8,506</p>
+<p>Earnings per</p>
+<p>share:</p>
+<p>Income before</p>
+<p>  extraordinary loss    0.21	   0.02	0.65	0.25</p>
+<p> Extraordinary loss (a)    -		-    (0.02)	   -</p>
+<p> Net income		 0.21	   0.02	0.63	0.25</p>
+<p>Discretionary Cash</p>
+<p>  Flow (b)		25,156	 26,484    85,405    79,436</p>
+<p>Weighted average number</p>
+<p>of common stock and</p>
+<p>common stock equivalent</p>
+<p> shares outstanding   34,023	 33,539    33,697    33,465</p>
+<p>(a) The extraordinary loss resulted form the company's early redemption of its outstanding 8% convertible subordinated debentures due in 2005. (b) Discretionary Cash Flow is net cash provided by operating activities before changes in operating assets and liabilities and exploration expenses.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

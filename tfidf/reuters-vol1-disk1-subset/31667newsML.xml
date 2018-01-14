@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31667" id="root" date="1996-09-04" xml:lang="en">
+<title>POLAND: Polish court declares Hestja insurer bankrupt.</title>
+<headline>Polish court declares Hestja insurer bankrupt.</headline>
+<dateline>WARSAW 1996-09-04</dateline>
+<text>
+<p>A Polish court declared insurance company Hestja SA bankrupt on Wednesday and appointed another insurer, Polisa SA, as liquidator, PAP news agency reported.</p>
+<p>Hestja administrative board chief Antoni Marciniak told the Poznan provincial court that at end-April 1996 the firm owed 16.2 million zlotys in payments on 8,000 claims, PAP said.</p>
+<p>It had permanent assets of 300,000 zlotys and obligations arising from current policies of 10.2 million zlotys.</p>
+<p>In addition Hestja, founded in Poznan, western Poland, in 1991, had 4.3 million zlotys of unlisted shares in a satellite communications firm and a carpet maker.</p>
+<p>Hestja administrators said this month that U.S. firm World Health Network (WHN) had decided not to bid for Hestja after Poland's Insurance Guarantee Fund refused to back the move.</p>
+<p>WHN had been ready to spend $10 million to cover Hestja's debts and raise its capital only if the fund guaranteed the investment.</p>
+<p>An effort to secure further capital from shareholders had also failed to raise the expected sum, PAP said.</p>
+<p>A representative of Poland's state insurance supervision office told the court that Polisa would ensure proper conduct of the bankruptcy and the guarantee fund would now pay out at least</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

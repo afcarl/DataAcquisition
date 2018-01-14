@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134401" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Times Mirror September ad revenues rise.</title>
+<headline>Times Mirror September ad revenues rise.</headline>
+<dateline>LOS ANGELES 1996-10-22</dateline>
+<text>
+<p>Advertising revenues for Times Mirror's newspaper publishing group for the four weeks ended September 29, 1996, rose 4.6 percent to $123,942,000 from $118,460,000 in the prior year.</p>
+<p>For the thirty-nine weeks January 1, 1996 through September 29, 1996, total advertising revenues rose 1.5 percent to $1,139,965,000 compared with $1,004,879,000 for the period January 1, 1995 through September 24, 1995.</p>
+<p>The year-to-date results for 1996 contained six more days than the 1995 results, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32544" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Carriage Services started.</title>
+<headline>RESEARCH ALERT - Carriage Services started.</headline>
+<text>
+<p>-- Chicago Corp said Wednesday it initiated coverage of Carriage Services Inc, a funeral company, with a buy rating.</p>
+<p>-- Chicago Corp said it projected Carriage's long-term annual earnings per share growth at 25 to 30 percent. &quot;We believe the company can sustain this rate of earnings growth through a combination of acquisitions, margin improvement in its core operations, leverage of its existing management infrastructure and deleveraging,&quot; Chicago Corp said.</p>
+<p>-- It projected earnings of $0.58 a share on a fully diluted basis in 1997 and $0.75 in 1998.</p>
+<p>-- A $20 a share price target was set.</p>
+<p>-- The stock was up 1/8 at 17-7/8.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

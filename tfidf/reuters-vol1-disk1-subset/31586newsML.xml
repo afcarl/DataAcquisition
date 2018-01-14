@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31586" id="root" date="1996-09-04" xml:lang="en">
+<title>CROATIA: Croatia bank sells 70.6 mln kuna bills, rates rise.</title>
+<headline>Croatia bank sells 70.6 mln kuna bills, rates rise.</headline>
+<dateline>ZAGREB 1996-09-04</dateline>
+<text>
+<p>The National Bank of Croatia sold 70.6 million kuna in five- and 13-week liquidity bills at higher rates at a weekly auction.</p>
+<p>Although slight, it was the first rate increase in almost three months, following a steady decline from interest well above 20 percent.</p>
+<p>A total of 67.6 million kuna worth of five-week bills were sold at 8.00 percent, up from 7.98 percent at the last regular tender.</p>
+<p>The 13-week rate rose to 10.00 from 9.25 percent as the central bank accepted a bid for three million kuna.</p>
+<p>It received no bids for 26-week paper, last issued at 17.50 percent late in July.</p>
+<p>-- Kolumbina Bencevic, Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

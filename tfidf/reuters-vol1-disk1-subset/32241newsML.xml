@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32241" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Chase Brass sees acquisition adding to EPS.</title>
+<headline>Chase Brass sees acquisition adding to EPS.</headline>
+<dateline>MONTPELIER, Ohio 1996-09-04</dateline>
+<text>
+<p>Chase Brass Industries Inc said Wednesday it expected its acquisition of the UNR-Leavitt Division of UNR Industries Inc to immediately add $0.15 to $0.25 per share to its 1997 fiscal year earnings.  </p>
+<p>&quot;The acquisition ... provides increased profit opportunities through better utilization of existing manufacturing facilities and resulting operating efficiencies,&quot; it said.</p>
+<p>On August 30, Chase Brass said it had completed its acquisition of the division for $95 million, a price that is subject to post-closing adjustments estimated to result in a reduction of $2.5 million.</p>
+<p>It said it would rename Leavitt as Leavitt Tube Company Inc, which will operate as a wholly-owned subsidiary.</p>
+<p>Leavitt makes structural and mechanical steel tubing that is used in farm equipment, among other things.</p>
+<p>Chase Brass makes brass rods at a plant in Montpelier, Ohio.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTPELIER, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

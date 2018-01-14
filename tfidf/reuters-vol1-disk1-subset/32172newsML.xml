@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32172" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CME hogs end higher, pork bellies sharply lower.</title>
+<headline>CME hogs end higher, pork bellies sharply lower.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Forecasts for a large Saturday hog slaughter prompted late buying in CME live hog futures, which closed higher in nearly all contracts.</p>
+<p>Pork bellies close sharply lower, pressured by a sharp drop in cash prices quoted in USDA's midday carlot pork report, traders said.</p>
+<p>After the close,the CME reported a larger-than-expected decline in stocks in warehouses outside Chicago, but analysts doubted that report would turn futures higher.</p>
+<p>Market talk of a large Saturday slaughter, possibly 200,000 head, generated light buying in nearby hog futures, sources said. Traders said the larger slaughter would compensate for Monday's U.S. Labor Day holiday when many packing plants were closed.</p>
+<p>Cash hogs traded $1.00 to $2.00 per cwt lower at major Midwest cash markets Wednesday and traders said hog prices may trade steady to $0.50 lower Thursday.  </p>
+<p>USDA quoted 12- to 14-lb cash belly prices at $61.50 to $62.00 per cwt just ahead of midday Wednesday, down from $68.00 Tuesday.</p>
+<p>After the close, the CME out-of-town storage report showed frozen pork belly supplies decreased by 1.128 million lbs during the week ended August 31, well above analysts' estimates for a 200,000- to 500,000-lb decrease.</p>
+<p>Hog futures closed up 0.525 cent to down 0.075 cent per lb with October up 0.225 at 52.650 cents per lb. Pork bellies were down 1.300 to 0.700 cent with February off the most at 75.850 cents.</p>
+<p>--Bob Burgdorfer, 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

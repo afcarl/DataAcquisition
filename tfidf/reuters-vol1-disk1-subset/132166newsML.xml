@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132166" id="root" date="1996-10-21" xml:lang="en">
+<title>SOUTH KOREA: Samsung denies Ssangyong Motor takeover report.</title>
+<headline>Samsung denies Ssangyong Motor takeover report.</headline>
+<dateline>SEOUL 1996-10-21</dateline>
+<text>
+<p>South Korea's Samsung Group on Monday denied a news report it was in talks to aquire Ssangyong Motor Co.  </p>
+<p>&quot;The whole report is absolutely false,&quot; said Cho Jang-won, a Samsung Group spokesman.</p>
+<p>The Chosun Ilbo newspaper reported over the weekend that Samsung Group was in takeover talks with Ssangyong Group</p>
+<p>The paper quoted unnamed sources at Ssangyong Group as saying a meeting between the two groups was held in mid-September at a hotel in central Seoul to discuss the deal.</p>
+<p>Samsung Group formed a technical tie-up with Nissan Motor Co of Japan and established Samsung Motors Inc to enter the already crowded passenger car industry from 1998.  </p>
+<p>But the Chosun Ilbo report said technology transfer from Nissan had not been smooth and Samsung had begun shopping for another partner.</p>
+<p>Ssangyong group spokesman Park Joong-seok also denied the report. &quot;These kind of rumours have been circulating for more than three or four years,&quot; he said.</p>
+<p>Ssangyong Motor posted a net loss of 126.22 billion won in calendar 1995 on turnover of 986.74 billion won, compared with a 79.32 billion shortfall on 805.93 billion sales in 1994.</p>
+<p>-- Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

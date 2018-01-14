@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33089" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: FSA qualifies eight muni issues for insurance.</title>
+<headline>FSA qualifies eight muni issues for insurance.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Financial Security Assurance said it qualified for bond insurance the following eight municipal issues scheduled for competitive sale today.</p>
+<p>--Illinois, $185 million general obligation bonds.</p>
+<p>--Chatham, Mass., $2.585 million GOs.</p>
+<p>--Sparta Township Board of Education, N.J., $27 million school bonds.</p>
+<p>--Mamaroneck Village, N.Y., $3.218 million public improvement bonds.</p>
+<p>--Portage Area School District, Pa., $2.4 million GOs, under the alternate bidding program.</p>
+<p>--Tennessee Housing Development Agency, $54.395 million revenue bonds.</p>
+<p>--Tennessee Housing Development Agency, $60 million revenue bonds.</p>
+<p>--Marion County Board of Education, W.Va., $3.25 million school bonds.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20826" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: DAIMLER SWINGS TO PROFIT AFTER '95 LOSSES.</title>
+<headline>DAIMLER SWINGS TO PROFIT AFTER '95 LOSSES.</headline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>First half to June 30</p>
+<p>			   (million marks unless stated)</p>
+<p> Net result		 782 profit	   vs 1.57 billion loss</p>
+<p> Turnover		   49.07 billion	vs 48.43 billion</p>
+<p> Operating result	 827 profit	   vs 613 loss</p>
+<p> Shr (marks)		1.52 profit	  vs 3.07 loss</p>
+<p>NOTE - Analysts' forecasts on net profits were in a range of 600 to 800 million marks. Daimler-Benz AG, Germany's largest conglomerate, released its results in London according to U.S. GAAP -- Generally Accepted Accounting Principles -- in order to increase the transparency of its books.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

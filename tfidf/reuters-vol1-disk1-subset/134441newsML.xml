@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134441" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Cyprus Amax says payment owed may be delayed.</title>
+<headline>Cyprus Amax says payment owed may be delayed.</headline>
+<dateline>DENVER 1996-10-22</dateline>
+<text>
+<p>Cyprus Amax Minerals Co said Tuesday the resulting income effect for the $70 million payment due under a prior restructuring agreement for discontinued coal purchases would be delayed until early 1997 due to unknown timing and/or regulatory approval.  </p>
+<p>The agreement in which Central Illinois Public Service Co, a subsidiary of CIPSCO Inc, would discontinue coal purchases from the Delta mine in Illinois included a payment of $70 million to Cyprus Amax.</p>
+<p>The company said that it ceased snipping coal from the Delta mine, which it closed in August 1996 due to high cost structure and limited marketing opportunities.</p>
+<p>It said that Central Illinois was proceeding with its petition to change to low sulfur coal and recover the payment from its ratepayers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

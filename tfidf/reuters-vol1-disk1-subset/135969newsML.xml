@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135969" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: U.S. OPTIONS FOCUS/Still hedging the U.S. election.</title>
+<headline>U.S. OPTIONS FOCUS/Still hedging the U.S. election.</headline>
+<dateline>CHICAGO 1996-10-23</dateline>
+<text>
+<p>Investors in stock index options appeared to continue to hedge for a sharp market move after the November 5 U.S. presidential election, traders said Wednesday.</p>
+<p>But a second straight sharp intraday drop in the stock market triggered heavy put activty, in trading similar to Tuesday's.</p>
+<p>At the CBOE, index put volume topped index call volume by 136,003 to 69,993.</p>
+<p>The Dow industrial average, after being down close to 70 points intraday, ended 25 points lower at 6,036.  </p>
+<p>The S&amp;P 100 index .OEX finished about one point higher at 685 after falling to 678 intraday. The broader S&amp;P 500 index added 0.70 to 707. It fell to 701 intraday.</p>
+<p>The most active OEX option was the November 680 put, which traded about 13,250 contracts. The option had open interest of 15,600 and it fell 1-1/2 to eight.</p>
+<p>Michael Schwartz at Oppenheimer said the November 680 puts had been active since before the OEX moved above that level.  </p>
+<p>&quot;To me, this is all FOB activity,&quot; he said, explaining FOB as &quot;Fear of Bill&quot;, or fear among investors that incumbent Democrat Bill Clinton, who holds commanding leads in opinion polls over challenger Bob Dole, will win the election.</p>
+<p>Traders said a Clinton win is well factored into the market and what investors are worried about now is that the Democrats will regain control of one of the two houses of Congress.</p>
+<p>Other busy puts Wednesday on the OEX included the November 670, the November 675 and the November 685.</p>
+<p>The OEX November 685 call traded about 11,825 contracts.  </p>
+<p>In SPX trading on the CBOE, put volume outpaced call volume by 59,014 to 9,922.</p>
+<p>Trading there was led by a spread in the SPX December 710 and 725 puts, which each traded around 6,800 contracts. Much of the activity in those two options was spreads, particularly one of 6,800 contracts in the 710.</p>
+<p>Chris Cadbury of the Cadbury Fax Service said the high bearish sentiment indicated the market's current rally was not close to topping out.</p>
+<p>He targeted a 712 or higher close for the SPX this week. --Gregory Crawford, 312/408-8750/Email: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

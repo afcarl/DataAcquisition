@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134827" id="root" date="1996-10-22" xml:lang="en">
+<title>ITALY: Italian coalition nears deal in tax row - Greens.</title>
+<headline>Italian coalition nears deal in tax row - Greens.</headline>
+<dateline>ROME 1996-10-22</dateline>
+<text>
+<p>Parties supporting the Italian government are close to reaching an agreement over contested plans by the finance ministry to change personal income tax bands, the parliamentary party leader of the Greens party said.</p>
+<p>&quot;We are close to a deal, but we haven't yet got one,&quot; Mauro Paissan said. His counterpart at the Italian Renewal party, Ottaviano Del Turco, cautioned: &quot;This is not an argument which can be settled in five minutes.&quot;</p>
+<p>Parliamentary leaders of government parties are due to meet at 1600 GMT on Tuesday to discuss the situation.</p>
+<p>Finance Minister Vincenzo Visco drew heavy flak from across the political spectrum at the weekend for proposing to lift the minimum personal tax rate to 20 percent from 10 percent and reduce the top tax rate to 46 percent from 51 percent. -- Rome newsroom +396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

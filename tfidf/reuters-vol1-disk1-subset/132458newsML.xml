@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132458" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Zytec Corp Q3 net up.</title>
+<headline>Zytec Corp Q3 net up.</headline>
+<dateline>MINNEAPOLIS 1996-10-22</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				     Quarter Ended  Nine Months Ended</p>
+<p>				    Sep 29, Oct. 1,  Sep 29,  Oct. 1,</p>
+<p> Net sales			$53,693 $44,589 $175,489 $118,014</p>
+<p>  Gross profit		    7,595   5,863   24,413   13,884</p>
+<p> Other revenue			319     399    1,075    1,194</p>
+<p> Total operating expense	4,701   3,803   14,728   11,580</p>
+<p> Operating income		 3,213   2,459   10,760    3,498</p>
+<p>Other income (expense):</p>
+<p>  Interest expense		(504)   (300)  (1,456)    (747)</p>
+<p>  Other, net			  201     162    (209)	327</p>
+<p>Income before income tax</p>
+<p>  expense			   2,910   2,321    9,095    3,078</p>
+<p> Income tax expense	     1,136     873	324    1,155</p>
+<p> Net income			 1,774   1,448    8,771    1,923</p>
+<p> Net income per share	    0.18    0.16     0.87     0.21</p>
+<p>Common and common equivalent</p>
+<p>  shares outstanding	   10,110   9,303   10,077    9,304</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

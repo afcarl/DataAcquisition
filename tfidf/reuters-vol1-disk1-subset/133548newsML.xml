@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133548" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Text of prosecutor's statement in Hamanaka case.</title>
+<headline>Text of prosecutor's statement in Hamanaka case.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>The following is the text of the statement on the arrest of Yasuo Hamanaka released by the Tokyo District Prosecutor's Office and translated by Reuters:</p>
+<p>&quot;The Special Investigative Branch of the Tokyo District Prosecutor's Office today arrested Yasuo Hamanaka for the forgery of signed private document(s).</p>
+<p>(1) Suspect: Yasuo Hamanaka</p>
+<p>Occupation:  None</p>
+<p>    Birthdate:   January 3, 1948 (48 years old)</p>
+<p>(2) Facts of suspicion</p>
+<p>That the suspect</p>
+<p>1. forged one document involving authority and responsibility, by using another person's name and forging the signature of the then pertinent member of the board of directors and the signature of the then manager of the non-ferrous department (of Sumitomo Corp) after inscribing in English that he held the authority for metal options, forwards and purchase transactions with Merrill Lynch Commodity Financing Inc on behalf of Sumitomo Corp by sending a letter to Merrill Lynch, Pierce, Fenner &amp; Smith (Brokers and Dealers) Ltd written on the company letterhead of Sumitomo Corp, with the aim of exercising wantonly the said authority during the latter half of January 1994 at the headquarters of Sumitimo Corp Non-Ferrous Metals Department.</p>
+<p>2. forged one document involving authority and responsibility, by using another person's name and forging the signature of the then pertinent member of the board of directors and the signature of the then manager of the non-ferrous department (of Sumitomo Corp) by inscribing in English that he held the authority to name the recipient, including third persons acting as agents for Sumitomo Corp, of part or all of the funds deposited or to be deposited in future at firms belonging to the Merrill Lynch group.</p>
+<p>This was done in connection with various metal transactions between Sumitomo Corp on the one hand and Merrill Lynch, Pierce, Fenner &amp; Smith (Brokers and Dealers) Ltd and other firms in the Merrill Lynch group on the other, by writing this on the company letterhead of Sumitomo Corp, with the aim of exercising wantonly the said authority, during the latter half of September 1994 at the headquarters of Sumitomo Corp. Non-Ferrous Metals Department.</p>
+<p>(3) Our office received a formal legal complaint from Sumitomo Corp (Forgery of Signed Private Document against Yasuo Hamanaka).&quot;</p>
+<p>End of text.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

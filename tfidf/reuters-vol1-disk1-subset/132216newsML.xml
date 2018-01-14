@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132216" id="root" date="1996-10-21" xml:lang="en">
+<title>GERMANY: Buba-Sept bank lending weaker, capital formation up.</title>
+<headline>Buba-Sept bank lending weaker, capital formation up.</headline>
+<dateline>FRANKFURT 1996-10-21</dateline>
+<text>
+<p>The Bundesbank said on Monday a weakening of bank lending to the private sector and stronger money capital formation were the main reasons for the slowdown in M3 money supply growth in September.</p>
+<p>The September growth rate slowed to an annualised, seasonally-adjusted rate of 8.4 percent from 8.7 percent in August, the Bundesbank said in a statement.</p>
+<p>The figure was within the 8.2 to 8.5 percent range of forecasts by economists, but above the Bundesbank's four-to-seven target range for 1996.</p>
+<p>The Bundesbank also said that lending to the public sector and foreign transactions by domestic non-banks continued to fuel money supply growth.</p>
+<p>In addition, non-banks continued to sell money market funds on a net basis, the Bundesbank said.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134514" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Comdial Corp Q3 shr $0.11 vs $0.22.</title>
+<headline>Comdial Corp Q3 shr $0.11 vs $0.22.</headline>
+<dateline>CHARLOTTESVILLE, Va. 1996-10-22</dateline>
+<text>
+<p>COMDIAL CORPORATION</p>
+<p>(In thousands, except per share amounts)</p>
+<p>			    Three Months Ended:  Nine Months Ended:</p>
+<p>				  Sept 29,     Oct 1, Sept 29, Oct 1,</p>
+<p>					 1996	1995    1996    1995</p>
+<p> Net sales			$28,874   $25,235 $74,484 $72,993</p>
+<p>Cost and expenses:</p>
+<p>  Cost of goods sold	   18,013    17,181  47,993  49,561</p>
+<p>Selling, general and</p>
+<p>   administrative		 6,951     4,707  18,697  13,887</p>
+<p>Engineering, research</p>
+<p>   and development		1,262     1,048   4,184   3,107</p>
+<p>    Operating income	    2,648     2,299   3,610   6,438</p>
+<p>  Interest expense		  483	 242   1,209     797</p>
+<p>  Goodwill			    855	  --   1,814	23</p>
+<p>  Miscellaneous expense	   332	 216     694     584</p>
+<p>Income (loss) before</p>
+<p>   income taxes		     978     1,841   (107)   5,034</p>
+<p> Income tax expense		  70	  37     164     154</p>
+<p>Income (loss) before</p>
+<p>   tax benefit			908     1,804   (271)   4,880</p>
+<p> Dividends on preferred stock    --	  65	--     350</p>
+<p>Net income (loss) applicable</p>
+<p>to common stock before tax</p>
+<p>	benefit			 908     1,739   (271)   4,530</p>
+<p> Income tax benefit		  --	  --     736   4,503</p>
+<p>Net income applicable to</p>
+<p>     common stock		   908     1,739     465   9,033</p>
+<p>Earnings per common share and</p>
+<p>common equivalent share:</p>
+<p>Income (loss) before tax</p>
+<p>     benefit			 0.11	0.22  ( 0.03)   0.61</p>
+<p>   Income tax benefit		--	  --    0.09    0.60</p>
+<p>Net income per common share:</p>
+<p>1996 anti-dilutive;</p>
+<p>	 1995 Primary		0.11	0.22    0.06    1.21</p>
+<p>	 1995 Fully Diluted	  --	0.22	--    1.14</p>
+<p>Weighted average common shares outstanding:</p>
+<p>	 1996 anti-dilutive;</p>
+<p>	  1995 Primary	    8,578     7,910   8,444   7,482</p>
+<p>	  1995 Fully Diluted	 --     8,307	--   8,239</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTESVILLE, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

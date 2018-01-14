@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31873" id="root" date="1996-09-04" xml:lang="en">
+<title>NEW ZEALAND: BIL launches worldwide Internet web site.</title>
+<headline>BIL launches worldwide Internet web site.</headline>
+<dateline>WELLINGTON 1996-09-05</dateline>
+<text>
+<p>Brierley Investments Ltd on Thursday said it had launched a worldwide web site on the Internet.</p>
+<p>&quot;The site provides BIL's shareholders, analysts, brokers and the media with a comprehensive information resource on the company, its performance and key investments,&quot; BIL said in a statement.</p>
+<p>The site contained daily share price information, including BIL's performance against the NZSE Gross Index, through a link to the company's share registry.  </p>
+<p>It also contained media and stock exchange statements, profit announcements, annual and interim reports, profiles of major investments, financial statistics, and included the annual reports of key subsidiary and associate companies such as Thistle Hotels, Sky City, Sealord and Air New Zealand.</p>
+<p>Earlier, BIL reported an annual profit of NZ$310.3 million, down from $431.8 million for the previous year.</p>
+<p>-- Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

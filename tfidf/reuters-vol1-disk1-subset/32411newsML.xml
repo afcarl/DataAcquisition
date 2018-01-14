@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32411" id="root" date="1996-09-04" xml:lang="en">
+<title>SPAIN: Gas Natural, Pryca pull Madrid stocks down sharply.</title>
+<headline>Gas Natural, Pryca pull Madrid stocks down sharply.</headline>
+<dateline>MADRID 1996-09-04</dateline>
+<text>
+<p>Madrid stocks closed sharply lower on Wednesday despite gains on other European bourses, with sharp losses in a few selected stocks dragging the indices lower, dealers said.</p>
+<p>The general index fell 2.69 points, 0.76 percent, to 349.32 and the Ibex fell 37.78 points, 0.94 percent, to 3,966.22.</p>
+<p>Gas Natural plummetted almost 10 percent in heavy trade after the government approved a much lower than expected increase in gas prices this year, and a fall in the tariff next year.</p>
+<p>Repsol, which has an around 45 percent stake in Gas Natural, was relatively resilient, dropping 35 pesetas to 4,035.</p>
+<p>Pryca shed 130 pesetas to 2,825 on expectations of poor second half sales, dealers said.</p>
+<p>&quot;The fall in Gas Natural ended up affecting the whole market and now there seem to be more and more companies where there are reasons to sell,&quot; one dealer said.</p>
+<p>Despite this, Telefonica rose 10 pesetas to 2,350, helped by upbeat full year forecasts and recommendations, dealers said.</p>
+<p>The market seemed largely able to bypass initial jitters on news of a second U.S. air raid on Iraq, dealers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

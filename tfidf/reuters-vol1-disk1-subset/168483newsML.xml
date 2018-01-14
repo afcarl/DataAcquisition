@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168483" id="root" date="1996-11-06" xml:lang="en">
+<title>BELGIUM: EU panel makes little progress on EMU budget pact.  [CORRECTED]</title>
+<headline>EU panel makes little progress on EMU budget pact.  [CORRECTED]</headline>
+<dateline>BRUSSELS 1996-11-05</dateline>
+<text>
+<p>The European Union's monetary committee ended a two-day meeting on Wednesday making little headway on the details of a budget stability pact for countries forming a monetary union, sources said.</p>
+<p>The group, comprised of national treasury and central bank officials, spent most of their time discussing technical issues of how such a pact would work in practice.</p>
+<p>Under the plan, governments running deficits in excess of three percent of total output would face an initial fine of 0.2 percent of GDP, with a further 0.1 percent (corrects from one percent) of GDP penalty tacked on for every  percentage point over the three percent threshold.</p>
+<p>One item under consideration is whether governments would face cumulative fines.</p>
+<p>For example, if a country was found to have an excessive deficit of 4.0 percent of GDP in a given year and put into practice a plan which brought it down to 3.5 percent the following year, would it again be fined.</p>
+<p>The European Commission, the EU's executive, believes the fines should be cumulative, but sources familiar with the talks said others were against such a proposal.</p>
+<p>Another question is what happens if a government adopts a budget plan that is deemed credible but in actual fact fails to deliver the desired result -- a deficit at three percent of output.</p>
+<p>Sources said there was a generally positive view towards resolving some of these tough issues, with one saying the discussion on Wednesday was more of an &quot;intellectual nature&quot;.</p>
+<p>The commitee apparently avoided tackling the contentious subject of how to quantify a severe economic downturn which would let a government with an excessive deficit off the hook.</p>
+<p>This is an area which Germany very much wants resolved.</p>
+<p>Some said Wednesday's talks reinforced the perception that an agreement on all the outstanding points would be difficult to achieve ahead of the Dublin summit of EU leaders on December 13 and 14.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="G151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

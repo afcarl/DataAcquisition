@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132191" id="root" date="1996-10-21" xml:lang="en">
+<title>BAHRAIN: PRESS DIGEST - Saudi Arabia - Oct 21.</title>
+<headline>PRESS DIGEST - Saudi Arabia - Oct 21.</headline>
+<dateline>MANAMA 1996-10-21</dateline>
+<text>
+<p>These are some of the leading stories in the Saudi Arabian press on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>ARAB NEWS</p>
+<p>- Prince Sultan's Charitable Foundation signs 15 million riyal deal to implement third phase of a 500-million medical complex project.</p>
+<p>- Islamic Development Bank chief urges Islamic states to boost trade among them.</p>
+<p>- Saudi Railway Organisation signs 54 million riyal contract with General Motors to supply seven locomotive engines.</p>
+<p>AL-RIYADH</p>
+<p>- Islamic Development Bank studies new shipping route between Dakar and Jeddah.</p>
+<p>- Contract to supply and install new gas turbines for Saudi Arabia's Tabuk power plant for 180 million riyals to be signed on Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

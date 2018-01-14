@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136008" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Martin Industries Inc Q3 full results.</title>
+<headline>Martin Industries Inc Q3 full results.</headline>
+<dateline>FLORENCE, Ala. 1996-10-23</dateline>
+<text>
+<p>MARTIN INDUSTRIES, INC.</p>
+<p>				 Results of Operations(1)</p>
+<p>				  (Unaudited)</p>
+<p>		    (Dollars in thousands, except per share data)</p>
+<p>		 13-Week	13-Week	 39-Week	 39-Week</p>
+<p>	  Period Ended Period Ended Period Ended   Period Ended</p>
+<p>	  Sept. 28, 1996 Sep 30, 1995  Sep 28, 1996 Sep 30, 1995</p>
+<p> Net sales    26,261    $   24,527    $   73,952    $   74,523</p>
+<p> Net income	380	   1,426	     842	   3,479</p>
+<p> Net income/shr 0.06	    0.23	    0.13	    0.73</p>
+<p>Weighted average shares</p>
+<p>  outstanding    6,882,452 6,092,980   6,706,274    4,759,258</p>
+<p>NOTE: All share information has been retroactively restated to reflect the 35-for-1 stock split of the company's common stock as of July 6, 1995.</p>
+<p>Data reflects the impact of the initial public offering of 2,300,000 shares of the company's common stock, completed on July 18, 1995.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FLORENCE, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

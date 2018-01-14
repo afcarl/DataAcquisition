@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33263" id="root" date="1996-09-04" xml:lang="en">
+<title>SWEDEN: Swedish Carnegie sells Italy unit to Merrill Lynch.</title>
+<headline>Swedish Carnegie sells Italy unit to Merrill Lynch.</headline>
+<dateline>STOCKHOLM 1996-09-04</dateline>
+<text>
+<p>Swedish stockbroker Carnegie said on Wednesday it would sell its Italian operations to U.S. investment bank Merrill Lynch.</p>
+<p>&quot;We have reached an agreement with Merrill Lynch to sell our Italian operations,&quot; Carnegie managing director Lars Bertmar told Reuters.</p>
+<p>Bertmar said the reason behind the sale was the need for capital for expansion in the Nordic region.</p>
+<p>Carnegie recently sold its operations in Spain and said it would also pull out of Portugal.</p>
+<p>-- Goran Lind, Stockholm newsroom, +46-8-700 1018</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

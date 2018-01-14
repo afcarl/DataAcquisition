@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32005" id="root" date="1996-09-04" xml:lang="en">
+<title>HONG KONG: Barings sets warrants on Pearl Oriental. [CORRECTED 11:02 GMT]</title>
+<headline>Barings sets warrants on Pearl Oriental. [CORRECTED 11:02 GMT]</headline>
+<dateline>HONG KONG 1996-09-04</dateline>
+<text>
+<p>ING Baring Financial Products Ltd said it intended to issue 230 million American style call warrants on shares of Pearl Oriental Holdings Ltd.</p>
+<p>One warrant controls one share.</p>
+<p> STRIKE PRICE	HK$3.08	PREMIUM	   25.86 PCT</p>
+<p> (Corrects premium percentage from 15.86).</p>
+<p> ISSUE PRICE	 HK$0.44408   GEARING	   6.305X</p>
+<p> EXPIRATION	  4.Sept.97    PAYDATE	   4.SEP.96</p>
+<p> LISTING	     HONG KONG    SPOT REFERENCE  HK$2.80</p>
+<p> NOTES		 GOVERNING LAW IS HONG KONG</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

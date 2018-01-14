@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31346" id="root" date="1996-09-04" xml:lang="en">
+<title>UK: SOCCER-ENGLISH PREMIER LEAGUE SUMMARIES.</title>
+<headline>SOCCER-ENGLISH PREMIER LEAGUE SUMMARIES.</headline>
+<dateline>LONDON 1996-09-04</dateline>
+<text>
+<p>Summaries of English premier league matches played Wednesday: Arsenal 3 (Merson 44th minute, Keown 64th, Wright 77th) Chelsea 3 (Leboeuf penalth 6th, Vialli 30th, Wise 90th), Halftime 1-2. Attendance: 38,132. Blackburn 0 Leeds 1 (Harte 40th). 0-1. 23,226 Coventry 0 Liverpool 1 (Babb 68th). 0-0. 23,021. Derby 1 (Laursen 25th) Manchester United 1 (Beckham 38th). 1-1. 18,026 Everton 0 Aston Villa 1 (Ehiogu 62nd). 0-0. 39,115 Middlesbrough 4 (Emerson 12th, Mustoe 28th, Ravanelli 52nd, Stamp 81st) West Ham 1 (Hughes 57th). 2-0. 30,060 Southampton 2 (Dryden 53rd, Le Tissier 89th) Nottingham Forest 2 (Campbell 4th, Saunders 23rd). 0-2. 14,450 Sunderland 1 (Scott penalty 19th) Newcastle 2 (Beardsley 52nd, Ferdinand 62nd). 1-0. 22,037 Wimbledon 1 (Earle 3rd) Tottenham 0. 1-0. 17,506.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

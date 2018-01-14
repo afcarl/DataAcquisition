@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31567" id="root" date="1996-09-04" xml:lang="en">
+<title>TOGO: Togo premier wins parliament's confidence.</title>
+<headline>Togo premier wins parliament's confidence.</headline>
+<dateline>LOME 1996-09-04</dateline>
+<text>
+<p>Togo's new prime minister, Kwassi Klutse, has won parliament's backing for his programme of government, after a speech in which he highlighted a need for democracy, security, national unity and economic revival.</p>
+<p>A total of 43 members of parliament voted in favour of a motion of confidence in Klutse and his 24-member government after a debate during a special session of the national assembly on Tuesday.</p>
+<p>The 37 who voted against included supporters of Edem Kodjo, who resigned as prime minister in August after supporters of President Gnassingbe Eyadema assured themselves of an effective majority in the assembly following three by-election wins.</p>
+<p>Klutse, an economist appointed by Eyadema on August 20, told legislators that democracy would be strengthened by the creation of institutions envisaged in the 1992 constitution such as a constitutional court and a human rights commission. These institutions &quot;will guarantee the rights of citizens&quot;, he said.</p>
+<p>On security, he called for revision of conditions covering ownership of weapons and strengthening checks at border posts.</p>
+<p>On the economic front, he called for public finances to be put back on their feet and creation of jobs in the private sector. Togo's real Gross Domestic Product grew 8.3 percent in 1995, the second highest rate in Africa after Malawi.</p>
+<p>Eyadema, an army general, seized power in 1967 and was elected in 1993.</p>
+<p>Kodjo took the job of prime minister when opposition parties held a notional majority after a 1994 general election.</p>
+<p>Parliament resumes on October 2 for its budget session.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TOGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOME"/>
+<dc element="dc.creator.location.country.name" value="TOGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

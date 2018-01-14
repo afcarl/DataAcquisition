@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31652" id="root" date="1996-09-04" xml:lang="en">
+<title>HUNGARY: Hungary three-month bill yields fall to 22.46 pct.</title>
+<headline>Hungary three-month bill yields fall to 22.46 pct.</headline>
+<dateline>BUDAPEST 1996-09-04</dateline>
+<text>
+<p>The average annual yield on the latest issue of three-month discount treasury bills was set by auction at 22.46 percent, down from 22.80 percent at an auction one week ago, the National Bank of Hungary said.</p>
+<p>    Total on offer	     5,000 million forints</p>
+<p>    Total bids received     17,341.39 million forints</p>
+<p>    Total allocated	    5,000 million forints</p>
+<p>    Total issued		 5,000 million forints</p>
+<p>    Average annual yield	    22.46 pct</p>
+<p>    Average price		     94.6973 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

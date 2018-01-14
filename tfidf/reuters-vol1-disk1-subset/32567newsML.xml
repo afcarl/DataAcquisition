@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32567" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Dayton Superior started.</title>
+<headline>RESEARCH ALERT - Dayton Superior started.</headline>
+<text>
+<p>-- Bankers Trust said it initiated coverage of Dayton Superior Corp with a buy rating.</p>
+<p>-- Further details were not immediately available.  </p>
+<p>-- Analyst H. Lloyd Kanev said in a reserach note that Dayton Superior was the top consolidator and largest North American manufacturer in the highly fragmented $450 million concrete and masonry accessories industry.</p>
+<p>-- &quot;Organic revenue growth will be augmented by additional acquisitions which could, in turn, improve the company's long-term growth rate,&quot; he said.</p>
+<p>He said that &quot;With a strong management team, and as one of the the lowest cost producers in the industry, DSD distinguishes itself as a prime candidate for micro-cap value investors in our view. We believe Dayton Superior is undervalued relative to its growth and market.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134474" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Playtex Q3 net eps flat at $0.11.</title>
+<headline>Playtex Q3 net eps flat at $0.11.</headline>
+<dateline>WESTPORT, Conn. 1996-10-22</dateline>
+<text>
+<p>PLAYTEX PRODUCTS INC</p>
+<p>		   Third Quarter Ended	 Nine Months Ended</p>
+<p>		 Sept. 28,    Sept. 30,    Sept. 28,   Sept. 30,</p>
+<p>		    1996	1995(a)	 1996	  1995(a)</p>
+<p>Net sales    $ 117,500    $ 111,744   $ 392,439    $ 380,138</p>
+<p>Gross profit    73,365	 71,174     242,694	232,834</p>
+<p>Earnings before loss 5,408    5,488	16,878	 15,762</p>
+<p>Extraordinary loss --	     --	    --	 (7,935)</p>
+<p>Net income     $ 5,408	$ 5,488     $16,878	$ 7,827</p>
+<p>EPS before loss$  0.11	$  0.11     $  0.33	$  0.40</p>
+<p>Net income     $  0.11	$  0.11     $  0.33	$  0.20</p>
+<p>Avg shrs	  50,885	 50,880	50,883	 39,451</p>
+<p>		 (In thousands, except per share data)</p>
+<p>NOTE: Extraordinary loss on early extinguishment of debt.</p>
+<p>(a) Certain prior years accounts have been reclassified for consistency with 1996 presentation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTPORT, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

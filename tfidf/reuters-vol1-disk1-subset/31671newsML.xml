@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31671" id="root" date="1996-09-04" xml:lang="en">
+<title>CZECH REPUBLIC: Czech BICS100 bond index rises 0.039 pts to 99.642.</title>
+<headline>Czech BICS100 bond index rises 0.039 pts to 99.642.</headline>
+<dateline>PRAGUE 1996-09-04</dateline>
+<text>
+<p>The BICS 100 index measuring the Czech Republic's most liquid bonds rose 0.039 points in Wednesday's trading to 99.642, bank Ceska Sporitelna said.</p>
+<p>It said the duration of the index portfolio shortened by 0.002 points to 2.308 years.</p>
+<p>The BICSG 100 index, which Ceska Sporitelna calculates using only government bonds, rose 0.060 points to 95.811, the bank said, while the duration of the index portfolio shortened by 0.003 points to 2.403 years.</p>
+<p>It said the yield index YBICS 1000 fell 1.920 points to 1,193.531.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

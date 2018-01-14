@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31500" id="root" date="1996-09-04" xml:lang="en">
+<title>CANADA: Toronto stocks finish mixed in active trading.</title>
+<headline>Toronto stocks finish mixed in active trading.</headline>
+<dateline>TORONTO</dateline>
+<text>
+<p>Toronto stocks finished mixed on Wednesday after weak bonds offset gains in most sectors, including a rumor-driven rally in transportation.</p>
+<p>The TSE 300 Composite Index rose 11.88 points to close at 5163.77. But declining stocks outnumbered advancers 447 to 421, with 302 issues ending flat.</p>
+<p>Trading was active, with 72.17 million shares changing hands for a total value of C$926.85 million (US$676 million).</p>
+<p>&quot;It wasn't too bad in light of the fact that the bond market had another weak day,&quot; said John Kellett, vice-president of equities for Royal Bank of Canada.</p>
+<p>Canadian bonds finished weaker along with a sluggish U.S. market as investors await key U.S. jobs data on Friday.</p>
+<p>Trading was heavier on the TSE than Tuesday's post-holiday session, but Kellett said some investors are still sidelined.</p>
+<p>&quot;Too many people recall that September and October are not great months and they're not prepared to get too aggressive at this stage,&quot; he said.</p>
+<p>Among the TSE's 14 sub-groups, transportation added over 100 points. Other strong sectors included energy, banking, base metals and conglomerates.</p>
+<p>--- HOT STOCKS ---</p>
+<p>* Waste and transport giant Laidlaw Inc. class B topped the most-active list, climbing 0.35 to 13.50 on 3.8 million shares. Laidlaw rallied on market speculation that Republic Industries was planning to buy Laidlaw's solid waste unit. Both companies denied the rumors.</p>
+<p>* Thomson Corp. pulled down the communications group, losing 0.45 to 24.35, despite news that the publisher won a television license for a new business news channel.</p>
+<p>* Newbridge Networks Corp. jumped 2.15 to 82.80 after releasing industry studies which named Newbridge the market leader in network switch sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

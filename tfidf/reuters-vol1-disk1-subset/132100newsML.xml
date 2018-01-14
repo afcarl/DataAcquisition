@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132100" id="root" date="1996-10-21" xml:lang="en">
+<title>CHINA: Shanghai Petro says impact of price hike limited.</title>
+<headline>Shanghai Petro says impact of price hike limited.</headline>
+<dateline>SHANGHAI 1996-10-21</dateline>
+<text>
+<p>Shanghai Petrochemical Co said on Monday that its recent increases in the price of liquefied gas and diesel and heavy fuels would have only limited impact on annual results.</p>
+<p>A company official said the price hikes covered about 35 percent of the firm's oil products, and 25 percent of its total output. In addition, some of the oil products subject to the hikes are consumed by the company itself, the official said.</p>
+<p>&quot;The price hikes will help the firm to increase its profits for this year to some extent, but there will not be big impact,&quot; he added.</p>
+<p>As of last Friday, the price of the company's No. 0 diesel oil rose 90 yuan per tonne and prices for other kinds of diesel fuel have been adjusted accordingly, the China Securities newspaper reported on Monday.</p>
+<p>Prices for all heating fuels have risen by 50 yuan per tonne.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

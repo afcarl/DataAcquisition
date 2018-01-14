@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32875" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Game Financial adds customers.</title>
+<headline>Game Financial adds customers.</headline>
+<dateline>MINNEAPOLIS 1996-09-04</dateline>
+<text>
+<p>Game Financial Corp said Wednesday it has received contracts to provide financial services to five casino gaming properties and added check cashing services to two existing customers that had been using its credit card cash advance system.</p>
+<p>Contracts for Hyatt Gaming Corp's Grand Victoria Casino &amp; Resort, Rising Sun, Ind.; Hastings Keno, Hastings Neb.; Mahoney's Silver Nugget, Las Vegas, Nev.; and Casino Magic Corp in Bossier City, La., will become operational during the third quarter.  Operations at the fifth property, Casino Magic in Biloxi, Miss., have been underway on a test basis for the past two months.</p>
+<p>Game Financial also said that check cashing services were added at Pechanga Entertainment, Temecula, Calif., and Lake of the Torches Casino, Lac du Flambeau, Wis.</p>
+<p>The company is currently operating in 63 locations up from 28 at the end of 1995. Including locations reported today, Game Financial said it has agreements in place with six additional gaming establishments that will become operational during the third quarter of 1996.</p>
+<p>Game Financial provides financial services, principally credit card cash advance, check cashing and ATM services to customers of gaming establishments.</p>
+<p>Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

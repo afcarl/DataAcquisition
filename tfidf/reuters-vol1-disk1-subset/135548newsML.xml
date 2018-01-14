@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135548" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRIA: Flughafen Wien 9-mth passenger, freight up.</title>
+<headline>Flughafen Wien 9-mth passenger, freight up.</headline>
+<dateline>VIENNA 1996-10-22</dateline>
+<text>
+<p>Vienna international airport company Flughafen Wien AG on Tuesday reported a 7.6 percent increase in passenger numbers in the first nine months and forecast similar growth for the full year.</p>
+<p>In a statement, Flughafen said there were 7.1 million passengers in the nine months to end-September and 2.8 million in the third quarter, up 6.8 percent on third quarter 1995.</p>
+<p>It said it expected 9.2 million passengers for the full year, a rise of 7.6 percent.</p>
+<p>&quot;This represents healthy growth, especially after 1995's exceptionally strong 10.6 percent increase,&quot; Flughafen said, adding that the effects of European cost-cutting had become evident in the second quarter.</p>
+<p>It registered the biggest increase in passengers from the Far East. Their numbers jumped 30 percent to over 52,000 in the third quarter following an advertising campaign in the region.</p>
+<p>The company said there were 117,826 take-offs and landings in the first nine months, 9.6 percent up on the previous year. Maximum take-off weight rose 11.1 percent.</p>
+<p>Freight traffic increased 1.1 percent to 91,965 tonnes. The firm noted that some other West European airports had seen a decline in freight traffic over the same period.</p>
+<p>-- Vienna Newsroom, 43-1-53112-258</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

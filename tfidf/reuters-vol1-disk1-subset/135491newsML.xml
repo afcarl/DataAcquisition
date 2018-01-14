@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135491" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Nichiei, Nichiei Finance trade suspended.</title>
+<headline>Nichiei, Nichiei Finance trade suspended.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Share trading in Nichiei Co Ltd, a major lumber dealer, and its unit Nichiei Finance Co Ltd has been suspended on the Tokyo Stock Exchange (TSE) for the entire Tuesday session, the TSE said.  </p>
+<p>The TSE also said trade in Nichiei Co's No.1 uncollateralised convertible bonds has also been suspended.</p>
+<p>The exchange said the trade suspension was due to unclear information concerning Nichiei Finance's filing for liquidation.</p>
+<p>Nichiei Finance said earlier today that it would file for liquidation with the Yokohama District Court as early as Tuesday, but it did not elaborate.</p>
+<p>Nichiei Finance is due to hold a news conference at 9.30 a.m. (0030 GMT), followed by a news conference by Nichiei Co at 9.45 a.m. (0045 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

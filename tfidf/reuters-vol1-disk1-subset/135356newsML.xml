@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135356" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Tokyo prosecutors arrest copper trader Hamanaka - TV.</title>
+<headline>Tokyo prosecutors arrest copper trader Hamanaka - TV.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Tokyo prosecutors arrested Sumitomo Corp's former chief copper trader Yasuo Hamanaka for suspected forgery, Japanese public television station NHK said on Tuesday.  </p>
+<p>A Sumitomo spokesman said earlier a top executive would hold a news conference at 2.30 p.m. (0530 GMT) on Tuesday regarding legal action against Hamanaka.</p>
+<p>On September 19, Sumitomo announced it was preparing for legal action against Hamanaka, who it blamed for $2.6 billion in losses from unauthorised copper trading. Sumitomo fired Hamanaka in mid-June when it announced the losses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

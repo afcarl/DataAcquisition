@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135067" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Modest selling sees Australia stocks end down.</title>
+<headline>RTRS-Modest selling sees Australia stocks end down.</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>-----------------(Snapshot 4.25 p.m./0625 GMT)-----------------</p>
+<p>AORD		2353.60   -9.60   DJIA  cl	6090.87   -3.36</p>
+<p>SPI futures	  2368     -10   US 30yr cl	 6.81   +0.01</p>
+<p>10yrbond futs    92.485  +0.010   Gold (NY cl)  $382.15   +1.80</p>
+<p>AUD	   0.7957 (Mon 0.7972)   CRB Index cl   243.83   +0.48</p>
+<p>NIKKEI	   21123.68 -179.27   FTSE cl	 4073.10  +20.00</p>
+<p>S&amp;P500(Globex)   714.60   +0.20   NZSE40	  2349.67  -18.11</p>
+<p>--------------------------(Oct 22)-----------------------------</p>
+<p>*Stocks end lower as modest selling in BHP and News Corp</p>
+<p>weighs on market. Turnover 288.83 million shares, A$622.654 million</p>
+<p>value, 1085 stocks traded, 356 steady, 337 rises, 392 falls</p>
+<p>Australian shares were pushed to a lower close on Tuesday by modest selling pressure as investors cast a wary eye over Wall Street and awaited local third-quarter inflation data due on Wednesday.</p>
+<p>At 4.25 p.m. (0625 GMT), the All Ordinaries index was 9.6 points lower at 2,353.6.</p>
+<p>December share price index futures were 10 points lower at 2368, a 14.4 point premium to the underlying index.</p>
+<p>Strength in bellwether BHP kept losses to a minimum early, but this strength dissipated in the afternoon as sellers emerged to cash in some profits.  </p>
+<p>&quot;BHP came back in the afternoon and that knocked things back a peg or two,&quot; said a Sydney broker.</p>
+<p>Noting the moderate, choppy activity seen today, the broker said he thought more interest may be taken on Wednesday after traders digested Wall Street's performance and inflation data.</p>
+<p>&quot;It wasn't great activity today. There is a lot of people waiting for the CPI data and to see where the Dow goes,&quot; he said.</p>
+<p>&quot;I think we will probably see more activity tomorrow.&quot;</p>
+<p>Interest in the leaders sprung from big bank Westpac on the upside, while media major News Corp dipped with its ADRs.  </p>
+<p>Westpac put on a star turn as traders bought in on the back of takeover speculation fuelled by heavy trading in the bank's convertible preference shares.</p>
+<p>On the downside, media magnate Murdoch's News Corp featured after a U.S. broker reportedly downgraded the stock.</p>
+<p>Falls outnumbered rises by a ratio of about seven to six, while 33 percent of stocks traded remained steady.</p>
+<p>FUTURES/OPTIONS - Derivatives trade was at moderate levels with few features to excite.</p>
+<p>Total options traded 38,975 (42,525)</p>
+<p>Turnover in December SPI contracts totalled 4,827 (5,923)  </p>
+<p>In other local markets, Australian bonds ended barely changed with the 10 year bond yield continuing to buffet against 7.50 percent as tension mounted ahead of inflation data on Wednesday and wages data on Thursday.</p>
+<p>By 5.00 p.m. (0700 GMT), 10 year T-bonds were yielding 7.54 percent, unchanged from Monday's levels.</p>
+<p>The Australian dollar's climb faltered Tuesday as bulls were daunted by stiff chart resistance and the danger of a sudden shift in interest rate sentiment.</p>
+<p>By 5.00 p.m. (0700 GMT), the local dollar had retreated to US$0.7951/56 from an early US$0.7962/67 and US$0.7970/75 Monday.  </p>
+<p>-----------------------(TECHNICALS)-------------------------</p>
+<p>Short-term range    Support   Restnce   RSI-14  MA-10  MA-20</p>
+<p>AORD   2340/2380     2340	2380	63.12   2349   2325</p>
+<p>SPI    2360/2400     2360	2400	60.49   2370   2338</p>
+<p>---------------------(KEY ACTIVES)--------------------------</p>
+<p>*News Corp A$7.17 (-.20) 7.15/7.362 Vol: 3,628,998</p>
+<p>Media shares follow ADRs lower after reported broker downgrade.</p>
+<p>*Westpac A$6.76 (+.17) 6.65/6.78 Vol: 2,732,441</p>
+<p>Bid speculation sees bank's shares jump ahead.</p>
+<p>*Nat Aust Bank A$13.44 (+.05) 13.38/13.45 Vol: 426,280</p>
+<p>Bank sector firmer but focus on Westpac.</p>
+<p>*BHP A$17.32 (-.13) 17.32/17.62 Vol: 3,310,405</p>
+<p>Profit takers drive bellwether lower in afternoon.</p>
+<p>*CRA A$19.85 (+.01) 19.70/19.90 Vol: 689,689</p>
+<p>*WMC A$8.02 (+.02) 7.998/8.06 Vol: 1,600,285</p>
+<p>Miners see slow,choppy day, firmer metals prices fail to spark.</p>
+<p>-- Walter Watson 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

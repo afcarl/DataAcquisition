@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135103" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Ridley extends Joe White bid. [CORRECTED 06:55 GMT]</title>
+<headline>RTRS-Ridley extends Joe White bid. [CORRECTED 06:55 GMT]</headline>
+<dateline>SYDNEY 1996-10-22</dateline>
+<text>
+<p>Stockfeed producer Ridley Corp Ltd said on Tuesday it would extend its takover offer for maltster Joe White Maltings Ltd to November 8 from November 1.</p>
+<p>Ridley is offering cash A$5.44 per share, made up of A$5.30 per share plus a 14 cents per share dividend. (Corrects terms of Ridley's bid).</p>
+<p>Ridley, which holds about 19 percent of Joe White, had previously offered A$5.44 per share, an offer rejected by Joe White.</p>
+<p>--Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

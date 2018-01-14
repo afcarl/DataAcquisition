@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133649" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BALANCE - Minnesota at $48.2 mln.</title>
+<headline>BALANCE - Minnesota at $48.2 mln.</headline>
+<text>
+<p>STATE OF MINNESOTA</p>
+<p>RE: $170,000,000</p>
+<p>GENERAL OBLIGATION STATE VARIOUS PURPOSE BONDS</p>
+<p>MOODY'S: Aaa		   S&amp;P: AA+		   FITCH: AAA</p>
+<p>Delivery Date: 11/13/1996</p>
+<p>Expected</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>11/01/2002	   8,225M    5.00	  4.50</p>
+<p>11/01/2003	   8,175M    5.00	  4.60</p>
+<p>11/01/2004	   7,275M    5.50	  4.70</p>
+<p>11/01/2005	   5,775M    6.00	  4.80</p>
+<p>11/01/2006	  11,230M    6.00	  4.90</p>
+<p>11/01/2010	   7,525M    5.125	 5.30</p>
+<p>  Total:	    48,205M</p>
+<p>J.P. Morgan Securities Inc.</p>
+<p>Lehman Brothers</p>
+<p>Morgan Stanley &amp; Co. Incorporated</p>
+<p>First Chicago Capital Markets, Inc.</p>
+<p>Raymond, James &amp; Associates</p>
+<p>IN ASSOCIATION WITH:</p>
+<p>Goldman, Sachs &amp; Co.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

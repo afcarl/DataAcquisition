@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136103" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Black Hills Corp Q3 shr rises to $0.57.</title>
+<headline>Black Hills Corp Q3 shr rises to $0.57.</headline>
+<dateline>RAPID CITY, S.D. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.57		    $0.48</p>
+<p> Net			  8,243		    6,932</p>
+<p> Revs			42,565		   39,062</p>
+<p> Avg shrs		  14,443		   14,414</p>
+<p>	  Nine months</p>
+<p> Shr			  $1.53		    $1.29</p>
+<p> Net			 22,129		   18,572</p>
+<p> Revs		     121,454		  109,603</p>
+<p> Avg shrs		  14,437		   14,404</p>
+<p>	 (All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RAPID CITY, S.D."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

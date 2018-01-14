@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132637" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Clark disputes allegations refinery unsafe.</title>
+<headline>Clark disputes allegations refinery unsafe.</headline>
+<dateline>CHICAGO 1996-10-22</dateline>
+<text>
+<p>Clark Refining and Marketing Co refinery manager Bob Martindale said the company's local refinery is operating safely and called a move by Illinois regulators to close down the facility &quot;unwarranted and unjustified.&quot;</p>
+<p>&quot;The Blue Island (Ill.) refinery is safe and has been demonstrating its safety day by day. The nature of Saturday's incident has been exaggerated,&quot; Martindale said on Tuesday in a statement released by the independent refining and marketing company.  </p>
+<p>An explosion and fire in a propane pipeline rocked the 80,515 barrel per day refinery on Saturday, shutting down a processing unit used to refine premium unleaded gasoline. No one was injured and there was no damage outside the refinery, the company said.</p>
+<p>Following the explosion, Illinois Attorney General Jim Ryan sought a court order to temporarily shut down the refinery until the company can demonstrate the facility can be operated safely. A hearing was set for Wednesday in Cook County Circuit Court.</p>
+<p>The Blue Island refinery has been under scrutiny by state regulators following two headline-grabbing accidents last year. On March 13, 1995, an explosion in a processing unit killed two workers and injured three others. In May 1995, fifteen pounds of hydrofluroic acid leaked from an alkylation unit and floated over a nearby high school, where 25 students complained of lightheadedness and related symptoms.</p>
+<p>Martindale said Clark has implemented new safety programs since those incidents. &quot;As significantly, during this time, we also had an outstanding environmental safety record,&quot; he said.</p>
+<p>Clark is a unit of Clark USA Inc which is 49 percent owned by The Horsham Corp of Canada.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

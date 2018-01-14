@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135109" id="root" date="1996-10-22" xml:lang="en">
+<title>NEW ZEALAND: ANZ to resume talks with NZ union in pay dispute.</title>
+<headline>ANZ to resume talks with NZ union in pay dispute.</headline>
+<dateline>WELLINGTON 1996-10-22</dateline>
+<text>
+<p>Financial sector trade union FinSec said on Tuesday it had asked members to stop industrial action while it held fresh talks with the management of ANZ Banking Group (New Zealand) Ltd over a pay dispute.</p>
+<p>&quot;Talks last week made no progress, but we are committed to sorting this out through negotiation and we've asked members to stop their campaign of industrial action at short notice while these talks are proceeding,&quot; FinSec advocate Don Farr said.</p>
+<p>The talks are scheduled for Wednesday morning.  </p>
+<p>The union, which originally sought an 8.3 percent pay increase, is now holding out for six percent, while ANZ is offering 3.5 percent.</p>
+<p>FinSec has about 4,000 members at ANZ, whose branch operations have been disrupted by stoppages in the past fortnight. The bank is part of Australia and New Zealand Banking Group Ltd. -- Wellington newsroom 64 4 473-4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

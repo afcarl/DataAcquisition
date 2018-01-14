@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135178" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Fuji Co sets terms on CB at 1.5%.</title>
+<headline>Fuji Co sets terms on CB at 1.5%.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>BORROWER - Fuji Co Ltd</p>
+<p>LEAD MGR - Nomura Securities Co Ltd</p>
+<p>TRUSTEE - Hokkaido Bank Ltd</p>
+<p> TYPE convertible     ISSUE NO   1	  AMT   2 bln yen</p>
+<p> COUPON 1.5%	    ISS PRICE	     MATURITY 20.Oct.03</p>
+<p> CONV PRICE 984 yen   CURR RATE</p>
+<p> CONV FROM 2.Dec.96   CONV TO 17.Oct.03</p>
+<p> LAST MOODY'S	   PAY DATE 7.Nov.96   INT PAY 20th Apr/Oct</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 23.Oct-29.Oct</p>
+<p> LAST JCR		 LAST JBRI  BB+	LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

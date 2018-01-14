@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133800" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: AT&amp;T Capital prices $200 mln of securities.</title>
+<headline>AT&amp;T Capital prices $200 mln of securities.</headline>
+<dateline>MORRISTOWN, N.J. 1996-10-22</dateline>
+<text>
+<p>AT&amp;T Capital Corp said Tuesday that a newly-formed trust sponsored by AT&amp;T Capital, Capita Preferred Trust, had priced $200 million of Perpetual Trust Originated Preferred Securities (TOPrS).</p>
+<p>The price is $25 per share, a statement said.</p>
+<p>Holders of the securities will be entitled to receive cash distributions at an annual percentage rate of 9.06 percent, which is guaranteed by AT&amp;T Capital, the company said.</p>
+<p>Merrill Lynch &amp; Co is lead manager.  Goldman, Sachs &amp; Co, Lehman Brothers, PaineWebber Inc and Prudential Securities Inc are co-managers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MORRISTOWN, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

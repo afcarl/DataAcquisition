@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133789" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Imposter at TWA crash site pleads guilty.</title>
+<headline>Imposter at TWA crash site pleads guilty.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>A man who posed as a military officer and commanded a helicopter landing zone at the TWA Flight 800 crash site pleaded guilty on Tuesday to charges he earlier pretended he was a doctor, diagnosed patients and wrote prescriptions.</p>
+<p>David Williams, 30, of Bay Shore, New York, pleaded guilty in Suffolk County Court to one felony count of unauthorised practice of a profession.</p>
+<p>New York Attorney General Dennis Vacco said the plea arrangement calls for a six-month jail sentence, five years probation and psychological counselling.</p>
+<p>Williams had been indicted on charges that he posed as a physician and approved more than $87,000 worth of Medicaid expenditures as an administrator at the Coram-based Economic Opportunity Council of Suffolk Inc.</p>
+<p>A probe by the Attorney General's office found that while employed by the EOC in 1995 and 1996, Williams diagnosed patients treated for the state Office of Mental Retardation and Developmental Disabilities. In addition, he was accused of writing phony prescriptions for medications for himself and others.</p>
+<p>His masquerade began to unravel in late July when he was escorted off the U.S. Coast Guard station in East Moriches, command centre for the TWA Flight 800 crash investigation.</p>
+<p>The July 17 mid-air explosion of the TWA Boeing 747 aircraft off Long Island killed all 230 passengers and crew.</p>
+<p>Williams had been posing at the centre for several days as a U.S. Army Reserve lieutenant colonel and had taken charge of the helicopter landing zone.</p>
+<p>He had used red-tipped flashlights to guide the landings of dozens of helicopters ferrying officials including Governor George Pataki and James Kallstrom, the chief crash investigator at the Federal Bureau of Investigation.</p>
+<p>Officials there eventually realised he was wearing Army Airborne Ranger patches on his shoulders and -- incongruously -- Air Force medical insignia on his front zippered pocket.</p>
+<p>After he was removed from the site, his employers investigated his background and found he was not actually a physician.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

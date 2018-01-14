@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134482" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Ecolab Inc Q3 net rises.</title>
+<headline>Ecolab Inc Q3 net rises.</headline>
+<dateline>ST. PAUL, Minn. 1996-10-22</dateline>
+<text>
+<p>Third Quarter	    Nine Months</p>
+<p>				1996	1995	 1996	  1995</p>
+<p>Net Sales		 392,065   348,519   1,098,981    991,493</p>
+<p>SGA			 160,534   142,643     464,858    426,261</p>
+<p>Operating Income	 56,299    49,282     135,446    120,695</p>
+<p>Income Before Income Taxes</p>
+<p>and Equity in Earnings</p>
+<p>  of Joint Venture     52,707    45,846     123,830    112,242</p>
+<p>Provision for Income Taxes</p>
+<p>			     22,263    17,979	50,780     44,672</p>
+<p>Net Income	     $ 35,528  $ 29,877  $   82,771   $ 74,110</p>
+<p>Net Income Per</p>
+<p>  Common Share	 $   0.55  $   0.46  $     1.28   $   1.11</p>
+<p>Average Shares	   64,366    64,537	64,421     66,574</p>
+<p>			 (thousands,except per share)</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

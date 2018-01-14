@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136326" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Noranda board okays C$212 million in mining projects.</title>
+<headline>Noranda board okays C$212 million in mining projects.</headline>
+<dateline>TORONTO</dateline>
+<text>
+<p>Noranda Inc. said Wednesday its board approved five mining and minerals capital projects totalling C$212 million ($157.0 million).</p>
+<p>&quot;These projects, which will be carried out over the next two years, will increase the production capacity and the productivity of Noranda copper and zinc operations, and will increase the company's profitability,&quot; the giant mining said.</p>
+<p>In its copper operations, Noranda said it will invest C$142 million ($105.1 million) to boost smelting capacity and to modernise its refining operations.</p>
+<p>Of the C$142 million, C$124 million ($91.9 million) will be invested at Noranda Metallurgy's CCR refinery in Montreal, Quebec.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

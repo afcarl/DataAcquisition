@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133598" id="root" date="1996-10-22" xml:lang="en">
+<title>EGYPT: Egypt defends problematic stock exchange systems.</title>
+<headline>Egypt defends problematic stock exchange systems.</headline>
+<byline>Miral Fahmy</byline>
+<dateline>CAIRO 1996-10-22</dateline>
+<text>
+<p>The head of Egypt's capital markets said on Tuesday that problems plaguing new dealing and clearing systems were just another step toward modernising the bourse to attract international investors.</p>
+<p>Share prices on the Cairo stock exchange fell to their lowest level in two months last week as brokers wrangled with the two computerised systems. During one session, computer crashes cut trading to just five minutes.</p>
+<p>Brokers said the system caused so much trouble since it was implemented in October 1 that it was scaring away investors. The local press had called for the closure of the bourse until the teething problems were solved.</p>
+<p>&quot;International investors look for an organised market first and then they think whether it is attractive or not. As we're opening our market to the world, we must deal as they do,&quot; Abdel Hamid Ibrahim, acting head of the Capital Market Authority (CMA), told reporters.</p>
+<p>&quot;It's just like when a country changes its traffic laws from driving on the left-hand side to the right-hand side. There are accidents until people get used to it...and now it's beginning to stabilise,&quot; he added.</p>
+<p>The bourse launched the clearing system through Misr Clearing Company. The firm is in charge of handling and simplifying the paperwork involved in transferring money or securities from one owner to another.</p>
+<p>But brokers have complained that Misr Clearing Company was delaying the finalisation of any trade because its computers and staff were not up to standard.</p>
+<p>A new computerised dealing system also came under fire because brokers said it was too slow and the CMA said it was considering hiring a Canadian firm to update it.</p>
+<p>&quot;The transistion period is causing many problems but brokers are telling their clients not to sell. We're going to see a different market in November,&quot; said Mohammed Abdallah of brokers EFG Hermes.</p>
+<p>Ibrahim and officials at the clearing firm admitted their computers and staff are overloaded. But they said the new system -- under which brokers must finalise their trade in four days -- was more efficient and that the brokers caused many delays.</p>
+<p>Under the old method, brokers settled trades between themselves using a much simpler clearing software.</p>
+<p>&quot;We implemented the new system to get rid of the problems of the old one. The speed of the transaction depended on the personal relations between the two brokers. Now if the system is not used, the broker is suspended from trading,&quot; Ibrahim said.</p>
+<p>He said that of the 72,528 transactions which took place in the market during the first 15 days of the new system, only 6,074 settlements were still outstanding.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

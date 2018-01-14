@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32385" id="root" date="1996-09-04" xml:lang="en">
+<title>ITALY: Olivetti dir general Francesconi resigns.</title>
+<headline>Olivetti dir general Francesconi resigns.</headline>
+<dateline>TURIN, Italy 1996-09-04</dateline>
+<text>
+<p>The director general of the holding group of Olivetti Renzo Francesconi has resigned from his position after less than two months in the post, just one day after the group chairman Carlo De Benedetti stepped down.</p>
+<p>Francesconi was only appointed to the Olivetti post in the middle of July after being responsible for planning, administration and finance at the state broadcaster RAI.</p>
+<p>He will be replaced by Piero Nardi, who was the managing director of Italian shipping and logistics group Serra/GTA, an Olivetti statement said.</p>
+<p>Francesconi said, &quot;The situation is very serious for Olivetti with the prospect of a very difficult future&quot;.</p>
+<p>Olivetti on Tuesday announced that De Benedetti was stepping down, first half 1996 pretax losses reached 440.2 billion, sales were off 11 percent, debts increased and further restructuring charges were indicated.</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TURIN, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

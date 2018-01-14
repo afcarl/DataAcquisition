@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32259" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Drug lord said beaten, drugged after Mexican arrest.</title>
+<headline>Drug lord said beaten, drugged after Mexican arrest.</headline>
+<dateline>HOUSTON 1996-09-04</dateline>
+<text>
+<p>Accused drug lord Juan Garcia was beaten by Mexican police and injected with the tranquilliser Valium before he was flown here following his arrest in Monterrey, Mexico last January, news reports said on Wednesday.</p>
+<p>The Houston Chronicle said Garcia Abrego admitted to U.S. investigators shortly after his arrival in Houston that he was involved in international drug trafficking, but his lawyers want the admission thrown out because he was under the influence of the Valium.</p>
+<p>Federal drug agents said in an open pre-trial conference on Tuesday that Mexican police injected the heavy-set Garcia Abrego twice with the drug when he resisted being put on a flight to the United States, the newspaper said.</p>
+<p>Garcia Abrego, accused of shipping up to one-third of the cocaine consumed in the United States, was arrested on Jan. 14 at his Monterrey home, transported to Mexico City, then flown to Houston on Jan. 15 where he was arrested on a 1993 drug-trafficking indictment.</p>
+<p>In Houston Garcia Abrego told FBI and Drug Enforcement Administration investigators he had been beaten by Mexican police, DEA agent Joseph Dubois said.</p>
+<p>But &quot;he appeared lucid. He knew where he was. He did not appear to be under the influence of alcohol or drugs,&quot; Dubois said, according to the newspaper.</p>
+<p>He said Garcia Abrego admitted his involvement in drug trafficking and suggested he could name others in the same business. &quot;He was leading us to believe he would strike a deal. We offered none,&quot; Dubois said.</p>
+<p>U.S. District Judge Ewing Werlein has not yet ruled about the admissability of Garcia Abrego's statement. Garcia Abrego's trial is set to begin on Sept. 16.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

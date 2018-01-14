@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136156" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: President lease rights sale terminated.</title>
+<headline>President lease rights sale terminated.</headline>
+<dateline>ST. LOUIS 1996-10-23</dateline>
+<text>
+<p>President Casinos Inc announced Wednesday the termination of its proposed sale of leasehold rights at the Broadwater Marina in Biloxi, Mississippi, to Primadonna Resorts Inc.  </p>
+<p>Las Vegas-based Primadonna has decided not to pursue plans to expand in Biloxi. President entered into a letter of intent with Primadonna for such a sale in July.</p>
+<p>The Broadwater Marina property, the site of President's barge casino operations in Biloxi, is leased by the company from BH Acquisition Corp, owned by John Connelly, the chairman and principal stockholder of President Casinos.</p>
+<p>&quot;We will continue to consider various strategic alternatives for our operations in Biloxi, where operating results have improved over the past year,&quot; said John Aylsworth, President Casinos chief operating officer .</p>
+<p>President shares were unchanged at 1-1/16, while Primadonna was up 1/4 at 17 in Nasdaq trading at 1315 EDT/1715 GMT Wednesday.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18104" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: H&amp;R Block decides not to spin off rest of Compuserve.</title>
+<headline>H&amp;R Block decides not to spin off rest of Compuserve.</headline>
+<dateline>KANSAS CITY, Mo. 1996-08-28</dateline>
+<text>
+<p>H&amp;R Block Inc., citing problems facing the online service industry, said Wednesday it has decided not to complete the spin-off of the rest of its Compuserve Corp. subsidiary, at least for now.</p>
+<p>The Kansas City, Mo.-based company, which owns 80 percent of Compuserve after spinning off part of the online service earlier this year, cited Compuserve's recent and projected losses and uncertainties facing the online industry.</p>
+<p>Last week Compuserve reported a loss for its fiscal first quarter and projected a loss for the second quarter. It said a drop in subscriber growth, investments in its Wow! service for novice users and other costs hurt its performance.</p>
+<p>Compuserve and rivals America Online Inc. and Prodigy have been hurt as computer users have gone directly to the Internet through lower-cost Internet access providers rather than logging on via proprietary online services.</p>
+<p>Some industry analysts have speculated that the online services may not survive in the long run, though the eventual shape of the online industry remains far from certain.</p>
+<p>Meanwhile, the race to sign up new subscribers has proven costly and time-consuming for the online services, which include the Microsoft Network.</p>
+<p>The online providers are also facing costly upgrades as they seek to improve their content and upgrade technology.</p>
+<p>H&amp;R Block spun off 20 percent of Compuserve in April and had planned to distribute the rest to its shareholders.</p>
+<p>But it said in a statement that it has decided not to present the proposed spin-off of the rest of Compuserve to shareholders at its annual meeting scheduled for Sept. 11.</p>
+<p>&quot;The board continues to believe that a separation of Compuserve is in the best interests of H&amp;R Block shareholders and will continue to consider the matter,&quot; H&amp;R Block interim president Frank Salizzoni said.</p>
+<p>In addition to the losses, it cited planned introduction in September of new interfaces for Compuserve and Wow!</p>
+<p>Last month a group of investors filed a class-action lawsuit against Compuserve, alleging that the company and H&amp;R Block violated federal securities laws by failing to disclose that Compuserve's subscriber base growth and profitability were in jeopardy.</p>
+<p>Compuserve shares jumped after the announcement, adding $1.1875 to $13.50 on Nasdaq. But they remained well below the $30 a share price of the stock offering in April.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

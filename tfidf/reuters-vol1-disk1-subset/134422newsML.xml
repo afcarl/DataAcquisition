@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134422" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Freeport Copper Q3 shr $0.24 vs $0.30.</title>
+<headline>Freeport Copper Q3 shr $0.24 vs $0.30.</headline>
+<dateline>NEW ORLEANS, La. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary	   $   0.24		 $   0.30</p>
+<p> Net			 46,124		   60,553</p>
+<p> Revs		     474,664		  469,812</p>
+<p> Avg shrs primary     195,611		  204,058</p>
+<p>	   9 MONTHS</p>
+<p> Shr primary	    $  0.50		 $   0.71</p>
+<p> Net			 97,621		  145,151</p>
+<p> Revs		   1,287,404		1,300,087</p>
+<p> Avg shrs primary     197,050		  205,056</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS, La."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132755" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Oak Industries Inc Q3 profit vs loss.</title>
+<headline>Oak Industries Inc Q3 profit vs loss.</headline>
+<dateline>WALTHAM, Mass. 1996-10-22</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>			  For the three months  For the nine months</p>
+<p>			     ended September 30  ended September 30</p>
+<p>				1996	1995	1996	  1995</p>
+<p> NET SALES	     $74,086    $59,886  $233,413    $186,338</p>
+<p>Reversal of purchase accounting</p>
+<p>  inventory write-up     ---	(500)	 ---	 (500)</p>
+<p>Purchased in-process research and</p>
+<p>  development		---   (80,872)	 ---    (80,872)</p>
+<p>OPERATING INCOME (LOSS)</p>
+<p>			    14,980   (69,439)    46,323    (41,205)</p>
+<p>Equity in net income (loss)</p>
+<p>of affiliated companies</p>
+<p>			     (159)	  236   (1,065)	 1,171</p>
+<p>Gain on sales of equity investments</p>
+<p>				 952	  ---    21,502	   ---</p>
+<p>Nonrecurring tax benefit</p>
+<p>				 ---	  195	 ---	   195</p>
+<p>Taxes on gain on sales of</p>
+<p>  equity investments   (362)	  ---   (8,171)	   ---</p>
+<p>Minority interest in net income</p>
+<p>  of subsidiaries    (1,786)    (2,400)   (6,611)     (7,738)</p>
+<p>INCOME (LOSS) FROM CONTINUING</p>
+<p> OPERATIONS		7,912   (76,773)    32,871    (57,031)</p>
+<p>Income from discontinued operations,</p>
+<p>  net of income taxes    358	  538     1,442	 2,334</p>
+<p>Extraordinary charge for early</p>
+<p>extinguishment of debt net of income tax</p>
+<p>benefit and minority interest</p>
+<p>				 ---    (1,610)	 ---     (1,610)</p>
+<p> NET INCOME (LOSS)     8,270   (77,845)    34,313    (56,307)</p>
+<p>NET INCOME (LOSS) PER COMMON SHARE:</p>
+<p>  Continuing operations  .42     (4.11)	1.76	(3.06)</p>
+<p>Discontinued operations</p>
+<p>				 .02	  .03	 .08	   .12</p>
+<p>  Extraordinary charge   ---	(.09)	 ---	 (.09)</p>
+<p>  Net income (loss)	.44     (4.17)	1.84	(3.03)</p>
+<p>WEIGHTED AVERAGE COMMON</p>
+<p>  SHARES OUTSTANDING  18,827     18,679    18,612	18,613</p>
+<p>NOTE: Q3 net excluding nonrecurring items is profit $7.7 million, or $0.31/shr vs profit $5.7 million, or $0.41/shr.</p>
+<p>Nine months net excluding nonrecurring items is $22.2 million vs $19.9 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

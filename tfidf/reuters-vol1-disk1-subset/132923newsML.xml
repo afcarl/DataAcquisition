@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132923" id="root" date="1996-10-22" xml:lang="en">
+<title>UK: UK Labour's poll drop deceiving - newspaper says.</title>
+<headline>UK Labour's poll drop deceiving - newspaper says.</headline>
+<dateline>LONDON 1996-10-22</dateline>
+<text>
+<p>Despite the latest opinion poll showing a sharp drop in the Labour Party's lead over the ruling Conservatives, The Times newspaper said on Wednesday leaders of the opposition party do not need to panic.</p>
+<p>An NOP poll in The Sunday Times said Labour's lead slipped from 23 to 14 points over a fortnight.</p>
+<p>&quot;There is no evidence yet of a significant change in public attitudes towards the parties. The Tories still have a mountain to climb,&quot; The Times said.</p>
+<p>It attributed the shift to a comparison between a poll taken after Labour's successful party conference and one taken after the Conservatives' annual meeting.</p>
+<p>&quot;The key feature of the recent polls is that, despite month-to-month variations and a slow Tory recovery, Labour retains an unprecedentedly large lead for so late in a parliament,&quot; the newspaper added.</p>
+<p>A general election is due by May 1997 at the latest.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

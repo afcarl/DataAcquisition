@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32685" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Campbell Soup Co Q4 shr rises.</title>
+<headline>Campbell Soup Co Q4 shr rises.</headline>
+<dateline>CAMDEN, N.J. 1996-09-04</dateline>
+<text>
+<p>THREE MONTHS ENDED</p>
+<p>						    Jul 28,	 Jul 30,</p>
+<p>							 1996	 1995(A)</p>
+<p> Net sales				     $  1,640	$  1,626</p>
+<p>Costs and expenses:</p>
+<p>     Cost of products sold			912	     954</p>
+<p>Selling, general and</p>
+<p>	 administrative expenses		  434	     433</p>
+<p>							1,346	   1,387</p>
+<p> Earnings before interest and taxes	   294	     239</p>
+<p>	Interest, net				  25		33</p>
+<p> Earnings before taxes			    269	     206</p>
+<p> Taxes on earnings				   89		63</p>
+<p> Net earnings					 180	     143</p>
+<p>Per share:</p>
+<p>     Net earnings				   .73	     .57</p>
+<p>     Dividends				     .345	     .31</p>
+<p> Average shares outstanding (weighted)	248	     250</p>
+<p>							TWELVE MONTHS ENDED</p>
+<p>		    July 28,	July 30,</p>
+<p>			1996	    1995(A)</p>
+<p> Net	  sales			     $  7,678     $  7,250</p>
+<p>Costs  and  expenses</p>
+<p>     Cost	of    products  sold	 4,363	   4,255</p>
+<p>Selling,  general  and</p>
+<p>	 administrative</p>
+<p>			   expenses		  1,998	  1,848</p>
+<p>							 6,361	  6,103</p>
+<p> Earnings  before    interest  and  taxes 1,317	   1,147</p>
+<p>Interest,</p>
+<p>		  net				    120	    105</p>
+<p> Earnings  before	 taxes		  1,197	  1,042</p>
+<p> Taxes	   on    earnings		    395	    344</p>
+<p>Net earnings</p>
+<p>							   802	    698</p>
+<p>Per  share</p>
+<p>Net earnings</p>
+<p>							  3.22	   2.80</p>
+<p>Dividends</p>
+<p>							  1.35	   1.21</p>
+<p> Average   shares  outstanding	  (weighted)     249  249</p>
+<p>(A) Reclassified to conform with this year's presentation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMDEN, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

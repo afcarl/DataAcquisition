@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32514" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: Indian parliament adjourns until Friday.</title>
+<headline>Indian parliament adjourns until Friday.</headline>
+<dateline>NEW DELHI 1996-09-04</dateline>
+<text>
+<p>India's parliament has adjourned until Friday following a row over political developments in the western state of Gujarat, officials said on Wednesday.</p>
+<p>The adjournment forced Finance Minister P. Chidambaram to postpone a planned statement on his 1996/97 (April-March) budget proposals, which had been expected on Wednesday.</p>
+<p>The Hindu nationalist Bharatiya Janata Party (BJP), the main opposition party in parliament, stalled morning proceedings in both houses because of what it said were attempts to dislodge the BJP-led local government in Gujarat.</p>
+<p>Parliament will be closed on Thursday because of the Hindu festival of Janmashthami, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

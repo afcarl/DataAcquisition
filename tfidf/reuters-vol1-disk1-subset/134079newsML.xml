@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134079" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: Chirac's popularity pulled down by premier - poll.</title>
+<headline>Chirac's popularity pulled down by premier - poll.</headline>
+<dateline>PARIS 1996-10-22</dateline>
+<text>
+<p>Support for both French President Jacques Chirac and Prime Minister Alain Juppe has dropped to near-record lows, showing the premier has dragged the head of state down for the first time, a poll said on Tuesday.</p>
+<p>The CSA survey for the weekly La Vie, to be published on Wednesday, said only 38 percent of voters trusted Chirac to tackle the country's problems, against 44 percent last month.</p>
+<p>The poll of 1,011 voters showed Juppe's standing slipping to 31 percent from 33.</p>
+<p>The score was Chirac's worst since last December, when his popularity plummeted in crippling public sector strikes over a welfare reform plan.</p>
+<p>&quot;The confidence rating of the president, which had managed with difficulty to stay between 40-45 percent, is being pulled down by the prime minister's fall,&quot; the weekly said.</p>
+<p>&quot;People had become used to saying that Chirac could continue having his unpopular prime minister take the weight of strict measures,&quot; it said.</p>
+<p>Juppe has come under fire for budget austerity and high unemployment. Civil service unions staged a one-day strike last Thursday against feared job cuts, record unemployment of 12.6 percent and austerity policies aimed at enabling France to qualify for a single European currency from 1999.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

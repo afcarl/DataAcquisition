@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15573" id="root" date="1996-08-27" xml:lang="en">
+<title>SOUTH AFRICA: McDonald's wins S.African trademark case.</title>
+<headline>McDonald's wins S.African trademark case.</headline>
+<dateline>JOHANNESBURG, South Africa</dateline>
+<text>
+<p>A South African court has ruled that only U.S. hamburger chain McDonald's can sell Big Macs, McNuggets, Fillet-o-Fish and its other trademarked fast foods, the company said Tuesday.</p>
+<p>McDonald's Corp. and McDonald's South Africa said the appeals court confirmed them as rightful owners of all McDonald's trademarks currently registered in South Africa.</p>
+<p>Since last year, the group has been involved in a lengthy battle to prevent local rivals, businessmen George Sombonos and George Charalambous, from using its name.</p>
+<p>McDonald's, which stayed away from South Africa during apartheid, opened its first fast-food outlet in the country last year and now has seven, most owned by local entrepreneurs.</p>
+<p>A court had earlier ruled in favour of the two Georges, who rejected the U.S. corporation's claim that U.S. sanctions had kept it out of apartheid South Africa.</p>
+<p>The businessmen argued that McDonald's had let its right to the trademarks under South African law lapse by registering them but failing to use them over the ensuing five years.</p>
+<p>McDonald's is the largest global food retailer, with over 19,200 outlets in 94 countries. Nearly three-quarters are franchised.</p>
+<p>South Africans love fast-food and the hamburger chain faces stiff entrenched competition from local rivals with names such as Bimbo's and Chicken Licken.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG, South Africa"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

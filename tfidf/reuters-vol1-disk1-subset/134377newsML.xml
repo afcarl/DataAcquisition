@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134377" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Genrad to redeem $50 mln of convertible debt.</title>
+<headline>Genrad to redeem $50 mln of convertible debt.</headline>
+<dateline>CONCORD, Mass. 1996-10-22</dateline>
+<text>
+<p>GenRad Inc said on Tuesday it was redeeming all $50 million of its 7-1/4 percent convertible subordinated debentures due in 2011 at par plus accrued interest to the redemption date.</p>
+<p>Redemption is set for November 6. The company has received a financing commitment from BankBoston, GenRad said.</p>
+<p>Debenture holders may choose to convert their debentures into Genrad common stock at a rate of one share for each $14.375 in principal, it said.  </p>
+<p>Genrad shares were halted on the New York Stock Exchange. The stock closed at 18-1/8 on Monday.</p>
+<p>Debentures submitted for conversion must be received by State Street Bank and Trust Co no later than the close of business on October 30, Genrad said.</p>
+<p>At the end of its third quarter Genrad had about 24.2 million fully diluted shares outstanding.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CONCORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

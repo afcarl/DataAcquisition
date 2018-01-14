@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132441" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Idaho Power Q3 shr $0.36 vs $0.58.</title>
+<headline>Idaho Power Q3 shr $0.36 vs $0.58.</headline>
+<dateline>BOISE, Idaho 1996-10-22</dateline>
+<text>
+<p>Idaho Power Company</p>
+<p>			    Consolidated Earnings Statement</p>
+<p>		   For Period Ended September 30, 1996</p>
+<p>			     Summary Financial Information</p>
+<p>				   (Thousands of Dollars)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>					    9/30/96	  9/30/95</p>
+<p> Total Revenues	    $149,652 $148,726 $571,970  $545,592</p>
+<p>Operating Expenses:</p>
+<p>  Purchased Power	    29,454   24,027   67,266    47,919</p>
+<p>  Fuel			   21,887   16,527   52,871    63,772</p>
+<p>Power Cost Adjustment (1)</p>
+<p>				 (11,244)	961	389     8,138</p>
+<p>Other Operating Expenses</p>
+<p>				   67,775   61,574  259,311   250,232</p>
+<p> Income from Operations    41,780   45,637  192,133   175,531</p>
+<p>Other Income and</p>
+<p>  Deductions-Net		3,576    4,724   14,336    12,252</p>
+<p> Interest Charges-Net	14,608   14,148   56,564    54,587</p>
+<p>Income Before Income Taxes</p>
+<p>				   30,748   36,213  149,905   133,196</p>
+<p> Income Taxes		  11,597   12,442   52,678    47,758</p>
+<p> Net Income		    19,151   23,771   97,227    85,438</p>
+<p> Earnings on Common Stock  17,197   21,795   89,413    77,501</p>
+<p>Average Common Shares</p>
+<p>  Outstanding		  37,612   37,612   37,612    37,612</p>
+<p> Earnings per Share	    0.46     0.58     2.38	2.06</p>
+<p>Dividends Paid per Common</p>
+<p>  Share			   0.465    0.465     1.86	1.86</p>
+<p>Book Value per Common Share</p>
+<p>							    18.06     17.54</p>
+<p>Return on Year-End Equity</p>
+<p>							   13.17%    11.75%</p>
+<p> Pre-Tax Interest Coverage			  3.63X     3.37X</p>
+<p>Condensed Consolidated Statements of Cash Flows (000 omitted)</p>
+<p>Net Cash Provided by Operating Activities</p>
+<p>							  179,311   153,702</p>
+<p>Net Cash-Financing Activities</p>
+<p>							 (81,003)  (59,920)</p>
+<p>Net Cash-Investing Activities</p>
+<p>							 (99,022)  (91,526)</p>
+<p>Change in Cash and Cash Equivalents</p>
+<p>							    (714)     2,256</p>
+<p>Cash and Cash Equivalents Beginning of Year</p>
+<p>							    7,645     5,389</p>
+<p>Cash and Cash Equivalents End of Year</p>
+<p>							    6,931     7,645</p>
+<p>(1) Changes in PCA reflect changes in power supply costs which decrease expense when power supply costs are higher than normal (poor hydro condition) and increase expense when power supply costs are less than normal (good hydro conditions).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOISE, Idaho"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

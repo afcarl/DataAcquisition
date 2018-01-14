@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32704" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S., Japan to resume insurance talks in Sept.</title>
+<headline>U.S., Japan to resume insurance talks in Sept.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>The United States and Japan have agreed to resume talks in September to try to resolve a dispute over insurance deregulation in Japan, but no date has been set, a U.S. trade official said Wednesday.</p>
+<p>The official spoke to reporters following a meeting between U.S. Trade Representative senior negotiator Ira Shapiro and Eisuke Sakakibara, director-general of the Japanese Finance Ministry's International Finance Bureau.  </p>
+<p>The U.S. official said the two sides were still exploring when and where further insurance talks would be held and whether or not they would include senior negotiators.</p>
+<p>Efforts to resolve the dispute by July 31 failed after a round of marathon negotiations in Vancouver, British Columbia, ended with no agreement.</p>
+<p>&quot;This is a very difficult negotiation,&quot; the U.S. official said. &quot;The changes we are seeking are significant changes.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

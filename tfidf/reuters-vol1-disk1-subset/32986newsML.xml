@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32986" id="root" date="1996-09-04" xml:lang="en">
+<title>TUNISIA: Tunisia buys 33,000 tonnes soyoil.</title>
+<headline>Tunisia buys 33,000 tonnes soyoil.</headline>
+<dateline>TUNIS 1996-09-04</dateline>
+<text>
+<p>Tunisia bought 33,000 tonnes of soya oil at prices between $577 and $580 per tonne C&amp;F at a tender on Wednesday, traders said.</p>
+<p>Delivery is for October 5-20 and November 5-20, they said.</p>
+<p>The tender was launched for up to 12,000 tonnes of soy and/or rapeseed oils by the state buying body Office National de l'Huile (ONH).</p>
+<p>Tunis newsroom, 2161-787538</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

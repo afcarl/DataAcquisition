@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32915" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Manufactured to make hostile bid for Chateau-- WSJ.</title>
+<headline>Manufactured to make hostile bid for Chateau-- WSJ.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Manufactured Home Communities Inc chairman Sam Zell is launching a hostile tender offer for Chateau Properties Inc, The Wall Street Journal reported on Wednesday.</p>
+<p>The bid will come on Wednesday after Chateau was unresponsive to an earlier unsolicited bid by Zell to merge the two real estate investment trusts, the paper said.</p>
+<p>The bid will be at $26 a share, or about $400 million, like the previous offer.</p>
+<p>It is the first hostile tender offer for a real estate investment trust in years, evidence of how important it has become to the Chicago-based financier to join the two companies, which own properties used for mobile-home communities.</p>
+<p>Manufactured Homes, now the biggest player in the lucrative property sector, could lose that distinction if Chateau combines with another suitor, the newspaper said.</p>
+<p>The offer, however, could lead to a legal battle between Manufactured Home and Chateau, whose management has already cited provisions in its articles of incorporation that it says require board approval for one entity to own more than seven percent of its stock.</p>
+<p>Such ownership limitations, which are typical of real estate investment trusts, are seen in the industry as an obstacle to hostile takeovers, albeit one that has never been tested in court.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132678" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: MCI Communications Corp Q3 earnings summary.</title>
+<headline>MCI Communications Corp Q3 earnings summary.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr profit		  $0.44     loss	 $0.35</p>
+<p> Net profit		304,000     loss     240,000</p>
+<p> Revs		    4,685,000		3,862,000</p>
+<p> Avg shrs		  691,000		  688,000</p>
+<p>			9  MONTHS</p>
+<p> Shr profit		  $1.29   profit	 $0.38</p>
+<p> Net profit		899,000   profit     264,000</p>
+<p> Revs		   13,741,000	     11,128,000</p>
+<p> Avg shrs		  695,000		  686,000</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: First Call estimate $0.43/shr.</p>
+<p>Q3 and nine months 1995 net includes $520 million asset write down and other special charges.</p>
+<p>1995 oper shr excluding writedown and other special charges is profit $0.40 for Q3 and $1.14 for nine months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32633" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Liz Claiborne acquires Dooney &amp; Bourke.</title>
+<headline>Liz Claiborne acquires Dooney &amp; Bourke.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Liz Claiborne Inc said on Wednesday it has agreed to acquire Dooney &amp; Bourke Cos, a manufacturer and marketer of handbags and leather goods, for an undisclosed amount of cash.</p>
+<p>Liz Claiborne said that the acquisition is expected to be accretive to earnings in the first full year following the acquisition.</p>
+<p>The acquisition will complement Liz Claiborne's accessories operation and allow it to offer a broader range of styles and price points, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
